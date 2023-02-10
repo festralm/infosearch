@@ -2,6 +2,7 @@ import logging
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
+import urllib.request
 
 logging.basicConfig(
     format='%(asctime)s %(levelname)s:%(message)s',
@@ -36,17 +37,26 @@ class Crawler:
                 self.add_url_to_visit(url)
 
     def run(self):
+        files_path = 'pages/'
+        page_num = 1
         while self.urls_to_visit:
             url = self.urls_to_visit.pop(0)
             logging.info(f'Crawling: {url}')
+            opener = urllib.request.FancyURLopener({})
+            f = opener.open(url)
+            content = f.read()
+            with open(files_path + str(page_num) + ".txt", "wb") as binary_file:
+                # Write bytes to file
+                binary_file.write(content)
             try:
                 self.crawl(url)
             except Exception:
                 logging.exception(f'Failed to crawl: {url}')
             finally:
+                page_num = page_num + 1
                 self.visited_urls.append(url)
 
 
 if __name__ == '__main__':
-    Crawler(urls=[
-        'https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0']).run()
+    urls = ['https://crawler-test.com/']
+    Crawler(urls=urls).run()
