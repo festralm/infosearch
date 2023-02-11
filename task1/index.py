@@ -1,7 +1,11 @@
 class Indexer:
 
-    def __init__(self, output_file):
+    def __init__(self, output_file, overwrite=True):
         self.output = output_file
+        if overwrite:
+            f = open(self.output, "w")
+            f.write("")
+            f.close()
 
     def add(self, file, link, mode="a"):
         f = open(self.output, mode)

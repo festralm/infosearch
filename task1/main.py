@@ -3,6 +3,8 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 import urllib.request
+from index import Indexer
+import furl
 
 logging.basicConfig(
     format='%(asctime)s %(levelname)s:%(message)s',
@@ -36,27 +38,38 @@ class Crawler:
             if url is not None and not url.endswith('.css') and not url.endswith('.js'):
                 self.add_url_to_visit(url)
 
-    def run(self):
+    def run(self, n):
         files_path = 'pages/'
         page_num = 1
-        while self.urls_to_visit:
+        # create index.txt
+        indexer = Indexer("index.txt", overwrite=True)
+        while self.urls_to_visit and page_num <= n:
             url = self.urls_to_visit.pop(0)
+            # encode to utf8
+            url = furl.furl(url).tostr()
             logging.info(f'Crawling: {url}')
             opener = urllib.request.FancyURLopener({})
             f = opener.open(url)
-            content = f.read()
-            with open(files_path + str(page_num) + ".txt", "wb") as binary_file:
-                # Write bytes to file
-                binary_file.write(content)
+            global content
             try:
-                self.crawl(url)
+                content = f.read()
+                with open(files_path + str(page_num) + ".txt", "wb") as binary_file:
+                    # Write bytes to file
+                    binary_file.write(content)
+                    # add entry to index.txt
+                    indexer.add(files_path + str(page_num) + ".txt", url)
+                try:
+                    self.crawl(url)
+                except Exception:
+                    logging.exception(f'Failed to crawl: {url}')
+                finally:
+                    page_num = page_num + 1
+                    self.visited_urls.append(url)
             except Exception:
-                logging.exception(f'Failed to crawl: {url}')
-            finally:
-                page_num = page_num + 1
+                logging.exception(f'Failed to read: {url}')
                 self.visited_urls.append(url)
 
 
 if __name__ == '__main__':
     urls = ['https://crawler-test.com/']
-    Crawler(urls=urls).run()
+    Crawler(urls=urls).run(100)
