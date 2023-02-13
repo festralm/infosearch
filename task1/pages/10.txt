@@ -1,0 +1,855 @@
+<!DOCTYPE html><html class="i-ua_js_no i-ua_css_standard" dir="ltr" lang="ru"><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Яндекс.Справка</title><link rel="shortcut icon" href="//yastatic.net/s3/locdoc/static/support/_/favicon.ico"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/><meta property="og:type" content="article"/><meta property="og:title" content="Яндекс.Справка"/><meta property="og:url" content="https://yandex.ru/support/"/><meta name="title" content="Яндекс.Справка"/><meta name="description" content="Яндекс.Справка — это ответы на часто задаваемые вопросы и формы обращения в службу поддержки. Справка служит для решения проблем пользователей при работе с сервисами Яндекса."/><meta name="keywords" content="&quot;справка&quot;, &quot;вопросы и ответы&quot;, &quot;служба поддержки&quot;, &quot;обратная связь&quot;, &quot;частые вопросы&quot;, &quot;решение проблем&quot;"/><script nonce="NeCkeEAeHMb3LbXJHSulpQ==">;(function(d,e,c,r){e=d.documentElement;c="className";r="replace";e[c]=e[c][r]("i-ua_js_no","i-ua_js_yes");if(d.compatMode!="CSS1Compat")e[c]=e[c][r]("i-ua_css_standart","i-ua_css_quirks")})(document);;(function(d,e,c,n,w,v,f){e=d.documentElement;c="className";n="createElementNS";f="firstChild";w="http://www.w3.org/2000/svg";e[c]+=" i-ua_svg_"+(!!d[n]&&!!d[n](w,"svg").createSVGRect?"yes":"no");v=d.createElement("div");v.innerHTML="<svg/>";e[c]+=" i-ua_inlinesvg_"+((v[f]&&v[f].namespaceURI)==w?"yes":"no");})(document);;(function(w,e,s,c,x,l,p,d){c="className";x="deviceXDPI";l="logicalXDPI";p="devicePixelRatio";d=x in s&&l in s&&s[x]/s[l]||p in w&&w[p];d>1&&(e[c]+=" i-ua_retina_yes")})(window,document.documentElement,screen);</script><link rel="stylesheet" href="//yastatic.net/s3/locdoc/static/support/master-1667216625/desktop.bundles/index/_index.css"/><link rel="stylesheet" href="https://yastatic.net/s3/locdoc/static/libraries/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.min.css"/><link rel="stylesheet" href="https://yastatic.net/s3/locdoc/static/libraries/nprogress/0.2.0/nprogress.min.css"/><script src="https://yastatic.net/ravenjs/3.23.3/raven.min.js" nonce="NeCkeEAeHMb3LbXJHSulpQ=="></script></head><body class="b-page layout b-page__body i-ua i-global i-bem" data-bem='{"b-page":{"raven":{"config":{"autoBreadcrumbs":true,"environment":"production","captureUnhandledRejections":true,"release":"master-1667216625"},"user":{}},"serviceType":"support","isTouch":false},"i-ua":{},"i-global":{"lang":"ru","tld":"ru","content-region":"ru","click-host":"//clck.yandex.ru","passport-host":"https://passport.yandex.ru","pass-host":"https://pass.yandex.ru","social-host":"https://social.yandex.ru","export-host":"https://export.yandex.ru","lego-static-host":"https://yastatic.net/lego/2.10-142"}}'><div class="notify i-bem" data-bem='{"notify":{}}'></div><i class="metrika i-bem" data-bem='{"metrika":{"counters":[2105623,70746865]}}'><script nonce="NeCkeEAeHMb3LbXJHSulpQ==">(function(m,e,t,r,i,k,a) {m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");ym(2105623, "init", {"accurateTrackBounce":true,"clickmap":true,"trackHash":true,"trackLinks":true,"webvisor":true});ym(70746865, "init", {"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"webvisor":false});</script><noscript><div><img class="metrika__img" src="https://mc.yandex.ru/watch/2105623" style="position:absolute; left:-9999px;" alt=""/><img class="metrika__img" src="https://mc.yandex.ru/watch/70746865" style="position:absolute; left:-9999px;" alt=""/></div></noscript></i><iframe class="ux-feedback i-bem" frameBorder="0" id="uxfb_iframe" src="https://samsara.s3.yandex.net/static/doc-ux-feedback.html" sandbox="allow-scripts allow-same-origin allow-forms allow-popups" style="display: none;" data-bem='{"ux-feedback":{}}'></iframe><div class="layout__head"><div class="b-header layout__head-inner i-bem" data-bem='{"b-header":{}}'><div class="mobile-search b-header__mobile-search"><div class="mobile-search__wrapper"><form class="search2 mobile-search__search-form suggest2-form i-bem" role="search" action="/support/search-results/" data-bem='{"suggest2-form":{"popupName":"popup2"}}'><div class="suggest2-form__node mobile-search__input"><span class="input input_size_m input_theme_normal suggest2-form__input i-bem" data-bem='{"input":{"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq16763013345221857598" name="query" aria-labelledby="labeluniq16763013345221857598 hintuniq16763013345221857598" value=""/></span></span><div class="popup2 popup2_target_anchor popup2_theme_clear popup2_autoclosable_yes mobile-search__popup suggest2 suggest2_theme_normal suggest2_size_m suggest2_adaptive_yes suggest2_type_support suggest2-detect i-bem" data-bem='{"popup2":{"directions":["bottom-left"]},"suggest2":{"url":"/support/api/suggest/","dataType":"json","abortQueries":true,"submitBySelect":true,"sequentialQueriesTimeout":200},"suggest2-detect":{}}'><div class="popup2__content"></div></div></div></form><button class="button2 button2_view_classic mobile-search__button i-bem" type="button" autocomplete="off" tabindex="0" data-bem='{"button2":{}}'><span class="button2__text">Отменить</span></button></div></div><div class="header2 header2_border_transparent b-header__wrapper" role="banner"><div class="header2__main"><div class="header2__logo"><div class="b-header__logo b-header__logo_legal_no"><a class="b-header__logo-item" href="https://ya.ru" tabindex="-1"><image src="https://yastatic.net/q/logoaas/v2/Яндекс.svg" alt="Яндекс"></image></a><a class="b-header__logo-item" href="/support" tabindex="-1"><image src="https://yastatic.net/q/logoaas/v2/Справка.svg" alt="Справка"></image></a></div></div><div class="header2__left"><span class="b-header__title"></span><form class="search2 b-header__search suggest2-form i-bem" role="search" action="/support/search-results/" data-bem='{"suggest2-form":{"popupName":"popup2"}}'><input class="search2__hidden" type="hidden" name="service"/><div class="suggest2-form__node"><span class="input input_size_m input_theme_normal suggest2-form__input i-bem" data-bem='{"input":{"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq16763013345221857599" name="query" aria-labelledby="labeluniq16763013345221857599 hintuniq16763013345221857599" value=""/></span></span><button class="button2 button2_size_m button2_theme_normal button2_pin_clear-round button2_type_submit button2_view_classic suggest2-form__button i-bem" type="submit" autocomplete="off" tabindex="-1" data-bem='{"button2":{}}'><span class="button2__text">Найти</span></button><div class="popup2 popup2_target_anchor popup2_theme_clear popup2_autoclosable_yes suggest2 suggest2_theme_normal suggest2_size_m suggest2_adaptive_yes suggest2_type_support suggest2-detect i-bem" data-bem='{"popup2":{"directions":["bottom-left"]},"suggest2":{"url":"/support/api/suggest/","dataType":"json","abortQueries":true,"submitBySelect":true,"sequentialQueriesTimeout":200},"suggest2-detect":{}}'><div class="popup2__content"></div></div></div></form></div><div class="header2__right"><button class="button2 button2_size_m button2_theme_clear button2_type_check button2_view_classic b-header__mini-search i-bem" type="button" autocomplete="off" tabindex="0" aria-pressed="false" data-bem='{"button2":{}}'><span class="icon b-header__mini-search-icon"></span></button><div class="user2 b-header__user i-bem" data-bem='{"user2":{"_retpath":"//yandex.ru/support/","_yu":"","accountsUrl":"https://pass.yandex.ru/accounts","_passportHost":"https://passport.yandex.ru"}}'><a class="button2 button2_size_m button2_theme_pseudo button2_type_link button2_view_classic user2__enter i-bem" title="Войти" tabindex="-1" href="https://passport.yandex.ru/auth?retpath=%2F%2Fyandex.ru%2Fsupport%2F" data-bem='{"button2":{}}'><span class="icon icon_size_m button2__icon button2__icon_side_left user2__enter-icon"></span><span class="button2__text">Войти</span></a></div></div></div><div class="header2__white-stripe"></div></div></div></div><div class="content layout__content layout__content layout__content_type_one-col i-bem" data-bem='{"content":{}}'><div class="content__wrapper"><div class="content__search-section"><h1 class="content__section-header content__search-section-header">Чем вам помочь?</h1><form class="search2 section-header__search suggest2-form i-bem" role="search" action="/support/search-results/" data-bem='{"suggest2-form":{"popupName":"popup2"}}'><div class="suggest2-form__node"><span class="input input_size_m input_theme_normal suggest2-form__input i-bem" data-bem='{"input":{"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq16763013345221857597" name="query" placeholder="Поиск в Справке" aria-labelledby="labeluniq16763013345221857597 hintuniq16763013345221857597" value=""/></span></span><button class="button2 button2_size_m button2_theme_normal button2_pin_clear-round button2_type_submit button2_view_classic suggest2-form__button i-bem" type="submit" autocomplete="off" tabindex="-1" data-bem='{"button2":{}}'><span class="button2__text">Найти</span></button><div class="popup2 popup2_target_anchor popup2_theme_clear popup2_autoclosable_yes suggest2 suggest2_theme_normal suggest2_size_m suggest2_adaptive_yes suggest2_type_support suggest2-detect i-bem" data-bem='{"popup2":{"directions":["bottom-left"]},"suggest2":{"url":"/support/api/suggest/","dataType":"json","abortQueries":true,"submitBySelect":true,"sequentialQueriesTimeout":200},"suggest2-detect":{}}'><div class="popup2__content"></div></div></div></form></div><div class="groups"><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="common" data-bem='{"link":{}}'>Ваш Яндекс</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="id/" data-bem='{"link":{}}'>Яндекс ID</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="id/troubleshooting/" data-bem='{"link":{}}'>Если забыли пароль</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="//yandex.ru/legal" data-bem='{"link":{}}'>Правовые документы</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="search" data-bem='{"link":{}}'>Поиск</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="search/search-results/settings.html" data-bem='{"link":{}}'>Настройка поиска</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="search/query-language/qlanguage.html" data-bem='{"link":{}}'>Язык запросов</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="search/search-suggestions/suggestions.html" data-bem='{"link":{}}'>Поисковые подсказки</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="maps" data-bem='{"link":{}}'>Карты</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="maps/concept/object-search.html" data-bem='{"link":{}}'>Поиск на карте</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="maps/concept/rout.html" data-bem='{"link":{}}'>Маршруты</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="maps/concept/stoppers.html" data-bem='{"link":{}}'>Пробки</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/135516/5bce8eafd92051b48d4f9b84abcf0b34608f84e5/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="browser" data-bem='{"link":{}}'>Браузер</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="browser/security/protection.html" data-bem='{"link":{}}'>Безопасность</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="browser/personal-data-protection/personal-data-protection.html" data-bem='{"link":{}}'>Приватность</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="browser/troubleshooting/troubleshooting.html" data-bem='{"link":{}}'>Решение проблем</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/ERuVE3RAnz0A7BgIzyypFYnR18A.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="webmaster" data-bem='{"link":{}}'>Вебмастер</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="webmaster/recommendations/intro.html" data-bem='{"link":{}}'>Рекомендации по созданию сайтов</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="webmaster/schema-org/what-is-schema-org.html" data-bem='{"link":{}}'>Семантическая разметка</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="webmaster/security/cure.html" data-bem='{"link":{}}'>Удаление вредоносного кода</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/VcuEtKYbJcLRGgErfdOadIhiAo0.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="metrika" data-bem='{"link":{}}'>Метрика</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="metrika/reports/add-goals.html" data-bem='{"link":{}}'>Создание целей</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="metrika/reports/monitoring.html" data-bem='{"link":{}}'>Мониторинг сайтов</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="metrika/webvisor/about-webvisor.html" data-bem='{"link":{}}'>Анализ поведения посетителей</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/zHzUfhI-HXPsVQr9Hq80Phr3-Zg.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="mail" data-bem='{"link":{}}'>Почта</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="mail/reg.html" data-bem='{"link":{}}'>Создание ящика</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="mail/web/letter/create.html" data-bem='{"link":{}}'>Отправка писем</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="mail/web/security.html" data-bem='{"link":{}}'>Безопасность</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/K2rUVsGJGNhdV_YBwlvr2OYasrI.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="disk" data-bem='{"link":{}}'>Диск</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="disk/enlarge.html" data-bem='{"link":{}}'>Увеличение объема</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="disk/share/shared-folders.html" data-bem='{"link":{}}'>Настройка доступа</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="disk/uploading.html" data-bem='{"link":{}}'>Загрузка файлов</a></div></div></div><div class="groups__item"><div class="groups__item-left"><div class="s-service-icon" style="
+                    background-image: url(//yastatic.net/market-export/_/i/favicon/ymnew/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 50px;
+                    height: 50px;
+                "></div></div><div class="groups__item-right"><a class="link link_theme_normal groups__item-link groups__item-link_title_yes i-bem" tabindex="0" href="market" data-bem='{"link":{}}'>Маркет</a><div class="groups__links"><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="market/secure-buy.html" data-bem='{"link":{}}'>Покупки на Маркете</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="market/opinions/opinion.html" data-bem='{"link":{}}'>Отзывы о товарах и магазинах</a><a class="link link_theme_normal groups__item-link i-bem" tabindex="0" href="marketplace/" data-bem='{"link":{}}'>Маркет для продавцов</a></div></div></div></div><div class="services"><h2 class="services__header">Справка по сервисам</h2><div class="services__columns"><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/business" data-bem='{"link":{}}'>360 для бизнеса</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://s3.mds.yandex.net/doc-binary/src/support/adfox-sites/favicon/adfox.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/adfox-sites" data-bem='{"link":{}}'>Adfox</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/yrnXc0TafkMtLn2W7JSKUwrDYx8.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/autoru" data-bem='{"link":{}}'>Auto.ru</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/yrnXc0TafkMtLn2W7JSKUwrDYx8.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/autoru-app" data-bem='{"link":{}}'>Auto.ru для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/yrnXc0TafkMtLn2W7JSKUwrDYx8.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/autoru-legal" data-bem='{"link":{}}'>Auto.ru для партнеров</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/doc-binary/src/support/cm-expert/ru/images/cme.jpeg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/cm-expert" data-bem='{"link":{}}'>CM.Expert</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/q/connect/portal-header-icons/forms.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/connect-forms" data-bem='{"link":{}}'>Forms</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/yandex-id-static/yandex-id/_/_next/static/media/favicon.8e4a8986.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/id" data-bem='{"link":{}}'>ID</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/distribution/soft/punto/v14/_/Z-hmLTXgVRNpnXj-j0cwK2G-rGk.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/punto-mac" data-bem='{"link":{}}'>Punto Switcher для Mac OS</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/distribution/soft/punto/v14/_/Z-hmLTXgVRNpnXj-j0cwK2G-rGk.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/punto-win" data-bem='{"link":{}}'>Punto Switcher для Windows</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/avia-frontend/_/FEk02tYBHvdlOo3h_2400m9Kwo8.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/avia-app" data-bem='{"link":{}}'>Авиабилеты для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/maps-promo/auto/favicon);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/auto" data-bem='{"link":{}}'>Авто</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://h.yandex-team.ru/?https%3A%2F%2Fyastatic.net%2Fs3%2Fmaps-promo%2Fauto%2Ffavicon);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/auto-projected" data-bem='{"link":{}}'>Авто. Проецируемое решение</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/N8NszI7v8qnhhkUDpOQYtmkbKeE.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/delivery-3" data-bem='{"link":{}}'>Агрегатор Яндекс Доставки</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/1eabbef8-f3b2-4535-97a5-24bd4156925e.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/alice" data-bem='{"link":{}}'>Алиса</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://jing.yandex-team.ru/files/daria-lu/main-icon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/praktikum-english" data-bem='{"link":{}}'>Английский от Яндекс Практикума</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/doc-binary/src/support/arenda/ru/images/arenda.jpeg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/arenda" data-bem='{"link":{}}'>Аренда</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/audience/1.107.5/blocks/common/audience-anonymous-notification/project-icon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/audience" data-bem='{"link":{}}'>Аудитории</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//afisha.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/afisha" data-bem='{"link":{}}'>Афиша</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://priority.s3.yandex.net/0.0.3249-boost/public/favicon.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/business-priority" data-bem='{"link":{}}'>Бизнес</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://avatars.mds.yandex.net/get-lpc/1674605/5f5e0dd3-d2a7-447a-bd5a-6da04f26346c/orig);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/tickets" data-bem='{"link":{}}'>Билеты</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/135516/5bce8eafd92051b48d4f9b84abcf0b34608f84e5/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/browser" data-bem='{"link":{}}'>Браузер</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/135516/5bce8eafd92051b48d4f9b84abcf0b34608f84e5/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/browser-mobile" data-bem='{"link":{}}'>Браузер для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/135516/5bce8eafd92051b48d4f9b84abcf0b34608f84e5/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/browser-corporate" data-bem='{"link":{}}'>Браузер для организаций</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://jing.yandex-team.ru/files/batulinamm/bookmate.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/bookmate" data-bem='{"link":{}}'>Букмейт</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://jing.yandex-team.ru/files/batulinamm/bookmate.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/bookmate-app" data-bem='{"link":{}}'>Букмейт для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/ERuVE3RAnz0A7BgIzyypFYnR18A.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/webmaster" data-bem='{"link":{}}'>Вебмастер</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://jing.yandex-team.ru/files/pewit/2c019382-c65c-431e-8c8d-73ff02e20a15.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/surveys" data-bem='{"link":{}}'>Взгляд</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/video-player" data-bem='{"link":{}}'>Видеоплеер</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-switch/28676/192_cc6017559eed3f2d956b6a29c049ee5e.svg/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/yandex-widget" data-bem='{"link":{}}'>Виджет для Android</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/time/1.38/i/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/time" data-bem='{"link":{}}'>Время</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/direct-dna/releases/favicon-2021.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/direct" data-bem='{"link":{}}'>Директ</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/Elh4Zia0taGlnsEe-5f4mIu85oQ.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/direct-commander-new" data-bem='{"link":{}}'>Директ Коммандер</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/K2rUVsGJGNhdV_YBwlvr2OYasrI.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/disk" data-bem='{"link":{}}'>Диск</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/K2rUVsGJGNhdV_YBwlvr2OYasrI.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/business/disk.html" data-bem='{"link":{}}'>Диск для бизнеса</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/K2rUVsGJGNhdV_YBwlvr2OYasrI.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/disk-desktop" data-bem='{"link":{}}'>Диск для компьютера</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/K2rUVsGJGNhdV_YBwlvr2OYasrI.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/m-disk" data-bem='{"link":{}}'>Диск для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/314f1bba-fd82-4553-b563-b36242ef4dc0.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/distr" data-bem='{"link":{}}'>Дистрибуция</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//docs.yandex.ru/favicon-docs.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/docs-desktop" data-bem='{"link":{}}'>Документы</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//docs.yandex.ru/favicon-docs.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/docs-mobile" data-bem='{"link":{}}'>Документы для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://jing.yandex-team.ru/files/pewit/32×32.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/delivery-profile" data-bem='{"link":{}}'>Доставка</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(http://download.cdn.yandex.net/from/yandex.ru/support/ru/drive/files/logo-drive-small.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/drive" data-bem='{"link":{}}'>Драйв</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//eda.yandex/favicon-32x32.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/eda" data-bem='{"link":{}}'>Еда</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//eda.yandex/favicon-32x32.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/eda-vendor-ru" data-bem='{"link":{}}'>Еда для ресторанов</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//tanker.s3.yandex.net/faviconforhelp.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/zapravki" data-bem='{"link":{}}'>Заправки</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://download.cdn.yandex.net/from/yandex.ru/support/ru/health/files/health-logo.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/health-web" data-bem='{"link":{}}'>Здоровье</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://download.cdn.yandex.net/from/yandex.ru/support/ru/health/files/health-logo.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/health" data-bem='{"link":{}}'>Здоровье для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/fiji-static/podb/assets/images/fc65e.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/collections" data-bem='{"link":{}}'>Избранное</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/49769/6a0ad11b609a3b0721bd140a3947cf70bab76198/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/internet" data-bem='{"link":{}}'>Интернетометр</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/UHGVL4j4dFN432IJiMbvJ2gU11Y.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/geo-adv" data-bem='{"link":{}}'>Кабинет Георекламы</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yandex.st/yandex-tech-www/_/lqIcxGXjz7GPeeRhhTypO9WpWq4.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="//tech.yandex.ru/developer-help/doc/index-docpage/" data-bem='{"link":{}}'>Кабинет разработчика</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//calendar.yandex.ru/img/service.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/calendar" data-bem='{"link":{}}'>Календарь</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//calendar.yandex.ru/img/service.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/calendar-mobile" data-bem='{"link":{}}'>Календарь для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/994123/6fc600450185dadee71a1b6c13048bab977e8775/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/debit-card" data-bem='{"link":{}}'>Карта Плюса</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/1drmRPkgtUFIwPayCWKRvwxjVYQ.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/images" data-bem='{"link":{}}'>Картинки</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/maps" data-bem='{"link":{}}'>Карты</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/m-maps" data-bem='{"link":{}}'>Карты для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/navi-maps-in-car" data-bem='{"link":{}}'>Карты и Навигатор в автомобиле</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//st.kp.yandex.net/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/kinopoisk" data-bem='{"link":{}}'>Кинопоиск</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//st.kp.yandex.net/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/kinopoisk-app" data-bem='{"link":{}}'>Кинопоиск для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//download.cdn.yandex.net/from/yandex.ru/support/ru/keyboard/keyboard.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/keyboard" data-bem='{"link":{}}'>Клавиатура для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/QwRnNSa6zcHijq2Uhp999sJWE7o.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/maps-builder" data-bem='{"link":{}}'>Конструктор карт</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://answers-static.s3.yandex.net/assets/favicons/apple-touch-icon-180x180-nq.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/q-desktop" data-bem='{"link":{}}'>Кью</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://answers-static.s3.yandex.net/assets/favicons/apple-touch-icon-180x180-nq.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/q-mobile" data-bem='{"link":{}}'>Кью для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/media-platform/academy-front/static/_/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/lyceum-students" data-bem='{"link":{}}'>Лицей Академии Яндекса для учеников</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/media-platform/academy-front/static/_/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/lyceum-teachers" data-bem='{"link":{}}'>Лицей Академии Яндекса для учителей</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//storage-int.mds.yandex.net/get-patterns/117424/2bd427040439b3d04eda237757bd97dbd86e592c694a2b0d6d4b7716ec047c56e902cca5a7536bb54e1bf83ca7c67338d66fe658e351a66783395a9205681e5f);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/launcher" data-bem='{"link":{}}'>Лончер</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/market-export/_/i/favicon/ymnew/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/market" data-bem='{"link":{}}'>Маркет для покупателей</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/market-export/_/i/favicon/ymnew/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/marketplace" data-bem='{"link":{}}'>Маркет для продавцов</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/market-export/_/i/favicon/ymnew/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/vendormarket" data-bem='{"link":{}}'>Маркет для производителей</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/metrika/_/2Q6v5hHY2GyRinWkt9MxMWtGClI.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/metrica" data-bem='{"link":{}}'>Метрика</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/metrika/_/2Q6v5hHY2GyRinWkt9MxMWtGClI.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/metrica-mobile-app" data-bem='{"link":{}}'>Метрика для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/metro" data-bem='{"link":{}}'>Метро</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/m-metro" data-bem='{"link":{}}'>Метро для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/bff4ea87-4b16-4f69-9514-c25e3f3e8c1e.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/module" data-bem='{"link":{}}'>Модуль с Яндекс ТВ</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//music.yandex.ru/favicon32.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/music" data-bem='{"link":{}}'>Музыка</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//music.yandex.ru/favicon32.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/music-app" data-bem='{"link":{}}'>Музыка для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/UHGVL4j4dFN432IJiMbvJ2gU11Y.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/navigator" data-bem='{"link":{}}'>Навигатор</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/KVMAET41ZbS60zADnGvJ96eAQpI.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/nmaps" data-bem='{"link":{}}'>Народная карта</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/KVMAET41ZbS60zADnGvJ96eAQpI.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/nmaps-app" data-bem='{"link":{}}'>Народная карта для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/vertis-frontend/marketing/email/ya-realty-logo-house.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/realty" data-bem='{"link":{}}'>Недвижимость</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/home/favicon/ofd.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/ofd-client" data-bem='{"link":{}}'>ОФД для клиентов</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/home/favicon/ofd.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/ofd-partner" data-bem='{"link":{}}'>ОФД для партнеров</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/home/favicon/ofd.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/ofd-check-receipt" data-bem='{"link":{}}'>ОФД. Проверка чека</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-technologies/14407/e801c2ba-4ad7-4663-8ed6-22544d660367/orig);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="//cloud.yandex.ru/support#contact-form" data-bem='{"link":{}}'>Облако</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//favicon.yandex.net/favicon/v2/business.yandex.ru);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/business-distr" data-bem='{"link":{}}'>Партнерская программа Яндекс Бизнеса</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/travel-indexer/icons/travel.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/travel-distr" data-bem='{"link":{}}'>Партнерская сеть Яндекс Путешествий</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//translate.yandex.ru/icons/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/translate" data-bem='{"link":{}}'>Переводчик</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//translate.yandex.ru/icons/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/translate-mobile-app" data-bem='{"link":{}}'>Переводчик для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(http://download.cdn.yandex.net/from/yandex.ru/support/ru/plus/files/favicon-32.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/plus" data-bem='{"link":{}}'>Плюс</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/880132e6-0186-48be-a059-23c6272d4a1c.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/weather" data-bem='{"link":{}}'>Погода</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/search" data-bem='{"link":{}}'>Поиск</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/xQ5vRWxFOiVW-EJMdx8xFQMRJ1k.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/video" data-bem='{"link":{}}'>Поиск по видео</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/products" data-bem='{"link":{}}'>Поиск по товарам</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/ZPJ8fJU3QLcrqa5E2fUpDDqmgGs.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/mail" data-bem='{"link":{}}'>Почта</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/ZPJ8fJU3QLcrqa5E2fUpDDqmgGs.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/business/mail.html" data-bem='{"link":{}}'>Почта для бизнеса</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/ZPJ8fJU3QLcrqa5E2fUpDDqmgGs.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/mail-mobile" data-bem='{"link":{}}'>Почта для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://jing.yandex-team.ru/files/daria-lu/main-icon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/praktikum" data-bem='{"link":{}}'>Практикум</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/yandex-app" data-bem='{"link":{}}'>Приложение Яндекс для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/lpc-ext/static/promopages/avatar_reklama_ru_round.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/promopages" data-bem='{"link":{}}'>ПромоCтраницы</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/travel-indexer/icons/travel.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/travel" data-bem='{"link":{}}'>Путешествия</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/travel-indexer/icons/travel.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/travel-app" data-bem='{"link":{}}'>Путешествия для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//download.cdn.yandex.net/from/yandex.ru/support/ru/talk/talk-icon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/talk" data-bem='{"link":{}}'>Разговор</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//rasp.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="https://yandex.ru/support/rasp/" data-bem='{"link":{}}'>Расписания</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://s3.mds.yandex.net/doc-binary/src/support/partner/favicon/rsya.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/partner" data-bem='{"link":{}}'>Рекламная сеть</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/frontend/tutor/_/favicon_56-88489b3f04.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/tutor" data-bem='{"link":{}}'>Репетитор</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://split.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/split" data-bem='{"link":{}}'>Сплит</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-ynews-logo/28627/254163138-1572519388967-square/orig);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/sport" data-bem='{"link":{}}'>Спорт</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/distribution/promo/promo-station-2018/v0.2.57/assets/ms-icon-144x144.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/station" data-bem='{"link":{}}'>Станция</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/distribution/promo/promo-station-2018/v0.2.57/assets/ms-icon-144x144.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/station-lite" data-bem='{"link":{}}'>Станция Лайт</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/distribution/promo/promo-station-2018/v0.2.57/assets/ms-icon-144x144.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/station-max" data-bem='{"link":{}}'>Станция Макс</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/bff4ea87-4b16-4f69-9514-c25e3f3e8c1e.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/station-mini" data-bem='{"link":{}}'>Станция Мини</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/bff4ea87-4b16-4f69-9514-c25e3f3e8c1e.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/smart-tv" data-bem='{"link":{}}'>Телевизоры на платформе Яндекс ТВ</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//download.cdn.yandex.net/from/yandex.ru/support/ru/telemost/files/telemost-logo-512.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/telemost" data-bem='{"link":{}}'>Телемост</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//tv.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/tv" data-bem='{"link":{}}'>Телепрограмма</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/phone" data-bem='{"link":{}}'>Телефон</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/VP8B896lzzWC7buulQcBAdX1Lqo.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/telephony" data-bem='{"link":{}}'>Телефония</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/VP8B896lzzWC7buulQcBAdX1Lqo.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/telephony-app" data-bem='{"link":{}}'>Телефония для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/toloka/p/worker/favicon.47ddfe2f33d5e1fb670cae6cfc801e8f.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/toloka" data-bem='{"link":{}}'>Толока для исполнителей</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/toloka/p/worker/favicon.47ddfe2f33d5e1fb670cae6cfc801e8f.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/toloka-mobile" data-bem='{"link":{}}'>Толока для мобильных устройств</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/30ad83c8-1e2e-40ab-a0c4-722b96e3cef5.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/smart-home" data-bem='{"link":{}}'>Умный дом</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/s3/lpc/bff4ea87-4b16-4f69-9514-c25e3f3e8c1e.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/smart-tv-yndx" data-bem='{"link":{}}'>Умный телевизор Яндекса с Алисой</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/frontend/ydo/_/icons-485874835b32c73431a45208ccd5235d/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/uslugi" data-bem='{"link":{}}'>Услуги для заказчиков</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(https://yastatic.net/s3/frontend/ydo/_/icons-485874835b32c73431a45208ccd5235d/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/uslugi-masters" data-bem='{"link":{}}'>Услуги для исполнителей</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//education.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/education-students" data-bem='{"link":{}}'>Учебник для учеников</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//education.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/education-teachers" data-bem='{"link":{}}'>Учебник для учителей</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/128809/dbd773346e564312112e0b9fd40412c044a97059/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/suburban" data-bem='{"link":{}}'>Электрички</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//passport.yandex.ru/favicon.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/yandex-360" data-bem='{"link":{}}'>Яндекс 360 Премиум</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-lpc/1364677/ade80f93-6d90-440c-a72b-2f9bc67052d6/orig);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/market-analytics" data-bem='{"link":{}}'>Яндекс Маркет Аналитика для магазинов</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-lpc/1364677/ade80f93-6d90-440c-a72b-2f9bc67052d6/orig);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 16px;
+                    height: 16px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/market-analytics-vendors" data-bem='{"link":{}}'>Яндекс Маркет Аналитика для производителей</a></div></div></div><div class="services services_mobile"><h2 class="services__header services__header_mobile">Выберите сервис</h2><div class="services__columns services__columns_mobile"><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//avatars.mds.yandex.net/get-bunker/135516/5bce8eafd92051b48d4f9b84abcf0b34608f84e5/svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 32px;
+                    height: 32px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/browser" data-bem='{"link":{}}'>Браузер</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//yastatic.net/iconostasis/_/1drmRPkgtUFIwPayCWKRvwxjVYQ.ico);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 32px;
+                    height: 32px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/images" data-bem='{"link":{}}'>Картинки</a></div><div class="services__item"><div class="s-service-icon services__icon" style="
+                    background-image: url(//beta.maps.yandex.ru/favicon.svg);
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    width: 32px;
+                    height: 32px;
+                "></div><a class="link link_theme_normal services__link i-bem" tabindex="0" href="/support/m-maps" data-bem='{"link":{}}'>Карты для мобильных устройств</a></div></div><a class="button2 button2_type_link button2_theme_normal button2_size_head button2_view_classic services__btn-all i-bem" tabindex="0" href="/support/all-services" data-bem='{"button2":{}}'><span class="button2__text">Все сервисы</span></a></div><div class="freq-questions"><h2 class="freq-questions__header">Частые вопросы</h2><div class="freq-questions__questions"><a class="freq-questions__question" href="id/"><div class="freq-questions__q-header">Яндекс ID</div><div class="freq-questions__q-service">Ваш Яндекс</div></a><a class="freq-questions__question" href="id/troubleshooting/"><div class="freq-questions__q-header">Если забыли пароль</div><div class="freq-questions__q-service">Ваш Яндекс</div></a><a class="freq-questions__question" href="//yandex.ru/legal"><div class="freq-questions__q-header">Правовые документы</div><div class="freq-questions__q-service">Ваш Яндекс</div></a><a class="freq-questions__question" href="search/search-results/settings.html"><div class="freq-questions__q-header">Настройка поиска</div><div class="freq-questions__q-service">Поиск</div></a><a class="freq-questions__question" href="search/query-language/qlanguage.html"><div class="freq-questions__q-header">Язык запросов</div><div class="freq-questions__q-service">Поиск</div></a><a class="freq-questions__question" href="search/search-suggestions/suggestions.html"><div class="freq-questions__q-header">Поисковые подсказки</div><div class="freq-questions__q-service">Поиск</div></a><a class="freq-questions__question" href="maps/concept/object-search.html"><div class="freq-questions__q-header">Поиск на карте</div><div class="freq-questions__q-service">Карты</div></a><a class="freq-questions__question" href="maps/concept/rout.html"><div class="freq-questions__q-header">Маршруты</div><div class="freq-questions__q-service">Карты</div></a><a class="freq-questions__question" href="maps/concept/stoppers.html"><div class="freq-questions__q-header">Пробки</div><div class="freq-questions__q-service">Карты</div></a><a class="freq-questions__question" href="browser/security/protection.html"><div class="freq-questions__q-header">Безопасность</div><div class="freq-questions__q-service">Браузер</div></a><a class="freq-questions__question" href="browser/personal-data-protection/personal-data-protection.html"><div class="freq-questions__q-header">Приватность</div><div class="freq-questions__q-service">Браузер</div></a><a class="freq-questions__question" href="browser/troubleshooting/troubleshooting.html"><div class="freq-questions__q-header">Решение проблем</div><div class="freq-questions__q-service">Браузер</div></a><a class="freq-questions__question" href="webmaster/recommendations/intro.html"><div class="freq-questions__q-header">Рекомендации по созданию сайтов</div><div class="freq-questions__q-service">Вебмастер</div></a><a class="freq-questions__question" href="webmaster/schema-org/what-is-schema-org.html"><div class="freq-questions__q-header">Семантическая разметка</div><div class="freq-questions__q-service">Вебмастер</div></a><a class="freq-questions__question" href="webmaster/security/cure.html"><div class="freq-questions__q-header">Удаление вредоносного кода</div><div class="freq-questions__q-service">Вебмастер</div></a><a class="freq-questions__question" href="metrika/reports/add-goals.html"><div class="freq-questions__q-header">Создание целей</div><div class="freq-questions__q-service">Метрика</div></a><a class="freq-questions__question" href="metrika/reports/monitoring.html"><div class="freq-questions__q-header">Мониторинг сайтов</div><div class="freq-questions__q-service">Метрика</div></a><a class="freq-questions__question" href="metrika/webvisor/about-webvisor.html"><div class="freq-questions__q-header">Анализ поведения посетителей</div><div class="freq-questions__q-service">Метрика</div></a><a class="freq-questions__question" href="mail/reg.html"><div class="freq-questions__q-header">Создание ящика</div><div class="freq-questions__q-service">Почта</div></a><a class="freq-questions__question" href="mail/web/letter/create.html"><div class="freq-questions__q-header">Отправка писем</div><div class="freq-questions__q-service">Почта</div></a><a class="freq-questions__question" href="mail/web/security.html"><div class="freq-questions__q-header">Безопасность</div><div class="freq-questions__q-service">Почта</div></a><a class="freq-questions__question" href="disk/enlarge.html"><div class="freq-questions__q-header">Увеличение объема</div><div class="freq-questions__q-service">Диск</div></a><a class="freq-questions__question" href="disk/share/shared-folders.html"><div class="freq-questions__q-header">Настройка доступа</div><div class="freq-questions__q-service">Диск</div></a><a class="freq-questions__question" href="disk/uploading.html"><div class="freq-questions__q-header">Загрузка файлов</div><div class="freq-questions__q-service">Диск</div></a><a class="freq-questions__question" href="market/secure-buy.html"><div class="freq-questions__q-header">Покупки на Маркете</div><div class="freq-questions__q-service">Маркет</div></a><a class="freq-questions__question" href="market/opinions/opinion.html"><div class="freq-questions__q-header">Отзывы о товарах и магазинах</div><div class="freq-questions__q-service">Маркет</div></a><a class="freq-questions__question" href="marketplace/"><div class="freq-questions__q-header">Маркет для продавцов</div><div class="freq-questions__q-service">Маркет</div></a></div></div></div></div><div class="footer layout__footer clearfix" role="contentinfo"><div class="footer__wrapper layout__footer-inner"><div class="available-langs available-langs_empty footer__available-langs footer__available-langs_mobile i-bem" data-bem='{"available-langs":{}}'></div><div class="footer-links footer__column"></div><div class="footer__column footer__column_side_right"><div class="footer__copyright"><div class="copyright">© <span class="copyright__dates">2015–2023</span>  ООО «<a class="copyright__link" href="https://ya.ru">ЯНДЕКС</a>»</div></div></div></div></div><script src="//yastatic.net/jquery/1.12.4/jquery.min.js" nonce="NeCkeEAeHMb3LbXJHSulpQ=="></script><script src="https://yastatic.net/s3/locdoc/static/libraries/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.concat.min.js" nonce="NeCkeEAeHMb3LbXJHSulpQ=="></script><script src="https://yastatic.net/s3/locdoc/static/libraries/nprogress/0.2.0/nprogress.min.js" nonce="NeCkeEAeHMb3LbXJHSulpQ=="></script><script src="//yastatic.net/s3/locdoc/static/support/master-1667216625/desktop.bundles/index/_index.ru.js" nonce="NeCkeEAeHMb3LbXJHSulpQ=="></script></body></html>

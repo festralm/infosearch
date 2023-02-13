@@ -1,4 +1,5 @@
 import logging
+import os
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
@@ -26,6 +27,8 @@ class Crawler:
             path = link.get('href')
             if path and path.startswith('/'):
                 path = urljoin(url, path)
+            if path is None or not path.startswith('http'):
+                continue
             yield path
 
     def add_url_to_visit(self, url):
@@ -40,30 +43,32 @@ class Crawler:
 
     def run(self, n):
         files_path = 'pages/'
-        page_num = 1
+        if not os.path.exists(files_path):
+            os.makedirs(files_path)
+        url_num = 1
         # create index.txt
         indexer = Indexer("index.txt", overwrite=True)
-        while self.urls_to_visit and page_num <= n:
+        while self.urls_to_visit and url_num <= n:
             url = self.urls_to_visit.pop(0)
             # encode to utf8
             url = furl.furl(url).tostr()
-            logging.info(f'Crawling: {url}')
+            logging.info(f'Crawling №{url_num}: {url}')
             opener = urllib.request.FancyURLopener({})
             f = opener.open(url)
             global content
             try:
                 content = f.read()
-                with open(files_path + str(page_num) + ".txt", "wb") as binary_file:
+                with open(files_path + str(url_num) + ".txt", "wb") as binary_file:
                     # Write bytes to file
                     binary_file.write(content)
                     # add entry to index.txt
-                    indexer.add(files_path + str(page_num) + ".txt", url)
+                    indexer.add(files_path + str(url_num) + ".txt", url)
                 try:
                     self.crawl(url)
                 except Exception:
                     logging.exception(f'Failed to crawl: {url}')
                 finally:
-                    page_num = page_num + 1
+                    url_num = url_num + 1
                     self.visited_urls.append(url)
             except Exception:
                 logging.exception(f'Failed to read: {url}')
@@ -71,5 +76,5 @@ class Crawler:
 
 
 if __name__ == '__main__':
-    urls = ['https://crawler-test.com/']
+    urls = ['https://www.kinopoisk.ru/lists/categories/movies/1/']
     Crawler(urls=urls).run(100)

@@ -1,0 +1,1228 @@
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="ru" dir="ltr" data-gtm-container-id="UA-36116321-2">
+<head>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+  
+    <title>
+  Отключение или удаление дополнений | Справка Firefox
+</title>
+  
+
+  
+<link rel="apple-touch-icon" sizes="180x180" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/apple-touch-icon.bdc11b610d791a16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon-32x32.2143cdf0c7e3f377.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon-16x16.352a0a2cef154dda.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon.03d97697df808c0e.ico">
+<meta name="theme-color" content="#ffffff">
+
+
+  <link rel="search" type="application/opensearchdescription+xml" title="Поддержка Mozilla" href="/ru/search/xml"/>
+  
+
+  
+  
+  <link href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/screen.4cfc530405d8ddaa.css" rel="stylesheet">
+
+  
+  
+  <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/474.8dd740de416ee65a.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script><script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/common.c8f1d10d6d8681c1.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script>
+  
+    <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/858.ba495686d924c2d7.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script><script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/697.1cc02e31a1768550.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script><script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/document.51474266bafe8768.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script>
+  
+  <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/common.fx.download.0b6dca7065496b7d.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script>
+
+  
+    
+      <meta name="description" content="Расширения и темы - это типы дополнений для Firefox. Эта статья расскажет как отключать и удалять дополнения в Firefox."/>
+    
+  
+
+  
+  <meta name="google-site-verification" content="2URA-2Y9BeYYUf8B2BSsBSVetJJS3TZwlXBOaMx2VfY" />
+  
+  <meta name="google-site-verification" content="ueNbCgS4e1JIAgLGwufm-jHaIcLXFLtFMmR_65S1Ag0" />
+  
+  <meta name="msvalidate.01" content="1659173DC94819093068B0ED7C51C527" />
+
+  
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  
+    <link rel="canonical" href="https://support.mozilla.org/ru/kb/udalenie-dopolnenij" />
+  
+
+  <!--
+Read more about our custom configuration and use of Google Analytics here:
+https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
+-->
+
+<!-- Google Tag Manager -->
+
+  <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/gtm-snippet.d1b1396e519eb332.js" nonce="1NIZyDSVPlObV/H69mww8Q=="></script>
+
+<!-- End Google Tag Manager -->
+</head>
+
+<body class="html-ltr logged-out responsive document ru"
+      data-readonly="false"
+      data-usernames-api="/ru/users/api/usernames"
+      data-media-url="https://assets-prod.sumo.prod.webservices.mozgcp.net/"
+      
+        data-ga-alternate-url="/ru/kb/disable-or-remove-add-ons"
+      
+data-document-id="9027" data-default-slug="disable-or-remove-add-ons" >
+
+
+
+  
+
+<ul class="sumo-nav-access" id="nav-access">
+  <li><a href="#main-content">Перейти к основному содержимому</a></li>
+  <li><a href="/ru/locales?next=%2Fen-US%2Fkb%2Fdisable-or-remove-add-ons">Переключить язык</a></li>
+  <li><a id="skip-to-search" href="#search-q">Перейти к поиску</a></li>
+</ul>
+
+
+
+<div class="media-test"></div>
+
+<div id="announcements">
+  <div id="announce-geoip-suggestion" class="mzp-c-notification-bar mzp-t-warning">
+  <button class="mzp-c-notification-bar-button close-button" data-close-id="announce-geoip-suggestion" type="button"
+    data-close-memory="remember" 
+    data-close-type="remove" >
+  </button>
+  <p></p>
+</div>
+
+
+  
+  
+</div>
+
+<header class="mzp-c-navigation sumo-nav">
+  <div class="mzp-c-navigation-l-content">
+    <div class="sumo-nav--container">
+      <div class="sumo-nav--logo">
+        <a href="/ru/"><img src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/mozilla-support.c4f961a8d7b1d501.svg" alt="Mozilla Support Logo"/></a>
+      </div>
+
+      <button data-mobile-nav-search-button class="sumo-nav--search-button" type="button">Search</button>
+      <button data-sumo-toggle-nav="#main-navigation" class="sumo-nav--toggle-button" type="button" aria-controls="main-navigation">Menu</button>
+      <a class="sumo-nav--avatar-button" data-sumo-toggle-nav="#profile-navigation" aria-controls="profile-navigation" aria-role="button">
+        
+        <img class="avatar" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/default-FFA-avatar.2f8c2a0592bda1c5.png" alt="Avatar for Username">
+        
+
+      </a>
+      <div class="mzp-c-navigation-items sumo-nav--list-wrap" id="main-navigation">
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+              
+              <ul class="mzp-c-menu-category-list sumo-nav--list">
+                
+<li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="mzp-c-menu-title sumo-nav--link" href="/ru/questions/" aria-haspopup="true"
+    aria-controls="mzp-c-menu-panel-help">Получить помощь</a>
+  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-help">
+    <div class="sumo-nav--dropdown-container">
+      <div class="sumo-nav--dropdown-grid">
+        <button class="mzp-c-menu-button-close" type="button"
+          aria-controls="mzp-c-menu-panel-example">Закрыть меню Firefox</button>
+        <div class="sumo-nav--dropdown-col">
+          <section class="mzp-c-menu-item mzp-has-icon sumo-nav--dropdown-item">
+            <a class="mzp-c-menu-item-link" href="/ru/questions/new">
+              <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24">
+                <g stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round"
+                  stroke-linejoin="round">
+                  <path d="M11 3H4a2 2 0 00-2 2v12a2 2 0 002 2h9l2 4 2-4h2a2 2 0 002-2v-6" />
+                  <path d="M17.5 2.5a2.121 2.121 0 013 3L13 13l-4 1 1-4 7.5-7.5z" />
+                </g>
+              </svg>
+              <h4 class="mzp-c-menu-item-title">Задать вопрос</h4>
+              <p class="mzp-c-menu-item-desc">
+                Получите поддержку от наших помощников или сотрудников.
+              </p>
+            </a>
+            <ul class="mzp-c-menu-item-list sumo-nav--sublist">
+              <li><a href="/ru/questions/new/desktop">Браузер Firefox</a></li>
+              <li><a
+                  href="/ru/questions/new/firefox-private-network-vpn">Mozilla VPN</a>
+              </li>
+              <li><a href="/ru/questions/new/ios">Firefox для iOS</a></li>
+              <li><a href="/ru/questions/new/focus">Firefox Focus</a></li>
+              <li><a href="/ru/questions/new/mobile">Firefox для Android</a></li>
+              <li><a class="color-link" href="/ru/questions/new">Просмотреть все продукты</a></li>
+            </ul>
+          </section>
+        </div>
+        <div class="sumo-nav--dropdown-col">
+          <section class="mzp-c-menu-item mzp-has-icon sumo-nav--dropdown-item">
+            <a class="mzp-c-menu-item-link" href="/ru/products/">
+              <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24">
+                <g transform="translate(3 3)" stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd"
+                  stroke-linecap="round">
+                  <rect stroke-linejoin="round" width="18" height="18" rx="2" />
+                  <path d="M4 5h10M4 9h10M4 13h4" />
+                </g>
+              </svg>
+              <h4 class="mzp-c-menu-item-title">Ознакомьтесь с нашими статьями справки</h4>
+              <p class="mzp-c-menu-item-desc">
+                Покопайтесь в базе знаний, советах и рекомендациях, устранении неполадок и многом другом.
+              </p>
+            </a>
+            <ul class="mzp-c-menu-item-list sumo-nav--sublist">
+              <li><a href="/ru/products/firefox">Браузер Firefox</a></li>
+              <li><a
+                  href="/ru/products/firefox-private-network-vpn">Mozilla VPN</a>
+              </li>
+              <li><a href="/ru/products/ios">Firefox для iOS</a></li>
+              <li><a href="/ru/products/focus-firefox">Firefox Focus</a></li>
+              <li><a href="/ru/products/mobile">Firefox для Android</a></li>
+              <li><a class="color-link" href="/ru/products/">Просмотреть все статьи</a></li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li class="mzp-c-menu-category">
+  <a class="mzp-c-menu-title sumo-nav--link" href="/ru/contribute">Внести вклад</a>
+</li>
+
+              </ul>
+              
+          </nav>
+        </div>
+      </div>
+
+      <div class="mzp-c-navigation-items sumo-nav--list-wrap-right logged-out" id="profile-navigation">
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+              
+              <ul class="mzp-c-menu-category-list sumo-nav--list">
+                
+
+<li class="mzp-c-menu-category sumo-nav--item-right">
+  
+<form data-instant-search="form" id="support-search"  action="/ru/search/" method="get"
+   class="simple-search-form">
+  
+  
+  <input type="hidden" name="product" value="firefox" />
+  
+  
+  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
+    placeholder="Найти помощь..." class="searchbox" id="search-q" />
+  <button type="submit" title="Поиск" class="search-button">Поиск</button>
+</form>
+
+
+  
+</li>
+
+
+<li
+  class="mzp-c-menu-category logged-out-button-row ">
+  
+  <a rel="nofollow" href="/ru/users/auth" class="sumo-button secondary-button button-lg" data-event-category="navigation"
+    data-event-action="main navigation" data-event-label="Sign In">Войти/Зарегистрироваться</a>
+  
+</li>
+
+              </ul>
+              
+          </nav>
+        </div>
+      </div>
+      <div class="mzp-c-navigation-items sumo-nav--mobile-search-form" id="search-navigation">
+        <div class="mzp-c-navigation-menu">
+          <nav class="mzp-c-menu mzp-is-basic">
+            
+<form data-instant-search="form" id="mobile-search-results"  action="/ru/search/" method="get"
+   class="simple-search-form">
+  
+  
+  <input type="hidden" name="product" value="firefox" />
+  
+  
+  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
+    placeholder="Найти помощь..." class="searchbox" id="search-q" />
+  <button type="submit" title="Поиск" class="search-button">Поиск</button>
+</form>
+
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header><!--/.mzp-c-navigation -->
+
+
+<!-- This is only displayed when the instant search is active.
+     This block is overriden in home.html and product.html,
+     and can likely be removed when frontend search is replaced. -->
+<div class="home-search-section sumo-page-section--lg shade-bg hidden-search-masthead">
+  <div class="mzp-l-content narrow">
+    <div class="home-search-section--content">
+      <h4 class="sumo-page-heading-xl">Поиск в Поддержке</h4>
+      
+<form data-instant-search="form" id="hidden-search"  action="/ru/search/" method="get"
+   class="simple-search-form">
+  
+  
+  <input type="hidden" name="product" value="firefox" />
+  
+  
+  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
+    placeholder="Найти помощь..." class="searchbox" id="search-q" />
+  <button type="submit" title="Поиск" class="search-button">Поиск</button>
+</form>
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="mzp-l-content " id="main-content">
+  <div class="sumo-page-section--inner">
+    
+  
+<div class="breadcrumbs" id="main-breadcrumbs">
+  <ol id="breadcrumbs" class="breadcrumbs--list">
+  
+    
+      
+        <li><a href="/ru/">Домой</a></li>
+      
+    
+  
+    
+      
+        <li><a href="/ru/products/firefox">Firefox</a></li>
+      
+    
+  
+    
+      <li>Отключение или удаление дополнений</li>
+    
+  
+  </ol>
+  </div>
+
+
+    <div class="sumo-l-two-col ">
+      
+      <aside id="aside" class="sumo-l-two-col--sidebar">
+        
+        
+  <div class="search-form-sidebar large-only">
+    
+<form data-instant-search="form" id="support-search-sidebar"  action="/ru/search/" method="get"
+   class="simple-search-form">
+  
+  
+  <input type="hidden" name="product" value="firefox" />
+  
+  
+  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
+    placeholder="Найти помощь..." class="searchbox" id="search-q" />
+  <button type="submit" title="Поиск" class="search-button">Поиск</button>
+</form>
+
+  </div>
+
+  
+  
+  
+
+  
+    
+    
+  
+  
+  <nav id="doc-tools">
+    <ul class="sidebar-nav sidebar-folding">
+      <li id="editing-tools-sidebar">
+        
+        <span class="details-heading"></span>
+        <ul class="sidebar-nav--list">
+        
+        
+          <li>
+            
+
+  <section class="showfor" id="showfor-panel">
+    <script type="application/json" class="showfor-data">
+      {"products": [{"title": "Firefox", "slug": "firefox", "platforms": ["win8", "win7", "winxp", "mac", "linux", "win10", "win11"], "visible": true}], "versions": {"firefox": [{"name": "Version 111", "slug": "fx111", "product": "firefox", "default": false, "min_version": 111.0, "max_version": 112.0, "visible": true}, {"name": "Version 110", "slug": "fx110", "product": "firefox", "default": true, "min_version": 110.0, "max_version": 111.0, "visible": true}, {"name": "Version 109", "slug": "fx109", "product": "firefox", "default": false, "min_version": 109.0, "max_version": 110.0, "visible": true}, {"name": "Version 108", "slug": "fx108", "product": "firefox", "default": false, "min_version": 108.0, "max_version": 109.0, "visible": true}, {"name": "Version 107", "slug": "fx107", "product": "firefox", "default": false, "min_version": 107.0, "max_version": 108.0, "visible": true}, {"name": "Version 106", "slug": "fx106", "product": "firefox", "default": false, "min_version": 106.0, "max_version": 107.0, "visible": true}, {"name": "Version 105", "slug": "fx105", "product": "firefox", "default": false, "min_version": 105.0, "max_version": 106.0, "visible": true}, {"name": "Version 104", "slug": "fx104", "product": "firefox", "default": false, "min_version": 104.0, "max_version": 105.0, "visible": true}, {"name": "Version 103", "slug": "fx103", "product": "firefox", "default": false, "min_version": 103.0, "max_version": 104.0, "visible": true}, {"name": "Version 102", "slug": "fx102", "product": "firefox", "default": false, "min_version": 102.0, "max_version": 103.0, "visible": true}, {"name": "Version 101", "slug": "fx101", "product": "firefox", "default": false, "min_version": 101.0, "max_version": 102.0, "visible": true}, {"name": "Version 100", "slug": "fx100", "product": "firefox", "default": false, "min_version": 100.0, "max_version": 101.0, "visible": false}, {"name": "Version 99", "slug": "fx99", "product": "firefox", "default": false, "min_version": 99.0, "max_version": 100.0, "visible": false}, {"name": "Version 98", "slug": "fx98", "product": "firefox", "default": false, "min_version": 98.0, "max_version": 99.0, "visible": false}, {"name": "Version 97", "slug": "fx97", "product": "firefox", "default": false, "min_version": 97.0, "max_version": 98.0, "visible": false}, {"name": "Version 96", "slug": "fx96", "product": "firefox", "default": false, "min_version": 96.0, "max_version": 97.0, "visible": false}, {"name": "Version 95", "slug": "fx95", "product": "firefox", "default": false, "min_version": 95.0, "max_version": 96.0, "visible": false}, {"name": "Version 94", "slug": "fx94", "product": "firefox", "default": false, "min_version": 94.0, "max_version": 95.0, "visible": false}, {"name": "Version 93", "slug": "fx93", "product": "firefox", "default": false, "min_version": 93.0, "max_version": 94.0, "visible": false}, {"name": "Version 92", "slug": "fx92", "product": "firefox", "default": false, "min_version": 92.0, "max_version": 93.0, "visible": false}, {"name": "Version 91", "slug": "fx91", "product": "firefox", "default": false, "min_version": 91.0, "max_version": 92.0, "visible": false}, {"name": "Version 90", "slug": "fx90", "product": "firefox", "default": false, "min_version": 90.0, "max_version": 91.0, "visible": false}, {"name": "Version 89", "slug": "fx89", "product": "firefox", "default": false, "min_version": 89.0, "max_version": 90.0, "visible": false}, {"name": "Version 88", "slug": "fx88", "product": "firefox", "default": false, "min_version": 88.0, "max_version": 89.0, "visible": false}, {"name": "Version 87", "slug": "fx87", "product": "firefox", "default": false, "min_version": 87.0, "max_version": 88.0, "visible": false}, {"name": "Version 86", "slug": "fx86", "product": "firefox", "default": false, "min_version": 86.0, "max_version": 87.0, "visible": false}, {"name": "Version 85", "slug": "fx85", "product": "firefox", "default": false, "min_version": 85.0, "max_version": 86.0, "visible": false}, {"name": "Version 84", "slug": "fx84", "product": "firefox", "default": false, "min_version": 84.0, "max_version": 85.0, "visible": false}, {"name": "Version 83", "slug": "fx83", "product": "firefox", "default": false, "min_version": 83.0, "max_version": 84.0, "visible": false}, {"name": "Version 82", "slug": "fx82", "product": "firefox", "default": false, "min_version": 82.0, "max_version": 83.0, "visible": false}, {"name": "Version 81", "slug": "fx81", "product": "firefox", "default": false, "min_version": 81.0, "max_version": 82.0, "visible": false}, {"name": "Version 80", "slug": "fx80", "product": "firefox", "default": false, "min_version": 80.0, "max_version": 81.0, "visible": false}, {"name": "Version 79", "slug": "fx79", "product": "firefox", "default": false, "min_version": 79.0, "max_version": 80.0, "visible": false}, {"name": "Version 78", "slug": "fx78", "product": "firefox", "default": false, "min_version": 78.0, "max_version": 79.0, "visible": false}, {"name": "Version 77", "slug": "fx77", "product": "firefox", "default": false, "min_version": 77.0, "max_version": 78.0, "visible": false}, {"name": "Version 76", "slug": "fx76", "product": "firefox", "default": false, "min_version": 76.0, "max_version": 77.0, "visible": false}, {"name": "Version 75", "slug": "fx75", "product": "firefox", "default": false, "min_version": 75.0, "max_version": 76.0, "visible": false}, {"name": "Version 74", "slug": "fx74", "product": "firefox", "default": false, "min_version": 74.0, "max_version": 75.0, "visible": false}, {"name": "Version 73", "slug": "fx73", "product": "firefox", "default": false, "min_version": 73.0, "max_version": 74.0, "visible": false}, {"name": "Version 72", "slug": "fx72", "product": "firefox", "default": false, "min_version": 72.0, "max_version": 73.0, "visible": false}, {"name": "Version 71", "slug": "fx71", "product": "firefox", "default": false, "min_version": 71.0, "max_version": 72.0, "visible": false}, {"name": "Version 70", "slug": "fx70", "product": "firefox", "default": false, "min_version": 70.0, "max_version": 71.0, "visible": false}, {"name": "Version 69", "slug": "fx69", "product": "firefox", "default": false, "min_version": 69.0, "max_version": 70.0, "visible": false}, {"name": "Version 68", "slug": "fx68", "product": "firefox", "default": false, "min_version": 68.0, "max_version": 69.0, "visible": false}, {"name": "Version 67", "slug": "fx67", "product": "firefox", "default": false, "min_version": 67.0, "max_version": 68.0, "visible": false}, {"name": "Version 66", "slug": "fx66", "product": "firefox", "default": false, "min_version": 66.0, "max_version": 67.0, "visible": false}, {"name": "Version 65", "slug": "fx65", "product": "firefox", "default": false, "min_version": 65.0, "max_version": 66.0, "visible": false}, {"name": "Version 64", "slug": "fx64", "product": "firefox", "default": false, "min_version": 64.0, "max_version": 65.0, "visible": false}, {"name": "Version 63", "slug": "fx63", "product": "firefox", "default": false, "min_version": 63.0, "max_version": 64.0, "visible": false}, {"name": "Version 62", "slug": "fx62", "product": "firefox", "default": false, "min_version": 62.0, "max_version": 63.0, "visible": false}, {"name": "Version 61", "slug": "fx61", "product": "firefox", "default": false, "min_version": 61.0, "max_version": 62.0, "visible": false}, {"name": "Version 60", "slug": "fx60", "product": "firefox", "default": false, "min_version": 60.0, "max_version": 61.0, "visible": false}, {"name": "Version 59", "slug": "fx59", "product": "firefox", "default": false, "min_version": 59.0, "max_version": 60.0, "visible": false}, {"name": "Version 58", "slug": "fx58", "product": "firefox", "default": false, "min_version": 58.0, "max_version": 59.0, "visible": false}, {"name": "Version 57", "slug": "fx57", "product": "firefox", "default": false, "min_version": 57.0, "max_version": 58.0, "visible": false}, {"name": "Version 56", "slug": "fx56", "product": "firefox", "default": false, "min_version": 56.0, "max_version": 57.0, "visible": false}, {"name": "Version 55", "slug": "fx55", "product": "firefox", "default": false, "min_version": 55.0, "max_version": 56.0, "visible": false}, {"name": "Version 54", "slug": "fx54", "product": "firefox", "default": false, "min_version": 54.0, "max_version": 55.0, "visible": false}, {"name": "Version 53", "slug": "fx53", "product": "firefox", "default": false, "min_version": 53.0, "max_version": 54.0, "visible": false}, {"name": "Version 52", "slug": "fx52", "product": "firefox", "default": false, "min_version": 52.0, "max_version": 53.0, "visible": false}, {"name": "Version 51", "slug": "fx51", "product": "firefox", "default": false, "min_version": 51.0, "max_version": 52.0, "visible": false}, {"name": "Version 50", "slug": "fx50", "product": "firefox", "default": false, "min_version": 50.0, "max_version": 51.0, "visible": false}, {"name": "Version 49", "slug": "fx49", "product": "firefox", "default": false, "min_version": 49.0, "max_version": 50.0, "visible": false}, {"name": "Version 48", "slug": "fx48", "product": "firefox", "default": false, "min_version": 48.0, "max_version": 49.0, "visible": false}, {"name": "Version 47", "slug": "fx47", "product": "firefox", "default": false, "min_version": 47.0, "max_version": 48.0, "visible": false}, {"name": "Version 46", "slug": "fx46", "product": "firefox", "default": false, "min_version": 46.0, "max_version": 47.0, "visible": false}, {"name": "Version 45", "slug": "fx45", "product": "firefox", "default": false, "min_version": 45.0, "max_version": 46.0, "visible": false}, {"name": "Version 44", "slug": "fx44", "product": "firefox", "default": false, "min_version": 44.0, "max_version": 45.0, "visible": false}, {"name": "Version 43", "slug": "fx43", "product": "firefox", "default": false, "min_version": 43.0, "max_version": 44.0, "visible": false}, {"name": "Version 42", "slug": "fx42", "product": "firefox", "default": false, "min_version": 42.0, "max_version": 43.0, "visible": false}, {"name": "Version 41", "slug": "fx41", "product": "firefox", "default": false, "min_version": 41.0, "max_version": 42.0, "visible": false}, {"name": "Version 40", "slug": "fx40", "product": "firefox", "default": false, "min_version": 40.0, "max_version": 41.0, "visible": false}, {"name": "Version 39", "slug": "fx39", "product": "firefox", "default": false, "min_version": 39.0, "max_version": 40.0, "visible": false}, {"name": "Version 38", "slug": "fx38", "product": "firefox", "default": false, "min_version": 38.0, "max_version": 39.0, "visible": false}, {"name": "Version 37", "slug": "fx37", "product": "firefox", "default": false, "min_version": 37.0, "max_version": 38.0, "visible": false}, {"name": "Version 36", "slug": "fx36", "product": "firefox", "default": false, "min_version": 36.0, "max_version": 37.0, "visible": false}, {"name": "Version 35", "slug": "fx35", "product": "firefox", "default": false, "min_version": 35.0, "max_version": 36.0, "visible": false}, {"name": "Version 34", "slug": "fx34", "product": "firefox", "default": false, "min_version": 34.0, "max_version": 35.0, "visible": false}, {"name": "Version 33", "slug": "fx33", "product": "firefox", "default": false, "min_version": 33.0, "max_version": 34.0, "visible": false}, {"name": "Version 32", "slug": "fx32", "product": "firefox", "default": false, "min_version": 32.0, "max_version": 33.0, "visible": false}, {"name": "Version 31", "slug": "fx31", "product": "firefox", "default": false, "min_version": 31.0, "max_version": 32.0, "visible": false}, {"name": "Version 30", "slug": "fx30", "product": "firefox", "default": false, "min_version": 30.0, "max_version": 31.0, "visible": false}, {"name": "Version 29", "slug": "fx29", "product": "firefox", "default": false, "min_version": 29.0, "max_version": 30.0, "visible": false}, {"name": "Version 28", "slug": "fx28", "product": "firefox", "default": false, "min_version": 28.0, "max_version": 29.0, "visible": false}, {"name": "Version 27", "slug": "fx27", "product": "firefox", "default": false, "min_version": 27.0, "max_version": 28.0, "visible": false}, {"name": "Version 26", "slug": "fx26", "product": "firefox", "default": false, "min_version": 26.0, "max_version": 27.0, "visible": false}, {"name": "Version 25", "slug": "fx25", "product": "firefox", "default": false, "min_version": 25.0, "max_version": 26.0, "visible": false}, {"name": "Version 24", "slug": "fx24", "product": "firefox", "default": false, "min_version": 24.0, "max_version": 25.0, "visible": false}, {"name": "Version 24 ESR", "slug": "fx24", "product": "firefox", "default": false, "min_version": 24.0, "max_version": 25.0, "visible": false}, {"name": "Version 23", "slug": "fx23", "product": "firefox", "default": false, "min_version": 23.0, "max_version": 24.0, "visible": false}, {"name": "Version 22", "slug": "fx22", "product": "firefox", "default": false, "min_version": 22.0, "max_version": 23.0, "visible": false}, {"name": "Version 21", "slug": "fx21", "product": "firefox", "default": false, "min_version": 21.0, "max_version": 22.0, "visible": false}, {"name": "Version 20", "slug": "fx20", "product": "firefox", "default": false, "min_version": 20.0, "max_version": 21.0, "visible": false}, {"name": "Version 19", "slug": "fx19", "product": "firefox", "default": false, "min_version": 19.0, "max_version": 20.0, "visible": false}, {"name": "Version 18", "slug": "fx18", "product": "firefox", "default": false, "min_version": 18.0, "max_version": 19.0, "visible": false}, {"name": "Version 17 (ESR)", "slug": "fx17", "product": "firefox", "default": false, "min_version": 17.0, "max_version": 18.0, "visible": false}, {"name": "Version 16", "slug": "fx16", "product": "firefox", "default": false, "min_version": 16.0, "max_version": 17.0, "visible": false}, {"name": "Version 15", "slug": "fx15", "product": "firefox", "default": false, "min_version": 15.0, "max_version": 16.0, "visible": false}, {"name": "Version 14", "slug": "fx14", "product": "firefox", "default": false, "min_version": 14.0, "max_version": 15.0, "visible": false}, {"name": "Version 13", "slug": "fx13", "product": "firefox", "default": false, "min_version": 13.0, "max_version": 14.0, "visible": false}, {"name": "Version 12", "slug": "fx12", "product": "firefox", "default": false, "min_version": 12.0, "max_version": 13.0, "visible": false}, {"name": "Version 11", "slug": "fx11", "product": "firefox", "default": false, "min_version": 11.0, "max_version": 12.0, "visible": false}, {"name": "Version 10 (ESR)", "slug": "fx10", "product": "firefox", "default": false, "min_version": 10.0, "max_version": 11.0, "visible": false}, {"name": "Version 9", "slug": "fx9", "product": "firefox", "default": false, "min_version": 9.0, "max_version": 10.0, "visible": false}, {"name": "Version 8", "slug": "fx8", "product": "firefox", "default": false, "min_version": 8.0, "max_version": 9.0, "visible": false}, {"name": "Version 7", "slug": "fx7", "product": "firefox", "default": false, "min_version": 7.0, "max_version": 8.0, "visible": false}, {"name": "Version 6", "slug": "fx6", "product": "firefox", "default": false, "min_version": 6.0, "max_version": 7.0, "visible": false}, {"name": "Version 5", "slug": "fx5", "product": "firefox", "default": false, "min_version": 5.0, "max_version": 6.0, "visible": false}, {"name": "Version 4", "slug": "fx4", "product": "firefox", "default": false, "min_version": 4.0, "max_version": 5.0, "visible": false}]}, "platforms": {"firefox": [{"name": "Linux", "slug": "linux", "visible": true}, {"name": "Mac", "slug": "mac", "visible": true}, {"name": "Windows XP", "slug": "winxp", "visible": true}, {"name": "Windows 7/Vista", "slug": "win7", "visible": true}, {"name": "Windows 8", "slug": "win8", "visible": true}, {"name": "Windows 10", "slug": "win10", "visible": true}, {"name": "Windows 11", "slug": "win11", "visible": true}]}}
+    </script>
+
+    <h3 class="sidebar-subheading force-top-margin">Настроить эту статью</h3>
+    
+
+    
+      
+        
+        
+
+        <div class="product" data-product="firefox">
+          <div class="field checkbox is-condensed">
+            <input
+              type="checkbox"
+              id="id_firefox"
+              checked
+              value="product:firefox"
+            />
+            <label for="id_firefox">Firefox</label>
+          </div>
+
+
+
+
+          
+            <div class="selectbox-wrapper">
+              <select class="version">
+                
+                  
+                    <option value="version:fx111"
+                            data-min="111.0"
+                            data-max="112.0"
+                            >
+                      Version 111
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx110"
+                            data-min="110.0"
+                            data-max="111.0"
+                            selected>
+                      Version 110
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx109"
+                            data-min="109.0"
+                            data-max="110.0"
+                            >
+                      Version 109
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx108"
+                            data-min="108.0"
+                            data-max="109.0"
+                            >
+                      Version 108
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx107"
+                            data-min="107.0"
+                            data-max="108.0"
+                            >
+                      Version 107
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx106"
+                            data-min="106.0"
+                            data-max="107.0"
+                            >
+                      Version 106
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx105"
+                            data-min="105.0"
+                            data-max="106.0"
+                            >
+                      Version 105
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx104"
+                            data-min="104.0"
+                            data-max="105.0"
+                            >
+                      Version 104
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx103"
+                            data-min="103.0"
+                            data-max="104.0"
+                            >
+                      Version 103
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx102"
+                            data-min="102.0"
+                            data-max="103.0"
+                            >
+                      Version 102
+                    </option>
+                  
+                
+                  
+                    <option value="version:fx101"
+                            data-min="101.0"
+                            data-max="102.0"
+                            >
+                      Version 101
+                    </option>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+              </select>
+            </div>
+          
+
+          
+            <div class="selectbox-wrapper">
+              <select class="platform">
+                
+                  
+                    <option value="platform:win8" >
+                      Windows 8
+                    </option>
+                  
+                
+                  
+                    <option value="platform:win7" >
+                      Windows 7/Vista
+                    </option>
+                  
+                
+                  
+                    <option value="platform:winxp" >
+                      Windows XP
+                    </option>
+                  
+                
+                  
+                    <option value="platform:mac" >
+                      Mac
+                    </option>
+                  
+                
+                  
+                    <option value="platform:linux" >
+                      Linux
+                    </option>
+                  
+                
+                  
+                    <option value="platform:win10" >
+                      Windows 10
+                    </option>
+                  
+                
+                  
+                    <option value="platform:win11" >
+                      Windows 11
+                    </option>
+                  
+                
+              </select>
+            </div>
+          
+        </div>
+      
+    
+
+  </section>
+          </li>
+        
+        </ul>
+      </li>
+    </ul>
+  </nav>
+
+        
+<div class="document-vote--sidebar-wrap">
+  
+  
+    
+  
+  
+    <div class="document-vote elevation-01 text-center">
+      <form class="document-vote--form helpful" action="/ru/kb/udalenie-dopolnenij/vote" method="post">
+          <input type='hidden' name='csrfmiddlewaretoken' value='ZX4ydZqWfJ2yDiRlk340vXibjx35RUZhch4Nis2fCeDErL7pqUxEiKyL7lKscYUa' />
+          <h4 class="document-vote--heading">Помогла ли эта статья?</h4>
+          <div class="document-vote--buttons">
+            <input type="hidden" name="revision_id" value="256252" />
+            <input type="hidden" name="source" value="footer" />
+            <button type="submit" class="btn helpful-button" name="helpful"><span class="hidden-text">Да</span>👍</button>
+            <button type="submit" class="btn not-helpful-button" name="not-helpful"><span class="hidden-text">Нет</span>👎</button>
+            <img class="wait" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/spinner.18d6c26adc937688.gif" alt="Пожалуйста, подождите..." />
+          </div>
+      </form>
+    </div>
+  
+</div>
+
+      </aside>
+      
+      <main role="main" class="sumo-l-two-col--main">
+      
+      
+  <section id="document-list">
+    <header class="sumo-article-header has-border-bottom">
+      <div class="sumo-article-header--text">
+        <div class="documents-product-title">
+          
+          <a href="/ru/products/firefox" title="Firefox">
+            <img src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/products/2020-04-14-08-36-13-8dda6f.png" height="48" width="48" alt="" />
+          </a>
+          
+            
+
+<div class="firefox-download-button hidden">
+  <div class="download-buttons">
+    <div class="download-firefox">
+      <a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=non-fx-button&amp;utm_content=body-download-button"
+        class="download-button sumo-button primary-button button-lg" data-event-category="Download Button"
+        data-event-action="Panel Opening" data-event-label="">
+        Загрузить Firefox
+      </a>
+      <ul class="download-info text-body-xs">
+        <li><a href="https://www.mozilla.org/firefox/all/">Системы и языки</a></li>
+        <li><a href="https://www.mozilla.org/firefox/notes">Что нового</a></li>
+        <li><a href="https://www.mozilla.org/legal/privacy/firefox">Приватность</a></li>
+      </ul>
+    </div>
+    
+    <div class="refresh-firefox">
+      <p class="help-text">Наладьте Firefox</p>
+      <a data-mozilla-ui-reset="reset" class="download-button sumo-button primary-button button-lg">
+        Очистить Firefox
+      </a>
+      <ul class="download-info text-body-xs">
+        <li><a class="reset-link" href="/ru/kb/refresh-firefox-reset-add-ons-and-settings">
+            Как это работает?
+          </a></li>
+        <li>
+          <a href="https://www.mozilla.org/firefox/new/#download-fx" data-event-category="Download Button"
+            data-event-action="Panel Opening" data-event-label="">
+            Загрузить свежую копию
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          
+        </div>
+        <h1 class="sumo-page-heading">Отключение или удаление дополнений</h1>
+      </div>
+    </header>
+
+    
+    <article class="wiki-doc">
+      
+  
+  
+      <section id="doc-content" class="document--content ">
+    
+      <p><a href="/ru/kb/nastrojka-firefox-s-pomoshyu-dopolnenij#w_kakie-tipy-dopolnenii-ia-mogu-ustanovit">Расширения</a> и <a href="/ru/kb/ispolzovanie-tem-v-firefox">темы</a> — это типы дополнений для Firefox. В этой статье объясняется, как можно отключить или удалить эти дополнения.
+</p>
+<div class="note"><strong>Примечание:</strong> Firefox включает плагины <em>OpenH264</em> и <em>Google Widevine</em>, ещё один тип дополнений. Чтобы узнать больше, прочитайте статьи <a href="/ru/kb/pochemu-v-firefox-ispolzuetsya-plagin-openh264">Почему в Firefox используется плагин OpenH264</a> и <a href="/ru/kb/vosproizvedenie-soderzhimogo-ispolzuyushego-drm">Воспроизведение содержимого, использующего DRM, в Firefox</a>.</div>
+<div id="toc"><h2>Оглавление</h2><ul><li class="toclevel-1"><a href="#w_otkliuchenie-i-udalenie-rasshirenii"><span class="tocnumber">1</span> <span class="toctext">Отключение и удаление расширений</span></a><ul><li class="toclevel-2"><a href="#w_otkliuchenie-rasshirenii"><span class="tocnumber">1.1</span> <span class="toctext">Отключение расширений</span></a></li><li class="toclevel-2"><a href="#w_udalenie-rasshirenii"><span class="tocnumber">1.2</span> <span class="toctext">Удаление расширений</span></a></li></ul></li><li class="toclevel-1"><a href="#w_otkliuchenie-i-udalenie-tem"><span class="tocnumber">2</span> <span class="toctext">Отключение и удаление тем</span></a><ul><li class="toclevel-2"><a href="#w_otkliuchenie-tem"><span class="tocnumber">2.1</span> <span class="toctext">Отключение тем</span></a></li><li class="toclevel-2"><a href="#w_udalenie-tem"><span class="tocnumber">2.2</span> <span class="toctext">Удаление тем</span></a></li></ul></li><li class="toclevel-1"><a href="#w_reshenie-problem"><span class="tocnumber">3</span> <span class="toctext">Решение проблем</span></a></li></ul></div>
+<h1 id="w_otkliuchenie-i-udalenie-rasshirenii">Отключение и удаление расширений</h1>
+<h2 id="w_otkliuchenie-rasshirenii">Отключение расширений</h2>
+<p>При отключении расширения оно не удаляется.
+</p>
+<ol><li>Нажмите кнопку меню <img alt="Fx89menuButton" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-05-15-11-18-38-e5b736.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title="">, выберите <span class="menu">Дополнения и темы</span>, а затем — <span class="menu">Расширения</span>.
+
+<ul><li>В новой вкладке откроется Менеджер дополнений <em>Управление расширениями</em>.
+</li></ul>
+</li><li>Прокрутите список расширений.
+</li><li>Щёлкните по синему переключателю для расширения, которое хотите отключить.
+<dl><dt><img alt="fx72 disable extensions" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2019-12-20-16-47-02-ba50b1.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title="">
+</dt></dl>
+</li></ol>
+<p>Чтобы повторно включить расширение, найдите его в списке расширений и нажмите переключатель для соответствующего расширения. Переключатель станет синим при включении.
+</p><p>Чтобы отключить расширения, которые изменили вашу новую вкладку, новое окно или домашнюю страницу, прочитайте статью <a href="/ru/kb/rasshirenie-izmenilo-moyu-novuyu-vkladku-ili-domas">Расширение изменило мою Новую Вкладку или домашнюю страницу</a>.
+</p>
+<h2 id="w_udalenie-rasshirenii">Удаление расширений</h2>
+<ol><li>Нажмите кнопку меню <img alt="Fx89menuButton" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-05-15-11-18-38-e5b736.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title="">, выберите <span class="menu">Дополнения и темы</span>, а затем — <span class="menu">Расширения</span>.
+
+<ul><li>В новой вкладке откроется Менеджер дополнений <em>Управление расширениями</em>.
+</li></ul>
+</li><li>Прокрутите список расширений.
+</li><li>Щёлкните по значку многоточия <img alt="Fx107-Addons-3dotIcon" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2022-11-18-07-04-19-9b6f89.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title=""> (три точки) для расширения, которое хотите удалить и выберите <span class="menu">Удалить</span>.
+<dl><dt><img alt="fx72 remove extensions" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2019-12-20-16-33-40-a77f48.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" width="200">
+</dt></dl>
+</li></ol>
+<h1 id="w_otkliuchenie-i-udalenie-tem">Отключение и удаление тем</h1>
+<p>Firefox поставляется с Системной темой по умолчанию и дополнительными <span class="for" data-for="=fx106,=fx107,=fx108"><a href="/ru/kb/personalizirujte-firefox-s-pomoshyu-rascvetok">Расцветками</a>, </span>Светлой и Тёмной темами, а также темой Alpenglow, но вы можете добавлять в Firefox новые темы. Для получения дополнительной информации прочитайте статью <a href="/ru/kb/ispolzovanie-tem-v-firefox">Использование тем для изменения внешнего вида Firefox</a>.
+</p>
+<h2 id="w_otkliuchenie-tem">Отключение тем</h2>
+<ol><li>Нажмите кнопку меню <img alt="Fx89menuButton" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-05-15-11-18-38-e5b736.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title="">, выберите <span class="menu">Дополнения и темы</span>, а затем — <span class="menu">Темы</span>.
+
+<ul><li>В новой вкладке откроется Менеджер дополнений <em>Управление темами</em>.
+</li></ul>
+</li></ol>
+<p>Вы увидите одну тему <strong>Включена</strong> и список тем <span class="for" data-for="not fx103"><strong>Отключенные</strong></span><span class="for" data-for="fx103"><strong>Сохранённые темы</strong></span>.
+</p><p>Если тема <strong>Включена</strong> и она не является Системной темой по умолчанию, её можно отключить, щёлкнув по <span class="button">Отключить</span>.
+</p>
+<dl><dt><img alt="fx72 disable themes" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2019-12-20-15-08-21-d02d4b.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title="">
+</dt></dl>
+<p>Это активирует Системную тему.
+</p>
+<div class="note"><strong>Примечание:</strong> Когда тема <strong>Включена</strong> и является темой по умолчанию, она отключается при включении другой темы.</div>
+<h2 id="w_udalenie-tem">Удаление тем</h2>
+<p>Вы не можете удалить темы, включённые в Firefox (<span class="for" data-for="=fx106,=fx107,=fx108"><a href="/ru/kb/personalizirujte-firefox-s-pomoshyu-rascvetok">Расцветки</a>, </span>Системная тема, Светлая, Тёмная и Alpenglow), но вы можете удалить темы, добавленные в Firefox. Чтобы удалить добавленную тему:
+</p>
+<ol><li>Нажмите кнопку меню <img alt="Fx89menuButton" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-05-15-11-18-38-e5b736.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title="">, выберите <span class="menu">Дополнения и темы</span>, а затем — <span class="menu">Темы</span>.
+
+<ul><li>В новой вкладке откроется Менеджер дополнений <em>Управление темами</em>.
+</li></ul>
+</li><li>Щёлкните по значку многоточия <img alt="Fx107-Addons-3dotIcon" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2022-11-18-07-04-19-9b6f89.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title=""> (три точки), который отображается для темы, которую вы хотите удалить, а затем выберите <span class="menu">Удалить</span>.
+<dl><dt><span class="for" data-for="not fx103"><img alt="fx72 remove themes" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2019-12-20-15-39-36-95de8b.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title=""></span><span class="for" data-for="fx103"><img alt="Fx107RemoveTheme" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2022-11-23-04-23-18-779aa0.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title=""></span>
+</dt></dl>
+</li></ol>
+<div class="note"><strong>Примечание:</strong> Если вы удаляете тему, которая <strong>Включена</strong>, будет включена Системная тема.</div>
+<h1 id="w_reshenie-problem">Решение проблем</h1>
+<ul><li>Если вы не можете удалить расширение или тему, прочитайте статью <a href="/ru/kb/dopolnenie-ne-udalyaetsya">Дополнение не удаляется</a>.
+</li><li>Для получения помощи по решению проблем, вызванных расширениями и темами, прочтите статью <a href="/ru/kb/ustranenie-problem-s-rasshireniyami-temami-i-appar">Устранение проблем с расширениями, темами и аппаратным ускорением для решения типичных проблем в Firefox</a>.
+</li><li>Прочитайте информацию о  <a href="/ru/kb/nastrojka-firefox-s-pomoshyu-dopolnenij#w_reshenie-problem-s-dopolneniiami">решении проблем с дополнениями</a> для получения дополнительной помощи.
+</li></ul>
+    
+  </section>
+
+      
+      
+        <p class="share-link">
+          <br/>
+          
+          Поделитесь этой статьёй: <a href="http://mzl.la/1xKrBZF">http://mzl.la/1xKrBZF</a>
+        </p>
+      
+    </article>
+
+    <section class="sumo-page-section hide-on-large">
+      
+    
+  
+  
+    <div class="document-vote elevation-01 text-center">
+      <form class="document-vote--form helpful" action="/ru/kb/udalenie-dopolnenij/vote" method="post">
+          <input type='hidden' name='csrfmiddlewaretoken' value='ZX4ydZqWfJ2yDiRlk340vXibjx35RUZhch4Nis2fCeDErL7pqUxEiKyL7lKscYUa' />
+          <h4 class="document-vote--heading">Помогла ли эта статья?</h4>
+          <div class="document-vote--buttons">
+            <input type="hidden" name="revision_id" value="256252" />
+            <input type="hidden" name="source" value="footer" />
+            <button type="submit" class="btn helpful-button" name="helpful"><span class="hidden-text">Да</span>👍</button>
+            <button type="submit" class="btn not-helpful-button" name="not-helpful"><span class="hidden-text">Нет</span>👎</button>
+            <img class="wait" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/spinner.18d6c26adc937688.gif" alt="Пожалуйста, подождите..." />
+          </div>
+      </form>
+    </div>
+  
+    </section>
+
+    <section id="doc-contributors" class="document--contributors sumo-page-section">
+    <p class="help-title text-body-md">Эти прекрасные люди помогли написать эту статью:</p> <div class="document--contributors-list text-body-xs"><a class="user secondary-color" rel="nofollow" href="/ru/user/Unghost/">Unghost</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/kostynru/">Shelko Kostya</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/harrierr/">Harry</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/Anticisco/">Anticisco Freeman</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/Goudron/">Valery Ledovskoy</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/SwanMr.pound/">SwanMr.pound</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/BychekRU/">Victor Bychek</a></div>
+  </section>
+
+    <section class="sumo-page-section">
+      <div class="card card--callout is-full-width has-moz-headings">
+  <div class="card--callout-wrap-narrow">
+    <img class="card--feature-img" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/volunteer.a3be8d331849774b.png" alt="Illustration of hands" />
+    <div class="card--details">
+      <h3 class="card--title">Станьте волонтёром</h3>
+      <p class="card--desc">Растите и делитесь опытом с другими. Отвечайте на вопросы и улучшайте нашу базу знаний.</p>
+      <p class="card--desc"><strong><a href="/ru/contribute">Подробнее</a></strong></p>
+    </div>
+  </div>
+</div>
+    </section>
+
+    
+  </section>
+
+      </main>
+    </div>
+  </div>
+  
+</div>
+
+
+<footer class="mzp-c-footer">
+  <div class="mzp-l-content">
+    <nav class="mzp-c-footer-primary">
+      <div class="mzp-c-footer-cols">
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Mozilla</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://www.mozilla.org/en-US/about/legal/fraud-report/">Сообщить о злоупотреблении торговой маркой</a></li>
+            <li><a href="https://github.com/mozilla/kitsune/">Исходный код</a></li>
+            <li><a href="https://twitter.com/firefox">Твиттер</a></li>
+            <li><a href="/ru/contribute">Присоединяйтесь к нашему сообществу</a></li>
+            <li><a href="/ru/">Ознакомьтесь с нашими статьями справки</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Firefox</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Загрузить</a></li>
+            <li><a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Firefox для компьютера</a></li>
+            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Браузер для Android</a></li>
+            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Браузер для iOS</a></li>
+            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Браузер Focus</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Firefox для разработчиков</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Developer Edition</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#beta">Бета</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/android/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#beta">Бета для Android</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#nightly">Nightly</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/channel/android/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#nightly">Nightly для Android</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col">
+          <h5 class="mzp-c-footer-heading">Аккаунты Firefox</h5>
+          <ul class="mzp-c-footer-list">
+            <li><a rel="nofollow" href="/ru/users/auth">Войти/Зарегистрироваться</a></li>
+            <li><a href="https://www.mozilla.org/en-US/firefox/accounts/">Преимущества</a></li>
+            <li class="mzp-c-footer-heading"><br><a href="https://fpn.firefox.com/">Firefox Private Network</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-col lang-col">
+          <form class="mzp-c-language-switcher" method="get" action="#">
+            <a class="mzp-c-language-switcher-link" href="https://www.mozilla.org/locales/">Язык</a>
+            <label for="mzp-c-language-switcher-select">Язык</label>
+            <select id="mzp-c-language-switcher-select" class="mzp-js-language-switcher-select"
+             name="lang">
+              
+                  <option value="af" >Afrikaans</option>
+              
+                  <option value="ar" >عربي</option>
+              
+                  <option value="az" >Azərbaycanca</option>
+              
+                  <option value="bg" >Български</option>
+              
+                  <option value="bm" >Bamanankan</option>
+              
+                  <option value="bn" >বাংলা</option>
+              
+                  <option value="bs" >Bosanski</option>
+              
+                  <option value="ca" >català</option>
+              
+                  <option value="cs" >Čeština</option>
+              
+                  <option value="da" >Dansk</option>
+              
+                  <option value="de" >Deutsch</option>
+              
+                  <option value="ee" >Èʋegbe</option>
+              
+                  <option value="el" >Ελληνικά</option>
+              
+                  <option value="en-US" >English</option>
+              
+                  <option value="es" >Español</option>
+              
+                  <option value="et" >eesti keel</option>
+              
+                  <option value="eu" >Euskara</option>
+              
+                  <option value="fa" >فارسی</option>
+              
+                  <option value="fi" >suomi</option>
+              
+                  <option value="fr" >Français</option>
+              
+                  <option value="fy-NL" >Frysk</option>
+              
+                  <option value="ga-IE" >Gaeilge (Éire)</option>
+              
+                  <option value="gl" >Galego</option>
+              
+                  <option value="gn" >Avañe&#39;ẽ</option>
+              
+                  <option value="gu-IN" >ગુજરાતી</option>
+              
+                  <option value="ha" >هَرْشَن هَوْسَ</option>
+              
+                  <option value="he" >עברית</option>
+              
+                  <option value="hi-IN" >हिन्दी (भारत)</option>
+              
+                  <option value="hr" >Hrvatski</option>
+              
+                  <option value="hu" >Magyar</option>
+              
+                  <option value="dsb" >Dolnoserbšćina</option>
+              
+                  <option value="hsb" >Hornjoserbsce</option>
+              
+                  <option value="id" >Bahasa Indonesia</option>
+              
+                  <option value="ig" >Asụsụ Igbo</option>
+              
+                  <option value="it" >Italiano</option>
+              
+                  <option value="ja" >日本語</option>
+              
+                  <option value="ka" >ქართული</option>
+              
+                  <option value="km" >ខ្មែរ</option>
+              
+                  <option value="kn" >ಕನ್ನಡ</option>
+              
+                  <option value="ko" >한국어</option>
+              
+                  <option value="ln" >Lingála</option>
+              
+                  <option value="lt" >lietuvių kalba</option>
+              
+                  <option value="mg" >Malagasy</option>
+              
+                  <option value="mk" >Македонски</option>
+              
+                  <option value="ml" >മലയാളം</option>
+              
+                  <option value="ms" >Bahasa Melayu</option>
+              
+                  <option value="ne-NP" >नेपाली</option>
+              
+                  <option value="nl" >Nederlands</option>
+              
+                  <option value="no" >Norsk</option>
+              
+                  <option value="pl" >Polski</option>
+              
+                  <option value="pt-BR" >Português (do Brasil)</option>
+              
+                  <option value="pt-PT" >Português (Europeu)</option>
+              
+                  <option value="ro" >română</option>
+              
+                  <option value="ru" selected>Русский</option>
+              
+                  <option value="si" >සිංහල</option>
+              
+                  <option value="sk" >slovenčina</option>
+              
+                  <option value="sl" >slovenščina</option>
+              
+                  <option value="sq" >Shqip</option>
+              
+                  <option value="sr" >Српски</option>
+              
+                  <option value="sw" >Kiswahili</option>
+              
+                  <option value="sv" >Svenska</option>
+              
+                  <option value="ta" >தமிழ்</option>
+              
+                  <option value="ta-LK" >தமிழ் (இலங்கை)</option>
+              
+                  <option value="te" >తెలుగు</option>
+              
+                  <option value="th" >ไทย</option>
+              
+                  <option value="tn" >Setswana</option>
+              
+                  <option value="tr" >Türkçe</option>
+              
+                  <option value="uk" >Українська</option>
+              
+                  <option value="ur" >اُردو</option>
+              
+                  <option value="vi" >Tiếng Việt</option>
+              
+                  <option value="wo" >Wolof</option>
+              
+                  <option value="xh" >isiXhosa</option>
+              
+                  <option value="yo" >èdè Yorùbá</option>
+              
+                  <option value="zh-CN" >中文 (简体)</option>
+              
+                  <option value="zh-TW" >正體中文 (繁體)</option>
+              
+                  <option value="zu" >isiZulu</option>
+              
+            </select>
+            <!-- form submit button is shown when JavaScript is not enabled -->
+            <button type="submit">Перейти</button>
+          </form>
+          <ul class="mzp-c-footer-links-social">
+            <li><a class="twitter" href="https://twitter.com/firefox">Twitter<span>(@firefox)</span></a></li>
+            <li><a class="youtube" href="https://www.youtube.com/firefoxchannel">YouTube<span> (firefoxchannel)</span></a></li>
+            <li><a class="instagram" href="https://www.instagram.com/firefox">Instagram<span> (firefox)</span></a></li>
+          </ul>
+        </section>
+
+      </div>
+    </nav>
+
+    <nav class="mzp-c-footer-secondary">
+      <div class="mzp-c-footer-link-col">
+        <div class="mzp-c-footer-primary-logo"><a href="https://www.mozilla.org/">Mozilla</a></div>
+        <div class="mzp-c-footer-legal">
+          <ul>
+            <li><a href="https://www.mozilla.org/">mozilla.org</a></li>
+            <li><a href="https://www.mozilla.org/about/legal/terms/mozilla/">Условия службы</a></li>
+            <li><a href="https://www.mozilla.org/privacy/websites/">Приватность</a></li>
+            <li><a href="https://www.mozilla.org/privacy/websites/#cookies">Куки</a></li>
+            <li><a href="https://www.mozilla.org/en-US/contact/">Контакты</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="mzp-c-footer-legal-col">
+        <p>
+          Посетите сайт некоммерческой <a href="https://foundation.mozilla.org" rel="external noopener" data-link-type="footer" data-link-name="Mozilla Foundation">Mozilla Foundation</a> — родительской компании для <a href="https://www.mozilla.org" rel="external noopener" data-link-type="footer" data-link-name="Mozilla Corporation">Mozilla Corporation</a>.
+        </p>
+        <p>
+          Части этого содержимого созданы участниками проекта mozilla.org ©1998–2023. Содержимое доступно на условиях <a rel="external noopener" href="https://www.mozilla.org/foundation/licensing/website-content/">лицензии Creative Commons</a>.
+        </p>
+      </div>
+    </nav>
+  </div>
+</footer>
+
+  
+    <script src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/jsi18n/ru/djangojs-min.js"></script>
+  
+
+
+
+
+</body>
+</html>
