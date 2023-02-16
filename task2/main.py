@@ -3,6 +3,7 @@ import spacy
 from spacy.symbols import ORTH
 from pathlib import Path
 from collections import defaultdict
+import io
 
 if __name__ == '__main__':
     # load model
@@ -25,7 +26,7 @@ if __name__ == '__main__':
     for filename in files:
         it += 1
         print(str(it) + ": " + str(filename))
-        with open(filename) as file:
+        with io.open(filename, encoding='utf-8') as file:
             for line in file.readlines():
                 doc = nlp(line)
                 for token in doc:
