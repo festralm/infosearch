@@ -6,7 +6,7 @@
 
 #### Результат
 
-`task/pages/` и `task/index.txt`
+`task1/pages/` и `task1/index.txt`
 
 #### Запуск
 
