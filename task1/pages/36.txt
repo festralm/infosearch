@@ -1,0 +1,1615 @@
+
+    
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#" dir=ltr>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title lang="ru">Изменение настроек веб-сайтов в Safari на компьютере Mac - Служба поддержки Apple (RU)</title>
+	<link rel="dns-prefetch" href="https://www.apple.com/" />
+	<link rel="preconnect" href="https://www.apple.com/" crossorigin />
+	<link rel="canonical" href="https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/mac" />
+	
+	
+		<meta name="description" content="В Safari на Mac можно настроить способы работы с определенным веб-сайтом." />
+		<meta property="og:url" content="https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/14.0/mac/11.0" />
+		<meta property="og:title" content="Изменение настроек веб-сайтов в Safari на компьютере Mac" />
+		<meta property="og:description" content="В Safari на Mac можно настроить способы работы с определенным веб-сайтом." />
+		<meta property="og:site_name" content="Apple Support" />
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:type" content="article" />
+		<meta name="ac-gn-search-field[locale]" content="ru_RU" />
+	
+
+	
+		   
+				<meta name="robots" content="none" />
+			
+	
+	
+	
+	
+
+	
+		<link rel="stylesheet" href="https://support.apple.com/clientside/build/apd-sasskit.built.css" type="text/css" />
+	
+		<link rel="stylesheet" href="https://support.apple.com/clientside/build/app-apd.css" type="text/css" />
+	
+		<link rel="stylesheet" href="https://www.apple.com/ac/globalfooter/3/ru_RU/styles/ac-globalfooter.built.css" type="text/css" />
+	
+		<link rel="stylesheet" href="//www.apple.com/wss/fonts?families&#x3D;SF+Pro,v1:200,300,400,500,600|SF+Pro+Icons,v1" type="text/css" />
+	
+
+	<script>
+ 
+    var _applemd = {
+        page: {
+            site_section: "kb",
+            content_type: "bk",
+            info_type: "",
+            topics: "",
+            in_house: "",
+            locale: "ru-ru",
+            
+                content_template: "topic",
+            
+            friendly_content: {
+                title: `Руководство пользователя Safari`,
+                publish_date: "03142022",
+                
+                    topic_id:   "IBRWE2159F50",
+                    article_id        :   "BK_8A597463053FEC8D558BA2C6E2543A72_IBRWE2159F50",
+                    product_version   :   "safari, 14.0",
+                    os_version        :   "macOS Big Sur 11.0, 11.0",
+                    article_version   :   "1"
+                
+            },
+            
+            
+        },
+        
+            product: "safari"
+        
+    };
+    
+
+</script>
+
+	
+	<script>
+		var data = {	
+			showHelpFulfeedBack: true,
+			id: "BK_8A597463053FEC8D558BA2C6E2543A72_IBRWE2159F50",
+			locale: "ru_RU",
+			podCookie: "ru~ru",
+			source : "",
+			isBlack: false,
+			dtmPageSource: "topic",
+			domain: "support.apple.com",
+			isNeighborJsEnabled: true,
+            dtmPageName: "acs.pageload"
+		}
+		window.appState = JSON.stringify(data);
+	</script>
+	 
+		<script src="/clientside/build/nn.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    
+     var neighborInitData = {
+        appDataSchemaVersion: '1.0.0',
+        webVitalDataThrottlingPercentage: 100,
+        reportThrottledWebVitalDataTypes: ['system:dom-content-loaded', 'system:load', 'system:unfocus', 'system:focus', 'system:unload', 'system:page-hide', 'system:visibility-change-visible', 'system:visibility-change-hidden', 'system:event', 'app:load', 'app:unload', 'app:event'],
+        trackMarcomSearch: true,
+        trackSurvey: true,
+        endpoint: 'https://supportmetrics.apple.com/content/services/stats'
+    }
+
+</script>
+	
+</head>
+
+
+	<body id="ibrwe2159f50" dir="ltr" data-istaskopen="true" lang="ru" class="ac-gn-current-support no-js AppleTopic apd-topic dark-mode-enabled" data-designversion="2" itemscope
+		itemtype="https://schema.org/TechArticle">
+
+    
+	
+
+
+
+
+
+        <meta name="ac-gn-store-key" content="S2A49YFKJF2JAT22K" /><meta name="ac-gn-search-action" content="https://support.apple.com/kb/index" /><meta name="ac-gn-search-input" content="q" /><meta name="ac-gn-search-field[src]" content="globalnav_support" /><meta name="ac-gn-search-field[type]" content="organic" /><meta name="ac-gn-search-field[page]" content="search" /><meta name="ac-gn-search-field[locale]" content="ru_RU" /><link rel="stylesheet" type="text/css" href="https://www.apple.com/ac/globalnav/7/ru_RU/styles/ac-globalnav.built.css"><aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="ru-RU" dir="ltr" data-strings="{ 'exit': 'Выход', 'view': '{%STOREFRONT%} Главная страница Магазина', 'segments': { 'smb': '', 'eduInd': 'Главная страница Магазина для образования', 'other': 'Главная страница Магазина' } }"></aside><input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" /><nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Глобальная навигация" data-hires="false" data-analytics-region="global nav" lang="ru-RU" dir="ltr" data-www-domain="www.apple.com" data-store-locale="ru" data-store-root-path="/ru" data-store-api="https://www.apple.com/[storefront]/shop/bag/status" data-search-locale="ru_RU" data-search-locale="ru_RU" data-search-suggestions-api="https://www.apple.com/search-services/suggestions/" data-search-defaultlinks-api="https://www.apple.com/search-services/suggestions/defaultlinks/"><div class="ac-gn-content"><ul class="ac-gn-header"><li class="ac-gn-item ac-gn-menuicon"><a href="#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"><span class="ac-gn-menuanchor-label">Global Nav Открыть меню</span></a><a href="#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"><span class="ac-gn-menuanchor-label">Global Nav Закрыть меню</span></a><label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span></span><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span></span></label></li><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/ru/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"><div class="ac-gn-bag-wrapper"><a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/ru/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Корзина" data-string-badge="Товаров в корзине:"><span class="ac-gn-link-text">Корзина</span></a><span class="ac-gn-bag-badge" aria-hidden="true" data-analytics-title="bag" data-analytics-click="bag"><span class="ac-gn-bag-badge-separator"></span><span class="ac-gn-bag-badge-number"></span><span class="ac-gn-bag-badge-unit">+</span></span></div><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><div class="ac-gn-search-placeholder-container" role="search"><div class="ac-gn-search ac-gn-search-small"><a id="ac-gn-link-search-small" class="ac-gn-link" href="https://support.apple.com/kb/index?page=search&locale=ru_RU" data-analytics-title="search" data-analytics-intrapage-link aria-label="Поиск по ресурсам службы поддержки"><div class="ac-gn-search-placeholder-bar"><div class="ac-gn-search-placeholder-input"><div class="ac-gn-search-placeholder-input-text" aria-hidden="true"><div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div><span class="ac-gn-search-placeholder">Поиск по ресурсам службы поддержки</span></div></div><div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">Отменить</span></div></div></a></div></div><ul class="ac-gn-list"><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/ru/" data-analytics-title="apple home" id="ac-gn-firstfocus"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-store"><a class="ac-gn-link ac-gn-link-store" href="https://www.apple.com/ru/shop/goto/store" data-analytics-title="store"><span class="ac-gn-link-text">Магазин</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-mac"><a class="ac-gn-link ac-gn-link-mac" href="https://www.apple.com/ru/mac/" data-analytics-title="mac"><span class="ac-gn-link-text">Mac</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"><a class="ac-gn-link ac-gn-link-ipad" href="https://www.apple.com/ru/ipad/" data-analytics-title="ipad"><span class="ac-gn-link-text">iPad</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"><a class="ac-gn-link ac-gn-link-iphone" href="https://www.apple.com/ru/iphone/" data-analytics-title="iphone"><span class="ac-gn-link-text">iPhone</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-watch"><a class="ac-gn-link ac-gn-link-watch" href="https://www.apple.com/ru/watch/" data-analytics-title="watch"><span class="ac-gn-link-text">Watch</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-airpods"><a class="ac-gn-link ac-gn-link-airpods" href="https://www.apple.com/ru/airpods/" data-analytics-title="airpods"><span class="ac-gn-link-text">AirPods</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-tvhome"><a class="ac-gn-link ac-gn-link-tvhome" href="https://www.apple.com/ru/tv-home/" data-analytics-title="tv and home"><span class="ac-gn-link-text">TV и Дом</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-onlyonapple"><a class="ac-gn-link ac-gn-link-onlyonapple" href="https://www.apple.com/ru/services/" data-analytics-title="only on apple"><span class="ac-gn-link-text">Только в Apple</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-accessories"><a class="ac-gn-link ac-gn-link-accessories" href="https://www.apple.com/ru/shop/goto/buy_accessories" data-analytics-title="accessories"><span class="ac-gn-link-text">Аксессуары</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-support"><a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com/ru-ru" data-analytics-title="support"><span class="ac-gn-link-text">Поддержка</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"><a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="https://support.apple.com/kb/index?page=search&locale=ru_RU" data-analytics-title="search" data-analytics-intrapage-link aria-label="Поиск по ресурсам службы поддержки"></a></li><li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"><div class="ac-gn-bag-wrapper"><a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/ru/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Корзина" data-string-badge="Товаров в корзине: {%BAGITEMCOUNT%}"><span class="ac-gn-link-text">Корзина</span></a><span class="ac-gn-bag-badge" aria-hidden="true" data-analytics-title="bag" data-analytics-click="bag"><span class="ac-gn-bag-badge-separator"></span><span class="ac-gn-bag-badge-number"></span><span class="ac-gn-bag-badge-unit">+</span></span></div><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"><div class="ac-gn-searchview-content"><div class="ac-gn-searchview-bar"><div class="ac-gn-searchview-bar-wrapper"><form id="ac-gn-searchform" class="ac-gn-searchform" action="https://www.apple.com/ru/search" method="get"><div class="ac-gn-searchform-wrapper"><input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="Поиск по ресурсам службы поддержки" placeholder="Поиск по ресурсам службы поддержки" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" /><input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" /><button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Отправить"> </button><button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Очистить поиск"><span class="ac-gn-searchform-reset-background"></span></button></div></form><button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="Отменить поиск"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">Отменить</span></button></div></div><aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Быстрые ссылки" data-string-suggestions="Предложенные варианты" data-string-noresults=""></aside></div><button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Отменить поиск"><span class="ac-gn-searchview-close-wrapper"><span class="ac-gn-searchview-close-left"></span><span class="ac-gn-searchview-close-right"></span></span></button></aside><aside class="ac-gn-bagview" data-analytics-region="bag"><div class="ac-gn-bagview-scrim"><span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span></div><div class="ac-gn-bagview-content" id="ac-gn-bagview-content"></div></aside></div></nav><div class="ac-gn-blur"></div><div id="ac-gn-curtain" class="ac-gn-curtain"></div><div id="ac-gn-placeholder" class="ac-nav-placeholder"></div><script type="text/javascript" src="https://www.apple.com/ac/globalnav/7/ru_RU/scripts/ac-globalnav.built.js"></script>
+
+
+		<div id="arabic-localnav">
+  <input type='checkbox' id='localnav-menustate' class='localnav-menustate' />
+    <nav
+      id='localnav-pattern'
+      class='localnav'
+      data-sticky
+      aria-label='Local Navigation'
+    >
+      <div class='localnav-wrapper' role='presentation'>
+        <div class='localnav-background'></div>
+        <div class='localnav-content' role='presentation'>
+            <span class='localnav-title'>
+            <a
+              href='https://support.apple.com/ru-ru/guide/safari/welcome/14.0/mac'
+              data-ss-analytics-link-component_name='support'
+              data-ss-analytics-link-component_type='local nav'
+              data-ss-analytics-link-text='Руководство пользователя Safari'
+              data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/welcome/14.0/mac'
+              data-ss-analytics-event='acs.link_click'
+            >Руководство пользователя Safari</a>
+          </span>
+          
+          <div class='localnav-menu' role='presentation'>
+            <a 
+              href="#localnav-menustate" role="button"
+              class='localnav-menucta-anchor localnav-menucta-anchor-open'
+              id='localnav-menustate-open'
+            >
+              <span class='localnav-menucta-anchor-label'>
+              Открыть меню
+              </span>
+            </a>
+            <a 
+              href='#localnav-menustate' role="button"
+              class='localnav-menucta-anchor localnav-menucta-anchor-close'
+              id='localnav-menustate-close'
+            >
+              <span class='localnav-menucta-anchor-label'>
+              Закрыть меню
+              </span>
+            </a>
+            <div class='localnav-menu-tray' role='presentation'>
+              <ul class='localnav-menu-items'>
+                <li class='localnav-menu-item'>
+                  <a
+                    href='https://discussions.apple.com/welcome'
+                    class='localnav-menu-link'
+                    data-ss-analytics-link-component_name='support'
+                    data-ss-analytics-link-component_type='local nav'
+                    data-ss-analytics-link-text='Сообщества'
+                    data-ss-analytics-link-url='https://discussions.apple.com/welcome'
+                    data-ss-analytics-event='acs.link_click'
+                  > Сообщества</a>
+                </li>
+                <li class='localnav-menu-item'>
+                  <a
+                    href='https://support.apple.com/ru-ru/contact'
+                    class='localnav-menu-link'
+                    data-ss-analytics-link-component_name='support'
+                    data-ss-analytics-link-component_type='local nav'
+                    data-ss-analytics-link-text='Обращение в службу поддержки'
+                    data-ss-analytics-link-url='https://support.apple.com/ru-ru/contact'
+                    data-ss-analytics-event='acs.link_click'
+                  >Обращение в службу поддержки</a>
+                </li>
+              </ul>
+            </div>
+            <div class='localnav-actions'>
+              <div class='localnav-action localnav-action-menucta' aria-hidden='true'>
+                <label for='localnav-menustate' class='localnav-menucta'>
+                  <span class='localnav-menucta-chevron' ></span>
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <label id='localnav-curtain' class='localnav-curtain' htmlFor='localnav-menustate' ></label>
+  </div>
+
+	
+		<div class='main' role='main' dir=ltr id="arabic">
+			
+				
+					<section class='book topic-search'>
+						
+<div id='book-version' class='book-version-name'>
+	<section class='nojs-version-name' id='nojs-version-name'>
+		
+		<div class='nojs-version-name-links'>
+				<a href='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.1/mac/13.0'> macOS Ventura 13 </a>
+		</div>
+		
+		<div class='nojs-version-name-links'>
+				<a href='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.0/mac/12.0'> macOS Monterey 12 </a>
+		</div>
+		
+		<div class='nojs-version-name-links'>
+				<a href='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.0/mac/11.0'> macOS Big Sur 11.0 </a>
+		</div>
+		
+		<div class='nojs-version-name-links'>
+				<a href='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/13.0/mac/10.15'> macOS Catalina 10.15 </a>
+		</div>
+		
+		<div class='nojs-version-name-links'>
+				<a href='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/12.0/mac/10.14'> macOS Mojave 10.14 </a>
+		</div>
+		
+		<div class='nojs-version-name-links'>
+				<a href='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/11.0/mac/10.13'> macOS High Sierra </a>
+		</div>
+		
+	</section>
+
+	<section class='book book-version'>
+      <label class='form-block-label' for='version-dropdown'>
+		  Выберите версию:
+      </label>
+
+      <div class='form-element'>
+        <select
+          class='form-dropdown'
+          id='version-dropdown'
+          aria-describedby='helpText'
+          data-ignore-tracking='true'>
+          	
+			  <option
+					
+					data-ss-analytics-link-component_name='version'
+					data-ss-analytics-link-component_type='select'
+					data-ss-analytics-event="acs.link_click"
+					data-ss-analytics-link-text="macOS Ventura 13"
+					data-direct-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.1/mac/13.0'
+					data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.1/mac/13.0'
+				>
+					macOS Ventura 13
+				</option>
+		  	
+			  <option
+					
+					data-ss-analytics-link-component_name='version'
+					data-ss-analytics-link-component_type='select'
+					data-ss-analytics-event="acs.link_click"
+					data-ss-analytics-link-text="macOS Monterey 12"
+					data-direct-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.0/mac/12.0'
+					data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.0/mac/12.0'
+				>
+					macOS Monterey 12
+				</option>
+		  	
+			  <option
+					
+					data-ss-analytics-link-component_name='version'
+					data-ss-analytics-link-component_type='select'
+					data-ss-analytics-event="acs.link_click"
+					data-ss-analytics-link-text="macOS Big Sur 11.0"
+					data-direct-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.0/mac/11.0'
+					data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/16.0/mac/11.0'
+				>
+					macOS Big Sur 11.0
+				</option>
+		  	
+			  <option
+					
+					data-ss-analytics-link-component_name='version'
+					data-ss-analytics-link-component_type='select'
+					data-ss-analytics-event="acs.link_click"
+					data-ss-analytics-link-text="macOS Catalina 10.15"
+					data-direct-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/13.0/mac/10.15'
+					data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/13.0/mac/10.15'
+				>
+					macOS Catalina 10.15
+				</option>
+		  	
+			  <option
+					
+					data-ss-analytics-link-component_name='version'
+					data-ss-analytics-link-component_type='select'
+					data-ss-analytics-event="acs.link_click"
+					data-ss-analytics-link-text="macOS Mojave 10.14"
+					data-direct-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/12.0/mac/10.14'
+					data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/12.0/mac/10.14'
+				>
+					macOS Mojave 10.14
+				</option>
+		  	
+			  <option
+					
+					data-ss-analytics-link-component_name='version'
+					data-ss-analytics-link-component_type='select'
+					data-ss-analytics-event="acs.link_click"
+					data-ss-analytics-link-text="macOS High Sierra"
+					data-direct-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/11.0/mac/10.13'
+					data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/11.0/mac/10.13'
+				>
+					macOS High Sierra
+				</option>
+		  	
+        </select>
+        <span class='form-icon icon icon-chevrondown' aria-hidden='true' ></span>
+      </div>
+      <div id='helpText' class='none'>При изменении этого элемента управления страница автоматически обновится</div>
+    </section>
+
+</div>
+
+
+						<div id='searchBar-container'>
+							<section class="as-search">
+  <div class="as-search-content">
+    <div class="row">
+      
+      <form
+        action="/kb/index"
+        method="get"
+        id="as-search-form"
+        aria-label="Руководство пользователя Safari"
+        class="as-search-form"
+        data-suggestions-endpoint="https://www.apple.com/search-services/suggestions/"
+        data-no-results-hint-text="Нажмите «Ввод», чтобы начать поиск"
+        data-quick-links-heading="Быстрые ссылки"
+        data-suggested-results-heading="Предложенные варианты поиска"
+        onsubmit="return false;"
+      >
+      
+        <input type="hidden" name="page" value="search" />
+        <input type="hidden" name="src" id="src" value="support_book_topic" />
+        <input
+          type="hidden"
+          name="locale"
+          id="as-search-locale"
+          value="ru_RU"
+        />
+        
+        
+          <input type="hidden" name="bookid" value="8a597463053fec8d558ba2c6e2543a72" />
+          <input type="hidden" name="rurl" value="https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/14.0/mac/11.0" />
+          <input type="hidden" name="title" value="Руководство пользователя Safari" />
+        
+        <label for="as-search-input" class="hidden">
+          Поиск по этому руководству
+        </label>
+         
+          <input
+                 autocomplete="off"
+                 class="as-search-form-input"
+                 id="as-search-input"
+                 placeholder="Поиск по этому руководству"
+                 name="query"
+                 spellcheck="false"
+                 type="text"
+                 value=""
+         />
+        <button
+          class="as-search-form-submit"
+          type="submit"
+          aria-label="Выполнить поиск"
+        >
+        </button>
+        <button id="as-search-close" class="as-search-form-reset" type="reset">
+          <span class="hidden">
+              Очистить результаты поиска
+          </span>
+        </button>
+        
+        
+        </form>
+      
+    </div>
+
+    <div class="row">
+					<div class="as-search-suggestions " id="as-search-suggestions-wrapper" aria-expanded="false">
+						<span role="status" class="hidden" aria-live="polite"></span>
+						<section class="as-search-results-section as-search-results-section-quicklinks">
+						<!-- handlebar template goes here-->
+						</section>
+						<section class="as-search-results-section-divider-space">
+						<!-- handlebar template goes here-->
+						</section>
+						<section class=" as-search-results-section as-search-results-section-suggestions">
+						<!-- handlebar template goes here-->
+						</section>
+						<section class="as-search-results-section-no-results">
+						<!-- handlebar template goes here-->
+						</section>
+					</div>
+				</div>
+  </div>
+</section>
+
+						</div>
+					</section>
+				
+			
+			<div id="toc-section-wrapper">
+				
+
+
+<div id="toc-container" class="toc-container">
+  
+    <div class="book book-toc" id="toc-title-link">
+  <a
+    href="https://support.apple.com/ru-ru/guide/safari/toc/14.0"
+    id="toc-link"
+    class="icon icon-after icon-pluscircle toggle-toc"
+    role="button"
+    data-ss-analytics-link-component_name="table of contents"
+    data-ss-analytics-link-component_type="toc"
+    data-ss-analytics-link-text="launch=table of contents"
+    data-ss-analytics-event="acs.link_click"
+  >
+    <span class="toc-link-text">Оглавление</span>
+  </a>
+</div>
+  
+</div>
+
+
+			</div>
+            
+			<div id='toc-hidden-content'>
+				<div id="modal-toc-container" class="modal-content">
+    <h2 id='modal-heading' class="modal-heading">Руководство пользователя Safari</h2>
+    <ul class='toc hasIcons'>
+		    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Добро пожаловать!'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/welcome/mac'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/welcome/mac'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/welcome/mac'
+            id='toc-item-IBRW298EC077'
+            data-tocid='IBRW298EC077'
+            
+        >
+            <span class='name'>Добро пожаловать!</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Начало работы'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRWC979E25C'
+        onClick=''
+        >
+            <span class='name'>Начало работы</span>
+        </button>
+        <ul id='node-children-IBRWC979E25C' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Изменение домашней страницы'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1020/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1020/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1020/14.0/mac/11.0'
+            id='toc-item-IBRW1020'
+            data-tocid='IBRW1020'
+            
+        >
+            <span class='name'>Изменение домашней страницы</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Импорт закладок, истории и паролей'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1015/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1015/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1015/14.0/mac/11.0'
+            id='toc-item-IBRW1015'
+            data-tocid='IBRW1015'
+            
+        >
+            <span class='name'>Импорт закладок, истории и паролей</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Как сделать Safari браузером по умолчанию'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwa008/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrwa008/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrwa008/14.0/mac/11.0'
+            id='toc-item-IBRWA008'
+            data-tocid='IBRWA008'
+            
+        >
+            <span class='name'>Как сделать Safari браузером по умолчанию</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Просмотр веб-сайтов'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRWDCC86085'
+        onClick=''
+        >
+            <span class='name'>Просмотр веб-сайтов</span>
+        </button>
+        <ul id='node-children-IBRWDCC86085' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Переход к веб-сайтам'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1005/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1005/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1005/14.0/mac/11.0'
+            id='toc-item-IBRW1005'
+            data-tocid='IBRW1005'
+            
+        >
+            <span class='name'>Переход к веб-сайтам</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Поиск информации'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfrid73436cb/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfrid73436cb/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfrid73436cb/14.0/mac/11.0'
+            id='toc-item-SFRID73436CB'
+            data-tocid='SFRID73436CB'
+            
+        >
+            <span class='name'>Поиск информации</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Создание закладок для страниц, к которым нужно вернуться'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1039/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1039/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1039/14.0/mac/11.0'
+            id='toc-item-IBRW1039'
+            data-tocid='IBRW1039'
+            
+        >
+            <span class='name'>Создание закладок для страниц, к которым нужно вернуться</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Просмотр любимых веб-сайтов'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri22092/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri22092/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri22092/14.0/mac/11.0'
+            id='toc-item-SFRI22092'
+            data-tocid='SFRI22092'
+            
+        >
+            <span class='name'>Просмотр любимых веб-сайтов</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Использование вкладок для веб-страниц'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri11576/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri11576/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri11576/14.0/mac/11.0'
+            id='toc-item-SFRI11576'
+            data-tocid='SFRI11576'
+            
+        >
+            <span class='name'>Использование вкладок для веб-страниц</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Закрепление вкладок часто посещаемых веб-сайтов'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw0495694f/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw0495694f/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw0495694f/14.0/mac/11.0'
+            id='toc-item-IBRW0495694F'
+            data-tocid='IBRW0495694F'
+            
+        >
+            <span class='name'>Закрепление вкладок часто посещаемых веб-сайтов</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Воспроизведение видео на веб-сайтах'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw27291639/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw27291639/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw27291639/14.0/mac/11.0'
+            id='toc-item-IBRW27291639'
+            data-tocid='IBRW27291639'
+            
+        >
+            <span class='name'>Воспроизведение видео на веб-сайтах</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Отключение звука на вкладках'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwae910b47/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrwae910b47/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrwae910b47/14.0/mac/11.0'
+            id='toc-item-IBRWAE910B47'
+            data-tocid='IBRWAE910B47'
+            
+        >
+            <span class='name'>Отключение звука на вкладках</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Совершение покупок в интернете'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRW8EB4666F'
+        onClick=''
+        >
+            <span class='name'>Совершение покупок в интернете</span>
+        </button>
+        <ul id='node-children-IBRW8EB4666F' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Оплата через Apple Pay'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw8e207504/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw8e207504/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw8e207504/14.0/mac/11.0'
+            id='toc-item-IBRW8E207504'
+            data-tocid='IBRW8E207504'
+            
+        >
+            <span class='name'>Оплата через Apple Pay</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Автозаполнение данных кредитной карты'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1103/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1103/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1103/14.0/mac/11.0'
+            id='toc-item-IBRW1103'
+            data-tocid='IBRW1103'
+            
+        >
+            <span class='name'>Автозаполнение данных кредитной карты</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Автозаполнение контактной информации'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwa6be5a8e/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrwa6be5a8e/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrwa6be5a8e/14.0/mac/11.0'
+            id='toc-item-IBRWA6BE5A8E'
+            data-tocid='IBRWA6BE5A8E'
+            
+        >
+            <span class='name'>Автозаполнение контактной информации</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Чтение статей'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRWF52AEDAB'
+        onClick=''
+        >
+            <span class='name'>Чтение статей</span>
+        </button>
+        <ul id='node-children-IBRWF52AEDAB' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Использование списка для чтения'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri35905/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri35905/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri35905/14.0/mac/11.0'
+            id='toc-item-SFRI35905'
+            data-tocid='SFRI35905'
+            
+        >
+            <span class='name'>Использование списка для чтения</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Удаление рекламы при чтении статей'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri32632/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri32632/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri32632/14.0/mac/11.0'
+            id='toc-item-SFRI32632'
+            data-tocid='SFRI32632'
+            
+        >
+            <span class='name'>Удаление рекламы при чтении статей</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Перевод веб‑страниц'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw646b2ca2/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw646b2ca2/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw646b2ca2/14.0/mac/11.0'
+            id='toc-item-IBRW646B2CA2'
+            data-tocid='IBRW646B2CA2'
+            
+        >
+            <span class='name'>Перевод веб‑страниц</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Загрузка, экспорт и сохранение контента'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRW201DC86D'
+        onClick=''
+        >
+            <span class='name'>Загрузка, экспорт и сохранение контента</span>
+        </button>
+        <ul id='node-children-IBRW201DC86D' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Загрузка объектов с веб-страниц'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri40598/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri40598/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri40598/14.0/mac/11.0'
+            id='toc-item-SFRI40598'
+            data-tocid='SFRI40598'
+            
+        >
+            <span class='name'>Загрузка объектов с веб-страниц</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Отправка ссылок и публикация веб-страниц'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri40722/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri40722/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri40722/14.0/mac/11.0'
+            id='toc-item-SFRI40722'
+            data-tocid='SFRI40722'
+            
+        >
+            <span class='name'>Отправка ссылок и публикация веб-страниц</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Добавление подарочных карт, купонов и талонов в Wallet'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri40785/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri40785/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri40785/14.0/mac/11.0'
+            id='toc-item-SFRI40785'
+            data-tocid='SFRI40785'
+            
+        >
+            <span class='name'>Добавление подарочных карт, купонов и талонов в Wallet</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Сохранение части веб-страницы или всей веб-страницы целиком'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1089/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1089/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1089/14.0/mac/11.0'
+            id='toc-item-IBRW1089'
+            data-tocid='IBRW1089'
+            
+        >
+            <span class='name'>Сохранение части веб-страницы или всей веб-страницы целиком</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Печать веб-страницы или создание файла PDF на ее основе'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1060/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1060/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1060/14.0/mac/11.0'
+            id='toc-item-IBRW1060'
+            data-tocid='IBRW1060'
+            
+        >
+            <span class='name'>Печать веб-страницы или создание файла PDF на ее основе</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Индивидуальные настройки Safari'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRWC2A4C26F'
+        onClick=''
+        >
+            <span class='name'>Индивидуальные настройки Safari</span>
+        </button>
+        <ul id='node-children-IBRWC2A4C26F' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Настройка начальной страницы'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw01514823/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw01514823/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw01514823/14.0/mac/11.0'
+            id='toc-item-IBRW01514823'
+            data-tocid='IBRW01514823'
+            
+        >
+            <span class='name'>Настройка начальной страницы</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Настройка внешнего вида окна Safari'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1012/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1012/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1012/14.0/mac/11.0'
+            id='toc-item-IBRW1012'
+            data-tocid='IBRW1012'
+            
+        >
+            <span class='name'>Настройка внешнего вида окна Safari</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Настройка параметров для отдельных веб-сайтов'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw7f78f7fe/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw7f78f7fe/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw7f78f7fe/14.0/mac/11.0'
+            id='toc-item-IBRW7F78F7FE'
+            data-tocid='IBRW7F78F7FE'
+            
+        >
+            <span class='name'>Настройка параметров для отдельных веб-сайтов</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Увеличение веб-страниц'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1068/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1068/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1068/14.0/mac/11.0'
+            id='toc-item-IBRW1068'
+            data-tocid='IBRW1068'
+            
+        >
+            <span class='name'>Увеличение веб-страниц</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Установка расширений'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri32508/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri32508/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri32508/14.0/mac/11.0'
+            id='toc-item-SFRI32508'
+            data-tocid='SFRI32508'
+            
+        >
+            <span class='name'>Установка расширений</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <button
+        class='section'
+        data-ss-analytics-link-component_name='Руководство пользователя Safari'
+        data-ss-analytics-link-component_type='toc list'
+        data-ss-analytics-link-text='Конфиденциальность и безопасность'
+        data-ss-analytics-event="acs.link_click"
+        
+        aria-expanded='false'
+        
+        aria-controls='node-children-IBRW8586170F'
+        onClick=''
+        >
+            <span class='name'>Конфиденциальность и безопасность</span>
+        </button>
+        <ul id='node-children-IBRW8586170F' class='non-leaf-node-children'>
+			    
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Управление файлами cookie и данными веб-сайтов'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri11471/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri11471/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri11471/14.0/mac/11.0'
+            id='toc-item-SFRI11471'
+            data-tocid='SFRI11471'
+            
+        >
+            <span class='name'>Управление файлами cookie и данными веб-сайтов</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Блокировка всплывающих окон'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri40696/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri40696/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri40696/14.0/mac/11.0'
+            id='toc-item-SFRI40696'
+            data-tocid='SFRI40696'
+            
+        >
+            <span class='name'>Блокировка всплывающих окон</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Очистка журнала истории'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri47acf5d6/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri47acf5d6/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri47acf5d6/14.0/mac/11.0'
+            id='toc-item-SFRI47ACF5D6'
+            data-tocid='SFRI47ACF5D6'
+            
+        >
+            <span class='name'>Очистка журнала истории</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Конфиденциальный просмотр веб-сайтов'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw1069/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw1069/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw1069/14.0/mac/11.0'
+            id='toc-item-IBRW1069'
+            data-tocid='IBRW1069'
+            
+        >
+            <span class='name'>Конфиденциальный просмотр веб-сайтов</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Автозаполнение полей имени и пароля пользователя'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwf71ba236/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrwf71ba236/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrwf71ba236/14.0/mac/11.0'
+            id='toc-item-IBRWF71BA236'
+            data-tocid='IBRWF71BA236'
+            
+        >
+            <span class='name'>Автозаполнение полей имени и пароля пользователя</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Запрет перекрестного отслеживания'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri40732/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri40732/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri40732/14.0/mac/11.0'
+            id='toc-item-SFRI40732'
+            data-tocid='SFRI40732'
+            
+        >
+            <span class='name'>Запрет перекрестного отслеживания</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Просмотр отчета о конфиденциальности'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrw35004465/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrw35004465/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrw35004465/14.0/mac/11.0'
+            id='toc-item-IBRW35004465'
+            data-tocid='IBRW35004465'
+            
+        >
+            <span class='name'>Просмотр отчета о конфиденциальности</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+        </ul>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Изменение настроек Safari'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/ibrwcd8bc28e/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/ibrwcd8bc28e/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/ibrwcd8bc28e/14.0/mac/11.0'
+            id='toc-item-IBRWCD8BC28E'
+            data-tocid='IBRWCD8BC28E'
+            
+        >
+            <span class='name'>Изменение настроек Safari</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Сочетания клавиш и другие сокращения'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/cpsh003/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/cpsh003/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/cpsh003/14.0/mac/11.0'
+            id='toc-item-CPSH003'
+            data-tocid='CPSH003'
+            
+        >
+            <span class='name'>Сочетания клавиш и другие сокращения</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Устранение неполадок'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/sfri11861/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/sfri11861/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/sfri11861/14.0/mac/11.0'
+            id='toc-item-SFRI11861'
+            data-tocid='SFRI11861'
+            
+        >
+            <span class='name'>Устранение неполадок</span>
+        </a>
+    </li>
+
+
+
+    <li>
+        <a
+            data-ss-analytics-link-component_name='Руководство пользователя Safari'
+            data-ss-analytics-link-component_type='toc list'
+            data-ss-analytics-link-text='Авторские права'
+            class='toc-item'
+            data-ss-analytics-link-url='https://support.apple.com/ru-ru/guide/safari/apd2185d6ee5/14.0/mac/11.0'
+            data-ajax-endpoint='https://support.apple.com/ru-ru/guide/safari/apd2185d6ee5/14.0/mac/11.0'
+            data-ss-analytics-event="acs.link_click"
+            href='https://support.apple.com/ru-ru/guide/safari/apd2185d6ee5/14.0/mac/11.0'
+            id='toc-item-APD2185D6EE5'
+            data-tocid='APD2185D6EE5'
+            
+        >
+            <span class='name'>Авторские права</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+    </ul>
+</div>
+
+			</div>
+			
+
+			<div id='article-section-wrapper'>
+	<div id='article-section' role='presentation'>
+		<div class='AppleTopic apd-topic dark-mode-enabled book book-content'>
+			<div><body dir="ltr" id="ibrwe2159f50" class="AppleTopic apd-topic dark-mode-enabled" data-istaskopen="true" data-designversion="2" lang="ru"><a name="ibrwe2159f50"></a><figure class="topicIcon"><img src="https://help.apple.com/assets/61DC93F5E0C8F948D777EC35/61DC93F5E0C8F948D777EC3C/ru_RU/6846073fc6f766d1ad3f66ae757c5e24.png" alt="" height="30" width="30" originalImageName="SharedGlobalArt/AppIconTopic_Safari_11.png"></figure><h1>Изменение настроек веб-сайтов в Safari на компьютере Mac</h1><p>В приложении Safari <img src="https://help.apple.com/assets/61DC93F5E0C8F948D777EC35/61DC93F5E0C8F948D777EC3C/ru_RU/6846073fc6f766d1ad3f66ae757c5e24.png" alt="" height="30" width="30" originalImageName="SharedGlobalArt/AppIconTopic_Safari_11.png"> на компьютере Mac в разделе «Веб-сайты» можно настроить параметры просмотра отдельных веб-сайтов. Чтобы изменить эти настройки, выберите меню «Safari» &gt; «Настройки» и нажмите «Веб-сайты».</p><p>Параметры, которые можно настроить (например, режим «Для чтения» и правила блокирования контента) перечислены слева.</p><p>Чтобы применить настройки параметра для веб-сайта справа, необходимо выбрать этот параметр, а затем выбрать нужный вариант из всплывающего меню рядом с веб-сайтом.</p><p><a href="x-help-action://openApp?bundleId=com.apple.Safari" class="URL">Открыть Safari</a></p><div class="table-wrapper"><table data-type="Multicolumn" aria-label="Описания параметров в панели «Веб-сайты» в настройках Safari"><thead><tr><th colspan="4" scope="col"><p class="TableHead">Параметр</p></th><th colspan="8" scope="col"><p class="TableHead">Описание</p></th></tr></thead><tbody><tr><td colspan="4"><p>Для чтения</p></td><td colspan="8"><ul><li><p><em>Вкл.</em> Автоматически включать режим «Для чтения» в Safari, чтобы отображать статьи на веб-сайте без рекламы и других отвлекающих элементов.</p></li><li><p><em>Выкл.</em> По умолчанию не использовать «Для чтения» на этом сайте. (Можно включить режим «Для чтения» для отдельных статей на этом сайте вручную.)</p></li></ul></td></tr><tr><td colspan="4"><p>Правила блокирования контента</p></td><td colspan="8"><ul><li><p><em>Вкл.</em> Не показывать рекламу и другой нежелательный контент на сайте.</p></li><li><p><em>Выкл.</em> Не блокировать рекламу и другой нежелательный контент на сайте.</p></li></ul></td></tr><tr><td colspan="4"><p>Автовоспроизведение</p></td><td colspan="8"><ul><li><p><em>Всегда.</em> Все видео на сайте могут воспроизводиться автоматически.</p></li><li><p><em>Только для файлов без звука.</em> Только видео без звука будут воспроизводиться автоматически.</p></li><li><p><em>Никогда.</em> Видео не будут воспроизводиться автоматически.</p></li></ul></td></tr><tr><td colspan="4"><p>Масштаб страницы</p></td><td colspan="8"><p>Выбрать увеличение масштаба (в процентах), чтобы текст и изображения на сайте были лучше видны.</p></td></tr><tr><td colspan="4"><p>Камера</p></td><td colspan="8"><ul><li><p><em>Спрашивать.</em> Сайт должен запрашивать разрешение, чтобы использовать камеру на Mac.</p></li><li><p><em>Отказать.</em> Сайт не может использовать камеру.</p></li><li><p><em>Разрешить</em> Сайт всегда может использовать камеру.</p></li></ul></td></tr><tr><td colspan="4"><p>Микрофон</p></td><td colspan="8"><ul><li><p><em>Спрашивать.</em> Сайт должен запрашивать разрешение, чтобы использовать микрофон на Mac.</p></li><li><p><em>Отказать.</em> Сайт не может использовать микрофон.</p></li><li><p><em>Разрешить</em> Сайт всегда может использовать микрофон.</p></li></ul></td></tr><tr><td colspan="4"><p>Общий экран</p></td><td colspan="8"><ul><li><p><em>Спрашивать.</em> Сайт должен запрашивать разрешение, чтобы использовать камеру и микрофон на Mac.</p></li><li><p><em>Отказать.</em> Сайт не может использовать камеру и микрофон.</p></li></ul></td></tr><tr><td colspan="4"><p>Размещение</p></td><td colspan="8"><ul><li><p><em>Спрашивать.</em> Сайт должен запрашивать разрешение, чтобы использовать Вашу геопозицию.</p></li><li><p><em>Отказать.</em> Сайт не может использовать Вашу геопозицию.</p></li><li><p><em>Разрешить</em> Сайт всегда может использовать Вашу геопозицию.</p></li></ul></td></tr><tr><td colspan="4"><p>Загрузки</p></td><td colspan="8"><ul><li><p><em>Спрашивать.</em> Сайт должен запрашивать разрешение, чтобы начать загрузку.</p></li><li><p><em>Отказать.</em> Сайт не может выполнять загрузку на Ваше устройство.</p></li><li><p><em>Разрешить</em> Сайт всегда может выполнять загрузку на Ваше устройство.</p></li></ul></td></tr><tr><td colspan="4"><p>Уведомления</p></td><td colspan="8"><ul><li><p><em>Разрешить</em> Сайт всегда может отправлять Вам уведомления.</p></li><li><p><em>Отказать.</em> Сайт не может отправлять Вам уведомления.</p></li><li><p><em>Разрешить веб-сайтам запрашивать разрешение на отправку уведомлений.</em> При посещении веб-сайта, который хочет отправлять уведомления, отображается диалоговое окно с вопросом: хотите ли Вы их получать. Чтобы это диалоговое окно больше не открывалось, снимите этот флажок.</p></li></ul></td></tr><tr><td colspan="4"><p>Всплывающие окна</p></td><td colspan="8"><p>Можно блокировать всплывающие окна, которые появляются при открытии или закрытии веб-страниц.</p><ul><li><p><em>Блокировать и оповещать.</em> Когда Вы открываете сайт, Safari отображает значок в <a href="https://support.apple.com/ru-ru/guide/safari/aside/glos5a7c4a65/14.0/mac/11.0" class="xRef Aside">поле смарт-поиска</a>. Вы можете нажать этот значок, чтобы отобразить всплывающие окна.</p></li><li><p><em>Заблокировать.</em> Сайт не может отображать всплывающие окна.</p></li><li><p><em>Разрешить</em> Сайт может отображать всплывающие окна.</p></li></ul><div class="Alert"><p class="Note"><em>Примечание. </em>Некоторые веб-сайты используют всплывающие окна для отображения важной информации.</p></div></td></tr><tr><td colspan="4"><p>WebGL</p></td><td colspan="8"><ul><li><p><em>Спрашивать.</em> Вы увидите диалоговое окно с вопросом: разрешаете ли Вы сайту использовать WebGL.</p></li><li><p><em>Заблокировать.</em> Сайт не может показывать содержимое WebGL.</p></li><li><p><em>Разрешить</em> Сайт может использовать WebGL, кроме случаев, когда WebGL представляет угрозу безопасности компьютера.</p></li><li><p><em>Разрешать всегда.</em> Сайт может использовать WebGL, даже если WebGL представляет критическую угрозу безопасности компьютера. Вариант «Разрешать всегда» создает определенные риски для безопасности, поэтому выбирать его следует только для тех веб-сайтов, которым Вы доверяете.</p></li></ul><p>Параметр «WebGL» отображается только для компьютеров, на которых WebGL может представлять угрозу безопасности. Если этот параметр не отображается, сайт может отображать содержимое WebGL.</p></td></tr><tr><td colspan="4"><p>Веб-сайты, открытые в данный момент </p></td><td colspan="8"><p>Веб-сайты, открытые в окне или вкладке браузера Safari. Для некоторых из этих веб-сайтов уже может быть выбран вариант во всплывающем меню.</p></td></tr><tr><td colspan="4"><p>Настроенные веб-сайты</p></td><td colspan="8"><p>Список настроенных Вами веб-сайтов. Если список «Настроенные веб-сайты» пуст, Вы еще не настроили ни одного веб-сайта или очистили список.</p></td></tr><tr><td colspan="4"><p>Удалить</p></td><td colspan="8"><p>Удаление выбранного веб-сайта из списка настроенных веб-сайтов.</p></td></tr><tr><td colspan="4"><p>При посещении других веб-сайтов</p></td><td colspan="8"><p>В этом всплывающем меню можно выбрать параметр, чтобы применить его к любому веб-сайту, для которого еще не задана настройка.</p><p>Чтобы применить настройку ко всем веб-сайтам, убедитесь, что список «Настроенные веб-сайты» пуст (чтобы быстро очистить этот список, выберите веб-сайты и нажмите «Удалить»). Затем нажмите это всплывающее меню и выберите нужный вариант.</p></td></tr></tbody></table></div><div class="LinkUniversal"><strong>См. также</strong><a href="https://support.apple.com/ru-ru/guide/safari/ibrw7f78f7fe/14.0/mac/11.0" class="xRef AppleTopic">Настройка параметров для каждого веб-сайта отдельно в Safari на компьютере Mac</a><a href="https://support.apple.com/ru-ru/guide/safari/sfri35905/14.0/mac/11.0" class="xRef AppleTopic">Ведение списка для чтения в Safari на компьютере Mac</a><a href="https://support.apple.com/ru-ru/guide/safari/ibrw1068/14.0/mac/11.0" class="xRef AppleTopic">Увеличение веб-страниц в Safari на компьютере Mac</a><a href="https://support.apple.com/ru-ru/guide/safari/sfri40734/14.0/mac/11.0" class="xRef AppleTopic">Настройка уведомлений от веб-сайтов в Safari на компьютере Mac</a></div></body></div>
+		</div>
+	</div>
+</div>
+
+			<div id='aside-hidden-content'>
+				<div class="main">
+				</div>
+			</div>
+
+			
+			<div id='helpful-rating-wrapper'>
+				
+<div id='helpful' class='ratings okapi-enabled'>
+    <div id='question-state' class='show'>
+        <fieldset>
+            <legend>
+                <span id="okapi-a">Эта страница полезна?</span>
+                
+            </legend>
+            <div class='helpful-btn-grp'>
+                <button class='button button-secondary' id='yes-button' 
+                    data-ss-analytics-link-component_name='helpful'
+                    data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='yes'
+                    data-ss-analytics-event=acs.link_click
+                    title='Помогла решить мою проблему'>
+                    Да
+                </button>
+                <button class='button button-secondary' id='no-button'
+                    data-ss-analytics-link-component_name='helpful'
+                    data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='no'
+                    data-ss-analytics-event=acs.link_click
+                    title='Бесполезна'>
+                    Нет
+                </button>
+            </div>
+        </fieldset>
+    </div>
+
+    <div id='feedback-state' class="form-element form-textbox-labelbelow hide">
+        <form autocomplete="off">
+            <input type='hidden' id='form-counter-error-message' 
+                value="Максимальное количество символов: 250."
+            />
+            <label id='feedback-label'
+                data-no-label="Спасибо, что сообщили нам!"
+                data-yes-label="Мы рады, что эта статья оказалась вам полезна."
+            ></label>
+            <div class='form-element form-textbox-labelbelow' id='feedback'>
+                <div class="textarea-wrapper">
+                    
+                        <span class='form-label' id='optional_label' aria-hidden='true'></span>
+                        
+                    <div>
+                    <textarea
+                    class='form-textbox form-textbox-textarea form-counter-textarea form-textbox-entered'
+                    data-no-placeholder="Как нам сделать эту статью полезнее? (Необязательно)"
+                    data-yes-placeholder="Желаете сообщить нам еще что-то? (Необязательно)"
+                    data-max-length='250'
+                    aria-labelledby='optional_label'
+                    aria-describedby='char_limit_counter'
+                    ></textarea>
+                    <div class='form-textbox-counter' id='char_limit_counter'>
+                            <span class='visuallyhidden' id="char-limit-message">Максимальное количество символов:</span>
+                            <span class='form-counter'>250</span>
+                        </div>
+                    </div>
+                    
+                </div>
+
+                <label htmlFor='feedback-note'>Не указывайте в комментарии личную информацию.</label>
+                <div class='form-message-wrapper'>
+                    <span class='form-message'>Максимальное количество символов: 250.</span>
+                </div>
+                <button type='submit' class='button' id="submit-feedback"
+                   data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='submit'>
+                    Отправить
+                </button>
+
+            </div>
+        </form>
+    </div>
+
+    <div id='rating-done' class="hide">
+        Благодарим вас за отзыв.
+    </div>
+
+    <div id='results-helpful' class='show'>
+    
+    </div>
+</div>
+
+
+			</div>
+			
+
+			
+
+
+		</div>
+
+        
+    
+        <div class="footer-wrapper">
+            <footer
+                    id="ac-globalfooter"
+                    lang="ru-ru"
+                    dir="ltr"
+                    class="js no-touch svg no-ie7 no-ie8 footer-global"
+                    data-analytics-region="global footer"
+                    role="contentinfo"
+                    aria-labelledby="ac-gf-label">
+                <div class="ac-gf-content">
+                    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
+                    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
+                        <a href="https://www.apple.com/ru" class="home ac-gf-breadcrumbs-home">
+                            <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span>
+                            <span class="ac-gf-breadcrumbs-home-label">Apple</span>
+                            <span class="ac-gf-breadcrumbs-home-chevron"></span>
+                            <span class="ac-gf-breadcrumbs-home-mask"></span>
+                        </a>
+                        <div class="ac-gf-breadcrumbs-path">
+                            <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+                                <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                    <span property="name">
+                                        <a href="https://support.apple.com/ru-ru">Поддержка</a>
+                                    </span>
+                                    <meta property="position" content="1"/>
+                                </li>
+
+                                
+                                    <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                    <span property="name">
+                                        <a href="https://support.apple.com/ru-ru/guide/safari/welcome/14.0/mac">Руководство пользователя Safari</a>
+                                    </span>
+                                    <meta property="position" content="1"/>
+                                </li>
+                                
+
+                                
+                                    <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                        <span property="name">Изменение настроек веб-сайтов в Safari на компьютере Mac</span>
+                                        <meta property="position" content="2" />
+                                    </li>
+                                
+
+                            </ol>
+                        </div>
+                    </nav>
+                    <section class="ac-gf-footer" vocab="https://schema.org/" typeof="Organization">          <div class="ac-gf-footer-shop" x-ms-format-detection="none"></div>          <div class="ac-gf-footer-locale">             <a class="ac-gf-footer-locale-link" href="https://support.apple.com/guide/safari/ibrwe2159f50/14.0/mac/11.0/localeselector" title="Выберите свою страну или регион" aria-label="Russia. Choose your country or region">Россия</a>           </div>          <div class="ac-gf-footer-legal">             <div class="ac-gf-footer-legal-copyright">                © Apple Inc., 2023 г. Все права защищены.              </div>             <div class="ac-gf-footer-legal-links">                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/ru/legal/privacy/ru/">Политика конфиденциальности</a>                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/ru/legal/terms/site.html">Условия использования</a>                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/ru/shop/goto/help/sales_refunds">Продажи и возврат средств</a>                <a class="ac-gf-footer-legal-link" href="https://www.apple.com/ru/sitemap/">Карта сайта</a>                <a class="ac-gf-footer-legal-link" href="https://www.apple.com/legal/privacy/ru/cookies/">Использование файлов cookie</a>              </div>          </div>          <meta content="Apple" property="name" />          <meta content="8 800 333 5173" property="telephone" />       </section>
+                </div>
+            </footer>
+        </div>
+    
+
+
+
+    
+        <script src="https://support.apple.com/clientside/build/FujiStitchPath.js"></script>
+    
+        <script src="https://support.apple.com/clientside/build/apd-sasskit.built.js"></script>
+    
+        <script src="https://support.apple.com/clientside/build/app-apd-route.js"></script>
+    
+        <script src="https://support.apple.com/clientside/build/app-launch-route.js"></script>
+    
+        <script src="/etc/designs/support/publish/JS/pattern/accsoffer.js"></script>
+    
+        <script src="https://km.support.apple.com/clientside/build/launch.js"></script>
+    
+
+    <div id="apd-aria-live-region" aria-live="polite" role="status" class="a11y"></div>
+
+	</body>
+</html>
+
+

@@ -1,0 +1,750 @@
+
+<!DOCTYPE html>
+    <html lang="ru" prefix="og: http://ogp.me/ns#" dir="ltr">
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+            <title lang="ru">Использование расширений Safari на компьютере Mac - Служба поддержки Apple (RU)</title>
+            <link rel="dns-prefetch" href="https://www.apple.com/" />
+            <link rel="preconnect" href="https://www.apple.com/" crossorigin />
+            <link rel="icon" href="/favicon.ico">
+            <link rel="apple-touch-icon" href="/favicon.ico">
+
+            
+            <link rel="canonical" href="https://support.apple.com/ru-ru/HT203051" />
+            
+                
+                    <link rel="alternate" hreflang="en-ie" href="https://support.apple.com/en-ie/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-kw" href="https://support.apple.com/ar-kw/HT203051">
+                
+                    <link rel="alternate" hreflang="en-il" href="https://support.apple.com/en-il/HT203051">
+                
+                    <link rel="alternate" hreflang="en-in" href="https://support.apple.com/en-in/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ae" href="https://support.apple.com/en-ae/HT203051">
+                
+                    <link rel="alternate" hreflang="en-za" href="https://support.apple.com/en-za/HT203051">
+                
+                    <link rel="alternate" hreflang="no-no" href="https://support.apple.com/no-no/HT203051">
+                
+                    <link rel="alternate" hreflang="en-al" href="https://support.apple.com/en-al/HT203051">
+                
+                    <link rel="alternate" hreflang="en-is" href="https://support.apple.com/en-is/HT203051">
+                
+                    <link rel="alternate" hreflang="el-gr" href="https://support.apple.com/el-gr/HT203051">
+                
+                    <link rel="alternate" hreflang="en-am" href="https://support.apple.com/en-am/HT203051">
+                
+                    <link rel="alternate" hreflang="nl-nl" href="https://support.apple.com/nl-nl/HT203051">
+                
+                    <link rel="alternate" hreflang="en-au" href="https://support.apple.com/en-au/HT203051">
+                
+                    <link rel="alternate" hreflang="he-il" href="https://support.apple.com/he-il/HT203051">
+                
+                    <link rel="alternate" hreflang="en-az" href="https://support.apple.com/en-az/HT203051">
+                
+                    <link rel="alternate" hreflang="hu-hu" href="https://support.apple.com/hu-hu/HT203051">
+                
+                    <link rel="alternate" hreflang="en-jo" href="https://support.apple.com/en-jo/HT203051">
+                
+                    <link rel="alternate" hreflang="en-bh" href="https://support.apple.com/en-bh/HT203051">
+                
+                    <link rel="alternate" hreflang="es-cl" href="https://support.apple.com/es-cl/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-sn" href="https://support.apple.com/fr-sn/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-ca" href="https://support.apple.com/fr-ca/HT203051">
+                
+                    <link rel="alternate" hreflang="es-co" href="https://support.apple.com/es-co/HT203051">
+                
+                    <link rel="alternate" hreflang="pl-pl" href="https://support.apple.com/pl-pl/HT203051">
+                
+                    <link rel="alternate" hreflang="en-bn" href="https://support.apple.com/en-bn/HT203051">
+                
+                    <link rel="alternate" hreflang="pt-pt" href="https://support.apple.com/pt-pt/HT203051">
+                
+                    <link rel="alternate" hreflang="en-sa" href="https://support.apple.com/en-sa/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-be" href="https://support.apple.com/fr-be/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-eg" href="https://support.apple.com/ar-eg/HT203051">
+                
+                    <link rel="alternate" hreflang="en-bw" href="https://support.apple.com/en-bw/HT203051">
+                
+                    <link rel="alternate" hreflang="en-sg" href="https://support.apple.com/en-sg/HT203051">
+                
+                    <link rel="alternate" hreflang="en-by" href="https://support.apple.com/en-by/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ke" href="https://support.apple.com/en-ke/HT203051">
+                
+                    <link rel="alternate" hreflang="hr-hr" href="https://support.apple.com/hr-hr/HT203051">
+                
+                    <link rel="alternate" hreflang="en-om" href="https://support.apple.com/en-om/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ge" href="https://support.apple.com/en-ge/HT203051">
+                
+                    <link rel="alternate" hreflang="zh-mo" href="https://support.apple.com/zh-mo/HT203051">
+                
+                    <link rel="alternate" hreflang="de-at" href="https://support.apple.com/de-at/HT203051">
+                
+                    <link rel="alternate" hreflang="en-gu" href="https://support.apple.com/en-gu/HT203051">
+                
+                    <link rel="alternate" hreflang="en-gw" href="https://support.apple.com/en-gw/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-gn" href="https://support.apple.com/fr-gn/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-gq" href="https://support.apple.com/fr-gq/HT203051">
+                
+                    <link rel="alternate" hreflang="cs-cz" href="https://support.apple.com/cs-cz/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ph" href="https://support.apple.com/en-ph/HT203051">
+                
+                    <link rel="alternate" hreflang="zh-tw" href="https://support.apple.com/zh-tw/HT203051">
+                
+                    <link rel="alternate" hreflang="ko-kr" href="https://support.apple.com/ko-kr/HT203051">
+                
+                    <link rel="alternate" hreflang="en-hk" href="https://support.apple.com/en-hk/HT203051">
+                
+                    <link rel="alternate" hreflang="sk-sk" href="https://support.apple.com/sk-sk/HT203051">
+                
+                    <link rel="alternate" hreflang="ru-ru" href="https://support.apple.com/ru-ru/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-om" href="https://support.apple.com/ar-om/HT203051">
+                
+                    <link rel="alternate" hreflang="en-qa" href="https://support.apple.com/en-qa/HT203051">
+                
+                    <link rel="alternate" hreflang="sv-se" href="https://support.apple.com/sv-se/HT203051">
+                
+                    <link rel="alternate" hreflang="da-dk" href="https://support.apple.com/da-dk/HT203051">
+                
+                    <link rel="alternate" hreflang="uk-ua" href="https://support.apple.com/uk-ua/HT203051">
+                
+                    <link rel="alternate" hreflang="en-us" href="https://support.apple.com/en-us/HT203051">
+                
+                    <link rel="alternate" hreflang="en-mk" href="https://support.apple.com/en-mk/HT203051">
+                
+                    <link rel="alternate" hreflang="en-mn" href="https://support.apple.com/en-mn/HT203051">
+                
+                    <link rel="alternate" hreflang="en-eg" href="https://support.apple.com/en-eg/HT203051">
+                
+                    <link rel="alternate" hreflang="en-mo" href="https://support.apple.com/en-mo/HT203051">
+                
+                    <link rel="alternate" hreflang="en-uz" href="https://support.apple.com/en-uz/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-ne" href="https://support.apple.com/fr-ne/HT203051">
+                
+                    <link rel="alternate" hreflang="en-mt" href="https://support.apple.com/en-mt/HT203051">
+                
+                    <link rel="alternate" hreflang="nl-be" href="https://support.apple.com/nl-be/HT203051">
+                
+                    <link rel="alternate" hreflang="zh-cn" href="https://support.apple.com/zh-cn/HT203051">
+                
+                    <link rel="alternate" hreflang="en-mz" href="https://support.apple.com/en-mz/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-ml" href="https://support.apple.com/fr-ml/HT203051">
+                
+                    <link rel="alternate" hreflang="en-my" href="https://support.apple.com/en-my/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-mu" href="https://support.apple.com/fr-mu/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ng" href="https://support.apple.com/en-ng/HT203051">
+                
+                    <link rel="alternate" hreflang="el-cy" href="https://support.apple.com/el-cy/HT203051">
+                
+                    <link rel="alternate" hreflang="en-vn" href="https://support.apple.com/en-vn/HT203051">
+                
+                    <link rel="alternate" hreflang="ja-jp" href="https://support.apple.com/ja-jp/HT203051">
+                
+                    <link rel="alternate" hreflang="de-ch" href="https://support.apple.com/de-ch/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-qa" href="https://support.apple.com/ar-qa/HT203051">
+                
+                    <link rel="alternate" hreflang="en-nz" href="https://support.apple.com/en-nz/HT203051">
+                
+                    <link rel="alternate" hreflang="ro-ro" href="https://support.apple.com/ro-ro/HT203051">
+                
+                    <link rel="alternate" hreflang="it-ch" href="https://support.apple.com/it-ch/HT203051">
+                
+                    <link rel="alternate" hreflang="tr-tr" href="https://support.apple.com/tr-tr/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-fr" href="https://support.apple.com/fr-fr/HT203051">
+                
+                    <link rel="alternate" hreflang="en-gb" href="https://support.apple.com/en-gb/HT203051">
+                
+                    <link rel="alternate" hreflang="fi-fi" href="https://support.apple.com/fi-fi/HT203051">
+                
+                    <link rel="alternate" hreflang="en-kg" href="https://support.apple.com/en-kg/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ca" href="https://support.apple.com/en-ca/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-tn" href="https://support.apple.com/fr-tn/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-ae" href="https://support.apple.com/ar-ae/HT203051">
+                
+                    <link rel="alternate" hreflang="en-kw" href="https://support.apple.com/en-kw/HT203051">
+                
+                    <link rel="alternate" hreflang="en-kz" href="https://support.apple.com/en-kz/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-cf" href="https://support.apple.com/fr-cf/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-ci" href="https://support.apple.com/fr-ci/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-ch" href="https://support.apple.com/fr-ch/HT203051">
+                
+                    <link rel="alternate" hreflang="es-us" href="https://support.apple.com/es-us/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-cm" href="https://support.apple.com/fr-cm/HT203051">
+                
+                    <link rel="alternate" hreflang="en-lb" href="https://support.apple.com/en-lb/HT203051">
+                
+                    <link rel="alternate" hreflang="en-tj" href="https://support.apple.com/en-tj/HT203051">
+                
+                    <link rel="alternate" hreflang="en-tm" href="https://support.apple.com/en-tm/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-sa" href="https://support.apple.com/ar-sa/HT203051">
+                
+                    <link rel="alternate" hreflang="de-de" href="https://support.apple.com/de-de/HT203051">
+                
+                    <link rel="alternate" hreflang="en-lk" href="https://support.apple.com/en-lk/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-ma" href="https://support.apple.com/fr-ma/HT203051">
+                
+                    <link rel="alternate" hreflang="zh-hk" href="https://support.apple.com/zh-hk/HT203051">
+                
+                    <link rel="alternate" hreflang="pt-br" href="https://support.apple.com/pt-br/HT203051">
+                
+                    <link rel="alternate" hreflang="de-li" href="https://support.apple.com/de-li/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-bh" href="https://support.apple.com/ar-bh/HT203051">
+                
+                    <link rel="alternate" hreflang="es-es" href="https://support.apple.com/es-es/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-mg" href="https://support.apple.com/fr-mg/HT203051">
+                
+                    <link rel="alternate" hreflang="ar-jo" href="https://support.apple.com/ar-jo/HT203051">
+                
+                    <link rel="alternate" hreflang="es-mx" href="https://support.apple.com/es-mx/HT203051">
+                
+                    <link rel="alternate" hreflang="it-it" href="https://support.apple.com/it-it/HT203051">
+                
+                    <link rel="alternate" hreflang="en-ug" href="https://support.apple.com/en-ug/HT203051">
+                
+                    <link rel="alternate" hreflang="id-id" href="https://support.apple.com/id-id/HT203051">
+                
+                    <link rel="alternate" hreflang="de-lu" href="https://support.apple.com/de-lu/HT203051">
+                
+                    <link rel="alternate" hreflang="en-md" href="https://support.apple.com/en-md/HT203051">
+                
+                    <link rel="alternate" hreflang="fr-lu" href="https://support.apple.com/fr-lu/HT203051">
+                
+                    <link rel="alternate" hreflang="en-me" href="https://support.apple.com/en-me/HT203051">
+                
+                    <link rel="alternate" hreflang="th-th" href="https://support.apple.com/th-th/HT203051">
+                
+            
+
+            
+                <meta name="description" content="Расширения Safari позволяют оптимизировать и адаптировать под потребности пользователя работу с веб-сайтами на компьютере Mac. В этой статье описывается, как их устанавливать, удалять и делиться ими на разных устройствах.
+
+" />
+                <meta property="og:url" content="https://support.apple.com/ru-ru/HT203051" />
+                <meta property="og:title" content="Использование расширений Safari на компьютере Mac" />
+                <meta property="og:description" content="Расширения Safari позволяют оптимизировать и адаптировать под потребности пользователя работу с веб-сайтами на компьютере Mac. В этой статье описывается, как их устанавливать, удалять и делиться ими на разных устройствах.
+
+" />
+                <meta property="og:site_name" content="Apple Support" />
+                <meta property="og:locale" content="ru_RU" />
+                <meta property="og:type" content="article" />
+                <meta name="ac-gn-search-field[locale]" content="ru_RU" />
+
+                
+
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/ru-ru/HT203051","appid": "1583465330249689","title":"Использование расши","pubDate":"2014-12-16T06:37:40","upDate":"2022-11-03T12:15:56"}</script>
+
+            
+
+            
+
+            
+
+            
+                <link rel="stylesheet" href="https://support.apple.com/clientside/build/app-ht.css" type="text/css" />
+            
+                <link rel="stylesheet" href="https://www.apple.com/ac/globalfooter/3/ru_RU/styles/ac-globalfooter.built.css" type="text/css" />
+            
+                <link rel="stylesheet" href="//www.apple.com/wss/fonts?families&#x3D;SF+Pro,v1:200,300,400,500,600|SF+Pro+Icons,v1" type="text/css" />
+            
+            <script>
+ 
+    var _applemd = {
+        page: {
+            site_section: "kb",
+            content_type: "ht",
+            info_type: "task-using",
+            topics: "browser plug-ins and extensions",
+            in_house: "domain,campaign,2015elcapitan,osx apps",
+            locale: "ru-ru",
+            
+            friendly_content: {
+                title: `Использование расширений Safari на компьютере Mac`,
+                publish_date: "11032022",
+                
+                    content_id: "HT203051",
+                    status: "unarchieved",
+                    version: "1.21"
+                
+            },
+            
+            
+             testandtarget:{
+                throttle:"0.0" 
+            },
+            
+        },
+         
+            product: {
+                list: ["acs::kb::productcategory::macos",]
+            }
+        
+    };
+    
+
+</script>
+
+            
+                <script src="/clientside/build/nn.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    
+     var neighborInitData = {
+        appDataSchemaVersion: '2.0.0',
+        webVitalDataThrottlingPercentage: 100,
+        reportThrottledWebVitalDataTypes: ['system:dom-content-loaded', 'system:load', 'system:unfocus', 'system:focus', 'system:unload', 'system:page-hide', 'system:visibility-change-visible', 'system:visibility-change-hidden', 'system:event', 'app:load', 'app:unload', 'app:event'],
+        trackMarcomSearch: true,
+        trackSurvey: true,
+        endpoint: 'https://supportmetrics.apple.com/content/services/stats'
+    }
+
+</script>
+            
+            <script>
+                var data = {
+                    showHelpFulfeedBack: true,
+                    id: "HT203051",
+                    locale: "ru_RU",
+                    podCookie: "ru~ru",
+                    urlLocale: "ru-ru",
+                    isPreview : false,
+                    productCategories : "PF6",
+                    source : "",
+                    channel : "HOWTO_ARTICLES",
+                    bizChatLink : "https://bcrw.apple.com/urn:biz:b15ed773-9eed-11e7-baa2-7b88b04daa8e",
+                    bizChatIntentId : "ContactApple",
+                    bizChatGroupId : "%7B%22domain%22:%20%22AC%22,%22origin%22:%20%22OLS%22,%22page%22:%20%22acs::kb::ht::ARTICLEID::contact%20apple%20for%20support%20and%20service%20(en-us)%22%7D",
+                    bizChatBody : "%3Cstrong%3EChat using Messages%3C/strong%3E %3Cbr%3E Have a question? Ask now.",
+                    bizChatSupportedCountries : "US",
+                    bizChatthrottleValue : 0.0,
+                    bypassBizChat: false,
+                    akamaiEdgeScapeURL: "https://support.apple.com/edge-sight",
+                    isNeighborJsEnabled: true,
+                    isOkapiEnabled: false,
+                    domain: "support.apple.com",
+                    dtmPageName: "acs.pageload",
+                    showRecommendation : false,
+                    configApiURL : "https://support.apple.com/ols/api/config"
+                }
+                window.appState = JSON.stringify(data);
+
+                document.cookie = 'POD=ru~ru; path=/; domain=.apple.com; expires='+new Date(Date.now() + (28 * 24 * 60 * 60 * 1000)).toGMTString();
+            </script>
+        </head>
+        <body class="ac-gn-current-support no-js"  itemscope itemtype="https://schema.org/TechArticle" >
+
+        
+           
+
+
+
+
+
+            <meta name="ac-gn-store-key" content="S2A49YFKJF2JAT22K" /><meta name="ac-gn-search-action" content="https://support.apple.com/kb/index" /><meta name="ac-gn-search-input" content="q" /><meta name="ac-gn-search-field[src]" content="globalnav_support" /><meta name="ac-gn-search-field[type]" content="organic" /><meta name="ac-gn-search-field[page]" content="search" /><meta name="ac-gn-search-field[locale]" content="ru_RU" /><link rel="stylesheet" type="text/css" href="https://www.apple.com/ac/globalnav/7/ru_RU/styles/ac-globalnav.built.css"><aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="ru-RU" dir="ltr" data-strings="{ 'exit': 'Выход', 'view': '{%STOREFRONT%} Главная страница Магазина', 'segments': { 'smb': '', 'eduInd': 'Главная страница Магазина для образования', 'other': 'Главная страница Магазина' } }"></aside><input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" /><nav id="ac-globalnav" class="no-js" role="navigation" aria-label="Глобальная навигация" data-hires="false" data-analytics-region="global nav" lang="ru-RU" dir="ltr" data-www-domain="www.apple.com" data-store-locale="ru" data-store-root-path="/ru" data-store-api="https://www.apple.com/[storefront]/shop/bag/status" data-search-locale="ru_RU" data-search-locale="ru_RU" data-search-suggestions-api="https://www.apple.com/search-services/suggestions/" data-search-defaultlinks-api="https://www.apple.com/search-services/suggestions/defaultlinks/"><div class="ac-gn-content"><ul class="ac-gn-header"><li class="ac-gn-item ac-gn-menuicon"><a href="#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"><span class="ac-gn-menuanchor-label">Global Nav Открыть меню</span></a><a href="#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"><span class="ac-gn-menuanchor-label">Global Nav Закрыть меню</span></a><label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span></span><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span></span></label></li><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/ru/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"><div class="ac-gn-bag-wrapper"><a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/ru/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Корзина" data-string-badge="Товаров в корзине:"><span class="ac-gn-link-text">Корзина</span></a><span class="ac-gn-bag-badge" aria-hidden="true" data-analytics-title="bag" data-analytics-click="bag"><span class="ac-gn-bag-badge-separator"></span><span class="ac-gn-bag-badge-number"></span><span class="ac-gn-bag-badge-unit">+</span></span></div><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><div class="ac-gn-search-placeholder-container" role="search"><div class="ac-gn-search ac-gn-search-small"><a id="ac-gn-link-search-small" class="ac-gn-link" href="https://support.apple.com/kb/index?page=search&locale=ru_RU" data-analytics-title="search" data-analytics-intrapage-link aria-label="Поиск по ресурсам службы поддержки"><div class="ac-gn-search-placeholder-bar"><div class="ac-gn-search-placeholder-input"><div class="ac-gn-search-placeholder-input-text" aria-hidden="true"><div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div><span class="ac-gn-search-placeholder">Поиск по ресурсам службы поддержки</span></div></div><div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">Отменить</span></div></div></a></div></div><ul class="ac-gn-list"><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/ru/" data-analytics-title="apple home" id="ac-gn-firstfocus"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-store"><a class="ac-gn-link ac-gn-link-store" href="https://www.apple.com/ru/shop/goto/store" data-analytics-title="store"><span class="ac-gn-link-text">Магазин</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-mac"><a class="ac-gn-link ac-gn-link-mac" href="https://www.apple.com/ru/mac/" data-analytics-title="mac"><span class="ac-gn-link-text">Mac</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"><a class="ac-gn-link ac-gn-link-ipad" href="https://www.apple.com/ru/ipad/" data-analytics-title="ipad"><span class="ac-gn-link-text">iPad</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"><a class="ac-gn-link ac-gn-link-iphone" href="https://www.apple.com/ru/iphone/" data-analytics-title="iphone"><span class="ac-gn-link-text">iPhone</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-watch"><a class="ac-gn-link ac-gn-link-watch" href="https://www.apple.com/ru/watch/" data-analytics-title="watch"><span class="ac-gn-link-text">Watch</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-airpods"><a class="ac-gn-link ac-gn-link-airpods" href="https://www.apple.com/ru/airpods/" data-analytics-title="airpods"><span class="ac-gn-link-text">AirPods</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-tvhome"><a class="ac-gn-link ac-gn-link-tvhome" href="https://www.apple.com/ru/tv-home/" data-analytics-title="tv and home"><span class="ac-gn-link-text">TV и Дом</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-onlyonapple"><a class="ac-gn-link ac-gn-link-onlyonapple" href="https://www.apple.com/ru/services/" data-analytics-title="only on apple"><span class="ac-gn-link-text">Только в Apple</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-accessories"><a class="ac-gn-link ac-gn-link-accessories" href="https://www.apple.com/ru/shop/goto/buy_accessories" data-analytics-title="accessories"><span class="ac-gn-link-text">Аксессуары</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-support"><a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com/ru-ru" data-analytics-title="support"><span class="ac-gn-link-text">Поддержка</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"><a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="https://support.apple.com/kb/index?page=search&locale=ru_RU" data-analytics-title="search" data-analytics-intrapage-link aria-label="Поиск по ресурсам службы поддержки"></a></li><li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"><div class="ac-gn-bag-wrapper"><a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/ru/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="Корзина" data-string-badge="Товаров в корзине: {%BAGITEMCOUNT%}"><span class="ac-gn-link-text">Корзина</span></a><span class="ac-gn-bag-badge" aria-hidden="true" data-analytics-title="bag" data-analytics-click="bag"><span class="ac-gn-bag-badge-separator"></span><span class="ac-gn-bag-badge-number"></span><span class="ac-gn-bag-badge-unit">+</span></span></div><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"><div class="ac-gn-searchview-content"><div class="ac-gn-searchview-bar"><div class="ac-gn-searchview-bar-wrapper"><form id="ac-gn-searchform" class="ac-gn-searchform" action="https://www.apple.com/ru/search" method="get"><div class="ac-gn-searchform-wrapper"><input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="Поиск по ресурсам службы поддержки" placeholder="Поиск по ресурсам службы поддержки" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" /><input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" /><button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="Отправить"> </button><button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="Очистить поиск"><span class="ac-gn-searchform-reset-background"></span></button></div></form><button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="Отменить поиск"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">Отменить</span></button></div></div><aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="Быстрые ссылки" data-string-suggestions="Предложенные варианты" data-string-noresults=""></aside></div><button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Отменить поиск"><span class="ac-gn-searchview-close-wrapper"><span class="ac-gn-searchview-close-left"></span><span class="ac-gn-searchview-close-right"></span></span></button></aside><aside class="ac-gn-bagview" data-analytics-region="bag"><div class="ac-gn-bagview-scrim"><span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span></div><div class="ac-gn-bagview-content" id="ac-gn-bagview-content"></div></aside></div></nav><div class="ac-gn-blur"></div><div id="ac-gn-curtain" class="ac-gn-curtain"></div><div id="ac-gn-placeholder" class="ac-nav-placeholder"></div><script type="text/javascript" src="https://www.apple.com/ac/globalnav/7/ru_RU/scripts/ac-globalnav.built.js"></script>
+
+            <input type="hidden" id="aria_chevron_down_circle_icon" value="Значок перехода внутри страницы" />
+            <input type="hidden" id="aria_chevron_right_icon" value="Значок перехода на новую страницу" />
+            <input type="hidden" id="aria_external_link_icon" value="Значок перехода на сторонний веб-сайт" />
+            <input type="hidden" id="aria_downloads_icon" value="Значок перехода на страницу загрузки" />
+
+            <div id="app">
+                <div >
+                    <section class="section section-content">
+                        <div>
+                            <div class="column small-12 medium-12 large-12 large-centered text-center">
+                                <div class="main" role="main" id="howto-section">
+                                    <div id="content" >
+                                        
+                                        <h1  id="howto-title" itemprop='headline'>Использование расширений Safari на компьютере Mac</h1>
+                                        <div class="intro"><p>Расширения Safari позволяют оптимизировать и адаптировать под потребности пользователя работу с веб-сайтами на компьютере Mac. В этой статье описывается, как их устанавливать, удалять и делиться ими на разных устройствах.</p>
+
+</div>
+                                        
+
+                                        <div itemprop='author' itemscope itemtype='http://schema.org/Organization'>
+                                            <meta itemprop='name' content='Apple' />
+                                        </div>
+
+                                        <div id="sections" itemprop="articleBody">
+                                            
+    
+        <div >
+    
+
+    
+            
+            <div  ><p>Расширения Safari — это новые функции для браузера, которые позволяют сделать работу в Интернете максимально удобной для пользователей. Среди возможностей расширений можно назвать отображение полезной информации о веб-страницах и заголовков новостей, помощь в использовании любимых служб, изменение внешнего вида сайтов и многое другое. Расширения — это отличный способ персонализировать веб-браузер.</p>
+<p>App Store позволяет удобно загружать и устанавливать расширения Safari. Все расширения в App Store проверяются, подписываются и предоставляются компанией Apple, что гарантирует их безопасность. </p>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p> </p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="install">Установка расширений</h2>
+            <div  ><p>Начните <a href="https://support.apple.com/ru-ru/HT201541">с установки последних обновлений macOS</a>, чтобы работать с обновленной версией Safari. Для загрузки и установки расширений Safari из App Store требуется Safari 12 или более поздних версий.</p>
+
+</div>
+            
+                
+    
+        <div >
+    
+
+    
+            <h3>Поиск и установка расширения</h3>
+            <div  ><ol>
+<li>Откройте браузер Safari и выберите Safari &gt; «Расширения Safari» из меню.</li>
+<li>На странице расширений Safari откроется магазин App Store. Чтобы загрузить и установить расширение, нажмите «Загрузить» или нажмите на цену. Возможно, потребуется выполнить вход с помощью идентификатора Apple ID.</li>
+<li>Нажмите кнопку «Установить».</li>
+<li>После установки расширения нажмите кнопку «Открыть» и следуйте инструкциям расширения на экране.</li>
+</ol>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h3>Включение расширения</h3>
+            <div  ><p>Затем вернитесь в браузер Safari, чтобы включить установленные расширения.</p>
+<ol>
+<li>Выберите Safari &gt; «Настройки».</li>
+<li>Нажмите «Расширения».</li>
+<li>Поставьте галочку напротив названия расширения.</li>
+</ol>
+<p>Все расширения, установленные из App Store, обновляются автоматически.</p>
+
+</div>
+            
+        </div>
+
+
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p> </p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="uninstall">Удаление или отключение расширений</h2>
+            <div  ><p>Выберите Safari &gt; «Настройки», затем нажмите «Расширения».</p>
+<ul >
+<li>Чтобы отключить расширения, снимите соответствующий флажок.</li>
+<li>Чтобы удалить расширение, выберите нужное расширение и нажмите кнопку «Удалить». Если вы не знаете, для чего необходимо расширение, или не планируете использовать его в дальнейшем, данное расширение рекомендуется удалить.</li>
+</ul>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p> </p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2>Обмен расширениями на разных устройствах</h2>
+            <div  ><p>Начиная с macOS Ventura, iOS 16 и iPadOS 16, вы можете делиться расширениями между компьютером Mac и устройствами iPhone и iPad:</p>
+<ul>
+<li>На компьютере Mac откройте Safari и выберите Safari &gt; «Настройки», затем «Расширения». Выберите параметр «Учет на всех устройствах» в нижней части окна.</li>
+<li>На iPhone или iPad перейдите в «Настройки» &gt; Safari &gt; «Расширения», затем включите параметр «Учет на всех устройствах».</li>
+</ul>
+<p>Если расширение, установленное на одном устройстве, совместимо с другими устройствами, оно автоматически появляется на них в настройках расширений. Нажмите кнопку «Загрузить» или значок iCloud <img src="/library/content/dam/edam/applecare/images/en_US/itunes/itunes-icloud-status-available-for-download-icon.png" alt="" width="20"> рядом с расширением, чтобы загрузить его. При включении или выключении расширения аналогичное изменение будет отображено и на остальных устройствах.</p>
+<p>Чтобы удалить расширение со всех устройств, его необходимо удалить на каждом устройстве.</p>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p> </p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2>Дополнительная информация</h2>
+            <div  ><p>Safari больше не поддерживает большинство веб-плагинов. В целях ускорения загрузки веб-страниц, экономии заряда аккумулятора и повышения уровня безопасности браузер Safari оптимизирован для обработки содержимого с использованием веб-стандарта HTML5, не требующего плагинов. Используйте расширения Safari вместо веб-плагинов, чтобы оптимизировать и адаптировать под свои потребности работу с веб-сайтами.</p>
+<p> </p>
+
+</div>
+            
+        </div>
+
+
+                                        </div>
+                                        
+                                            
+                                               <div class="sosumi"><p>Информация о продуктах, произведенных не компанией Apple, или о независимых веб-сайтах, неподконтрольных и не тестируемых компанией Apple, не носит рекомендательного или одобрительного характера. Компания Apple не несет никакой ответственности за выбор, функциональность и использование веб-сайтов или продукции сторонних производителей. Компания Apple также не несет ответственности за точность или достоверность данных, размещенных на веб-сайтах сторонних производителей. <a href="https://support.apple.com/ru-ru/HT201777">Обратитесь к поставщику</a> за дополнительной информацией.</p>
+
+</div>
+                                            
+                                        
+                                        
+                                            <div class='mod-date'>
+                                                <span>Дата публикации:</span>&nbsp;<time dateTime=2022-11-03 itemprop='datePublished'>03 ноября 2022 г.</time>
+                                            </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+            <div id='helpful-rating-wrapper'>
+                
+<div id='helpful' class='ratings okapi-enabled'>
+    <div id='question-state' class='show'>
+        <fieldset>
+            <legend>
+                <span id="okapi-a">Эта страница полезна?</span>
+                
+            </legend>
+            <div class='helpful-btn-grp'>
+                <button class='button button-secondary' id='yes-button' 
+                    data-ss-analytics-link-component_name='helpful'
+                    data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='yes'
+                    data-ss-analytics-event=acs.link_click
+                    title='Помогла решить мою проблему'>
+                    Да
+                </button>
+                <button class='button button-secondary' id='no-button'
+                    data-ss-analytics-link-component_name='helpful'
+                    data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='no'
+                    data-ss-analytics-event=acs.link_click
+                    title='Бесполезна'>
+                    Нет
+                </button>
+            </div>
+        </fieldset>
+    </div>
+
+    <div id='feedback-state' class="form-element form-textbox-labelbelow hide">
+        <form autocomplete="off">
+            <input type='hidden' id='form-counter-error-message' 
+                value="Максимальное количество символов: 250."
+            />
+            <label id='feedback-label'
+                data-no-label="Спасибо, что сообщили нам!"
+                data-yes-label="Мы рады, что эта статья оказалась вам полезна."
+            ></label>
+            <div class='form-element form-textbox-labelbelow' id='feedback'>
+                <div class="textarea-wrapper">
+                    
+                        <span class='form-label' id='optional_label' aria-hidden='true'></span>
+                        
+                    <div>
+                    <textarea
+                    class='form-textbox form-textbox-textarea form-counter-textarea form-textbox-entered'
+                    data-no-placeholder="Как нам сделать эту статью полезнее? (Необязательно)"
+                    data-yes-placeholder="Желаете сообщить нам еще что-то? (Необязательно)"
+                    data-max-length='250'
+                    aria-labelledby='optional_label'
+                    aria-describedby='char_limit_counter'
+                    ></textarea>
+                    <div class='form-textbox-counter' id='char_limit_counter'>
+                            <span class='visuallyhidden' id="char-limit-message">Максимальное количество символов:</span>
+                            <span class='form-counter'>250</span>
+                        </div>
+                    </div>
+                    
+                </div>
+
+                <label htmlFor='feedback-note'>Не указывайте в комментарии личную информацию.</label>
+                <div class='form-message-wrapper'>
+                    <span class='form-message'>Максимальное количество символов: 250.</span>
+                </div>
+                <button type='submit' class='button' id="submit-feedback"
+                   data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='submit'>
+                    Отправить
+                </button>
+
+            </div>
+        </form>
+    </div>
+
+    <div id='rating-done' class="hide">
+        Благодарим вас за отзыв.
+    </div>
+
+    <div id='results-helpful' class='show'>
+    
+    </div>
+</div>
+
+
+            </div>
+
+             
+
+
+            
+
+            
+
+            <div id='flexbanner-wrapper'>
+                <div class='flexbanner-inner-wrapper'>
+                    <div id='flexbanner'></div>
+                </div>
+            </div>
+            
+                
+    
+        <div class="footer-wrapper">
+            <footer
+                    id="ac-globalfooter"
+                    lang="ru-ru"
+                    dir="ltr"
+                    class="js no-touch svg no-ie7 no-ie8 footer-global"
+                    data-analytics-region="global footer"
+                    role="contentinfo"
+                    aria-labelledby="ac-gf-label">
+                <div class="ac-gf-content">
+                    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
+                    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
+                        <a href="https://www.apple.com/ru" class="home ac-gf-breadcrumbs-home">
+                            <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span>
+                            <span class="ac-gf-breadcrumbs-home-label">Apple</span>
+                            <span class="ac-gf-breadcrumbs-home-chevron"></span>
+                            <span class="ac-gf-breadcrumbs-home-mask"></span>
+                        </a>
+                        <div class="ac-gf-breadcrumbs-path">
+                            <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+                                <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                    <span property="name">
+                                        <a href="https://support.apple.com/ru-ru">Поддержка</a>
+                                    </span>
+                                    <meta property="position" content="1"/>
+                                </li>
+
+                                
+
+                                
+                                    <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                        <span property="name">Использование расширений Safari на компьютере Mac</span>
+                                        <meta property="position" content="2" />
+                                    </li>
+                                
+
+                            </ol>
+                        </div>
+                    </nav>
+                    <section class="ac-gf-footer" vocab="https://schema.org/" typeof="Organization">          <div class="ac-gf-footer-shop" x-ms-format-detection="none"></div>          <div class="ac-gf-footer-locale">             <a class="ac-gf-footer-locale-link" href="https://support.apple.com/ru-ru/HT203051/localeselector" title="Выберите свою страну или регион" aria-label="Russia. Choose your country or region">Россия</a>           </div>          <div class="ac-gf-footer-legal">             <div class="ac-gf-footer-legal-copyright">                © Apple Inc., 2023 г. Все права защищены.              </div>             <div class="ac-gf-footer-legal-links">                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/ru/legal/privacy/ru/">Политика конфиденциальности</a>                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/ru/legal/terms/site.html">Условия использования</a>                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/ru/shop/goto/help/sales_refunds">Продажи и возврат средств</a>                <a class="ac-gf-footer-legal-link" href="https://www.apple.com/ru/sitemap/">Карта сайта</a>                <a class="ac-gf-footer-legal-link" href="https://www.apple.com/legal/privacy/ru/cookies/">Использование файлов cookie</a>              </div>          </div>          <meta content="Apple" property="name" />          <meta content="8 800 333 5173" property="telephone" />       </section>
+                </div>
+            </footer>
+        </div>
+    
+
+
+
+            
+            
+                <script src="https://support.apple.com/clientside/build/FujiStitchPath.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="https://support.apple.com/clientside/build/app-ht-route.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="https://support.apple.com/clientside/build/app-launch-route.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="/etc/designs/support/publish/JS/pattern/accsoffer.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="https://km.support.apple.com/clientside/build/launch.js" type="text/javascript" charset="utf-8"></script>
+            
+            <div id="apd-aria-live-region" aria-live="polite" role="status" class="a11y"></div>
+        </body>
+    </html>
+
