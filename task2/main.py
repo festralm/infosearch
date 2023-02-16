@@ -4,10 +4,11 @@ from spacy.symbols import ORTH
 from pathlib import Path
 from collections import defaultdict
 import io
+import codecs
 
 if __name__ == '__main__':
     # load model
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("ru_core_news_sm")
     # nlp = spacy.load("en_core_web_trf")
 
     # modify model
@@ -18,8 +19,8 @@ if __name__ == '__main__':
 
     directory = "../task1/pages/"
     files = Path(directory).glob('*.txt')
-    out1 = open("tokens.txt", "w")
-    out2 = open("lemmas.txt", "w")
+    out1 = codecs.open("tokens.txt", "w", "utf-8")
+    out2 = codecs.open("lemmas.txt", "w", "utf-8")
     tokens = set()
     lemmas = defaultdict(list)
     it = 0
@@ -31,7 +32,7 @@ if __name__ == '__main__':
                 doc = nlp(line)
                 for token in doc:
                     # check if token consists of letters only and has type == ADJ or ADV or NOUN or PRON or VERB
-                    if re.match(r"^[a-zA-Z]+$", token.text) and token.pos_ in {"ADJ", "ADV", "NOUN", "PRON", "VERB"} \
+                    if re.match(r"^[а-яА-Я]+$", token.text) and token.pos_ in {"ADJ", "ADV", "NOUN", "PRON", "VERB"} \
                             and token.text not in tokens:  # check if token haven't been added already
                         tokens.add(token.text)
                         out1.write(token.text + "\n")
