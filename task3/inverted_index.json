@@ -1,0 +1,679 @@
+{
+  "запрос": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "отправлять": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "вы": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "робот": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "очень": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "жаль": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "устройство": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "похожий": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "автоматический": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "это": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "мочь": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "продолжить": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "данных": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "информация": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "обработка": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "нужный": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "проверка": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "пользователь": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "вас": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "возникнуть": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "проблема": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "пожалуйста": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "воспользоваться": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt"
+  ],
+  "обратный": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "связь": [
+    "..\\task1\\pages\\1.txt",
+    "..\\task1\\pages\\2.txt",
+    "..\\task1\\pages\\3.txt"
+  ],
+  "блокировка": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сервис": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "капча": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "постоянно": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "постоянный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "бесконечный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "выдавать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "капчу": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "видеть": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "работать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "заблокировать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "него": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "поступать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "много": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "программа": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "например": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "человек": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "пользоваться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сохранять": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "файл": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "случай": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "принять": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "запросить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "дополнительный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "подтверждение": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "страница": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "появляться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "слишком": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "часто": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "нажатие": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "я": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "мне": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "предлагаться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "ввести": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "картинка": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "капчи": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "неразборчивый": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "русский": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "раскладка": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "клавиатура": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "служба": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "поддержка": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "причина": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "частый": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "появление": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "браузер": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сохранение": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "которых": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "фиксироваться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "успешный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "ввод": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "использовать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "котором": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "автоматически": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "удаляться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "закрытие": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "перестать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "строчный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "прописной": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "буква": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "знак": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "препинание": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "пробел": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "можно": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "вводить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "как": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "убрать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "читать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "справка": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "код": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "недостаточный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "отличить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "реальный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "мы": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "улучшение": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "алгоритм": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "иногда": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "просить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "пройти": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "вернуться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "символ": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "которые": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "нажать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сменить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "значок": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "цифра": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "звуковой": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "услышанные": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "поле": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "запрашивать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "никогда": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "указать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "номер": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "телефон": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "отправить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "заново": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "логин": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "пароль": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "столкнуться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "подобный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "требование": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "попасть": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "поддельный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сообщить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "нам": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "верно": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "запомнить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "проверенный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "условие": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сохраняться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "вам": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "необходимый": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "совершать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "воспользуйтесь": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "долгий": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "время": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "написать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "выбор": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "опция": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "появиться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "посмотреть": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "видный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "логотип": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "левый": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "верхний": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "угол": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "блокировать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "отображение": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "показ": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "убедиться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "расширение": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "блокировщик": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "реклама": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "ограничивать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "содержимого": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "число": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "попробуйте": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "найти": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "блокирующее": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "метод": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "перебор": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "отключить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "которое": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "также": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "разработчик": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "подгружалась": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "ранее": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сохранить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "копия": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "блокированными": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "капчей": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "помощь": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "виртуальный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "доменный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "зона": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "где": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "отображаться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "латинскими": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "капче": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "вопрос": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "обратиться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "напрямую": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "форма": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "обычно": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "расположены": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "внизу": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "доступный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "оглавление": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "так": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сообщение": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сразу": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "специалист": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "ответить": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "сайт": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "перейти": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "раздел": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "больше": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "доступ": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "статья": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "ответ": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "нравиться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "помочь": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "трудный": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "понять": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "соответствовать": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "заголовку": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "понравиться": [
+    "..\\task1\\pages\\3.txt"
+  ],
+  "главный": [
+    "..\\task1\\pages\\3.txt"
+  ]
+}
