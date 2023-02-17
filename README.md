@@ -14,3 +14,23 @@
 python3 task1/main.py
 ```
 
+### Задание 2
+
+#### Результат
+
+`task2/tokens.txt` и `task2/lemmas.txt`
+
+#### Зависимости
+
+```
+pip install spacy
+python3 -m spacy download ru_core_news_sm
+```
+
+#### Запуск
+
+необходимо перейти в директорию 'task2' и запустить команду:
+```
+python3 main.py
+```
+
