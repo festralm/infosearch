@@ -1,54 +1,28 @@
 import os
 from pathlib import Path
-import spacy
-from spacy.symbols import ORTH
-import re
-from collections import defaultdict
 import math
+from task2.tokenizer import Tokenizer
+import codecs
 
 if __name__ == '__main__':
-    # load model
-    nlp = spacy.load("en_core_web_sm")
-    # nlp = spacy.load("en_core_web_trf")
-
-    # modify model
-    infixes = nlp.Defaults.infixes + [r'(<)']
-    nlp.tokenizer.infix_finditer = spacy.util.compile_infix_regex(infixes).finditer
-    nlp.tokenizer.add_special_case(f"<i>", [{ORTH: f"<i>"}])
-    nlp.tokenizer.add_special_case(f"</i>", [{ORTH: f"</i>"}])
+    tokenizer = Tokenizer()
 
     pages_dir = "../task1/pages/"
-    pattern = '*.txt'
-    pages = Path(pages_dir).glob(pattern)
+    tokens, lemmas, tokens2, lemmas2 = tokenizer.get_tokens_and_lemmas_and_counts(pages_dir)
+
     files_path = 'data/'
     if not os.path.exists(files_path):
         os.makedirs(files_path)
-    tokens = defaultdict(lambda: defaultdict(int))
-    lemmas = defaultdict(lambda: defaultdict(int))
-    tokens2 = defaultdict(set)
-    lemmas2 = defaultdict(set)
-    for filename in pages:
-        print(str(filename))
-        with open(filename) as page:
-            for line in page.readlines():
-                doc = nlp(line)
-                for word in doc:
-                    # check if token consists of letters only and has type == ADJ or ADV or NOUN or PRON or VERB
-                    if re.match(r"^[a-zA-Z]+$", word.text) and \
-                            word.pos_ in {"ADJ", "ADV", "NOUN", "PRON", "VERB"} and \
-                            word.text not in tokens:  # check if token haven't been added already
-                        tokens[filename][word.text] += 1
-                        lemmas[filename][word.lemma_] += 1
-                        tokens2[filename].add(word.text)
-                        lemmas2[filename].add(word.lemma_)
+
+    pattern = '*.txt'
     pages_num = len(list(Path(pages_dir).glob(pattern)))
     print(pages_num)
     it = 0
     for filename in Path(pages_dir).glob(pattern):
         it += 1
         print(str(it) + ": " + str(filename))
-        out1 = open(files_path + "tokens" + str(it) + ".txt", "w")
-        out2 = open(files_path + "lemmas" + str(it) + ".txt", "w")
+        out1 = codecs.open(files_path + "tokens" + str(it) + ".txt", "w", "utf-8")
+        out2 = codecs.open(files_path + "lemmas" + str(it) + ".txt", "w", "utf-8")
         for token in tokens2[filename]:
             out1.write(token + " ")
             count = 0
