@@ -4,6 +4,10 @@
 
 ### Задание 1
 
+#### Результат
+
+`task1/pages/` и `task1/index.txt`
+
 #### Запуск
 
 ```
@@ -12,11 +16,15 @@ python3 task1/main.py
 
 ### Задание 2
 
+#### Результат
+
+`task2/tokens.txt` и `task2/lemmas.txt`
+
 #### Зависимости
 
 ```
 pip install spacy
-python3 -m spacy download en_core_web_sm
+python3 -m spacy download ru_core_news_sm
 ```
 
 #### Запуск
