@@ -31,7 +31,7 @@ if __name__ == '__main__':
                 filename2_str = str(filename2)[len(pages_dir):]
                 if token in tokens2[filename2_str]:
                     count += 1
-            idf = math.log(pages_num / count)
+            idf = math.log(float(pages_num) / count)
             out1.write(str(idf) + " ")
             tf = tokens[filename_str][token] / len(tokens[filename_str])
             tf_idf = tf * idf
@@ -46,7 +46,7 @@ if __name__ == '__main__':
                     count += 1
             idf = math.log(float(pages_num) / count)
             out2.write(str(idf) + " ")
-            tf = tokens[filename_str][lemma] / len(tokens[filename_str])
+            tf = lemmas[filename_str][lemma] / len(lemmas[filename_str])
             tf_idf = tf * idf
             out2.write(str(tf_idf) + "\n")
         out2.close()
