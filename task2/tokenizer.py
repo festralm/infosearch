@@ -17,7 +17,7 @@ class Tokenizer:
         self.nlp.tokenizer.add_special_case(f"<i>", [{ORTH: f"<i>"}])
         self.nlp.tokenizer.add_special_case(f"</i>", [{ORTH: f"</i>"}])
 
-        self.word_regex = r"^[а-яА-Я]+-?[а-яА-Я]+$"
+        self.word_regex = r"^[а-яА-Я]+(-?[а-яА-Я]+)?$"
 
     def get_tokens_and_lemmas(self, directory):
         """
@@ -56,8 +56,7 @@ class Tokenizer:
                 for line in page.readlines():
                     doc = self.nlp(line)
                     for token in doc:
-                        if self.is_russian_token(token) and \
-                                token.text not in tokens:  # check if token haven't been added already
+                        if self.is_russian_token(token):
                             tokens[filename_str][token.text] += 1
                             lemmas[filename_str][token.lemma_] += 1
                             tokens2[filename_str].add(token.text)
