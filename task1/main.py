@@ -68,8 +68,9 @@ class Crawler:
                 except Exception:
                     logging.exception(f'Failed to crawl: {url}')
                 finally:
-                    url_num = url_num + 1
-                    self.visited_urls.append(url)
+                    if url not in self.visited_urls:
+                        url_num = url_num + 1
+                        self.visited_urls.append(url)
             except Exception:
                 logging.exception(f'Failed to read: {url}')
                 self.visited_urls.append(url)
