@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="oEu8ledlh61VYAbDsZE1yuVD8mocLTEvJzm3zw6O">
-    <title>Кофе смесь для эспрессо Фрутти для кофемашин купить в интернет-магазине &quot;Tasty Coffee&quot;</title>
-    <meta name="description" content="Кофе смесь эспрессо &quot;Фрутти&quot; для кофемашин. Купить зерновой кофе для кофемашин в пачках по 250, 1000 грамм с доставкой по России. Ранее эта смесь называлась Бариста">
-    <meta name="keywords" content="Кофе смесь для эспрессо, кофе для кофемашины, кофе для турки, кофе для турки молотый, кофе купить, мягкий кофе в зернах, купить кофе в интернет-магазине">
+    <meta name="csrf-token" content="nlSwxclc7j2x9sHkd9JqY1TnwP9dedtCNqzaW0k6">
+    <title>Коста-Рика Санта Тереза</title>
+    <meta name="description" content="Кофе Коста-Рика Санта Тереза в интернет-магазине &quot;Tasty Coffee&quot; в упаковках по 250гр, 1000 гр. При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Коста-Рика Санта Тереза">
+    <meta name="keywords" content="Коста-Рика Санта Тереза, кофе Коста-Рика, Костариканский кофе, кофе из коста-рики купить, кофе из коста-рики в зернах, кофе Коста-Рика Санта Тереза">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/coffee/espresso-frutti"/>
-    <meta property="og:title" content="Кофе смесь для эспрессо Фрутти для кофемашин купить в интернет-магазине &quot;Tasty Coffee&quot;"/>
-    <meta property="og:description" content="Кофе смесь эспрессо &quot;Фрутти&quot; для кофемашин. Купить зерновой кофе для кофемашин в пачках по 250, 1000 грамм с доставкой по России. Ранее эта смесь называлась Бариста"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"/>
+    <meta property="og:title" content="Коста-Рика Санта Тереза"/>
+    <meta property="og:description" content="Кофе Коста-Рика Санта Тереза в интернет-магазине &quot;Tasty Coffee&quot; в упаковках по 250гр, 1000 гр. При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Коста-Рика Санта Тереза"/>
     <meta property="og:image" content="https://shop.tastycoffee.ru/assets/site/img/site_logo.jpg"/>
     <meta property="og:type" content="website"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/coffee/espresso-frutti"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="oEu8ledlh61VYAbDsZE1yuVD8mocLTEvJzm3zw6O">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="nlSwxclc7j2x9sHkd9JqY1TnwP9dedtCNqzaW0k6">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="oEu8ledlh61VYAbDsZE1yuVD8mocLTEvJzm3zw6O"
+                     data-_token="nlSwxclc7j2x9sHkd9JqY1TnwP9dedtCNqzaW0k6"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="oEu8ledlh61VYAbDsZE1yuVD8mocLTEvJzm3zw6O">        </form>
+            <input type="hidden" name="_token" value="nlSwxclc7j2x9sHkd9JqY1TnwP9dedtCNqzaW0k6">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -710,7 +710,7 @@
 
         <div class="content white">
                                 <div
-                class="goodsWrap  blue"
+                class="goodsWrap  green"
                 itemscope itemtype="http://schema.org/Product"
             >
                 <div class="breadcrumb mb20">
@@ -734,10 +734,10 @@
                                 <meta itemprop="position" content="2"/>
                             </li>
                             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="/coffee/espresso-frutti"
+                                <a href="/coffee/filter-costa-rica-santa-teresa"
                                    itemtype="http://schema.org/Thing" itemprop="item"
                                 >
-                                    <span itemprop="name">Фрутти</span>
+                                    <span itemprop="name">Коста-Рика Санта Тереза</span>
                                 </a>
                                 <meta itemprop="position" content="3"/>
                             </li>
@@ -745,11 +745,11 @@
                     </div>
                 </div>
                 <meta itemprop="brand" content="Tasty Coffee">
-                                    <meta itemprop="sku" content="1ЭС022">
+                                    <meta itemprop="sku" content="8МИ308">
                                 <div class="goods-h ">
                     <form class="noteBox-for-open" action="https://shop.tastycoffee.ru/ajax/add_in_cart"
                         coffee>
-                        <input type="hidden" name="product_id" value="1359">
+                        <input type="hidden" name="product_id" value="1354">
                         <div class="row">
                             <div class="row-wrap">
                                 <div class="col-v5 col-w10 relative">
@@ -765,14 +765,14 @@
                                                  itemprop="aggregateRating"
                                                  itemscope
                                                  itemtype="http://schema.org/AggregateRating">
-                                                <meta itemprop="ratingCount" content="2">
+                                                <meta itemprop="ratingCount" content="1">
                                                 <div id="value1" class="ratingCard"
                                                      itemprop="ratingValue" content="5"
                                                     onclick=$(&quot;.enterOpen&quot;).click()
                                                 >5</div>
                                                 
                                                 <a href="#reviews" class="countComment">
-                                                    <i class="ic comment-ic"></i>0
+                                                    <i class="ic comment-ic"></i>10
                                                 </a>
 
                                             </div>
@@ -789,44 +789,65 @@
                                                     <span class="favoriteAdd">Добавить в избранное</span>
                                                     <span class="favoriteAdded">В избранном</span>
                                                 </a>
-                                                                                                    <a class="btnCard compare  btnCardCompare_1359"
-                                                       data-product-id="1359"
+                                                                                                    <a class="btnCard compare  btnCardCompare_1354"
+                                                       data-product-id="1354"
                                                        onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
                                                        title="Сравнение товаров"
                                                     ></a>
                                                                                             </div>
+                                                                                            <div class="cdhBox">
+                                                                                                                                                                <div class="cdh-item">
+                                                            <a href="https://shop.tastycoffee.ru/coffee?type=71">
+                                                                Микролот недели
+                                                            </a>
+                                                        </div>
+                                                                                                                                                                <div class="cdh-item">
+                                                            <a href="https://shop.tastycoffee.ru/coffee?type=32">
+                                                                Новый
+                                                            </a>
+                                                        </div>
+                                                                                                            <div class="cdh-item">
+                                                            <a href="https://shop.tastycoffee.ru/coffee?type=79">
+                                                                Заканчивается
+                                                            </a>
+                                                        </div>
+                                                                                                    </div>
                                             
                                         </div>
-                                                                                    <p class="text13 light m0">Для эспрессо</p>
+                                                                                    <p class="text13 light m0">Для фильтра</p>
                                                                                 <h1 itemprop="name" class="h2">
-                                            Фрутти
+                                            Коста-Рика Санта Тереза
                                         </h1>
                                         <p itemprop="description"
                                            class="textGoods"
                                         >
-                                            Сладкий кофе с нотами абрикоса, молочного шоколада и сухофруктов
+                                            Яркий кофе со вкусом клубники, темного винограда и белого вина
                                         </p>
                                         <div class="wrapAbs">
                                             <div class="galleryGoods">
                                                 <div class="sliderGoods-wrap">
                                                     
+                                                                                                            <div class="scaImg
+                                                                         sca85
+                                                                        ">
+                                                        </div>
                                                                                                         <div class="owl-carousel sliderGoods owl-theme">
 
                                                         
                                                             <div class="item">
-                                                                <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/frutty.png"
+                                                                <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-025.png"
                                                                     itemprop=image
                                                                 >
                                                             </div>
                                                         
                                                             <div class="item">
-                                                                <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/frutty-1.png"
+                                                                <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-1.png"
                                                                     
                                                                 >
                                                             </div>
                                                         
                                                             <div class="item">
-                                                                <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans4/espresso-firm/bean-espresso-barista.png"
+                                                                <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans9/beans-filter-costa-rica-santa-teresa.png"
                                                                     
                                                                 >
                                                             </div>
@@ -837,13 +858,13 @@
                                                                                     <div class="lineCb-wrap">
                                                                                                     <div class="lineCb-item">
                                                         <div class="lineCb"><span
-                                                                style="width: 60%"></span>
+                                                                style="width: 80%"></span>
                                                         </div>
                                                         <span class="lineCb__text">Кислотность</span>
                                                     </div>
                                                                                                                                                     <div class="lineCb-item">
                                                         <div class="lineCb"><span
-                                                                style="width: 40%"></span>
+                                                                style="width: 60%"></span>
                                                         </div>
                                                         <span class="lineCb__text">Плотность</span>
                                                     </div>
@@ -852,41 +873,41 @@
                                                                                     <div class="d-flex">
                                                                                             <div class="millingGoods selectWrapper">
                                                                                                         <select class="milling"
-                                                            name="options[1815]"
+                                                            name="options[1813]"
                                                             data-option-id="5"
                                                             data-selector-full="1"
                                                     >
                                                                                                                     <option
-                                                                value="8053" selected>в зернах</option>
+                                                                value="8041" selected>в зернах</option>
                                                                                                                     <option
-                                                                value="8056" >для френч-пресса (крупный)</option>
+                                                                value="8043" >для френч-пресса (крупный)</option>
                                                                                                                     <option
-                                                                value="8057" >для капельной кофеварки (крупный)</option>
+                                                                value="8044" >для капельной кофеварки (крупный)</option>
                                                                                                                     <option
-                                                                value="8058" >для кемекса (крупный)</option>
+                                                                value="8045" >для кемекса (крупный)</option>
                                                                                                                     <option
-                                                                value="8059" >для пуровера (средний)</option>
+                                                                value="8046" >для пуровера (средний)</option>
                                                                                                                     <option
-                                                                value="8060" >для аэропресса (средний)</option>
+                                                                value="8047" >для аэропресса (средний)</option>
                                                                                                                     <option
-                                                                value="8051" >для гейзерной кофеварки (средний)</option>
+                                                                value="8040" >для гейзерной кофеварки (средний)</option>
                                                                                                                     <option
-                                                                value="8052" >для эспрессо грубо (средний)</option>
+                                                                value="8039" >для эспрессо грубо (средний)</option>
                                                                                                                     <option
-                                                                value="8055" >для эспрессо тонко (мелкий)</option>
+                                                                value="8042" >для эспрессо тонко (мелкий)</option>
                                                                                                                     <option
-                                                                value="8054" >для турки (мелкий)</option>
+                                                                value="8038" >для турки (мелкий)</option>
                                                                                                                     <option
-                                                                value="8061" >для чашки (средний)</option>
+                                                                value="8048" >для чашки (средний)</option>
                                                                                                             </select>
                                                 </div>
                                                                                                     <div class="millingGoods selectWrapper" style="display:none">
                                                         <select disabled class="milling"
-                                                                name="options[1815]"
+                                                                name="options[1813]"
                                                                 data-option-id="5"
                                                                 data-selector-full="0"
                                                         >
-                                                                                                                                                                                                <option value="8053" selected>
+                                                                                                                                                                                                <option value="8041" selected>
                                                                         в зернах
                                                                     </option>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </select>
@@ -904,64 +925,67 @@
                                                                                         <br>
                                                                                                                                                                                                                                             <div class="priceGoods">
                                                                                                                                                                                                                                                                                                             <div class="radioCard">
-                                                                <input id="price8063" type="radio"
-                                                                       name="options[1816]"
+                                                                <input id="price8049" type="radio"
+                                                                       name="options[1814]"
                                                                        checked=checked
-                                                                       onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/frutty.png');edit_ya_metric_from_lists(this,'519','250 г');"
-                                                                       value="8063"
+                                                                       onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-025.png');edit_ya_metric_from_lists(this,'869','250 г');"
+                                                                       value="8049"
                                                                        data-option-id="6"
                                                                        data-option-value-id="41"
                                                                 >
-                                                                <label for="price8063" class="priceCb-wrap">
+                                                                <label for="price8049" class="priceCb-wrap">
                                                                 <span class="priceCb-h">
                                                                     <span
                                                                         class="priceCb__wt">250 г
-                                                                    </span>
-                                                                                                                                    </span>
-                                                                    <a class="priceCb">519 <span
-                                                                            class="rub">₽</span></a>
-                                                                </label>
-                                                            </div>
-                                                                                                                                                                                <div class="radioCard">
-                                                                <input id="price8062" type="radio"
-                                                                       name="options[1816]"
-                                                                       
-                                                                       onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/frutty-1.png');edit_ya_metric_from_lists(this,'1759','1000 г');"
-                                                                       value="8062"
-                                                                       data-option-id="6"
-                                                                       data-option-value-id="42"
-                                                                >
-                                                                <label for="price8062" class="priceCb-wrap">
-                                                                <span class="priceCb-h">
-                                                                    <span
-                                                                        class="priceCb__wt">1000 г
                                                                     </span>
                                                                                                                                             <span class="percentCb">-15
                                                                             %
                                                                         </span>
                                                                                                                                     </span>
-                                                                    <a class="priceCb">1759 <span
+                                                                    <a class="priceCb">869 <span
+                                                                            class="rub">₽</span></a>
+                                                                </label>
+                                                            </div>
+                                                                                                                                                                                <div class="radioCard">
+                                                                <input id="price8050" type="radio"
+                                                                       name="options[1814]"
+                                                                       
+                                                                       onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-1.png');edit_ya_metric_from_lists(this,'3129','1000 г');"
+                                                                       value="8050"
+                                                                       data-option-id="6"
+                                                                       data-option-value-id="42"
+                                                                >
+                                                                <label for="price8050" class="priceCb-wrap">
+                                                                <span class="priceCb-h">
+                                                                    <span
+                                                                        class="priceCb__wt">1000 г
+                                                                    </span>
+                                                                                                                                            <span class="percentCb">-25
+                                                                            %
+                                                                        </span>
+                                                                                                                                    </span>
+                                                                    <a class="priceCb">3129 <span
                                                                             class="rub">₽</span></a>
                                                                 </label>
                                                             </div>
                                                                                                             </div>
                                                                                                                                         <div class="buyGoods" itemprop="offers" itemscope
                                                  itemtype="http://schema.org/Offer">
-                                                <meta itemprop="price" content="519">
+                                                <meta itemprop="price" content="869">
                                                 <meta itemprop="priceCurrency" content="RUB">
                                                 <meta itemprop="priceValidUntil"
-                                                      content="2024-03-23T23:23:19+03:00">
+                                                      content="2024-03-23T23:36:22+03:00">
                                                 
                                                 
 
-                                                <meta itemprop="url" content="https://shop.tastycoffee.ru/coffee/espresso-frutti">
+                                                <meta itemprop="url" content="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa">
                                                                                                                                                         <link itemprop="availability" href="http://schema.org/InStock">
                                                     <a class="blackBtn "
                                                        onclick="add_in_cart(this);return false;"
-                                                       data-metrics="{&quot;id&quot;:1359,&quot;name&quot;:&quot;\u0424\u0440\u0443\u0442\u0442\u0438&quot;,&quot;price&quot;:519,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
+                                                       data-metrics="{&quot;id&quot;:1354,&quot;name&quot;:&quot;\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430 \u0421\u0430\u043d\u0442\u0430 \u0422\u0435\u0440\u0435\u0437\u0430&quot;,&quot;price&quot;:869,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
                                                     >
                                                         <i class="ic pack-ic"></i>
-                                                        <span class="buyText buyText_1359">Купить</span>
+                                                        <span class="buyText buyText_1354">Купить</span>
                                                     </a>
 
                                                                                             </div>
@@ -981,11 +1005,11 @@
                             <div class="tab-menu">
                                 <a class="btnTab animated">Описание</a>
                                 <a class="product_review_tab btnTab ">
-                                    Комментарии <span>0</span>
+                                    Комментарии <span>10</span>
                                 </a>
                                 
                                                                             <a class="btnTab">
-                                            Рецепты <span>0</span>
+                                            Рецепты <span>2</span>
                                         </a>
                                                                                                 </div>
                         </div>
@@ -996,7 +1020,7 @@
                             <div class="item">
                                             <img src="https://shop.tastycoffee.ru/assets/site/img/flame.svg" alt="">
                                                                 <div class="text-p">Ростер для обжарки:
-                            <span class="bold-text">Loring S70 Peregrine</span>
+                            <span class="bold-text">Probat UG-22</span>
                                                             <div class="tipEl">
                                     <span class="tip-btn">?</span>
                                     <div class="tip-text"><p>Кофе обжаривают на специальном оборудовании — ростерах. Они бывают разных типов, производителей и размеров. У каждого типа ростера своё устройство и особенности, которые напрямую влияют на качество обжарки, а значит — и на вкус кофе.</p>
@@ -1004,7 +1028,7 @@
                                 </div>
                                                     </div>
                                             <div class="text-p">Степень обжарки:
-                            <span class="bold-text">эспрессо</span>
+                            <span class="bold-text">фильтр</span>
                                                             <div class="tipEl">
                                     <span class="tip-btn">?</span>
                                     <div class="tip-text"><p><b>Степень обжарки</b> — это одна из основных характеристик, которая влияет на вкус кофе.
@@ -1017,44 +1041,105 @@
                             <div class="item">
                                             <img src="https://shop.tastycoffee.ru/assets/site/img/seed.svg" alt="">
                                                                 <div class="text-p">Регион:
-                            <span class="bold-text">Бразилия, Гватемала, Эфиопия</span>
+                            <span class="bold-text">Тарразу</span>
+                                                    </div>
+                                            <div class="text-p">Разновидность:
+                            <span class="bold-text">катуаи</span>
                                                     </div>
                                             <div class="text-p">Способ обработки:
-                            <span class="bold-text">смесь</span>
+                            <span class="bold-text">натуральный</span>
                                                             <div class="tipEl">
                                     <span class="tip-btn">?</span>
                                     <div class="tip-text"><p><b>Обработка</b> — это этап производства, который напрямую влияет на вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный, кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны исключения, так как эти характеристики зависят не только от способа обработки.</p>
 <a target="_blank" href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe">Подробнее</a></div>
                                 </div>
                                                     </div>
+                                            <div class="text-p">Высота произрастания:
+                            <span class="bold-text">1600–2000 м</span>
+                                                    </div>
+                                            <div class="text-p">Урожай:
+                            <span class="bold-text">2022</span>
+                                                    </div>
+                                    </div>
+                            <div class="item">
+                                                                <div class="text-p">Оценка Q-грейдера:
+                            <span class="bold-text">87.00</span>
+                                                            <div class="tipEl">
+                                    <span class="tip-btn">?</span>
+                                    <div class="tip-text"><p>Q-грейдинг — это единая система оценки кофе. Она помогает объективно оценивать кофе по 100-балльной шкале и присваивать ему класс. Для этого проводят каппинг — определяют вкус, аромат, послевкусие, дефекты и общее впечатление от кофе.</p>
+<a target="_blank" href="https://shop.tastycoffee.ru/blog/q-graders">Подробнее</a></div>
+                                </div>
+                                                    </div>
                                     </div>
                     </div>
     
-    <p>Эспрессо-смесь 100% арабики: 50% Бразилии Суль-де-Минас натуральной обработки, 20% мытой Гватемалы Фэнси и 30% мытой Эфиопии Оромия.</p>
+    <p>Яркий кофе со вкусом клубники, темного винограда и белого вина.</p>
 
-<p>
-<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
-</style>
-Сладкий кофе с нотами абрикоса, молочного шоколада и сухофруктов.</p>
+<p>Кофе с фермы Санта Тереза, которая принадлежит Роджеру Урена. Роджер занимается выращиванием кофе с детства — его родители, бабушка и дедушка были фермерами и они научили его обрабатывать землю.</p>
 
-<p>Это обновленная смесь, которая раньше называлась Бариста. </p>
+<p>В 1987 году Роджер уехал в США на заработки, а по приезду он инвестировал деньги в свой бизнес дома, потому что верил в его будущее. По словам Роджера, выращивание кофе в Тарразу — очень распространенное занятие, которое годами передается от семьи к семье, потому что это хороший источник дохода и роста.</p>
 
-<p></p>
+<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/costa-rica/filter-costa-rica-santa-teresa.jpg" /></p>
+
+<p>Ферму Санта Тереза и станцию обработки на ней он приобрёл около 10 лет назад. Высота, на которой находится ферма колеблется от 1600 до 2000 метров над уровнем моря, а общая площадь — 60 гектаров. Но кофе выращивают кофе только на 10 гектарах, так как большая часть земли остаётся заповедным лесом.</p>
+
+<p>После покупки Санта Терезы Роджер понял, что в Коста-Рике не так много ферм, где растут разные разновидности. Поэтому он решил высадить не только классические разновидности, но и более редкие, например, руме судан, пакамару, бурбон, гейшу, SL-28 и другие.</p>
+
+<p>Роджер продолжает вводить новшества не только на ферме, но и в своём городе. Недавно он переоборудовал один из старейших домов в своем районе, превратив его в красивую кофейню. Идея состоит в том, чтобы стимулировать потребление кофе хорошего качества. А дальше он планирует построить собственный драй-милл.</p>
+
+<p>Этот кофе обработали классическим натуральным способом, но с медленной сушкой в течение 25 дней. После того, как влажность достигла целевых 11–12%, Роджер упаковывает высушенные ягоды в мешки примерно на месяц и только затем отправляет на халлинг и предэкспортную подготовку.</p>
+
+<p>Подробнее про особенности кофе из Коста-Рики вы можете <u><a href="https://shop.tastycoffee.ru/blog/industria-kofe-kosta-rika" target="_blank"><span style="color:#000000"><ins>прочитать в статье</ins></span></a></u>.</p>
 </div>
 <div class="goodsAi">
                             <h4>Способы приготовления</h4>
             <div class="linkAi-wrap">
-                                    <a href=https://shop.tastycoffee.ru/blog/guide-espresso target="_blank"
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-filter target="_blank"
                        class="linkAi">
-                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac12.svg);"></i>
-                        <span>Эспрессо-машина
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac4.svg);"></i>
+                        <span>Капельная кофеварка
                                                             <p class="linkAi-desc">Открыть руководство</p>
                                                     </span>
                     </a>
-                                    <a href=https://shop.tastycoffee.ru/blog/guide-mokka target="_blank"
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-cezve target="_blank"
                        class="linkAi">
-                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac10.svg);"></i>
-                        <span>Гейзерная кофеварка
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac3.svg);"></i>
+                        <span>Турка
+                                                            <p class="linkAi-desc">Открыть руководство</p>
+                                                    </span>
+                    </a>
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-french-press target="_blank"
+                       class="linkAi">
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac9.svg);"></i>
+                        <span>Френч-пресс
+                                                            <p class="linkAi-desc">Открыть руководство</p>
+                                                    </span>
+                    </a>
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-pourover target="_blank"
+                       class="linkAi">
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac11.svg);"></i>
+                        <span>Пуровер
+                                                            <p class="linkAi-desc">Открыть руководство</p>
+                                                    </span>
+                    </a>
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-bonavita target="_blank"
+                       class="linkAi">
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac11.svg);"></i>
+                        <span>Иммерсионная воронка
+                                                            <p class="linkAi-desc">Открыть руководство</p>
+                                                    </span>
+                    </a>
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-cup target="_blank"
+                       class="linkAi">
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac_cup.svg);"></i>
+                        <span>В чашке
+                                                            <p class="linkAi-desc">Открыть руководство</p>
+                                                    </span>
+                    </a>
+                                    <a href=https://shop.tastycoffee.ru/blog/guide-aeropress target="_blank"
+                       class="linkAi">
+                        <i class="ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/methods/ac2.svg);"></i>
+                        <span>Аэропресс
                                                             <p class="linkAi-desc">Открыть руководство</p>
                                                     </span>
                     </a>
@@ -1149,7 +1234,7 @@
                         data-title="Без сортировки"
                         onchange="on_paginate_product_reviews(
                             $(this)/* .closest('.tabBox').find('.for_paginate') */,
-                            'https://shop.tastycoffee.ru/ajax/products/1359/reviews?page=1',
+                            'https://shop.tastycoffee.ru/ajax/products/1354/reviews?page=1',
                             '',
                             false
                         );
@@ -1170,7 +1255,7 @@
                         data-title="Метод приготовления"
                         onchange="on_paginate_product_reviews(
                             $(this)/* .closest('.tabBox').find('.for_paginate') */,
-                            'https://shop.tastycoffee.ru/ajax/products/1359/reviews?page=1',
+                            'https://shop.tastycoffee.ru/ajax/products/1354/reviews?page=1',
                             '',
                             false
                         );
@@ -1227,7 +1312,7 @@
 <div class="expertsOnly">
     <div class="checkbox-primary">
         <input id="experts_only"
-               onchange="on_paginate_product_reviews($(this).closest('.tabBox').find('.for_paginate'),'https://shop.tastycoffee.ru/ajax/products/1359/reviews?page=1');return false;"
+               onchange="on_paginate_product_reviews($(this).closest('.tabBox').find('.for_paginate'),'https://shop.tastycoffee.ru/ajax/products/1354/reviews?page=1');return false;"
                type="checkbox" name="only_expert" value="1">
         <label for="experts_only">
             <span class="box">box</span>
@@ -1245,7 +1330,409 @@
     </div>
 </div>
 <div class="post-list for_paginate">
-    <hr>
+    <div class="item social_post_item" id="social_post_30150" data-read-post-id="30150">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/1128c687-5cfb-4498-88f0-3bfc7b1f89c0" class="position-relative">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_15540_1628069859.png">
+                    
+                                                                                </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/1128c687-5cfb-4498-88f0-3bfc7b1f89c0">Илья (г. Уфа)</a>
+                    </p>
+                    <p class="level">Эксперт</p>
+                </div>
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="post-list__header--right">
+                                                    <div class="post-actions">
+    <button class="post-actions__btn" type="button"></button>
+    <ul class="post-actions__dropdown">
+                    <li>
+                <a class="link"
+                   onclick="toggleSocialBlockUser(this, 'https://shop.tastycoffee.ru/community/users/block', '15540'); return false;"
+                   href="#">
+                    <span class="ic-hide">ic</span>
+                    Скрыть публикации этого пользователя
+                </a>
+            </li>
+            <li>
+                <a class="link" href="#"
+                   onclick="socialAddReport(this, 30150); return false;"
+                >
+                    <span class="ic-complain">ic</span>
+                    Пожаловаться на пост
+                </a>
+            </li>
+                
+    </ul>
+</div>
+                            </div>
+        </div>
+        <div class="post-list__body">
+                            <div class="post-list__body--text">
+                    Давние традиции Италии в области виноделия и приготовления эспрессо делают эти напитки популярными как среди местного населения, так и среди туристов. И если бы в Европе был так же, как и эспрессо, популярен фильтр-кофе, то скорее всего, это был бы напиток, похожий на то, что получается из красного катуаи натуральной экспериментальной обработки с фермы Санта Тереза. <br />
+<br />
+Такая ассоциация возникла по причине особенностей вкусового профиля  -  сладкого, чуть выше среднего по яркости, ягодно-винно-шоколадного. В букете легко найти сладкий темный виноград, спелую темную сливу, красное полусладкое вино и темный шоколад, с небольшим уклоном в трюфель - что только обогащает баланс, делая его более насыщенным. Необычно и послевкусие - сладкое, несколько по-танинному вязкое, продолжительное. И это все при достаточно сбалансированной ягодно-винной кислотности и среднем, обволакивающем теле. <br />
+<br />
+Что касается обработки - суть эксперимента заключается не только в медленной сушке, но и в сушке в ягоде, что отразилось как на внешнем виде зерна (а оно довольно мелкое и твердое), так и на характере вкуса - это сильно отличает его от урожая с этой фермы 2021 года. Твердость зерна сказывается и на качестве помола - даже на обычно сильно пылящей 1Zpresso Q2 он очень равномерный (на фото именно помол с этой кофемолки), что позволяет сделать вывод о неприхотливости и стабильности вкуса при приготовлении. <br />
+<br />
+Очень качественное зерно, прекрасный результат в чашке. При этом еще богатый по букету, сбалансированный и питкий. Что еще нужно?
+                </div>
+                                                        <div class="post-list__body--answer">
+                    <div class="review-user">
+                        <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                           class="img-wrap" target="_blank">
+                            <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-025.png" class="tovar" alt="">
+                            <span class="impress like-ic" title="like">ic</span>
+                        </a>
+                        <div class="review-user-l">
+                            <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                               class="nameRu" target="_blank">
+                                Коста-Рика Санта Тереза
+                            </a>
+                                                    </div>
+                    </div>
+                                            <div class="review-text">
+                                                            <p class="text">
+                                    <span class="review-text-title">Способ приготовления:</span> Пуровер
+                                </p>
+                                                                                        <p class="bold">Рецепт:</p>
+                                <p class="text">
+                                    Помол 14 значений на TM Xlite/2 оборота на 1zpresso Q2 sevencore, 16,5/260, предсмачивание 40 гр до 30 секунд, далее еще 60 гр до 1.10, и еще один неторопливый пролив на 160 гр. Общее время, до сухой шапки, составило 2.30.
+                                </p>
+                                                    </div>
+                                    </div>
+                                        <div class="post-list__body--gallery">
+                    <div class="owl-gallery">
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/66ca4dc1-6655-46ab-8e4d-e12fb3bced39.jpg" alt="picture">
+                                                            </div>
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/ae3b2e73-3ffb-44b2-aaed-3da627084ce4.jpg" alt="picture">
+                                                            </div>
+                                            </div>
+                    <div class="owl-carousel owl-gallery-nav">
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/66ca4dc1-6655-46ab-8e4d-e12fb3bced39.jpg" alt="picture">
+                                                            </div>
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/ae3b2e73-3ffb-44b2-aaed-3da627084ce4.jpg" alt="picture">
+                                                            </div>
+                                            </div>
+                </div>
+                        <div class="post-list__body--response btn-like">
+                <a href="#" onclick="socialPostLike(30150, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">11</span>
+                </a>
+                <a  href="#" onclick="socialPostDislike(30150, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, 'https://shop.tastycoffee.ru/community/30150/reviews'); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">8</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/community/new?post=30150">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/community/new?post=30150&title=Посмотрите пост @Илья в сообществе о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/community/new?post=30150&text=Посмотрите пост @Илья в сообществе о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+                <a href="#" class="btn-fav "
+                    onclick="toggleSocialPostFavorite(this, 'https://shop.tastycoffee.ru/community/favorite/toggle', '30150'); return false;"
+                >
+                    <span class="ic">ic</span>
+                </a>
+
+                <p class="time">14 часов назад</p>
+            </div>
+                            <div class="post-list__body--teg">
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=dark%20grapes">dark grapes</a>
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=dark%20plum">dark plum</a>
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=dark%20chocolate">dark chocolate</a>
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=semi-sweet%20wine">semi-sweet wine</a>
+                                    </div>
+                                    <div class="post-list__body--comment" >
+                                <div class="item-comment main "
+         id="social_post_30150_34140"
+    >
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_167061_1663528532.png">
+                                    </a>
+                <div class="name-wrap">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">Ирина (г. Москва)</a>
+                    </p>
+                    <p class="text-gray">Эксперт</p>
+                </div>
+                        <p class="date">13 часов назад</p>
+            <div class="text">
+                                Илья, здравствуйте. После ваших отзывов, нужно прятать кошелёк! :)<br />
+Спасибо за пост и фото!
+            </div>
+                        <div class="response btn-like">
+                <a href="#" onclick="socialReviewLike(34140, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">5</span>
+                </a>
+                <a href="#" onclick="socialReviewDislike(34140, this); return false;"
+                   class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                            </div>
+                            <a href="#" class="all-answers"
+                    onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/community/post/reviews/34140/child'); return false;"
+                >Все ответы (3)</a>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
+    </div>
+    <div class="item-comment main "
+         id="social_post_30150_34144"
+    >
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/7cf75f92-b31e-42eb-89a5-010506871855">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_126065_1666308847.png">
+                                    </a>
+                <div class="name-wrap">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/7cf75f92-b31e-42eb-89a5-010506871855">Олег (г. Первомайское)</a>
+                    </p>
+                    <p class="text-gray">Продвинутый</p>
+                </div>
+                        <p class="date">9 часов назад</p>
+            <div class="text">
+                                Илья, добрый день! Очередной гениальный отзыв, вам нет равных. :) Коста-Рика это Коста-Рика, реально знак качества, можно брать не глядя и не читая отзывы)
+            </div>
+                        <div class="response btn-like">
+                <a href="#" onclick="socialReviewLike(34144, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">3</span>
+                </a>
+                <a href="#" onclick="socialReviewDislike(34144, this); return false;"
+                   class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                            </div>
+                            <a href="#" class="all-answers"
+                    onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/community/post/reviews/34144/child'); return false;"
+                >Все ответы (1)</a>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
+    </div>
+    <div class="item-comment main "
+         id="social_post_30150_34145"
+    >
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/7412074b-3229-4d69-a7b8-d48496a519f6">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_165011_1669827623.png">
+                                    </a>
+                <div class="name-wrap">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/7412074b-3229-4d69-a7b8-d48496a519f6">Павел (г. Москва)</a>
+                    </p>
+                    <p class="text-gray">Эксперт</p>
+                </div>
+                        <p class="date">8 часов назад</p>
+            <div class="text">
+                                Приветствую, Илья. Как всегда вкусно и интересно описываете. Жаль, что у меня разгрузочные дни на новинки и вааще, сам себя ограничил, а то уже Лос Пинос приелся, дожил. Но вот математик во мне возмутился - 40 + 70 + 160 ≠ 260. Понимаю, что вы контролировали по 260 граммам на весах и не ошиблись. Тем не менее, Платон мне друг, но... Шучу ;-)
+            </div>
+                        <div class="response btn-like">
+                <a href="#" onclick="socialReviewLike(34145, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">2</span>
+                </a>
+                <a href="#" onclick="socialReviewDislike(34145, this); return false;"
+                   class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                            </div>
+                            <a href="#" class="all-answers"
+                    onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/community/post/reviews/34145/child'); return false;"
+                >Все ответы (1)</a>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
+    </div>
+
+            </div>
+        </div>
+            </div>
+        <div class="item social_post_item" id="social_post_30136" data-read-post-id="30136">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/09bd0910-5c89-4c66-a571-c40fb27fbc65" class="position-relative">
+                                            <div class="post-list__header--img">В</div>
+                    
+                                                                                </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/09bd0910-5c89-4c66-a571-c40fb27fbc65">Владислав (г. Лыткарино)</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="post-list__header--right">
+                                                    <div class="post-actions">
+    <button class="post-actions__btn" type="button"></button>
+    <ul class="post-actions__dropdown">
+                    <li>
+                <a class="link"
+                   onclick="toggleSocialBlockUser(this, 'https://shop.tastycoffee.ru/community/users/block', '209870'); return false;"
+                   href="#">
+                    <span class="ic-hide">ic</span>
+                    Скрыть публикации этого пользователя
+                </a>
+            </li>
+            <li>
+                <a class="link" href="#"
+                   onclick="socialAddReport(this, 30136); return false;"
+                >
+                    <span class="ic-complain">ic</span>
+                    Пожаловаться на пост
+                </a>
+            </li>
+                
+    </ul>
+</div>
+                            </div>
+        </div>
+        <div class="post-list__body">
+                            <div class="post-list__body--text">
+                    Яркий, ягодный, ненавязчиво кислый и с легкой горчинкой в послевкусии. Я нашел свой любимый кофе!<br />
+Я обычно не оставляю комментариев, но тут я просто не могу пройти мимо. И очень теперь надеюсь, что "микролот недели" задержится на полках магазина. <br />
+Много надписей-дескриптеров я видел на упаковках, но ни одна из них еще не была настолько точна. Как только я открыл упаковку, сразу же почувствовал яркий сладкий аромат. Клубничный? Мне сразу же вспомнились клубничные орео. На вкус же он оказался не настолько, как я ожидал кислым (и это хорошо - есть лишь приятное нечто, действительно напоминающее винную кислинку из описания; мягче многих кислых кофе), но ОЧЕНЬ сладким! И очень ягодным - ты словно пьешь кофейный компот! У меня мало опыта в кофе, я не изучаю его, как люди обитающие здесь в комментариях, завариваю, может, и не так, как следует. Но я никогда не мог бы подумать, что кофе может быть действительно таким необычным.
+                </div>
+                                                        <div class="post-list__body--answer">
+                    <div class="review-user">
+                        <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                           class="img-wrap" target="_blank">
+                            <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-025.png" class="tovar" alt="">
+                            <span class="impress like-ic" title="like">ic</span>
+                        </a>
+                        <div class="review-user-l">
+                            <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                               class="nameRu" target="_blank">
+                                Коста-Рика Санта Тереза
+                            </a>
+                                                    </div>
+                    </div>
+                                            <div class="review-text">
+                                                            <p class="text">
+                                    <span class="review-text-title">Способ приготовления:</span> Френч-пресс
+                                </p>
+                                                                                        <p class="bold">Рецепт:</p>
+                                <p class="text">
+                                    Добавляю во френч-пресс свежемолотый кофе, обычно 30г на 500 мл. Заливаю водой из чайника температурой 95 градусов. Жду 5 минут. Если слишком кислый/горький сорт кофе, сокращаю время до 4-х минут.
+                                </p>
+                                                    </div>
+                                    </div>
+                                    <div class="post-list__body--response btn-like">
+                <a href="#" onclick="socialPostLike(30136, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">2</span>
+                </a>
+                <a  href="#" onclick="socialPostDislike(30136, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, 'https://shop.tastycoffee.ru/community/30136/reviews'); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/community/new?post=30136">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/community/new?post=30136&title=Посмотрите пост @Владислав в сообществе о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/community/new?post=30136&text=Посмотрите пост @Владислав в сообществе о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+                <a href="#" class="btn-fav "
+                    onclick="toggleSocialPostFavorite(this, 'https://shop.tastycoffee.ru/community/favorite/toggle', '30136'); return false;"
+                >
+                    <span class="ic">ic</span>
+                </a>
+
+                <p class="time">20 часов назад</p>
+            </div>
+                                    <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+            </div>
+            <hr>
         <div class="pagination-block">
             
         </div>
@@ -1266,7 +1753,7 @@
                                                             data-title="Без сортировки"
                                                             onchange="on_paginate_product_reviews(
                                                                     $(this)/* .closest('.tabBox').find('.for_paginate') */,
-                                                                    'https://shop.tastycoffee.ru/ajax/products/1359/reviews?page=1',
+                                                                    'https://shop.tastycoffee.ru/ajax/products/1354/reviews?page=1',
                                                                     '',
                                                                     false
                                                                 );
@@ -1287,7 +1774,7 @@
                                                             data-title="Метод приготовления"
                                                             onchange="on_paginate_product_reviews(
                                                                 $(this),
-                                                                'https://shop.tastycoffee.ru/ajax/products/1359/reviews?page=1',
+                                                                'https://shop.tastycoffee.ru/ajax/products/1354/reviews?page=1',
                                                                 '',
                                                                 false
                                                             );
@@ -1343,7 +1830,7 @@
 <div class="expertsOnly">
     <div class="checkbox-primary">
         <input id="experts_only1"
-               onchange="on_paginate_product_reviews($(this).closest('.tabBox').find('.for_paginate'),'https://shop.tastycoffee.ru/ajax/products/1359/reviews?page=1&amp;has_recipe=1');return false;"
+               onchange="on_paginate_product_reviews($(this).closest('.tabBox').find('.for_paginate'),'https://shop.tastycoffee.ru/ajax/products/1354/reviews?page=1&amp;has_recipe=1');return false;"
                type="checkbox" name="only_expert" value="1">
         <label for="experts_only1">
             <span class="box">box</span>
@@ -1361,7 +1848,409 @@
     </div>
 </div>
 <div class="post-list for_paginate">
-    <hr>
+    <div class="item social_post_item" id="social_post_30150" data-read-post-id="30150">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/1128c687-5cfb-4498-88f0-3bfc7b1f89c0" class="position-relative">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_15540_1628069859.png">
+                    
+                                                                                </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/1128c687-5cfb-4498-88f0-3bfc7b1f89c0">Илья (г. Уфа)</a>
+                    </p>
+                    <p class="level">Эксперт</p>
+                </div>
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="post-list__header--right">
+                                                    <div class="post-actions">
+    <button class="post-actions__btn" type="button"></button>
+    <ul class="post-actions__dropdown">
+                    <li>
+                <a class="link"
+                   onclick="toggleSocialBlockUser(this, 'https://shop.tastycoffee.ru/community/users/block', '15540'); return false;"
+                   href="#">
+                    <span class="ic-hide">ic</span>
+                    Скрыть публикации этого пользователя
+                </a>
+            </li>
+            <li>
+                <a class="link" href="#"
+                   onclick="socialAddReport(this, 30150); return false;"
+                >
+                    <span class="ic-complain">ic</span>
+                    Пожаловаться на пост
+                </a>
+            </li>
+                
+    </ul>
+</div>
+                            </div>
+        </div>
+        <div class="post-list__body">
+                            <div class="post-list__body--text">
+                    Давние традиции Италии в области виноделия и приготовления эспрессо делают эти напитки популярными как среди местного населения, так и среди туристов. И если бы в Европе был так же, как и эспрессо, популярен фильтр-кофе, то скорее всего, это был бы напиток, похожий на то, что получается из красного катуаи натуральной экспериментальной обработки с фермы Санта Тереза. <br />
+<br />
+Такая ассоциация возникла по причине особенностей вкусового профиля  -  сладкого, чуть выше среднего по яркости, ягодно-винно-шоколадного. В букете легко найти сладкий темный виноград, спелую темную сливу, красное полусладкое вино и темный шоколад, с небольшим уклоном в трюфель - что только обогащает баланс, делая его более насыщенным. Необычно и послевкусие - сладкое, несколько по-танинному вязкое, продолжительное. И это все при достаточно сбалансированной ягодно-винной кислотности и среднем, обволакивающем теле. <br />
+<br />
+Что касается обработки - суть эксперимента заключается не только в медленной сушке, но и в сушке в ягоде, что отразилось как на внешнем виде зерна (а оно довольно мелкое и твердое), так и на характере вкуса - это сильно отличает его от урожая с этой фермы 2021 года. Твердость зерна сказывается и на качестве помола - даже на обычно сильно пылящей 1Zpresso Q2 он очень равномерный (на фото именно помол с этой кофемолки), что позволяет сделать вывод о неприхотливости и стабильности вкуса при приготовлении. <br />
+<br />
+Очень качественное зерно, прекрасный результат в чашке. При этом еще богатый по букету, сбалансированный и питкий. Что еще нужно?
+                </div>
+                                                        <div class="post-list__body--answer">
+                    <div class="review-user">
+                        <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                           class="img-wrap" target="_blank">
+                            <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-025.png" class="tovar" alt="">
+                            <span class="impress like-ic" title="like">ic</span>
+                        </a>
+                        <div class="review-user-l">
+                            <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                               class="nameRu" target="_blank">
+                                Коста-Рика Санта Тереза
+                            </a>
+                                                    </div>
+                    </div>
+                                            <div class="review-text">
+                                                            <p class="text">
+                                    <span class="review-text-title">Способ приготовления:</span> Пуровер
+                                </p>
+                                                                                        <p class="bold">Рецепт:</p>
+                                <p class="text">
+                                    Помол 14 значений на TM Xlite/2 оборота на 1zpresso Q2 sevencore, 16,5/260, предсмачивание 40 гр до 30 секунд, далее еще 60 гр до 1.10, и еще один неторопливый пролив на 160 гр. Общее время, до сухой шапки, составило 2.30.
+                                </p>
+                                                    </div>
+                                    </div>
+                                        <div class="post-list__body--gallery">
+                    <div class="owl-gallery">
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/66ca4dc1-6655-46ab-8e4d-e12fb3bced39.jpg" alt="picture">
+                                                            </div>
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/ae3b2e73-3ffb-44b2-aaed-3da627084ce4.jpg" alt="picture">
+                                                            </div>
+                                            </div>
+                    <div class="owl-carousel owl-gallery-nav">
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/66ca4dc1-6655-46ab-8e4d-e12fb3bced39.jpg" alt="picture">
+                                                            </div>
+                                                    <div class="item">
+                                                                    <img src="https://coffee-static.storage.yandexcloud.net/community/20230323/ae3b2e73-3ffb-44b2-aaed-3da627084ce4.jpg" alt="picture">
+                                                            </div>
+                                            </div>
+                </div>
+                        <div class="post-list__body--response btn-like">
+                <a href="#" onclick="socialPostLike(30150, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">11</span>
+                </a>
+                <a  href="#" onclick="socialPostDislike(30150, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, 'https://shop.tastycoffee.ru/community/30150/reviews'); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">8</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/community/new?post=30150">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/community/new?post=30150&title=Посмотрите пост @Илья в сообществе о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/community/new?post=30150&text=Посмотрите пост @Илья в сообществе о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+                <a href="#" class="btn-fav "
+                    onclick="toggleSocialPostFavorite(this, 'https://shop.tastycoffee.ru/community/favorite/toggle', '30150'); return false;"
+                >
+                    <span class="ic">ic</span>
+                </a>
+
+                <p class="time">14 часов назад</p>
+            </div>
+                            <div class="post-list__body--teg">
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=dark%20grapes">dark grapes</a>
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=dark%20plum">dark plum</a>
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=dark%20chocolate">dark chocolate</a>
+                                            <a class="teg" href="https://shop.tastycoffee.ru/community/new?tags=semi-sweet%20wine">semi-sweet wine</a>
+                                    </div>
+                                    <div class="post-list__body--comment" >
+                                <div class="item-comment main "
+         id="social_post_30150_34140"
+    >
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_167061_1663528532.png">
+                                    </a>
+                <div class="name-wrap">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">Ирина (г. Москва)</a>
+                    </p>
+                    <p class="text-gray">Эксперт</p>
+                </div>
+                        <p class="date">13 часов назад</p>
+            <div class="text">
+                                Илья, здравствуйте. После ваших отзывов, нужно прятать кошелёк! :)<br />
+Спасибо за пост и фото!
+            </div>
+                        <div class="response btn-like">
+                <a href="#" onclick="socialReviewLike(34140, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">5</span>
+                </a>
+                <a href="#" onclick="socialReviewDislike(34140, this); return false;"
+                   class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                            </div>
+                            <a href="#" class="all-answers"
+                    onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/community/post/reviews/34140/child'); return false;"
+                >Все ответы (3)</a>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
+    </div>
+    <div class="item-comment main "
+         id="social_post_30150_34144"
+    >
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/7cf75f92-b31e-42eb-89a5-010506871855">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_126065_1666308847.png">
+                                    </a>
+                <div class="name-wrap">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/7cf75f92-b31e-42eb-89a5-010506871855">Олег (г. Первомайское)</a>
+                    </p>
+                    <p class="text-gray">Продвинутый</p>
+                </div>
+                        <p class="date">9 часов назад</p>
+            <div class="text">
+                                Илья, добрый день! Очередной гениальный отзыв, вам нет равных. :) Коста-Рика это Коста-Рика, реально знак качества, можно брать не глядя и не читая отзывы)
+            </div>
+                        <div class="response btn-like">
+                <a href="#" onclick="socialReviewLike(34144, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">3</span>
+                </a>
+                <a href="#" onclick="socialReviewDislike(34144, this); return false;"
+                   class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                            </div>
+                            <a href="#" class="all-answers"
+                    onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/community/post/reviews/34144/child'); return false;"
+                >Все ответы (1)</a>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
+    </div>
+    <div class="item-comment main "
+         id="social_post_30150_34145"
+    >
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/7412074b-3229-4d69-a7b8-d48496a519f6">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_165011_1669827623.png">
+                                    </a>
+                <div class="name-wrap">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/7412074b-3229-4d69-a7b8-d48496a519f6">Павел (г. Москва)</a>
+                    </p>
+                    <p class="text-gray">Эксперт</p>
+                </div>
+                        <p class="date">8 часов назад</p>
+            <div class="text">
+                                Приветствую, Илья. Как всегда вкусно и интересно описываете. Жаль, что у меня разгрузочные дни на новинки и вааще, сам себя ограничил, а то уже Лос Пинос приелся, дожил. Но вот математик во мне возмутился - 40 + 70 + 160 ≠ 260. Понимаю, что вы контролировали по 260 граммам на весах и не ошиблись. Тем не менее, Платон мне друг, но... Шучу ;-)
+            </div>
+                        <div class="response btn-like">
+                <a href="#" onclick="socialReviewLike(34145, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">2</span>
+                </a>
+                <a href="#" onclick="socialReviewDislike(34145, this); return false;"
+                   class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                            </div>
+                            <a href="#" class="all-answers"
+                    onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/community/post/reviews/34145/child'); return false;"
+                >Все ответы (1)</a>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
+    </div>
+
+            </div>
+        </div>
+            </div>
+        <div class="item social_post_item" id="social_post_30136" data-read-post-id="30136">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/09bd0910-5c89-4c66-a571-c40fb27fbc65" class="position-relative">
+                                            <div class="post-list__header--img">В</div>
+                    
+                                                                                </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/09bd0910-5c89-4c66-a571-c40fb27fbc65">Владислав (г. Лыткарино)</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="post-list__header--right">
+                                                    <div class="post-actions">
+    <button class="post-actions__btn" type="button"></button>
+    <ul class="post-actions__dropdown">
+                    <li>
+                <a class="link"
+                   onclick="toggleSocialBlockUser(this, 'https://shop.tastycoffee.ru/community/users/block', '209870'); return false;"
+                   href="#">
+                    <span class="ic-hide">ic</span>
+                    Скрыть публикации этого пользователя
+                </a>
+            </li>
+            <li>
+                <a class="link" href="#"
+                   onclick="socialAddReport(this, 30136); return false;"
+                >
+                    <span class="ic-complain">ic</span>
+                    Пожаловаться на пост
+                </a>
+            </li>
+                
+    </ul>
+</div>
+                            </div>
+        </div>
+        <div class="post-list__body">
+                            <div class="post-list__body--text">
+                    Яркий, ягодный, ненавязчиво кислый и с легкой горчинкой в послевкусии. Я нашел свой любимый кофе!<br />
+Я обычно не оставляю комментариев, но тут я просто не могу пройти мимо. И очень теперь надеюсь, что "микролот недели" задержится на полках магазина. <br />
+Много надписей-дескриптеров я видел на упаковках, но ни одна из них еще не была настолько точна. Как только я открыл упаковку, сразу же почувствовал яркий сладкий аромат. Клубничный? Мне сразу же вспомнились клубничные орео. На вкус же он оказался не настолько, как я ожидал кислым (и это хорошо - есть лишь приятное нечто, действительно напоминающее винную кислинку из описания; мягче многих кислых кофе), но ОЧЕНЬ сладким! И очень ягодным - ты словно пьешь кофейный компот! У меня мало опыта в кофе, я не изучаю его, как люди обитающие здесь в комментариях, завариваю, может, и не так, как следует. Но я никогда не мог бы подумать, что кофе может быть действительно таким необычным.
+                </div>
+                                                        <div class="post-list__body--answer">
+                    <div class="review-user">
+                        <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                           class="img-wrap" target="_blank">
+                            <img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/filter-costa-rica-santa-teresa-025.png" class="tovar" alt="">
+                            <span class="impress like-ic" title="like">ic</span>
+                        </a>
+                        <div class="review-user-l">
+                            <a href="https://shop.tastycoffee.ru/coffee/filter-costa-rica-santa-teresa"
+                               class="nameRu" target="_blank">
+                                Коста-Рика Санта Тереза
+                            </a>
+                                                    </div>
+                    </div>
+                                            <div class="review-text">
+                                                            <p class="text">
+                                    <span class="review-text-title">Способ приготовления:</span> Френч-пресс
+                                </p>
+                                                                                        <p class="bold">Рецепт:</p>
+                                <p class="text">
+                                    Добавляю во френч-пресс свежемолотый кофе, обычно 30г на 500 мл. Заливаю водой из чайника температурой 95 градусов. Жду 5 минут. Если слишком кислый/горький сорт кофе, сокращаю время до 4-х минут.
+                                </p>
+                                                    </div>
+                                    </div>
+                                    <div class="post-list__body--response btn-like">
+                <a href="#" onclick="socialPostLike(30136, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">2</span>
+                </a>
+                <a  href="#" onclick="socialPostDislike(30136, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, 'https://shop.tastycoffee.ru/community/30136/reviews'); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/community/new?post=30136">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/community/new?post=30136&title=Посмотрите пост @Владислав в сообществе о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/community/new?post=30136&text=Посмотрите пост @Владислав в сообществе о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+                <a href="#" class="btn-fav "
+                    onclick="toggleSocialPostFavorite(this, 'https://shop.tastycoffee.ru/community/favorite/toggle', '30136'); return false;"
+                >
+                    <span class="ic">ic</span>
+                </a>
+
+                <p class="time">20 часов назад</p>
+            </div>
+                                    <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+            </div>
+            <hr>
         <div class="pagination-block">
             
         </div>
@@ -1376,6 +2265,263 @@
                                                     <div class="lookBox">
                         <h4 class="center">Также купили</h4>
                         <div class="owl-carousel card-wrap">
+                                                            <div
+    class="cardBox noteBox-for-open main-edit green coffee  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
+        <input type="hidden" name="product_id" value="511">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.5
+                </div>
+                                <a href="https://shop.tastycoffee.ru/coffee/rwanda-muteteli#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    650
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                            <a class="btnCard compare  btnCardCompare_511"
+                           data-product-id="511"
+                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
+                           title="Сравнение товаров"
+                        ></a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                        <div class="cdh-1 text-black">
+                        <a href="https://shop.tastycoffee.ru/coffee?type=71">
+                            Сорт недели
+                        </a>
+                    </div>
+                                                            </div>
+        </div>
+        <div class="nameTovar">
+                            <span>Для фильтра</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/rwanda-muteteli">
+                Руанда Мутетели
+            </a>
+                            <div class="processingMethod">
+                    <span class="processingMethod__text">мытый</span>
+                    <div class="tipMicrolot">
+                        <div class="wrap">
+                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
+                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
+                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
+                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
+                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
+                                об обработке <span
+                                    class="arr"></span></a>
+                        </div>
+
+                    </div>
+                </div>
+                    </div>
+        <div class="tovarImg ">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/coffee/rwanda-muteteli"
+                   class="absLink">Руанда Мутетели</a>
+                
+                                    <div class="scaImg
+                             sca85
+                                                    ">
+                    </div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-mono/rwanda-muteteli-025.png"
+                                        alt="Руанда Мутетели"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-mono/rwanda-muteteli-1.png"
+                                        alt="Руанда Мутетели"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans5/alt-microlot/ruanda_muteteli_beans.png"
+                                        alt="Руанда Мутетели"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Яркий кофе с нотами вишни, грейпфрута и тёмного шоколада
+            </div>
+                            <div class="lineCb-wrap animated fadeIn">
+                                            <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 80%"></span></div>
+                            <span class="lineCb__text">Кислотность</span>
+                        </div>
+                                                                <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 60%"></span>
+                            </div>
+                            <span class="lineCb__text">Плотность</span>
+                        </div>
+                                    </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                            <div class="btnCard-box selectWrapper">
+                                    
+                                    <label>
+                                        <select class="milling" name="options[802]"
+                                                title="Помол"
+                                                data-option-id="5"
+                                                data-selector-full="1"
+                                        >
+                                                                                            <option value="3205" selected>в зернах
+                                                </option>
+                                                                                            <option value="3208" >для френч-пресса (крупный)
+                                                </option>
+                                                                                            <option value="3203" >для капельной кофеварки (крупный)
+                                                </option>
+                                                                                            <option value="3204" >для кемекса (крупный)
+                                                </option>
+                                                                                            <option value="3207" >для пуровера (средний)
+                                                </option>
+                                                                                            <option value="3206" >для аэропресса (средний)
+                                                </option>
+                                                                                            <option value="4467" >для гейзерной кофеварки (средний)
+                                                </option>
+                                                                                            <option value="4468" >для эспрессо грубо (средний)
+                                                </option>
+                                                                                            <option value="4469" >для эспрессо тонко (мелкий)
+                                                </option>
+                                                                                            <option value="3202" >для турки (мелкий)
+                                                </option>
+                                                                                            <option value="3677" >для чашки (средний)
+                                                </option>
+                                                                                    </select>
+                                    </label>
+                                </div>
+                                                                    <div class="btnCard-box selectWrapper" style="display:none">
+                                        
+                                        <label>
+                                            <select disabled class="milling" name="options[802]"
+                                                    title="Помол"
+                                                    data-option-id="5"
+                                                    data-selector-full="0"
+                                            >
+                                                                                                                                                            <option value="3205" selected>
+                                                            в зернах
+                                                        </option>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </select>
+                                        </label>
+                                    </div>
+                                                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                                                        <div
+                                class="cardBox-f-l "
+                                data-option-id="6"
+                            >
+                                                                                                                                                                                    <div class="radioCard">
+                                        <input id="price3210" type="radio"
+                                            name="options[803]"
+                                            data-option-value-id="41"
+                                            data-option-id="6"
+                                            checked=checked
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-mono/rwanda-muteteli-025.png');edit_ya_metric_from_lists(this,'539','250 г');"
+                                            value="3210"
+                                        >
+                                        <label for="price3210"
+                                            class="priceCb-wrap">
+                                            <span class="priceCb-h animated fadeIn">
+                                                <span class="priceCb__wt">250 г</span>                                                    
+                                                    <span class="percentCb">-15%</span>
+                                                                                            </span>
+                                            <a class="priceCb">539 <span
+                                                    class="rub">₽</span></a>
+                                        </label>
+                                    </div>
+                                                                            <span>/</span>
+                                                                                                                                            <div class="radioCard">
+                                        <input id="price3209" type="radio"
+                                            name="options[803]"
+                                            data-option-value-id="42"
+                                            data-option-id="6"
+                                            
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-mono/rwanda-muteteli-1.png');edit_ya_metric_from_lists(this,'1939','1000 г');"
+                                            value="3209"
+                                        >
+                                        <label for="price3209"
+                                            class="priceCb-wrap">
+                                            <span class="priceCb-h animated fadeIn">
+                                                <span class="priceCb__wt">1000 г</span>                                                    
+                                                    <span class="percentCb">-25%</span>
+                                                                                            </span>
+                                            <a class="priceCb">1939 <span
+                                                    class="rub">₽</span></a>
+                                        </label>
+                                    </div>
+                                                                                                                        <div class="percentCb">25%</div>
+                                                                                                                                        </div>
+                                                            
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:511,&quot;name&quot;:&quot;\u0420\u0443\u0430\u043d\u0434\u0430 \u041c\u0443\u0442\u0435\u0442\u0435\u043b\u0438&quot;,&quot;price&quot;:539,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
+                        >
+                            <span class="buyText buyText_511">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
                                                             <div
     class="cardBox noteBox-for-open main-edit blue coffee  ">
     <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
@@ -1637,9 +2783,9 @@
     </div>
 
                                                             <div
-    class="cardBox noteBox-for-open main-edit blue coffee  ">
+    class="cardBox noteBox-for-open main-edit green coffee  ">
     <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
-        <input type="hidden" name="product_id" value="1350">
+        <input type="hidden" name="product_id" value="1331">
         <div class="noteBox animated fadeIn">
     <div class="noteBox-wrap">
         <a class="closeBtn min" onclick="close_note(this); return false;"></a>
@@ -1650,12 +2796,12 @@
             <div class="cardBox-h-l">
                 <div class="ratingCard"
                     onclick=$(&quot;.enterOpen&quot;).click()
-                >4.5
+                >4.6
                 </div>
-                                <a href="https://shop.tastycoffee.ru/coffee/china-simao#reviews"
+                                <a href="https://shop.tastycoffee.ru/coffee/costa-rica-los-lirios#reviews"
                    class="countComment">
                     <i class="ic comment-ic"></i>
-                    7
+                    36
                 </a>
                 <div class="btnCard-wrap">
                     <a class="btnCard note "
@@ -1669,8 +2815,8 @@
                         <span class="favoriteAdd"></span>
                         <span class="favoriteAdded"></span>
                     </a>
-                                            <a class="btnCard compare  btnCardCompare_1350"
-                           data-product-id="1350"
+                                            <a class="btnCard compare  btnCardCompare_1331"
+                           data-product-id="1331"
                            onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
                            title="Сравнение товаров"
                         ></a>
@@ -1678,6 +2824,24 @@
             </div>
             <div class="cardBox-h-r">
                                                                                                                                                     <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?filters=28">
+                                Микролот
+                            </a>
+                                                            <div class="tipMicrolot">
+                                    <div class="wrap">
+                                        <p><strong>Микролот</strong> — это сезонный кофе с яркими вкусовыми особенностями
+                                            более
+                                            высокого качества с оценкой от 85 баллов по SCA. Он получается таким за счет
+                                            тщательного
+                                            внимания при выращивании и обработке, но его урожай обычно сильно ограничен.</p>
+                                        <a href="https://shop.tastycoffee.ru/blog/chto-takoe-microlot-kofe"
+                                        target="_blank">Подробнее о микролотах <span class="arr"></span></a>
+                                    </div>
+
+                                </div>
+                                                    </div>
+                                                                                                        <div class="cdh-1">
                             <a class="microlotHover"
                             href="https://shop.tastycoffee.ru/coffee?type=32">
                                 Новый
@@ -1686,261 +2850,9 @@
                                                 </div>
         </div>
         <div class="nameTovar">
-                            <span>Для эспрессо</span>
-                        <a href="https://shop.tastycoffee.ru/coffee/china-simao">
-                Китай Симао
-            </a>
-                            <div class="processingMethod">
-                    <span class="processingMethod__text">мытый</span>
-                    <div class="tipMicrolot">
-                        <div class="wrap">
-                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
-                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
-                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
-                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
-                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
-                                об обработке <span
-                                    class="arr"></span></a>
-                        </div>
-
-                    </div>
-                </div>
-                    </div>
-        <div class="tovarImg ">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/coffee/china-simao"
-                   class="absLink">Китай Симао</a>
-                
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/china-simao-025.png"
-                                        alt="Китай Симао"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/china-simao-1.png"
-                                        alt="Китай Симао"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans9/beans-china-simao.png"
-                                        alt="Китай Симао"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Сладкий кофе со вкусом желтого яблока, сухофруктов и ореховой пасты
-            </div>
-                            <div class="lineCb-wrap animated fadeIn">
-                                            <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 40%"></span></div>
-                            <span class="lineCb__text">Кислотность</span>
-                        </div>
-                                                                <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 60%"></span>
-                            </div>
-                            <span class="lineCb__text">Плотность</span>
-                        </div>
-                                    </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                     
-                        <div class="wrap-btnCard-box">
-                                                            <div class="btnCard-box selectWrapper">
-                                    
-                                    <label>
-                                        <select class="milling" name="options[1808]"
-                                                title="Помол"
-                                                data-option-id="5"
-                                                data-selector-full="1"
-                                        >
-                                                                                            <option value="8012" selected>в зернах
-                                                </option>
-                                                                                            <option value="8016" >для френч-пресса (крупный)
-                                                </option>
-                                                                                            <option value="8017" >для капельной кофеварки (крупный)
-                                                </option>
-                                                                                            <option value="8018" >для кемекса (крупный)
-                                                </option>
-                                                                                            <option value="8019" >для пуровера (средний)
-                                                </option>
-                                                                                            <option value="8020" >для аэропресса (средний)
-                                                </option>
-                                                                                            <option value="8014" >для гейзерной кофеварки (средний)
-                                                </option>
-                                                                                            <option value="8011" >для эспрессо грубо (средний)
-                                                </option>
-                                                                                            <option value="8015" >для эспрессо тонко (мелкий)
-                                                </option>
-                                                                                            <option value="8013" >для турки (мелкий)
-                                                </option>
-                                                                                            <option value="8021" >для чашки (средний)
-                                                </option>
-                                                                                    </select>
-                                    </label>
-                                </div>
-                                                                    <div class="btnCard-box selectWrapper" style="display:none">
-                                        
-                                        <label>
-                                            <select disabled class="milling" name="options[1808]"
-                                                    title="Помол"
-                                                    data-option-id="5"
-                                                    data-selector-full="0"
-                                            >
-                                                                                                                                                            <option value="8012" selected>
-                                                            в зернах
-                                                        </option>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </select>
-                                        </label>
-                                    </div>
-                                                                                    </div>
-                        <div class="count-wrap animated fadeIn">
-                            <span class="count_min" onclick="click_count(this);return false;"></span>
-                            <span class="count_item">
-                                    <input min="1" type="number" value="1" name="count"
-                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
-                                </span>
-                            <span class="count_plus" onclick="click_count(this);return false;"></span>
-                        </div>
-                                    </div>
-                                                                                        <div
-                                class="cardBox-f-l "
-                                data-option-id="6"
-                            >
-                                                                                                                                                                                    <div class="radioCard">
-                                        <input id="price8023" type="radio"
-                                            name="options[1809]"
-                                            data-option-value-id="41"
-                                            data-option-id="6"
-                                            checked=checked
-                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/china-simao-025.png');edit_ya_metric_from_lists(this,'489','250 г');"
-                                            value="8023"
-                                        >
-                                        <label for="price8023"
-                                            class="priceCb-wrap">
-                                            <span class="priceCb-h animated fadeIn">
-                                                <span class="priceCb__wt">250 г</span>                                            </span>
-                                            <a class="priceCb">489 <span
-                                                    class="rub">₽</span></a>
-                                        </label>
-                                    </div>
-                                                                            <span>/</span>
-                                                                                                                                            <div class="radioCard">
-                                        <input id="price8022" type="radio"
-                                            name="options[1809]"
-                                            data-option-value-id="42"
-                                            data-option-id="6"
-                                            
-                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/china-simao-1.png');edit_ya_metric_from_lists(this,'1659','1000 г');"
-                                            value="8022"
-                                        >
-                                        <label for="price8022"
-                                            class="priceCb-wrap">
-                                            <span class="priceCb-h animated fadeIn">
-                                                <span class="priceCb__wt">1000 г</span>                                                    
-                                                    <span class="percentCb">-15%</span>
-                                                                                            </span>
-                                            <a class="priceCb">1659 <span
-                                                    class="rub">₽</span></a>
-                                        </label>
-                                    </div>
-                                                                                                                        <div class="percentCb">15%</div>
-                                                                                                                                        </div>
-                                                            
-                                                        <div class="cardBox-f-r">
-                        <a class="buyBtn "
-                           onclick="add_in_cart(this);return false;"
-                           data-metrics="{&quot;id&quot;:1350,&quot;name&quot;:&quot;\u041a\u0438\u0442\u0430\u0439 \u0421\u0438\u043c\u0430\u043e&quot;,&quot;price&quot;:489,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
-                        >
-                            <span class="buyText buyText_1350">Купить</span>
-                        </a>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                            <div
-    class="cardBox noteBox-for-open main-edit blue coffee  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
-        <input type="hidden" name="product_id" value="295">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >4.5
-                </div>
-                                <a href="https://shop.tastycoffee.ru/coffee/brazil-cerrado#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    1999
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                            <a class="btnCard compare  btnCardCompare_295"
-                           data-product-id="295"
-                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
-                           title="Сравнение товаров"
-                        ></a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/coffee?type=31">
-                                Популярный
-                            </a>
-                                                    </div>
-                                                </div>
-        </div>
-        <div class="nameTovar">
-                            <span>Для эспрессо</span>
-                        <a href="https://shop.tastycoffee.ru/coffee/brazil-cerrado">
-                Бразилия Серрадо
+                            <span>Для фильтра</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/costa-rica-los-lirios">
+                Коста-Рика Лос Лириос
             </a>
                             <div class="processingMethod">
                     <span class="processingMethod__text">натуральный</span>
@@ -1960,30 +2872,34 @@
                     </div>
         <div class="tovarImg ">
             <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/coffee/brazil-cerrado"
-                   class="absLink">Бразилия Серрадо</a>
+                <a href="https://shop.tastycoffee.ru/coffee/costa-rica-los-lirios"
+                   class="absLink">Коста-Рика Лос Лириос</a>
                 
+                                    <div class="scaImg
+                             sca85
+                                                    ">
+                    </div>
                                                                     <div class="sliderGoods-wrap">
                         <div class="owl-carousel sliderCatalog owl-theme">
                                                             <div class="item">
                                     <img
                                         class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/brazil-cerrado-025.png.png"
-                                        alt="Бразилия Серрадо"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/costa-rica-los-lirios-250-2.png"
+                                        alt="Коста-Рика Лос Лириос"
                                         itemprop=image/>
                                 </div>
                                                             <div class="item">
                                     <img
                                         class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/brazil-cerrado-1.png"
-                                        alt="Бразилия Серрадо"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/costa-rica-los-lirios-1000.png"
+                                        alt="Коста-Рика Лос Лириос"
                                         />
                                 </div>
                                                             <div class="item">
                                     <img
                                         class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans4/espresso-mono/beans-brazil-cerrado.png"
-                                        alt="Бразилия Серрадо"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/beans/costa-rica-los-lirios-2.png"
+                                        alt="Коста-Рика Лос Лириос"
                                         />
                                 </div>
                                                     </div>
@@ -1993,15 +2909,15 @@
         </div>
         <div class="hiddenCard animated fadeIn ">
             <div class="textTovar text-hide">
-                Плотный кофе с нотами жареных орехов, шоколада и карамели
+                Яркий кофе со вкусом манго, ежевики, золотого рома и тёмного шоколада
             </div>
                             <div class="lineCb-wrap animated fadeIn">
                                             <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 40%"></span></div>
+                            <div class="lineCb"><span style="width: 80%"></span></div>
                             <span class="lineCb__text">Кислотность</span>
                         </div>
                                                                 <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 60%"></span>
+                            <div class="lineCb"><span style="width: 80%"></span>
                             </div>
                             <span class="lineCb__text">Плотность</span>
                         </div>
@@ -2017,32 +2933,32 @@
                                                             <div class="btnCard-box selectWrapper">
                                     
                                     <label>
-                                        <select class="milling" name="options[520]"
+                                        <select class="milling" name="options[1781]"
                                                 title="Помол"
                                                 data-option-id="5"
                                                 data-selector-full="1"
                                         >
-                                                                                            <option value="1936" selected>в зернах
+                                                                                            <option value="7899" selected>в зернах
                                                 </option>
-                                                                                            <option value="4621" >для френч-пресса (крупный)
+                                                                                            <option value="7901" >для френч-пресса (крупный)
                                                 </option>
-                                                                                            <option value="4622" >для капельной кофеварки (крупный)
+                                                                                            <option value="7902" >для капельной кофеварки (крупный)
                                                 </option>
-                                                                                            <option value="4623" >для кемекса (крупный)
+                                                                                            <option value="7903" >для кемекса (крупный)
                                                 </option>
-                                                                                            <option value="4624" >для пуровера (средний)
+                                                                                            <option value="7904" >для пуровера (средний)
                                                 </option>
-                                                                                            <option value="4625" >для аэропресса (средний)
+                                                                                            <option value="7905" >для аэропресса (средний)
                                                 </option>
-                                                                                            <option value="1938" >для гейзерной кофеварки (средний)
+                                                                                            <option value="7898" >для гейзерной кофеварки (средний)
                                                 </option>
-                                                                                            <option value="1935" >для эспрессо грубо (средний)
+                                                                                            <option value="7897" >для эспрессо грубо (средний)
                                                 </option>
-                                                                                            <option value="1939" >для эспрессо тонко (мелкий)
+                                                                                            <option value="7900" >для эспрессо тонко (мелкий)
                                                 </option>
-                                                                                            <option value="1937" >для турки (мелкий)
+                                                                                            <option value="7896" >для турки (мелкий)
                                                 </option>
-                                                                                            <option value="4626" >для чашки (средний)
+                                                                                            <option value="7906" >для чашки (средний)
                                                 </option>
                                                                                     </select>
                                     </label>
@@ -2050,12 +2966,12 @@
                                                                     <div class="btnCard-box selectWrapper" style="display:none">
                                         
                                         <label>
-                                            <select disabled class="milling" name="options[520]"
+                                            <select disabled class="milling" name="options[1781]"
                                                     title="Помол"
                                                     data-option-id="5"
                                                     data-selector-full="0"
                                             >
-                                                                                                                                                            <option value="1936" selected>
+                                                                                                                                                            <option value="7899" selected>
                                                             в зернах
                                                         </option>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </select>
@@ -2076,39 +2992,39 @@
                                 data-option-id="6"
                             >
                                                                                                                                                                                     <div class="radioCard">
-                                        <input id="price1941" type="radio"
-                                            name="options[521]"
+                                        <input id="price7907" type="radio"
+                                            name="options[1782]"
                                             data-option-value-id="41"
                                             data-option-id="6"
                                             checked=checked
-                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/brazil-cerrado-025.png.png');edit_ya_metric_from_lists(this,'439','250 г');"
-                                            value="1941"
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/costa-rica-los-lirios-250-2.png');edit_ya_metric_from_lists(this,'869','250 г');"
+                                            value="7907"
                                         >
-                                        <label for="price1941"
+                                        <label for="price7907"
                                             class="priceCb-wrap">
                                             <span class="priceCb-h animated fadeIn">
                                                 <span class="priceCb__wt">250 г</span>                                            </span>
-                                            <a class="priceCb">439 <span
+                                            <a class="priceCb">869 <span
                                                     class="rub">₽</span></a>
                                         </label>
                                     </div>
                                                                             <span>/</span>
                                                                                                                                             <div class="radioCard">
-                                        <input id="price1940" type="radio"
-                                            name="options[521]"
+                                        <input id="price7908" type="radio"
+                                            name="options[1782]"
                                             data-option-value-id="42"
                                             data-option-id="6"
                                             
-                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-mono/brazil-cerrado-1.png');edit_ya_metric_from_lists(this,'1489','1000 г');"
-                                            value="1940"
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/costa-rica-los-lirios-1000.png');edit_ya_metric_from_lists(this,'2949','1000 г');"
+                                            value="7908"
                                         >
-                                        <label for="price1940"
+                                        <label for="price7908"
                                             class="priceCb-wrap">
                                             <span class="priceCb-h animated fadeIn">
                                                 <span class="priceCb__wt">1000 г</span>                                                    
                                                     <span class="percentCb">-15%</span>
                                                                                             </span>
-                                            <a class="priceCb">1489 <span
+                                            <a class="priceCb">2949 <span
                                                     class="rub">₽</span></a>
                                         </label>
                                     </div>
@@ -2118,9 +3034,9 @@
                                                         <div class="cardBox-f-r">
                         <a class="buyBtn "
                            onclick="add_in_cart(this);return false;"
-                           data-metrics="{&quot;id&quot;:295,&quot;name&quot;:&quot;\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f \u0421\u0435\u0440\u0440\u0430\u0434\u043e&quot;,&quot;price&quot;:439,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
+                           data-metrics="{&quot;id&quot;:1331,&quot;name&quot;:&quot;\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430 \u041b\u043e\u0441 \u041b\u0438\u0440\u0438\u043e\u0441&quot;,&quot;price&quot;:869,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
                         >
-                            <span class="buyText buyText_295">Купить</span>
+                            <span class="buyText buyText_1331">Купить</span>
                         </a>
                     </div>
                             </div>
@@ -2167,7 +3083,7 @@
             <div class="itemres-hover-date">
                 <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    117
+                    120
                 </a>
                 <a class="itemres-hover-comm countComment"
                    href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu#reviews">
@@ -2211,7 +3127,7 @@
             <div class="itemres-hover-date">
                 <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/sladkii_kofe">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    523
+                    525
                 </a>
                 <a class="itemres-hover-comm countComment"
                    href="https://shop.tastycoffee.ru/blog/sladkii_kofe#reviews">
@@ -3003,16 +3919,16 @@
     </script>
     <script>
         
-        window.__mixm__.push(['skulist', '1359']);
+        window.__mixm__.push(['skulist', '1354']);
         dataLayer.push({
             "ecommerce": {
                 "detail": {
                     "products": [
                         {
-                            "id": "1359",
+                            "id": "1354",
                                                         "brand": "Tasty Coffee",
-                                                        "name": "Фрутти",
-                            "price": "519",
+                                                        "name": "Коста-Рика Санта Тереза",
+                            "price": "869",
                             "category": "Кофе"
                         }
                     ]

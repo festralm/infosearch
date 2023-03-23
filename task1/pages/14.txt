@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="ZmE2jnZjFfOsqrdimi6iDewKmrv3WZKRPuaJ0UNd">
+    <meta name="csrf-token" content="aWIUBXXaAKXvLDpI2lU83suwF4sO3hEhO60YmkUW">
     <title>Журнал о кофе. Блог Tasty Coffee</title>
     <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
     <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="ZmE2jnZjFfOsqrdimi6iDewKmrv3WZKRPuaJ0UNd">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="aWIUBXXaAKXvLDpI2lU83suwF4sO3hEhO60YmkUW">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="ZmE2jnZjFfOsqrdimi6iDewKmrv3WZKRPuaJ0UNd"
+                     data-_token="aWIUBXXaAKXvLDpI2lU83suwF4sO3hEhO60YmkUW"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="ZmE2jnZjFfOsqrdimi6iDewKmrv3WZKRPuaJ0UNd">        </form>
+            <input type="hidden" name="_token" value="aWIUBXXaAKXvLDpI2lU83suwF4sO3hEhO60YmkUW">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -761,7 +761,7 @@
         <div class="itemres-hover-date">
             <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu">
                 <img src="/assets/site/img/journal/eye2.svg" alt="">
-                115
+                118
             </a>
             <a class="itemres-hover-comm countComment"
                href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu#reviews">
@@ -781,7 +781,7 @@
         </a>
         <a class="views">
             <img src="/assets/site/img/journal/eye2.svg">
-            115
+            118
         </a>
     </div>
                 <a class="theme" href="https://shop.tastycoffee.ru/blog/botanika-kofe">
@@ -838,7 +838,7 @@
             <div class="itemres-hover-date">
                 <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/sladkii_kofe">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    521
+                    523
                 </a>
                 <a class="itemres-hover-comm countComment"
                    href="https://shop.tastycoffee.ru/blog/sladkii_kofe#reviews">
@@ -1533,31 +1533,6 @@
                                                             <div class="col-lg" >
                                     <div class="itemres new ">
     <div class="article-card big "
-         style="background-image:linear-gradient(360deg, #000000 -21.95%, rgba(255, 255, 255, 0) 135.15%), url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/espresso-i-variatsii/espresso-i-variatsii.jpg)"
-    >
-        <div class="itemres-hover big-hover">
-
-        </div>
-        <a href="https://shop.tastycoffee.ru/blog/series/series-espresso" class="absLink"></a>
-        <a href="https://shop.tastycoffee.ru/blog/series/series-espresso" class="surface">
-            <p class="theme">Серия статей</p>
-        </a>
-        <a href="https://shop.tastycoffee.ru/blog/series/series-espresso" class="surface">
-            <p class="art-header">Эспрессо и его вариации: чем отличаются ристретто и лунго</p>
-            <div class="art-descr">
-                Рассказываем о разнице между эспрессо, ристретто и лунго.
-            </div>
-        </a>
-        <p class="art-date">
-            <span class="month-text">17 июн 2019</span>
-            <span class="time-text">23 мин. на чтение</span></p>
-
-    </div>
-</div>
-                                </div>
-                                                            <div class="col-lg"  style="margin-left: 20px; margin-right: 20px;" >
-                                    <div class="itemres new ">
-    <div class="article-card big "
          style="background-image:linear-gradient(360deg, #000000 -21.95%, rgba(255, 255, 255, 0) 135.15%), url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/how-to-choose-water/DSCF1125_1.jpg)"
     >
         <div class="itemres-hover big-hover">
@@ -1576,6 +1551,31 @@
         <p class="art-date">
             <span class="month-text">26 июл 2017</span>
             <span class="time-text">49 мин. на чтение</span></p>
+
+    </div>
+</div>
+                                </div>
+                                                            <div class="col-lg"  style="margin-left: 20px; margin-right: 20px;" >
+                                    <div class="itemres new ">
+    <div class="article-card big "
+         style="background-image:linear-gradient(360deg, #000000 -21.95%, rgba(255, 255, 255, 0) 135.15%), url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/espresso-i-variatsii/espresso-i-variatsii.jpg)"
+    >
+        <div class="itemres-hover big-hover">
+
+        </div>
+        <a href="https://shop.tastycoffee.ru/blog/series/series-espresso" class="absLink"></a>
+        <a href="https://shop.tastycoffee.ru/blog/series/series-espresso" class="surface">
+            <p class="theme">Серия статей</p>
+        </a>
+        <a href="https://shop.tastycoffee.ru/blog/series/series-espresso" class="surface">
+            <p class="art-header">Эспрессо и его вариации: чем отличаются ристретто и лунго</p>
+            <div class="art-descr">
+                Рассказываем о разнице между эспрессо, ристретто и лунго.
+            </div>
+        </a>
+        <p class="art-date">
+            <span class="month-text">17 июн 2019</span>
+            <span class="time-text">23 мин. на чтение</span></p>
 
     </div>
 </div>

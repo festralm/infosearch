@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="TiWacpO2Hcfht0EfG7i5JawVG2CQGPgrOas453pL">
+    <meta name="csrf-token" content="6Fmkh2qfC7oOHg6ML3SefjPdQokuThgChxg7WgB9">
     <title>Чай купить в интернет магазине</title>
     <meta name="description" content="Официальный интернет-магазин чая и кофе &amp;quot;Tasty Coffee&amp;quot;. Специальная акция! При покупке 6 пачек чая 100 гр - подарок (пачка чая или кофе 100 гр из той же ценовой категории)! При покупке 6 пачек кофе 250 гр выберите свой подарок (кружка, банка для">
     <meta name="keywords" content="Интернет-магазин чая, чай купить в интернет магазине, купить чай через интернет, интернет магазин кофе и чая, черный чай купить в интернете">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="TiWacpO2Hcfht0EfG7i5JawVG2CQGPgrOas453pL">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="6Fmkh2qfC7oOHg6ML3SefjPdQokuThgChxg7WgB9">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="TiWacpO2Hcfht0EfG7i5JawVG2CQGPgrOas453pL"
+                     data-_token="6Fmkh2qfC7oOHg6ML3SefjPdQokuThgChxg7WgB9"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="TiWacpO2Hcfht0EfG7i5JawVG2CQGPgrOas453pL">        </form>
+            <input type="hidden" name="_token" value="6Fmkh2qfC7oOHg6ML3SefjPdQokuThgChxg7WgB9">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="iWqdHcUrAGE7MvL5Yn7XsZC3VeVXWvDELK2ASMUl">
-    <title>Партнёрская программа Tasty Coffee</title>
-    <meta name="description" content="Партнёрская программа Tasty Coffee">
-    <meta name="keywords" content="Партнёрская программа Tasty Coffee">
+    <meta name="csrf-token" content="XkV6bYqbFmX5JaPyFxHryjHzWtTw3reSLbrzzLZt">
+    <title>Архив сортов</title>
+    <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
+    <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/partners"/>
-    <meta property="og:title" content="Партнёрская программа Tasty Coffee"/>
-    <meta property="og:description" content="Партнёрская программа Tasty Coffee"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/disabled"/>
+    <meta property="og:title" content="Архив сортов"/>
+    <meta property="og:description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой."/>
     <meta property="og:image" content="https://shop.tastycoffee.ru/assets/site/img/site_logo.jpg"/>
     <meta property="og:type" content="website"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/partners"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/disabled"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="iWqdHcUrAGE7MvL5Yn7XsZC3VeVXWvDELK2ASMUl">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="XkV6bYqbFmX5JaPyFxHryjHzWtTw3reSLbrzzLZt">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="iWqdHcUrAGE7MvL5Yn7XsZC3VeVXWvDELK2ASMUl"
+                     data-_token="XkV6bYqbFmX5JaPyFxHryjHzWtTw3reSLbrzzLZt"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="iWqdHcUrAGE7MvL5Yn7XsZC3VeVXWvDELK2ASMUl">        </form>
+            <input type="hidden" name="_token" value="XkV6bYqbFmX5JaPyFxHryjHzWtTw3reSLbrzzLZt">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -708,120 +708,998 @@
     </div>
 
 
-                <div class="content static-content partners grey">
+        <div class="content grey">
         <div class="row">
-            <div class="staticPage-content minFont">
-                <h2 class="indent">Партнёрская программа</h2>
+            <h2 class="indent">Архив сортов</h2>
+        </div>
+        <div class="catalogTea">
+            <div class="row">
+                <form class="catalog_form_filters">
+                    <div class="filterLine">
+                        <div class="catalogSearchInputWrap select-wrap">
+                            <input type="text" value="" name="q">
+                        </div>
+                        <button class="blackBtn" href="https://shop.tastycoffee.ru/disabled">Поиск</button>
+                    </div>
+                </form>
+                <div class="for_paginate">
+                    <div class="card-wrap catalogCard">
+                                    <div
+    class="cardBox noteBox-for-open main-edit green coffee  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
+        <input type="hidden" name="product_id" value="1364">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/coffee/bolivia-los-rodriguez#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                            <a class="btnCard compare  btnCardCompare_1364"
+                           data-product-id="1364"
+                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
+                           title="Сравнение товаров"
+                        ></a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?filters=28">
+                                Микролот
+                            </a>
+                                                            <div class="tipMicrolot">
+                                    <div class="wrap">
+                                        <p><strong>Микролот</strong> — это сезонный кофе с яркими вкусовыми особенностями
+                                            более
+                                            высокого качества с оценкой от 85 баллов по SCA. Он получается таким за счет
+                                            тщательного
+                                            внимания при выращивании и обработке, но его урожай обычно сильно ограничен.</p>
+                                        <a href="https://shop.tastycoffee.ru/blog/chto-takoe-microlot-kofe"
+                                        target="_blank">Подробнее о микролотах <span class="arr"></span></a>
+                                    </div>
 
-<div>
-<table style="border:none;border-collapse:collapse;max-width:90%;">
-	<colgroup>
-		<col />
-		<col />
-		<col />
-	</colgroup>
-	<tbody>
-		<tr>
-			<td>
-			<p style="margin-bottom: 0px;"><strong><span style="font-size:16px;">от 1,52 до 6%</span></strong></p>
+                                </div>
+                                                    </div>
+                                                                                                        <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                            <span>Для фильтра</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/bolivia-los-rodriguez">
+                Боливия Лос Родригес
+            </a>
+                            <div class="processingMethod">
+                    <span class="processingMethod__text">натуральный</span>
+                    <div class="tipMicrolot">
+                        <div class="wrap">
+                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
+                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
+                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
+                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
+                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
+                                об обработке <span
+                                    class="arr"></span></a>
+                        </div>
 
-			<p class="spText" dir="ltr">с каждого заказа</p>
-			</td>
-			<td>
-			<p><strong><span style="font-size:16px;">Без комиссии</span></strong></p>
-			</td>
-			<td>
-			<p><strong><span style="font-size:16px;">За все товары</span></strong></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+                    </div>
+                </div>
+                    </div>
+        <div class="tovarImg ">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/coffee/bolivia-los-rodriguez"
+                   class="absLink">Боливия Лос Родригес</a>
+                
+                                    <div class="scaImg scaArchive"></div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/ethiopia-danche-025-1.png"
+                                        alt="Боливия Лос Родригес"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/alt-microlot/ethiopia-danche-1-1.png"
+                                        alt="Боливия Лос Родригес"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans9/beans-ethiopia-danche.png"
+                                        alt="Боливия Лос Родригес"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Легкий кофе со вкусом ежевики, персика и молочной карамели
+            </div>
+                            <div class="lineCb-wrap animated fadeIn">
+                                            <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 80%"></span></div>
+                            <span class="lineCb__text">Кислотность</span>
+                        </div>
+                                                                <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 40%"></span>
+                            </div>
+                            <span class="lineCb__text">Плотность</span>
+                        </div>
+                                    </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                                    </div>
+                
+                 
+                    <div class="cardBox-f-r">
+                        <button
+                            class="buyBtn wo-icon buyText receipt-modal-open"
+                            type="button"
+                            data-is-user="false"
+                            data-product="1364"
+                        >
+                            Сообщить о поступлении
+                        </button>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit blue coffee  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
+        <input type="hidden" name="product_id" value="1363">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/coffee/espresso-bolivia-manyana#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                            <a class="btnCard compare  btnCardCompare_1363"
+                           data-product-id="1363"
+                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
+                           title="Сравнение товаров"
+                        ></a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?filters=28">
+                                Микролот
+                            </a>
+                                                            <div class="tipMicrolot">
+                                    <div class="wrap">
+                                        <p><strong>Микролот</strong> — это сезонный кофе с яркими вкусовыми особенностями
+                                            более
+                                            высокого качества с оценкой от 85 баллов по SCA. Он получается таким за счет
+                                            тщательного
+                                            внимания при выращивании и обработке, но его урожай обычно сильно ограничен.</p>
+                                        <a href="https://shop.tastycoffee.ru/blog/chto-takoe-microlot-kofe"
+                                        target="_blank">Подробнее о микролотах <span class="arr"></span></a>
+                                    </div>
+
+                                </div>
+                                                    </div>
+                                                                                                        <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                            <span>Для эспрессо</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/espresso-bolivia-manyana">
+                Боливия Маньяна
+            </a>
+                            <div class="processingMethod">
+                    <span class="processingMethod__text">мытый экспериментальный</span>
+                    <div class="tipMicrolot">
+                        <div class="wrap">
+                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
+                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
+                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
+                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
+                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
+                                об обработке <span
+                                    class="arr"></span></a>
+                        </div>
+
+                    </div>
+                </div>
+                    </div>
+        <div class="tovarImg ">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/coffee/espresso-bolivia-manyana"
+                   class="absLink">Боливия Маньяна</a>
+                
+                                    <div class="scaImg scaArchive"></div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-micro/espresso-ethiopia-chelbesa-025.png"
+                                        alt="Боливия Маньяна"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-micro/espresso-ethiopia-chelbesa-1.png"
+                                        alt="Боливия Маньяна"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans9/beans-espresso-ethiopia-chelbesa.png"
+                                        alt="Боливия Маньяна"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Сочный кофе со вкусом жёлтой груши, апельсина и фундука
+            </div>
+                            <div class="lineCb-wrap animated fadeIn">
+                                            <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 80%"></span></div>
+                            <span class="lineCb__text">Кислотность</span>
+                        </div>
+                                                                <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 40%"></span>
+                            </div>
+                            <span class="lineCb__text">Плотность</span>
+                        </div>
+                                    </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                                    </div>
+                
+                 
+                    <div class="cardBox-f-r">
+                        <button
+                            class="buyBtn wo-icon buyText receipt-modal-open"
+                            type="button"
+                            data-is-user="false"
+                            data-product="1363"
+                        >
+                            Сообщить о поступлении
+                        </button>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey coffee  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
+        <input type="hidden" name="product_id" value="1362">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/coffee/bolivia-drip-2023#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                            <a class="btnCard compare  btnCardCompare_1362"
+                           data-product-id="1362"
+                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
+                           title="Сравнение товаров"
+                        ></a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                            </div>
+        </div>
+        <div class="nameTovar">
+                            <span>Дрип-пакеты</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/bolivia-drip-2023">
+                Боливия 2023
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/coffee/bolivia-drip-2023"
+                   class="absLink">Боливия 2023</a>
+                
+                                    <div class="scaImg scaArchive"></div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/drip/Drip_12_Bolivia_2023.png"
+                                        alt="Боливия 2023"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_1.png"
+                                        alt="Боливия 2023"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_2.png"
+                                        alt="Боливия 2023"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_3.png"
+                                        alt="Боливия 2023"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_4.png"
+                                        alt="Боливия 2023"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Микс из 4 разных видов дрип-пакетов по 5 шт каждого (всего 20 шт), сорта в коробке максимально не похожи друг на друга
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                                    </div>
+                
+                 
+                    <div class="cardBox-f-r">
+                        <button
+                            class="buyBtn wo-icon buyText receipt-modal-open"
+                            type="button"
+                            data-is-user="false"
+                            data-product="1362"
+                        >
+                            Сообщить о поступлении
+                        </button>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey goods  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
+        <input type="hidden" name="product_id" value="1351">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/accessories/bravilor-bonamat-th#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                            </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/accessories/bravilor-bonamat-th">
+                Капельная кофеварка Bravilor Bonamat TH
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/accessories/bravilor-bonamat-th"
+                   class="absLink">Капельная кофеварка Bravilor Bonamat TH</a>
+                
+                                    <div class="scaImg scaArchive"></div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/bravilor-bonamat-th.png"
+                                        alt="Капельная кофеварка Bravilor Bonamat TH"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                                    </div>
+                
+                 
+                    <div class="cardBox-f-r">
+                        <button
+                            class="buyBtn wo-icon buyText receipt-modal-open"
+                            type="button"
+                            data-is-user="false"
+                            data-product="1351"
+                        >
+                            Сообщить о поступлении
+                        </button>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey coffee  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
+        <input type="hidden" name="product_id" value="1343">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/coffee/drip-coffee-boliviya-karanavi#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                            <a class="btnCard compare  btnCardCompare_1343"
+                           data-product-id="1343"
+                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
+                           title="Сравнение товаров"
+                        ></a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?filters=28">
+                                Микролот
+                            </a>
+                                                            <div class="tipMicrolot">
+                                    <div class="wrap">
+                                        <p><strong>Микролот</strong> — это сезонный кофе с яркими вкусовыми особенностями
+                                            более
+                                            высокого качества с оценкой от 85 баллов по SCA. Он получается таким за счет
+                                            тщательного
+                                            внимания при выращивании и обработке, но его урожай обычно сильно ограничен.</p>
+                                        <a href="https://shop.tastycoffee.ru/blog/chto-takoe-microlot-kofe"
+                                        target="_blank">Подробнее о микролотах <span class="arr"></span></a>
+                                    </div>
+
+                                </div>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                            <span>Дрип-пакеты</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/drip-coffee-boliviya-karanavi">
+                Боливия Каранави
+            </a>
+                            <div class="processingMethod">
+                    <span class="processingMethod__text">натуральный экспериментальный</span>
+                    <div class="tipMicrolot">
+                        <div class="wrap">
+                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
+                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
+                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
+                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
+                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
+                                об обработке <span
+                                    class="arr"></span></a>
+                        </div>
+
+                    </div>
+                </div>
+                    </div>
+        <div class="tovarImg ">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/coffee/drip-coffee-boliviya-karanavi"
+                   class="absLink">Боливия Каранави</a>
+                
+                                    <div class="scaImg scaArchive"></div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/drip/drip-coffee-panama-baru.png"
+                                        alt="Боливия Каранави"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_1.png"
+                                        alt="Боливия Каранави"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_2.png"
+                                        alt="Боливия Каранави"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_3.png"
+                                        alt="Боливия Каранави"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_4.png"
+                                        alt="Боливия Каранави"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Яркий кофе со вкусом личи, лайма, зелёного винограда и мёда
+            </div>
+                            <div class="lineCb-wrap animated fadeIn">
+                                            <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 80%"></span></div>
+                            <span class="lineCb__text">Кислотность</span>
+                        </div>
+                                                                <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 60%"></span>
+                            </div>
+                            <span class="lineCb__text">Плотность</span>
+                        </div>
+                                    </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                                    </div>
+                
+                 
+                    <div class="cardBox-f-r">
+                        <button
+                            class="buyBtn wo-icon buyText receipt-modal-open"
+                            type="button"
+                            data-is-user="false"
+                            data-product="1343"
+                        >
+                            Сообщить о поступлении
+                        </button>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey coffee  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
+        <input type="hidden" name="product_id" value="1342">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-mugaga#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                            <a class="btnCard compare  btnCardCompare_1342"
+                           data-product-id="1342"
+                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
+                           title="Сравнение товаров"
+                        ></a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?filters=28">
+                                Микролот
+                            </a>
+                                                            <div class="tipMicrolot">
+                                    <div class="wrap">
+                                        <p><strong>Микролот</strong> — это сезонный кофе с яркими вкусовыми особенностями
+                                            более
+                                            высокого качества с оценкой от 85 баллов по SCA. Он получается таким за счет
+                                            тщательного
+                                            внимания при выращивании и обработке, но его урожай обычно сильно ограничен.</p>
+                                        <a href="https://shop.tastycoffee.ru/blog/chto-takoe-microlot-kofe"
+                                        target="_blank">Подробнее о микролотах <span class="arr"></span></a>
+                                    </div>
+
+                                </div>
+                                                    </div>
+                                                                                                        <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/coffee?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                            <span>Дрип-пакеты</span>
+                        <a href="https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-mugaga">
+                Кения Мугага
+            </a>
+                            <div class="processingMethod">
+                    <span class="processingMethod__text">мытый</span>
+                    <div class="tipMicrolot">
+                        <div class="wrap">
+                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
+                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
+                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
+                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
+                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
+                                об обработке <span
+                                    class="arr"></span></a>
+                        </div>
+
+                    </div>
+                </div>
+                    </div>
+        <div class="tovarImg ">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-mugaga"
+                   class="absLink">Кения Мугага</a>
+                
+                                    <div class="scaImg scaArchive"></div>
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/drip/drip-coffee-kenya-kagere.png"
+                                        alt="Кения Мугага"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_1.png"
+                                        alt="Кения Мугага"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_2.png"
+                                        alt="Кения Мугага"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_3.png"
+                                        alt="Кения Мугага"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/drip/drip_bag_4.png"
+                                        alt="Кения Мугага"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Сочный кофе с нотами черники, шиповника, цветочного мёда и лайма
+            </div>
+                            <div class="lineCb-wrap animated fadeIn">
+                                            <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 100%"></span></div>
+                            <span class="lineCb__text">Кислотность</span>
+                        </div>
+                                                                <div class="lineCb-item">
+                            <div class="lineCb"><span style="width: 60%"></span>
+                            </div>
+                            <span class="lineCb__text">Плотность</span>
+                        </div>
+                                    </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                                    </div>
+                
+                 
+                    <div class="cardBox-f-r">
+                        <button
+                            class="buyBtn wo-icon buyText receipt-modal-open"
+                            type="button"
+                            data-is-user="false"
+                            data-product="1342"
+                        >
+                            Сообщить о поступлении
+                        </button>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
+        </div>
+
+    </div>
+    </div>
+
+                <div class="catalog-preload"></div>
 </div>
+<div class="pagination-block">
+    <div class="pagination-wrap">
+                    <a class="loadLink" onclick="on_paginate(this,'https://shop.tastycoffee.ru/disabled?page=2','more');return false;"><span class="load-ic ic"></span> Загрузить больше</a>
+                <ul class="pagination">
+                                                                                                                    <li class="active" ><span>1</span></li>
+                                                                                                <li><a onclick="on_paginate(this,'https://shop.tastycoffee.ru/disabled?page=2');return false;">2</a></li>
+                                                                                                <li><a onclick="on_paginate(this,'https://shop.tastycoffee.ru/disabled?page=3');return false;">3</a></li>
+                                                                                                <li><a onclick="on_paginate(this,'https://shop.tastycoffee.ru/disabled?page=4');return false;">4</a></li>
+                                                                                                            <li ><span>...</span></li>
+                                                                                                                                                    <li><a onclick="on_paginate(this,'https://shop.tastycoffee.ru/disabled?page=168');return false;">168</a></li>
+                                                                                                <li><a onclick="on_paginate(this,'https://shop.tastycoffee.ru/disabled?page=169');return false;">169</a></li>
+                                                                                </ul>
+    </div>
 
-<p class="spText">Участники нашей партнёрской программы зарабатывают до 6% с каждого заказа. Если вы хотите к ним присоединиться, вот что нужно сделать:</p>
-
-<ol>
-	<li class="spText">
-	<p class="spText">Подключитесь <a href="https://store.admitad.com/ru/webmaster/offers/17220/landing/?ref=7a314e59b49ebcee8c5e" target="_blank">к программе через Admitad</a>.</p>
-	</li>
-	<li class="spText">
-	<p class="spText">Разместите наши баннеры у себя на сайте, в блоге или на странице в социальной сети. Баннеры мы предоставим.</p>
-	</li>
-	<li class="spText">
-	<p class="spText">Получайте проценты от суммы заказа.</p>
-	</li>
-</ol>
-
-<h4><b>Преимущества</b></h4>
-
-<p class="spText">Наша компания — одна из крупнейших по обжарке свежего кофе в России. Нам 10 лет и Tasty Coffee стал известным брендом, который ценят и которому доверяют.</p>
-
-<p class="spText">Покупатели выбирают нас за:</p>
-
-<ul>
-	<li>
-	<p class="spText">свежий кофе класса Specialty,</p>
-	</li>
-	<li>
-	<p class="spText">большой ассортимент,</p>
-	</li>
-	<li>
-	<p class="spText">оригинальные аксессуары,</p>
-	</li>
-	<li>
-	<p class="spText">бесплатную доставку по России,</p>
-	</li>
-	<li>
-	<p class="spText">дружелюбный сервис.</p>
-	</li>
-</ul>
-
-<p class="spText">Участники программы получают вознаграждения за все товары из нашего интернет-магазина: кофе, чай или аксессуары. Это значит, что прибыль идёт с каждого привлечённого покупателя. Даже если он купил не кофе, а, например, кофемолку.</p>
-
-<h4><b>Условия партнёрской программы</b></h4>
-
-<div>
-<table style="border:none;border-collapse:collapse;max-width:85%;">
-	<colgroup>
-		<col />
-		<col />
-		<col />
-	</colgroup>
-	<tbody>
-		<tr>
-			<td>
-			<p><strong><span style="font-size:20px;">6%</span></strong></p>
-
-			<p class="spText">при заказе кофе и чая от нового клиента</p>
-			</td>
-			<td>
-			<p><strong><span style="font-size:20px;">1,52%</span></strong></p>
-
-			<p class="spText">при заказе от старого клиента</p>
-			</td>
-			<td>
-			<p><strong><span style="font-size:20px;">1,52%</span></strong></p>
-
-			<p class="spText">всегда при заказе аксессуаров</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
 </div>
-
-<p></p>
-
-<div class="cms-block xs-100 sm-100 md-100 lg-100 xl-100">
-<div class="editor-content" style="text-align: center">
-<p style="background:transparent;"><span class="block-content" style="height: 74px;"><a class="button" href="https://www.admitad.com/ru/webmaster/offers/17220/landing/?ref=7a314e59b49ebcee8c5e" id="catalog-button" target="_blank">Подключиться к Admitad</a> </span></p>
-</div>
-</div>
-
-<p></p>
+                </div>
             </div>
         </div>
     </div>
-        <footer>
+    <footer>
     <div class="top-f">
         <div class="row">
             <div class="row-wrap">
@@ -1438,6 +2316,65 @@
         form_header.find('#postcode_header').val('');
     });
 </script>
+<script>
+    $(document).ready(function () {
+        $(document).on('click', '.receipt-modal-open', function(e) {
+            const product_id = $(this).attr('data-product');
+
+            if($(this).attr('data-is-user') === 'false') {
+                $('#receipt-modal-form').attr('action', "https://shop.tastycoffee.ru/ajax/products/0/subscribe".replace(0, product_id))
+                // $('#receipt-modal').modal('show');
+                $('[data-modal-name="notification-product-appearance-no-login"]').addClass('active');
+
+                return false;
+            }
+
+            $('[data-modal-name="notification-product-appearance"]').addClass('active');
+
+            $.ajax({
+                url: 'https://shop.tastycoffee.ru/ajax/products/0/subscribe'.replace(0, product_id),
+                method: 'POST',
+            }).done(function() {
+
+            }).fail(function(data) {
+
+            })
+        });
+        $('#receipt-modal form button').on('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            var $form = $(this).closest('form');
+            var showError = function(text) {
+                var $errorEl = $form.find('.siteError');
+                $errorEl.text(text).show();
+                setTimeout(function() {
+                    $errorEl.text('').hide();
+                }, 3000);
+            }
+
+                if (!$form.find('[name="is_agreed"]').prop('checked')) {
+                    showError('Вы не согласились с условиями');
+                    return false;
+                }
+
+                $.ajax({
+                    url: $form.attr('action'),
+                    data: {email: $form.find('[name="email"]').val()},
+                    method: $form.attr('method'),
+                }).done(function () {
+                    $('[data-modal-name="notification-product-appearance-no-login"]').removeClass('active');
+                    $('[data-modal-name="notification-product-appearance-done"]').addClass('active');
+                    // $form.find('.info').remove();
+                }).fail(function (data) {
+                    if (data.status === 422) {
+                        showError(Object.values(data.responseJSON.errors).flat().join(', '));
+                    } else {
+                        showError(data.responseJSON.message);
+                    }
+                })
+            });
+        });
+    </script>
 
     <script type="text/javascript" async defer>(function () {
             var s = document.createElement('script');
@@ -1477,5 +2414,71 @@
         e[a] = {}, e[a].date = (new Date).getTime(), n = t.createElement(d), c = t.getElementsByTagName(d)[0], n.type = "text/javascript", n.async = !0, n.src = s, c.parentNode.insertBefore(n, c)
     }(window, document, "script", "https://tastycoffeesaleru.push.world/https.embed.js", "pw"), pw.websiteId = "e0f4f5dd207d407945e8c66c72c33fc6a1f1a6a09c7973e03dfecc25e2a368af";
 </script>-->
-    </body>
+    <div class="popupAdded animated fadeIn modal-notify" id="receipt-modal" data-modal-name="notification-product-appearance-no-login">
+    <div class="popupAdded-wrap modal-content p-lr-32">
+        <div class="w-100 pb-3 text-center">
+            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="50" height="50" fill="white"/>
+                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
+            </svg>
+        </div>
+        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
+
+        <div class="modal_body">
+            <form action="" class="" id="receipt-modal-form" method="POST">
+                <div class="info">
+                    <div class="input-wrap">
+                        <input type="text" name="email" placeholder="Введите ваш e-mail">
+                        <button type="button"></button>
+                    </div>
+                    <div class="siteError mb-3"></div>
+                    <div class="checkbox-wrap">
+                        <input id="agreed" type="checkbox" name="is_agreed">
+                        <label for="agreed" class="subscribe-agreed">
+                            <span class="label__box"></span>
+                            <span class="label__text">
+                                Согласен с <a href="https://shop.tastycoffee.ru/privacy" target="_blank">условиями обработки персональных данных</a> и
+                                <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank">Пользовательского соглашения</a>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance">
+    <div class="popupAdded-wrap p-lr-32">
+        <div class="w-100 pb-3 text-center">
+            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="50" height="50" fill="white"/>
+                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
+            </svg>
+        </div>
+        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
+        <div>
+            <div class="siteError mb-3"></div>
+        </div>
+        <button type="button" class="grayBtn closePa w-105 mb-3">Закрыть</button>
+    </div>
+</div>
+
+<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance-done">
+    <div class="popupAdded-wrap p-lr-32">
+        <div class="w-100 pb-3 text-center">
+            <div class="check-ic"></div>
+        </div>
+        <h3>Вы подписаны</h3>
+        <div>
+            <div class="siteError mb-3"></div>
+        </div>
+        <button type="button" class="blackBtn closePa w-74 mb-3">Ок</button>
+    </div>
+</div>
+</body>
 </html>

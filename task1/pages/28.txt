@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="JG9Vjvv9quTpwOZbg4tovVEgatsaobYv6AJo37oK">
+    <meta name="csrf-token" content="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p">
     <title>Интернет-магазин кофе и чая, купить от Tasty Coffee</title>
     <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
     <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="JG9Vjvv9quTpwOZbg4tovVEgatsaobYv6AJo37oK">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="JG9Vjvv9quTpwOZbg4tovVEgatsaobYv6AJo37oK"
+                     data-_token="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="JG9Vjvv9quTpwOZbg4tovVEgatsaobYv6AJo37oK">        </form>
+            <input type="hidden" name="_token" value="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             

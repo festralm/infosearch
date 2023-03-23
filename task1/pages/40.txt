@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="rnBLViZ0AmwsQWg6udxDCbbNs1hABiv7y6krFhAL">
-    <title>Наша первая поездка в Кению: впечатления и результаты</title>
-    <meta name="description" content="Чем запомнилась поездка, как она помогла разобраться в местной цепочке производства кофе и какие микролоты из Кении появится в нашем ассортименте в 2023 году">
-    <meta name="keywords" content="Чем запомнилась поездка, как она помогла разобраться в местной цепочке производства кофе и какие микролоты из Кении появится в нашем ассортименте в 2023 году">
+    <meta name="csrf-token" content="57vvJ7RbneamKOE7sLAjPcT4q7IIOC9dWstp1CJ4">
+    <title>Интернет-магазин кофе и чая, купить от Tasty Coffee</title>
+    <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
+    <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu"/>
-    <meta property="og:title" content="Наша первая поездка в Кению: впечатления и результаты"/>
-    <meta property="og:description" content="Чем запомнилась поездка, как она помогла разобраться в местной цепочке производства кофе и какие микролоты из Кении появится в нашем ассортименте в 2023 году"/>
-    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image3.png"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/sladkii_kofe"/>
+    <meta property="og:title" content="Интернет-магазин кофе и чая, купить от Tasty Coffee"/>
+    <meta property="og:description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой."/>
+    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image7.png"/>
     <meta property="og:type" content="article"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/sladkii_kofe"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="rnBLViZ0AmwsQWg6udxDCbbNs1hABiv7y6krFhAL">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="57vvJ7RbneamKOE7sLAjPcT4q7IIOC9dWstp1CJ4">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="rnBLViZ0AmwsQWg6udxDCbbNs1hABiv7y6krFhAL"
+                     data-_token="57vvJ7RbneamKOE7sLAjPcT4q7IIOC9dWstp1CJ4"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="rnBLViZ0AmwsQWg6udxDCbbNs1hABiv7y6krFhAL">        </form>
+            <input type="hidden" name="_token" value="57vvJ7RbneamKOE7sLAjPcT4q7IIOC9dWstp1CJ4">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -727,10 +727,10 @@
                             <meta itemprop="position" content="2"/>
                         </li>
                                                                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu"
+                                <a href="https://shop.tastycoffee.ru/blog/sladkii_kofe"
                                    itemtype="http://schema.org/Thing"
                                    itemprop="item">
-                                    <span itemprop="name">Наша первая поездка в Кению: впечатления и результаты</span>
+                                    <span itemprop="name">Сладкий кофе: рецепты, распространение и полезная альтернатива</span>
                                 </a>
                                 <meta itemprop="position" content="3"/>
                             </li>
@@ -743,25 +743,25 @@
 
                                     <a href="https://shop.tastycoffee.ru/blog" class="greyLink indent desNone">Ко всем статьям</a>
                 
-                <h1 class="indent article-header">Наша первая поездка в Кению: впечатления и результаты</h1>
+                <h1 class="indent article-header">Сладкий кофе: рецепты, распространение и полезная альтернатива</h1>
                                     <div class="article-leadtext">
-                        <p>Спойлер: в этом сезоне кенийского кофе у нас станет больше</p>
+                        <p>Рассказываем, почему так популярны сладкие кофейные напитки и чем сахар вредит спешелти кофе</p>
                     </div>
                             </div>
             <div class="article-info" style="border-bottom: 0px;">
                                     <p class="article-info-inner time">
                         <img src="/assets/site/img/journal/clock.svg" alt="">
-                        9 мин. на чтение
+                        13 мин. на чтение
                     </p>
                     <p class="article-info-inner views-info">
                         <img src="/assets/site/img/journal/eye-article.svg" alt="">
-                        115 просмотров
+                        523 просмотра
                     </p>
                                 <div class="article-info-right">
                     <p class="article-info-inner article-fav">
                         <a href="#"
-                           class="blog-link-favorite-526 "
-                           onclick="setBlogFavorite(this, 526); return false;">
+                           class="blog-link-favorite-525 "
+                           onclick="setBlogFavorite(this, 525); return false;">
                             <img src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
                             <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                             В закладки
@@ -770,7 +770,7 @@
                                             <p class="article-info-inner article-comm">
                             <a href="#reviews" class="clickBlogComments countComment">
                                 <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                3 комментария
+                                9 комментариев
                             </a>
                         </p>
                                     </div>
@@ -779,12 +779,12 @@
         <div class="row">
             <div class="col-v10" style="padding-right: 0px;">
                 <div class="article-content">
-                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image3.png)"></div>
+                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image7.png)"></div>
                     <div class="row" style="display: flex; padding: 0px;">
                         <div class="col-lg-1" style="padding-left: 0px;">
                             <div class="soc-block">
-                                <a class="blog-link-like-526  article-like socials "
-                                   onclick="setBlogLike(this, 526); return false;"
+                                <a class="blog-link-like-525  article-like socials "
+                                   onclick="setBlogLike(this, 525); return false;"
                                 >
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-active.svg"
                                          alt=""
@@ -792,8 +792,8 @@
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-finger.svg"
                                          alt="">
                                 </a>
-                                <a class="blog-link-favorite-526  article-like socials"
-                                   onclick="setBlogFavorite(this, 526); return false;"
+                                <a class="blog-link-favorite-525  article-like socials"
+                                   onclick="setBlogFavorite(this, 525); return false;"
                                 >
                                     <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
                                          src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -809,105 +809,119 @@
                             <div class="article-text">
 
                                 <div class="article-text-content" id="article-for-load">
-                                    <p dir="ltr">Кенийский кофе мы&nbsp;всегда покупали через импортеров, но&nbsp;в&nbsp;этом году решили посетить Кению и&nbsp;<a href="../../blog/pochemu-vazhno-samostoyatelno-vibirat-kofe" target="_blank" rel="noopener">выбрать кофе</a> напрямую у&nbsp;производителей. Эту командировку совместили с&nbsp;ежегодной <a href="../../blog/nasha_poezdka_v_efiopiyu_v_2023" target="_blank" rel="noopener">в&nbsp;Эфиопию</a>&nbsp;&mdash; сбор урожая и&nbsp;обработка ягод в&nbsp;обеих странах происходят примерно в&nbsp;одно время.</p>
-<p dir="ltr">Чем запомнилась поездка, как она помогла разобраться в местной цепочке производства кофе и какие микролоты из Кении появятся в нашем ассортименте в 2023 году &mdash; читайте в этой статье.</p>
-<h4 dir="ltr"><strong>Кратко о&nbsp;производстве кофе в&nbsp;Кении </strong></h4>
-<p dir="ltr">В&nbsp;<a href="../../blog/osobennosti-industrii-kofe-v-kenii" target="_blank" rel="noopener">Кении</a> кофе начали выращивать только в&nbsp;конце 19&nbsp;&mdash; начале 20&nbsp;века. До&nbsp;этого времени она оставалась чайной страной, даже несмотря на&nbsp;то&nbsp;что соседняя <a href="../../blog/osobennosti-industrii-kofe-v-efiopii" target="_blank" rel="noopener">Эфиопия</a> считается родиной <a href="../../blog/raznitsa-mezhdu-arabikoi-i-robustoi" target="_blank" rel="noopener">арабики</a>.</p>
-<p dir="ltr">В&nbsp;Кении и&nbsp;сейчас выращивают очень мало кофе по&nbsp;сравнению с&nbsp;большинством других стран. Например, в&nbsp;2018&ndash;2019 годах здесь произвели всего 750 тысяч мешков зерна по&nbsp;60&nbsp;кг. В&nbsp;соседней Эфиопии за&nbsp;тот&nbsp;же период&nbsp;&mdash; 7&nbsp;миллионов мешков. Тем не&nbsp;менее кенийский кофе славится своим ярким вкусом&nbsp;&mdash; даже новички в&nbsp;мире <a href="../../blog/specialty-kofe" target="_blank" rel="noopener">спешелти</a> легко узнаю́т его на&nbsp;слепых каппингах.</p>
-<p dir="ltr">В&nbsp;кофейном производстве заняты 250&nbsp;000&nbsp;кенийцев.&nbsp;95% кофе в&nbsp;стране выращивают мелкие фермеры, средний размер их&nbsp;хозяйств&nbsp;&mdash; всего 20&nbsp;соток. Свободной земли в&nbsp;стране мало, и&nbsp;она дорогая, а&nbsp;значит, возможностей для покупки новых участков и&nbsp;увеличения производства почти нет.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image2.jpg"></p>
-<p dir="ltr"><small>Несмотря на&nbsp;высокий статус кенийского кофе в&nbsp;индустрии, фермеры Кении по-прежнему остаются одними из&nbsp;беднейших в&nbsp;мире</small></p>
-<p dir="ltr">Оставшиеся&nbsp;5% приходятся на&nbsp;большие кофейные фермы, которые обычно имеют свои станции обработки. Считается, что кофе с&nbsp;таких крупных ферм менее качественный&nbsp;&mdash; пикеры на&nbsp;них собирают в&nbsp;том числе <a href="../../blog/sozrevanie-kofeynoj-yagodi" target="_blank" rel="noopener">незрелые и&nbsp;перезрелые ягоды</a>.</p>
-<p dir="ltr">В&nbsp;основном кофе в&nbsp;стране выращивают на&nbsp;плато вокруг горы Кения, на&nbsp;<a href="../../blog/naskolko-vazhna-visota" target="_blank" rel="noopener">высоте</a> между 1400 и&nbsp;2000&nbsp;метров. Почва здесь глубокая, суглинистая и&nbsp;насыщенная железом&nbsp;&mdash; идеально подходит для выращивания арабики.</p>
-<p dir="ltr">Узнаваемый профиль кенийского кофе обусловлен тремя факторами:</p>
+                                    <p dir="ltr">В&nbsp;России большинство любителей кофе добавляют в&nbsp;него сахар: <a href="https://ruscoffee.ru/company/news/707.html" target="_blank" rel="noopener">75%</a> среди тех, кто использует молотый кофе, и&nbsp;82%&nbsp;&mdash; среди сторонников растворимого кофе. На&nbsp;такие предпочтения кофейни отвечают большим разнообразием сладких напитков, которые иногда напоминают десерты.</p>
+<p dir="ltr">Специалистов мира <a href="../../blog/specialty-kofe" target="_blank" rel="noopener">спешелти</a> подобная статистика не&nbsp;радует. Они считают, что сахар оттеняет вкус качественного зерна и&nbsp;лишает человека возможности насладиться его естественной сладостью и&nbsp;разнообразными дескрипторами.</p>
+<p dir="ltr">Как возникло разногласие между любителями кофе и&nbsp;профессионалами индустрии, почему сахар появился в&nbsp;кофейной чашке и&nbsp;нужен&nbsp;ли он&nbsp;там&nbsp;&mdash; расскажем в&nbsp;этой статье.</p>
+<h4><strong>Почему в&nbsp;кофе добавляют сахар</strong></h4>
+<p dir="ltr"><a href="https://perfectdailygrind.com/2021/02/sugar-in-coffee-exploring-an-age-old-habit/" target="_blank" rel="noopener">Пять веков назад</a> кофейное зерно попало в&nbsp;Европу, где из&nbsp;него стали готовить бодрящий напиток. В&nbsp;то&nbsp;время кофе был очень плохого качества, поэтому его сильно обжаривали&nbsp;&mdash; напиток из&nbsp;такого зерна получался горьким и&nbsp;терпким. Но&nbsp;в&nbsp;природе горечь ассоциируется с&nbsp;ядовитыми веществами, поэтому человек инстинктивно избегает этого вкуса. Замаскировать его легче всего чем-то сладким, например, сахаром, который делает вкус мягче и&nbsp;приятнее. При этом сладость вызывает также ощущение удовольствия, вознаграждения.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image3.png"></p>
+<p dir="ltr"><small>Сахар меняет баланс кофе&nbsp;&mdash; подавляет его горечь и&nbsp;кислотность.&nbsp;&copy;&nbsp;Ulrike Leone на&nbsp;Pixabay. com </small></p>
+<p dir="ltr">Поэтому и&nbsp;сегодня большинство начинают пробовать кофе с&nbsp;его сладких вариантов. Многим не&nbsp;нравится <a href="../../blog/kislotnost-i-kisloti-v-kofe" target="_blank" rel="noopener">кислотность</a> или насыщенный вкус чистого <a href="../../blog/espresso-i-variatsii" target="_blank" rel="noopener">эспрессо</a>. Они предпочитают напитки с&nbsp;молоком, в&nbsp;которые добавляют белый, коричневый сахар или сахар-сырец, а&nbsp;также подсластители:</p>
 <ul>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><em><a href="../../blog/keniyskie-raznovidnosti-kofe" target="_blank" rel="noopener">Разновидностью</a>.</em> Местные разновидности кофейных деревьев&nbsp;SL были селектированы из&nbsp;<a href="../../blog/raznovidnosti-ot-burbona" target="_blank" rel="noopener">бурбона</a>.</p>
+<p dir="ltr" role="presentation">искусственные: стевию, аспартам, эритрит;</p>
 </li>
 <li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><em>Терруаром.</em> Кения&nbsp;&mdash; единственная страна, где в&nbsp;почве содержится много ортофосфорной кислоты, которая сильно влияет на&nbsp;вкус кофе. Ортофосфорная <a href="../../blog/kislotnost-v-kofe" target="_blank" rel="noopener">кислотность</a> напоминает ощущения от&nbsp;кока-колы: поскрипывание на&nbsp;зубах и&nbsp;пощипывание на&nbsp;языке.</p>
-</li>
-<li dir="ltr" aria-level="1">
-<p dir="ltr" role="presentation"><em><a href="../../blog/sposoby-obrabotki-kofe" target="_blank" rel="noopener">Обработкой</a>.</em> В&nbsp;Кении почти весь кофе обрабатывают мытым способом, но&nbsp;во&nbsp;время ферментации не&nbsp;используют воду, а&nbsp;оставляют депульпированные ягоды в&nbsp;танках на&nbsp;18&nbsp;часов. Так реакции протекают более интенсивно и&nbsp;усиливают кислотность.</p>
+<p dir="ltr" role="presentation">натуральные: мед, кленовый сироп, нектар агавы.</p>
 </li>
 </ul>
-<p dir="ltr">Кофейный рынок в&nbsp;Кении контролируется государством, и&nbsp;цепочка поставок сильно отличается от&nbsp;любых других кофепроизводящих стран.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image5.jpg"></p>
-<p dir="ltr"><small>Фермеры со&nbsp;своей станцией не&nbsp;могут обрабатывать чужой урожай&nbsp;&mdash; покупка ягод не&nbsp;кооперативами запрещена на&nbsp;законодательном уровне</small></p>
-<p dir="ltr">У&nbsp;мелких фермеров нет своих станций обработки, поэтому им&nbsp;приходится вступать в&nbsp;кооперативы. При этом один фермер может сдавать ягоды в&nbsp;несколько кооперативов, регулируя доли урожая в&nbsp;зависимости от&nbsp;того, где цены выше. Кооперативам, как правило, принадлежит несколько станций обработки: от&nbsp;1&nbsp;до&nbsp;20.</p>
-<p dir="ltr">Фермеры приносят ягоды на&nbsp;станцию обработки сразу после сбора. Сначала кофе поступает на&nbsp;приемку, где его перебирают вручную и&nbsp;отсеивают порядка&nbsp;5% ягод: недозрелые, перезрелые, поврежденные. Их&nbsp;возвращают фермеру обратно. Он&nbsp;сушит эти ягоды сам, обычно просто на&nbsp;земле, и&nbsp;продает на&nbsp;внутренний рынок.</p>
-<p dir="ltr">После сортировки ягоды взвешивают и&nbsp;заносят в&nbsp;систему. Фермеру приходит сообщение, где указаны вес, дата и&nbsp;время приемки ягод. Потом весь кофе на&nbsp;станции смешивают и&nbsp;отправляют на&nbsp;стандартную процедуру обработки.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image4.png"></p>
-<p dir="ltr"><small>Почти все оборудование на&nbsp;станциях обработки осталось еще с&nbsp;1950&ndash;1960-х годов</small></p>
-<p dir="ltr">Кения&nbsp;&mdash; единственная в&nbsp;мире страна, где система продажи кофе через <a href="../../blog/kofejnie-auktsiony" target="_blank" rel="noopener">аукционы</a> работает отлаженно, прозрачно и&nbsp;в&nbsp;интересах фермеров. Торги проходят онлайн каждый вторник. Потенциальные покупатели заранее запрашивают образец интересующего их&nbsp;лота и&nbsp;затем участвуют в&nbsp;аукционе. Начальную цену иногда советует маркетинговое агентство, но&nbsp;конечное решение остается за&nbsp;кооперативом. Байеры покупают кофе себе на&nbsp;склад для дальнейшей перепродажи или под конкретного клиента, если ему понравился лот.</p>
-<p dir="ltr">80% кофе в&nbsp;стране продают через аукционы, потому что кооперативам это выгоднее, чем работать напрямую с&nbsp;экспортером.</p>
-<h4 dir="ltr"><strong>Наши заметки из&nbsp;Кении </strong></h4>
-<p dir="ltr">В&nbsp;Кении у&nbsp;нас были запланированы <a href="../../blog/cupping" target="_blank" rel="noopener">каппинги</a> у&nbsp;двух самых известных экспортеров: <em><a href="https://www.gba.co.ke/member/item/177-ibero-kenya-limited" target="_blank" rel="noopener">Ibero</a> </em>и&nbsp;<em><a href="https://www.dormanscoffee.com/" target="_blank" rel="noopener">Dormans</a></em>. А&nbsp;также мы&nbsp;хотели посетить кофейные кооперативы и&nbsp;их&nbsp;станции обработки.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image6.jpg"></p>
-<p dir="ltr"><small><em>Dormans </em>ежегодно экспортирует около 30&nbsp;контейнеров кофе с&nbsp;оценкой 86+. За&nbsp;этими лотами мы&nbsp;и&nbsp;приехали</small></p>
-<p dir="ltr">В&nbsp;первый день мы&nbsp;отправились на&nbsp;каппинг в&nbsp;компанию <em>Dormans</em>. Это крупнейший экспортер спешелти кофе в&nbsp;Кении. Кроме классического мытого кофе, удалось попробовать лоты натуральной и&nbsp;анаэробной обработок. Стоит заметить, что любые нетипичные обработки для Кении все еще большая редкость.</p>
-<p dir="ltr">Мы&nbsp;откаппили почти 80&nbsp;лотов и&nbsp;выбрали около 20&nbsp;из&nbsp;них, чтобы оценить дома и&nbsp;определиться окончательно.</p>
-<p dir="ltr">После каппингов осмотрели склады <em>Dormans</em>, лабораторию, станцию предэкспортной подготовки и&nbsp;даже обжарочное производство. Кроме экспорта зеленого зерна, компания занимается обжаркой кофе для местного рынка&nbsp;&mdash; они обжаривают до&nbsp;70&nbsp;тонн кофе в&nbsp;месяц. Для Кении, в&nbsp;которой потребляют в&nbsp;основном чай, это очень много.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image7.jpg"></p>
-<p dir="ltr"><small>Кофе от&nbsp;<em>Dormans </em>можно встретить в&nbsp;каждом супермаркете в&nbsp;Кении и&nbsp;даже в&nbsp;аэропорту</small></p>
-<p dir="ltr">Второй экспортер, с&nbsp;которым договорились на&nbsp;каппинги,&nbsp;&mdash; <em>Ibero</em>. Это крупнейший по&nbsp;объему экспортер в&nbsp;Кении и&nbsp;второй в&nbsp;категории спешелти после <em>Dormans</em>. <em>Ibero </em>по&nbsp;нашему предзаказу подготовили подборку лотов, мы&nbsp;выбрали и&nbsp;забрали с&nbsp;собой еще 15&nbsp;сэмплов.</p>
-<p dir="ltr">На&nbsp;этом каппинги закончились, и&nbsp;мы&nbsp;поехали смотреть станции обработки. Обычно к&nbsp;февралю почти весь кофе уже обработан, но&nbsp;часть все еще сушится. Так у&nbsp;нас появилась возможность посмотреть вживую, как устроены местные станции и&nbsp;фермы, и&nbsp;лучше разобраться в&nbsp;цепочке поставок.</p>
-<p dir="ltr">Первый кооператив, который мы&nbsp;посетили, называется Гакуюини. Обычно у&nbsp;одного кооператива несколько станций, но&nbsp;здесь всего одна, зато огромная. На&nbsp;ней обрабатывают 1,5 млн кг&nbsp;ягод в&nbsp;год.</p>
-<p dir="ltr">Следующей остановкой стал Барагви&nbsp;&mdash; крупнейший кооператив, где обрабатывают 14&nbsp;млн кг&nbsp;ягод в&nbsp;год. Барагви принадлежит 15&nbsp;станций обработки, на&nbsp;которые приносят урожай несколько тысяч фермеров.</p>
-<p dir="ltr">Последняя станция, на&nbsp;которую успели заехать,&nbsp;&mdash; Мучагара. Это старейшая станция в&nbsp;регионе Кириняга, она была открыта в&nbsp;1950&nbsp;году. В&nbsp;этом сезоне на&nbsp;ней обработали 1,3 млн кг&nbsp;ягод. Всего на&nbsp;станцию доставляют урожай 1600 мелких фермеров.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image1.jpg"></p>
-<p dir="ltr"><small>Кооператив получает деньги в&nbsp;конце сезона, когда весь кофе продан, и&nbsp;только тогда выплачивает доли фермерам</small></p>
-<p dir="ltr">Кооперативы&nbsp;&mdash; это некоммерческие организации. Ими управляет руководство, которое выбрали сами фермеры. После всех обязательных выплат (зарплаты, электричество), оставшиеся деньги распределяют между фермерами&nbsp;&mdash; в&nbsp;зависимости от&nbsp;того, кто сколько кофе сдал на&nbsp;станцию.</p>
-<p dir="ltr">Фермеры в&nbsp;Кении получают около&nbsp;90% от&nbsp;всей прибыли кооператива. Это хорошо для них, но&nbsp;не&nbsp;для кооперативов, у&nbsp;которых не&nbsp;остается денег на&nbsp;улучшение инфраструктуры и&nbsp;эксперименты с&nbsp;обработкой.</p>
-<p dir="ltr">Для согласования любых расходов кооператив устраивает голосования, как наши ТСЖ, и&nbsp;тратят деньги, только если большинство фермеров согласны. Все оборудование, которое мы&nbsp;видели на&nbsp;станциях,&nbsp;&mdash; старое. А&nbsp;новые депульпаторы, которые встречались, были установлены бесплатно крупными международными фирмами.</p>
-<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image8.png"></p>
-<p dir="ltr"><small>&laquo;Старбакс&raquo;, &laquo;Неспрессо&raquo; и&nbsp;крупные экспортеры покупают оборудование для станций в&nbsp;рамках маркетинговых кампаний по&nbsp;поддержке фермеров</small></p>
-<p dir="ltr">В&nbsp;Кении чувствуется, что работники подозрительны и&nbsp;требуют уважительного отношения к&nbsp;себе. Например, на&nbsp;одной станции обработки нас просили ждать у&nbsp;входа, хотя все было открыто. С&nbsp;нами был Кристоф&nbsp;&mdash; руководитель по&nbsp;развитию и&nbsp;экспорту компании <em>Ibero</em>, то&nbsp;есть самый крупный и&nbsp;надежный их&nbsp;покупатель. И&nbsp;только когда мы&nbsp;объяснили, кто мы&nbsp;и&nbsp;зачем приехали, нам согласились провести экскурсию.</p>
-<h4 dir="ltr"><strong>Итоги поездки в&nbsp;Кению</strong></h4>
-<p dir="ltr">По&nbsp;сравнению с&nbsp;прошлым годом, урожай кенийского кофе вырос, а&nbsp;цены&nbsp;&mdash; упали. Из-за этого получилась парадоксальная ситуация: кофе из&nbsp;Кении стоит дешевле эфиопского, хотя обычно он&nbsp;был на&nbsp;20&ndash;30% дороже.</p>
-<p dir="ltr">Благодаря низким ценам, мы&nbsp;решили заказать больше кенийского кофе и&nbsp;обжаривать его не&nbsp;только для фильтра, но&nbsp;и&nbsp;для эспрессо. Кения в&nbsp;этом году будет представлена в&nbsp;максимально разных профилях: от&nbsp;ярких и&nbsp;кислотных до&nbsp;сладких и&nbsp;сбалансированных.</p>
+<p dir="ltr">Если хочется изменить не&nbsp;только вкус, но&nbsp;и&nbsp;аромат напитка, используют <a href="https://perfectdailygrind.com/2022/02/exploring-the-syrups-flavourings-market-in-the-coffee-sector/" target="_blank" rel="noopener">сиропы для кофе</a>. Они сохраняют свою консистенцию при высоких температурах и&nbsp;менее сладкие, чем сиропы для коктейлей.</p>
+<p dir="ltr">Основной страной потребления сиропов является США. Здесь очень популярны сладкие вкусы, например, карамель. В&nbsp;меню американских кофеен <a href="https://www.starbucks.com/" target="_blank" rel="noopener">Starbucks</a> первоначально ввели только четыре напитка с&nbsp;сиропом. Сейчас там представлены десятки различных вариантов сладкого кофе, и&nbsp;его ассортимент постоянно обновляется.</p>
+<p dir="ltr">Добавлять сиропы любят на&nbsp;<a href="../../blog/razvitie-speciality-na-filipinah" target="_blank" rel="noopener">Филиппинах</a>, в&nbsp;<a href="../../blog/industria-kofe-v-meksike" target="_blank" rel="noopener">Мексике</a>, Южной Корее и&nbsp;во&nbsp;<a href="../../blog/industria-kofe-vo-vietname" target="_blank" rel="noopener">Вьетнаме</a>. А&nbsp;вот в&nbsp;Европе представлен гораздо меньший ассортимент вкусов, и&nbsp;сами сиропы не&nbsp;такие сладкие, как в&nbsp;США.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image9.png"></p>
+<p dir="ltr"><small>Небольшое количество сиропа может подчеркнуть яркие фруктовые ноты напитка.&nbsp;&copy;&nbsp;Nick Stafford на&nbsp;Pixabay. com </small></p>
+<p dir="ltr">В&nbsp;европейских странах предпочитают свои традиционные рецепты кофе, в&nbsp;которые добавляют мороженое, шоколад и&nbsp;взбитые сливки. В&nbsp;некоторых странах Азии и&nbsp;Латинской Америки используют сгущенное молоко. Многие из&nbsp;этих национальных рецептов стали особенно популярны, и&nbsp;сегодня их&nbsp;готовят в&nbsp;кофейнях по&nbsp;всему миру. Подробнее о&nbsp;них расскажем в&nbsp;следующем разделе статьи.</p>
+<h4><strong>Сладкие кофейные напитки из&nbsp;разных стран </strong></h4>
+<p dir="ltr">В&nbsp;большинстве стран мира любят сладкий кофе. В&nbsp;каждой местности есть свои традиционные напитки, которые отличаются нюансами в&nbsp;составе и&nbsp;рецептуре. Если проследить географию их&nbsp;популярности, то&nbsp;можно заметить закономерность: сладкий кофе пьют там, где исторически использовали кофейное зерно низкого качества. Сахаром стремились сбалансировать интенсивную горечь напитка. Исключения&nbsp;&mdash; страны Ближнего Востока. Здесь на&nbsp;напитки с&nbsp;подсластителями&nbsp;&mdash; газировки, энергетики и&nbsp;другие&nbsp;&mdash; предусмотрен дополнительный налог. Чтобы избежать возможных сложностей, посетители предпочитают не&nbsp;заказывать сладкие напитки, а&nbsp;владельцы кофеен не&nbsp;включают их&nbsp;в&nbsp;ассортимент. Для уменьшения горечи к&nbsp;кофе обычно подают восточные десерты, сухофрукты и&nbsp;орехи.</p>
+<p dir="ltr">Вот несколько интересных рецептов сладкого кофе из&nbsp;разных стран мира.</p>
+<p dir="ltr"><a href="https://wokelark.com/what-is-a-bicerin-coffee/" target="_blank" rel="noopener"><em>Бичерин</em></a><em>.</em> В&nbsp;состав напитка входят горячий шоколад, эспрессо, взбитые сливки. Компоненты не&nbsp;смешивают, а&nbsp;располагают в&nbsp;стакане слоями.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image10.png"></p>
+<p dir="ltr"><small>Если вы&nbsp;не&nbsp;хотите выбирать между кофе и&nbsp;десертом, попробуйте аффогато.&nbsp;&copy;&nbsp;Kim ick на&nbsp;Unsplash. com</small></p>
+<p dir="ltr"><em>Глясе.</em> Включает охлажденный кофе по-турецки и&nbsp;сливочный пломбир в&nbsp;пропорциях 3&nbsp;к 1. Можно поэкспериментировать со&nbsp;вкусами и&nbsp;использовать крем-брюле, шоколадное или ванильное мороженое. Для украшения используют тертый шоколад, леденцовую крошку, кокосовую стружку. Чтобы разнообразить вкус и&nbsp;аромат, добавляют корицу, орехи и&nbsp;какао-порошок. Похожий рецепт и&nbsp;у&nbsp;<a href="https://www.thespruceeats.com/affogato-4776668" target="_blank" rel="noopener">итальянского аффогато</a>. Но&nbsp;это уже не&nbsp;напиток, а&nbsp;полноценный десерт. На&nbsp;шарик сливочного пломбира льют шот горячего эспрессо. Пикантности добавит капля алкоголя&nbsp;&mdash; итальянского амаретто или ирландского сливочного ликера.</p>
+<p dir="ltr"><em>Итальянский кон панна.</em> Обычный или двойной эспрессо со&nbsp;взбитыми сливками. К&nbsp;напитку добавляют тертый шоколад и&nbsp;орехи.</p>
+<p dir="ltr"><em>Корейский <a href="https://www.thespruceeats.com/whipped-coffee-4801748" target="_blank" rel="noopener">кофе Дальгона</a>.</em> Растворимый кофе с&nbsp;сахаром взбивают в&nbsp;густую воздушную пену и&nbsp;заливают молоком со&nbsp;льдом. Для аромата добавляют ванильный экстракт или корицу.</p>
+<p dir="ltr"><em>Кофе по-венски.</em> Рецепт включает в&nbsp;себя кофе, сливки и&nbsp;сахар. По&nbsp;желанию добавляют шоколад, какао-порошок и&nbsp;корицу.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image1.png"></p>
+<p dir="ltr"><small>Представьте тирамису в&nbsp;форме напитка&nbsp;&mdash; именно этот десерт напоминает вьетнамский яичный кофе.&nbsp;&copy;&nbsp;Sonia Bozzo на&nbsp;thespruceeats. com</small></p>
+<p dir="ltr"><a href="https://www.thespruceeats.com/vietnamese-egg-coffee-3030347" target="_blank" rel="noopener"><em>Вьетнамский яичный кофе</em></a><em>.</em> Основой для этого напитка служит густой крепкий кофе, сваренный в&nbsp;специальном пресс-фильтре. Его дополняют воздушной сладкой пеной из&nbsp;взбитого яичного желтка и&nbsp;сгущенного молока. Во&nbsp;Вьетнаме сложно достать молочные продукты животного происхождения, поэтому используют кокосовую сгущенку или разводят сухие кокосовые сливки.</p>
+<p dir="ltr"><em>Кубинский <a href="https://www.thespruceeats.com/cuban-coffee-4796807" target="_blank" rel="noopener">Cafecito</a>.</em> Это безмолочный рецепт. В&nbsp;него входит только крепкий эспрессо и&nbsp;воздушный крем из&nbsp;сахара&nbsp;&mdash; <a href="https://perfectdailygrind.com/2021/01/what-is-the-cafe-cubano/" target="_blank" rel="noopener">эспума</a>.</p>
+<p dir="ltr"><em><a href="https://www.thespruceeats.com/yuanyang-coffee-tea-recipe-766158" target="_blank" rel="noopener">Юаньян</a>.</em> Этот кофейный напиток можно попробовать в&nbsp;Гонконге. Его особенность&nbsp;&mdash; сочетание сладко-сливочного вкуса и&nbsp;ударной дозы кофеина. В&nbsp;основе смесь крепкого капельного кофе и&nbsp;<a href="https://www.thespruceeats.com/hong-kong-milk-tea-recipe-766128" target="_blank" rel="noopener">чая с&nbsp;молоком в&nbsp;гонконгском стиле</a>.</p>
+<p dir="ltr"><a href="https://www.thespruceeats.com/mexican-coffee-4783525" target="_blank" rel="noopener"><em>Мексиканский кофе</em></a><em>.</em> В&nbsp;этом рецепте сочетаются свежемолотый кофе, горячий шоколад, тростниковый сахар, корица и&nbsp;мускатный орех. Молотые специи заваривают с&nbsp;кофейной гущей, из-за чего напиток получается пряным. Украшают бокал взбитыми сливками.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image2.png"></p>
+<p dir="ltr"><small>Мексиканский кофе прост в&nbsp;приготовлении и&nbsp;не&nbsp;требует особого оборудования или навыков.&nbsp;&copy;&nbsp;Leah Maroney на&nbsp;thespruceeats. com</small></p>
+<p dir="ltr"><a href="https://www.thespruceeats.com/delhi-style-cold-coffee-1957419" target="_blank" rel="noopener"><em>Кофе по-делийски</em></a><em>.</em> Этот холодный кофейный коктейль популярен летом в&nbsp;Индии. Для его приготовления смешивают растворимый кофе с&nbsp;молоком, сахаром и&nbsp;добавляют лед.</p>
+<p dir="ltr"><em>Кофе по-ирландски.</em> В&nbsp;этом напитке соединяют ирландский виски со&nbsp;сладким черным кофе. При подаче чашку украшают взбитыми сливками.</p>
+<p dir="ltr"><em>Немецкий <a href="https://www.thespruceeats.com/german-coffee-with-rum-recipe-1446818" target="_blank" rel="noopener">Pharisaer Kaffee</a>.</em> Это сладкий кофе с&nbsp;добавлением рома и&nbsp;взбитых сливок. Считается национальным напитком Северной Фризии.</p>
+<p dir="ltr"><em>Карамельный <a href="../../blog/mocco-i-makiato" target="_blank" rel="noopener">макиато</a>.</em> Это разновидность эспрессо макиато&nbsp;&mdash; одинарного или двойного эспрессо, заправленного ложкой подогретого вспененного молока. В&nbsp;этом рецепте его дополняют <a href="https://www.thespruceeats.com/vanilla-simple-syrup-recipe-760331" target="_blank" rel="noopener">ванильный сироп</a> и&nbsp;<a href="https://www.thespruceeats.com/homemade-caramel-sauce-recipe-1945750" target="_blank" rel="noopener">карамельный соус</a>.</p>
+<p dir="ltr"><a href="../../blog/mocco-i-makiato" target="_blank" rel="noopener"><em>Мокко</em></a><em>.</em> Для приготовления смешивают немного какао-порошка, молока и&nbsp;сахара. Заливают эту смесь горячим кофе и&nbsp;добавляют <a href="https://www.thespruceeats.com/easy-homemade-whipped-cream-recipe-2097613" target="_blank" rel="noopener">взбитые сливки</a>. Подают как горячим, так и&nbsp;со&nbsp;льдом.</p>
+<p dir="ltr"><em>Кофе Кентукки.</em> Еще один алкогольный рецепт кофейного напитка. В&nbsp;него входят бурбон, кофе и&nbsp;медовый ликер для сладости.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image8.png"></p>
+<p dir="ltr"><small>Кофе Кентукки подходит для холодного времени года&nbsp;&mdash; он&nbsp;отлично согревает.&nbsp;&copy;&nbsp;S&amp;C Design Studios thespruceeats. com</small></p>
+<p dir="ltr">Поклонников сладких и&nbsp;молочных напитков на&nbsp;кофейной основе много. Но&nbsp;сегодня, когда популярность набирает культура спешелти и&nbsp;про пережженный горький вкус зерна можно забыть, так&nbsp;ли необходим сахар в&nbsp;кофейной чашке? Ответить на&nbsp;этот вопрос постараемся в&nbsp;следующем разделе.</p>
+<h4><strong>Допустим&nbsp;ли сахар в&nbsp;спешелти кофе</strong></h4>
+<p dir="ltr">Хотя сочетание сахара и&nbsp;кофе стало многовековой традицией, сейчас от&nbsp;нее стараются уйти. Связано это с&nbsp;распространением культуры спешелти. На&nbsp;первом месте стоит новая задача&nbsp;&mdash; получить кофе наивысшего качества и&nbsp;раскрыть его вкусоароматические характеристики.</p>
+<p dir="ltr">Работа всех специалистов спешелти индустрии направлена на&nbsp;то, чтобы подчеркнуть особенности каждого лота. Нет больше необходимости добавлять молоко и&nbsp;сахар, чтобы замаскировать погрешности напитка. Напротив&nbsp;&mdash; дополнительные ингредиенты скрывают тонкие дескрипторы вкуса и&nbsp;аромата, которыми хочется наслаждаться.</p>
+<p dir="ltr">Вкусоароматические особенности <a href="../../blog/specialty-kofe" target="_blank" rel="noopener">спешелти кофе</a> определяет целый набор факторов, например:</p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">генетическая разновидность зерна;</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">географическое положение фермы;</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">особенности <a href="../../blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe" target="_blank" rel="noopener">терруара</a>;</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">способ обработки кофейных ягод.</p>
+</li>
+</ul>
+<p dir="ltr">Далее подбирается профиль обжарки, который раскрывает лучшие вкусовые качества зерна. Затем разрабатывают рецепт напитка, который подчеркнет особенность именно этого лота.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image5.png"></p>
+<p dir="ltr"><small>Бариста может предложить гостю сначала попробовать напиток на&nbsp;спешелти зерне без добавления подсластителей</small></p>
+<p dir="ltr">Сахар в&nbsp;этом случае оттеняет большинство деликатных дескрипторов, повышает энергетическую ценность напитка, <a href="https://www.shop.tatte.kz/blog/coffee-hacks/sakhar-i-kofein.html" target="_blank" rel="noopener">уменьшает естественную горечь</a> из-за влияния <a href="https://perfectdailygrind.com/2021/10/sweeteners-how-do-they-affect-the-flavour-of-your-coffee/" target="_blank" rel="noopener">на&nbsp;молекулы кофеина</a>. А&nbsp;если подсластители обладают собственным ярким вкусом, как, например, натуральный мед или коричневый сахар, то&nbsp;вкусовой профиль кофе меняется до&nbsp;неузнаваемости.</p>
+<p dir="ltr">Что предпринять, чтобы любители сладких кофейных напитков оценили качественные спешелти сорта, и&nbsp;как этот вопрос решается в&nbsp;наших кофейнях&nbsp;&mdash; расскажем далее.</p>
+<h4><strong>Авторские напитки: переходное звено от&nbsp;избытка сахара к&nbsp;вкусу спешелти кофе </strong></h4>
+<p dir="ltr">Любителям сладкого мы&nbsp;рекомендуем начать знакомство с&nbsp;культурой спешелти с&nbsp;<a href="../../blog/kak-razrabotat-sezonnie-napitki" target="_blank" rel="noopener">авторских напитков</a>. В&nbsp;наших кофейнях их&nbsp;готовят по&nbsp;схеме: <em>эспрессо + молочная основа</em> (сливки или молоко) + <em>дополнительные ингредиенты</em>, определяющие оригинальность вкуса. Сахар, который добавляют в&nbsp;такие напитки, выполняет две ключевые функции: усилителя вкуса и&nbsp;натурального консерванта.</p>
+<p dir="ltr">Для приготовления эспрессо используют сорта спешелти кофе. Необходимо учитывать, как вкусовые характеристики зерна будут сочетаться с&nbsp;другими ингредиентами. В&nbsp;напитках с&nbsp;молоком хорошо раскрываются дескрипторы темных ягод, цитрусов, цветочные ноты. При добавлении подсластителей почувствовать их&nbsp;сложнее. Также важно помнить, что при переизбытке кислых ингредиентов, например, ягод и&nbsp;соусов, молочный компонент может свернуться. Сахар в&nbsp;таких случаях стабилизирует напиток и&nbsp;раскрывает его вкус.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image4.png"></p>
+<p dir="ltr"><small>В&nbsp;наших кофейнях мы&nbsp;предлагаем гостям сезонные сладкие напитки </small></p>
+<p dir="ltr">Как познакомить любителей сладких напитков с&nbsp;особенностями спешелти кофе, расскажем на&nbsp;примере наших кофеен.</p>
+<p dir="ltr">Часто гости приходят попробовать <a href="../../blog/chto-takoe-raf" target="_blank" rel="noopener">лавандовый или цитрусовый раф</a>. Этот напиток очень нежный и&nbsp;сладкий, с&nbsp;добавлением сахара и&nbsp;взбитого молока. В&nbsp;качестве ароматических добавок используют сиропы, специи и&nbsp;травы.</p>
+<p dir="ltr">От&nbsp;него легко перейти на&nbsp;авторский капучино. В&nbsp;отличие от&nbsp;классического рецепта, где в&nbsp;состав входят только эспрессо, молоко и&nbsp;взбитая молочная пена, сюда включают дополнительные сладкие добавки. В&nbsp;наших кофейнях можно попробовать авторский капучино &laquo;Смородина&raquo; и&nbsp;&laquo;Кокосовая сгущенка&raquo;.</p>
+<p dir="ltr">Перед приготовлением сладкого кофе с&nbsp;молоком наши бариста предлагают гостям оценить эспрессо, заложенный в&nbsp;его основу. Многие после такой дегустации совсем отказываются от&nbsp;сахара или уменьшают его количество, но&nbsp;оставляют молочный компонент.</p>
+<p dir="ltr"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sladkii_kofe/image6.png"></p>
+<p dir="ltr"><small>Молочные авторские напитки обычно готовим по&nbsp;схеме: эспрессо + молочная основа + вкусовая заготовка</small></p>
+<p dir="ltr">Молоко не&nbsp;заглушает все дескрипторы, и&nbsp;у&nbsp;новичка получается распознать некоторые нюансы вкуса. Так у&nbsp;гостя появляется желание попробовать и&nbsp;другие сорта кофе с&nbsp;иными вкусовыми профилями.</p>
+<p dir="ltr">Какие авторские напитки можно попробовать в&nbsp;наших кофейнях:</p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">латте &laquo;Имбирный пряник&raquo;, &laquo;Малиновое печенье&raquo;, ореховый, можжевеловый;</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">капучино &laquo;Виноград&raquo;, &laquo;Смородина&raquo;, &laquo;Кокосовая сгущенка&raquo;;</p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation">раф &laquo;Сникерс&raquo;, ванильный, цитрусовый, лавандовый.</p>
+</li>
+</ul>
+<p dir="ltr">Скоро появятся новинки: капучино &laquo;Попкорн&raquo; со&nbsp;взрывающейся карамелью и&nbsp;&laquo;Чизкейк&raquo; со&nbsp;вкусом известного десерта. Мы&nbsp;уважаем вкус и&nbsp;пожелания наших гостей и&nbsp;всегда готовы предложить им&nbsp;качественные сладкие кофейные напитки.</p>
+<h4><strong>Резюме</strong></h4>
+<p dir="ltr">Исторически сочетание кофе и&nbsp;сахара было обосновано низким качеством зерна и&nbsp;погрешностями в&nbsp;обжарке, что придавало напитку горький и&nbsp;неприятный вкус.</p>
+<p dir="ltr">Интерес и&nbsp;пристрастие к&nbsp;сладкому кофе вылилось во&nbsp;множество рецептов напитков и&nbsp;десертов, которые полюбили во&nbsp;всем мире.</p>
+<p dir="ltr">Однако с&nbsp;приходом культуры спешелти на&nbsp;первое место выходят уникальность вкуса и&nbsp;аромата кофейного зерна, поэтому использование сахара становится нежелательным. Кофе больше не&nbsp;горький и&nbsp;терпкий. Вкусовые ноты поражают разнообразием. Вы&nbsp;можете приготовить напиток с&nbsp;идеальным для вас балансом кислотности, насыщенности и&nbsp;естественной сладости зерна. Но&nbsp;если вы&nbsp;не&nbsp;представляете себе кофе без сладкого сиропа или взбитых сливок, то&nbsp;всегда можно подобрать авторский напиток на&nbsp;основе высококачественного кофе.</p>
+<p dir="ltr"><small>Титульное фото&nbsp;&mdash; &copy;&nbsp;freepik. com</small></p>
                                 </div>
-                                                                                                                                                    <div class="article-banner-another">
-                                            <a href="https://shop.tastycoffee.ru/blog/rastitelnoe-ili-zhivotnoe-moloko">
-                                                <div class="article-banner-another-inner-block">
-                                                    <div class="article-banner-another-cover"
-                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/rastitelnoe-ili-zhivotnoe-moloko/image3.jpg)"
-                                                    ></div>
-                                                    <div class="blk">
-                                                        <p class="article-banner-another-top">
-                                                            Вам может быть интересно:
-                                                        </p>
-                                                        <p class="article-banner-another-header">
-                                                            Растительное молоко полезнее животного: правда или маркетинг
-                                                        </p>
-                                                        <p class="article-banner-another-date">
-                                                            24 мая 2021
-                                                            ·
-                                                            13 мин. на чтение
-                                                        </p>
-                                                    </div>
-                                                    <a class="interestingFavorite blog-link-favorite-333 "
-                                                       onclick="setBlogFavorite(this, 333); return false;"
-                                                    >
-                                                        <img class="fav-inner-theme"
-                                                             src="/assets/site/img/journal/fav-theme.svg" alt="">
-                                                        <img class="fav-inner-theme blog-icon-active"
-                                                             src="/assets/site/img/journal/fav-active.svg" alt="">
-                                                    </a>
-
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                                                    <div class="article-info ">
+                                                                <div class="article-info ">
                                     <div class="row" style="display: flex; padding: 0px;">
                                         <div class="col-lg-3" style="padding-left: 0px;">
-                                            <a class="blog-link-like-526  article-info-inner like-finger"
-                                               onclick="setBlogLike(this, 526); return false;"
+                                            <a class="blog-link-like-525  article-info-inner like-finger"
+                                               onclick="setBlogLike(this, 525); return false;"
                                                href="#">
                                                 <img src="/assets/site/img/journal/like-active.svg" alt=""
                                                      class="blog-icon-active">
                                                 <img src="/assets/site/img/journal/like-finger.svg" alt="">
-                                                <span class="count-like-526">4</span>
+                                                <span class="count-like-525">13</span>
                                             </a>
                                         </div>
                                         <div class="col-lg-9" style="padding-right: 0px;">
@@ -915,10 +929,10 @@
                                                 <p class="article-info-inner views-info">
                                                     <img src="/assets/site/img/journal/eye-article.svg"
                                                          alt="">
-                                                    115 просмотров
+                                                    523 просмотра
                                                 </p>
-                                                <a class="blog-link-favorite-526  article-info-inner article-fav-bottom"
-                                                   onclick="setBlogFavorite(this, 526); return false;"
+                                                <a class="blog-link-favorite-525  article-info-inner article-fav-bottom"
+                                                   onclick="setBlogFavorite(this, 525); return false;"
                                                    href="#">
                                                     <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                                                     <img src="/assets/site/img/journal/fav-active.svg" alt=""
@@ -928,7 +942,7 @@
                                                                                                     <a class="article-info-inner article-comm-bottom clickBlogComments countComment"
                                                        href="#reviews">
                                                         <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                                        3 комментария
+                                                        9 комментариев
                                                     </a>
                                                                                                 <div class="social">
                                                     <div class="ya-share2" data-services="vkontakte,telegram"
@@ -943,16 +957,20 @@
                                             <div class="col-lg-8" style="padding-left: 0px;">
                                                 <p>Теги :</p>
                                                                                                                                                             <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=226">
-                                                            Поездка
+                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=92">
+                                                            Рецепты
                                                         </a>
                                                                                                                                                                                                                 <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=147">
-                                                            Кения
+                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=255">
+                                                            распространение
                                                         </a>
                                                                                                                                                                                                                 <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=227">
-                                                            Сорсинг
+                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=256">
+                                                            полезная альтернатива
+                                                        </a>
+                                                                                                                                                                                                                <a class="article-tag-bottom"
+                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=257">
+                                                            сладкие напитки
                                                         </a>
                                                                                                                                                 </div>
                                         </div>
@@ -974,141 +992,6 @@
                                 <div class="read-another ">
                                     <p class="read-another-header">Читайте также</p>
                                     <div class="row" style="display: flex; padding: 0px;">
-                                                                                                                                <div class="col-lg"
-                                                 >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pochemu-k-espresso-podayut-stakan-vodi/image2.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/pochemu-k-espresso-podayut-stakan-vodi" class="absLink"></a>
-            <a class="fav blog-link-favorite-281 "
-               onclick="setBlogFavorite(this, 281); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/pochemu-k-espresso-podayut-stakan-vodi">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    95.3K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/pochemu-k-espresso-podayut-stakan-vodi#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">9
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/industriya-kofe">
-                Индустрия
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/pochemu-k-espresso-podayut-stakan-vodi">
-            <p class="main-article-header">
-                Почему к эспрессо подают стакан воды: факты и объяснение
-            </p>
-            <div class="main-article-subheader">
-                Не для того, чтобы разбавить его водой
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            12 ноя 2020 · 4 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
-                                                                                                                                <div class="col-lg"
-                                                  style="margin-left: 20px; margin-right: 20px;" >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/itogi-pir-coffee-2022/image2.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/itogi-pir-coffee-2022" class="absLink"></a>
-            <a class="fav blog-link-favorite-489 "
-               onclick="setBlogFavorite(this, 489); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/itogi-pir-coffee-2022">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    5.3K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/itogi-pir-coffee-2022#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">37
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/industriya-kofe">
-                Индустрия
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/itogi-pir-coffee-2022">
-            <p class="main-article-header">
-                Чем запомнилась выставка PIR-COFFEE 2022
-            </p>
-            <div class="main-article-subheader">
-                Итоги выставки PIR-COFFEE 2022 для команды Tasty Coffee: презентация новинок, интересные знакомства и заслуженные награды
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            21 ноя 2022 · 8 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
-                                                                                                                                <div class="col-lg"
-                                                 >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/industria-kofe-v-tanzanii/image4.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/industria-kofe-v-tanzanii" class="absLink"></a>
-            <a class="fav blog-link-favorite-392 "
-               onclick="setBlogFavorite(this, 392); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/industria-kofe-v-tanzanii">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    17.1K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/industria-kofe-v-tanzanii#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">18
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/industriya-kofe">
-                Индустрия
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/industria-kofe-v-tanzanii">
-            <p class="main-article-header">
-                Индустрия кофе в Танзании
-            </p>
-            <div class="main-article-subheader">
-                Разновидности, трудности, уровень производства и отношение танзанийцев к кофе
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            16 дек 2021 · 11 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
                                                                             </div>
                                 </div>
                             </div>
@@ -1125,7 +1008,7 @@
 </div>
                                                                     </div>
                                 <div class="post-list for_paginate">
-                                    <div class="item social_post_item" id="blog_review_9602">
+                                    <div class="item social_post_item" id="blog_review_9603">
         <div class="post-list__header">
                             <a href="https://shop.tastycoffee.ru/profile/3ff19022-76af-4062-b0ff-703179009d0f">
                                             <div class="post-list__header--img">Т</div>
@@ -1142,7 +1025,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9602); return false;"
+                                   onclick="blogReviewAddReport(this, 9603); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1154,15 +1037,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Мммм, сладкий 🔥
+                Согласна, кофе только без сахара …☕️
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9602, this); return false;"
+                <a href="#" onclick="blogCommentLike(9603, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(9602, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9603, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1173,7 +1056,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9602">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9603">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1181,7 +1064,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9602&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9603&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1189,7 +1072,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9602&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9603&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1212,16 +1095,16 @@
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_9597">
+    <div class="item social_post_item" id="blog_review_9567">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/c67b2367-8397-4b52-bfef-8a137eeff011">
-                                            <div class="post-list__header--img">В</div>
+                            <a href="https://shop.tastycoffee.ru/profile/77ddf982-df74-44a8-ac88-e5516abcf2b0">
+                                            <div class="post-list__header--img">Д</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/c67b2367-8397-4b52-bfef-8a137eeff011">Виктория (г. Москва)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/77ddf982-df74-44a8-ac88-e5516abcf2b0">Денис (г. Бишкек)</a>
                     </p>
-                    <p class="level">Новичок</p>
+                    <p class="level">Эксперт</p>
                 </div>
                         <div class="post-list__header--right">
                 <div class="post-actions">
@@ -1229,7 +1112,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9597); return false;"
+                                   onclick="blogReviewAddReport(this, 9567); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1241,15 +1124,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                ❤️ждём!
+                Кстати, из всех перечисленных напитков пил в том числе и вьетнамский вариант со сгущенкой. Что то больше не тянет :))
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9597, this); return false;"
+                <a href="#" onclick="blogCommentLike(9567, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(9597, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9567, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1260,7 +1143,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9597">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9567">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1268,7 +1151,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9597&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9567&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1276,7 +1159,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9597&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9567&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1292,24 +1175,23 @@
 
 
 
-                <p class="time">7 часов назад</p>
+                <p class="time">13 часов назад</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_9595">
+    <div class="item social_post_item" id="blog_review_9566">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/e9ff74a0-a28c-4718-9000-ab0cbeac58fd">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_143313_1669041449.png">
+                            <a href="https://shop.tastycoffee.ru/profile/77ddf982-df74-44a8-ac88-e5516abcf2b0">
+                                            <div class="post-list__header--img">Д</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/e9ff74a0-a28c-4718-9000-ab0cbeac58fd">Вадим</a>
+                        <a href="https://shop.tastycoffee.ru/profile/77ddf982-df74-44a8-ac88-e5516abcf2b0">Денис (г. Бишкек)</a>
                     </p>
-                    <p class="level">Новичок</p>
+                    <p class="level">Эксперт</p>
                 </div>
                         <div class="post-list__header--right">
                 <div class="post-actions">
@@ -1317,7 +1199,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9595); return false;"
+                                   onclick="blogReviewAddReport(this, 9566); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1329,15 +1211,16 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Молодцы! Ждём кенийский кофе!
+                По мне так любая добавка сахара или молока забивает вкус кофе. Но это субъективно:))<br />
+Начинал со сладкого кофе, теперь аж не вериться, что когда то его пил
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9595, this); return false;"
+                <a href="#" onclick="blogCommentLike(9566, this); return false;"
                    class="btn-like-up "
                 >
-                    <span class="ic">ic</span> <span class="value">1</span>
+                    <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(9595, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9566, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1348,7 +1231,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9595">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9566">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1356,7 +1239,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9595&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9566&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1364,7 +1247,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu?comment=9595&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9566&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1380,7 +1263,182 @@
 
 
 
-                <p class="time">9 часов назад</p>
+                <p class="time">13 часов назад</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_9559">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/2b4bc22d-528e-434c-8b3b-8c8d829d83c3">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_22460_1605179881.png">
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/2b4bc22d-528e-434c-8b3b-8c8d829d83c3">Сергей (г. Алтайское)</a>
+                    </p>
+                    <p class="level">Продвинутый</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 9559); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Согласен полностью, сахар только портит вкус кофе
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(9559, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(9559, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9559">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9559&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9559&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">15 часов назад</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_9557">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/3272341b-7dd8-416c-80b9-97c8f04c8701">
+                                            <div class="post-list__header--img">Р</div>
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/3272341b-7dd8-416c-80b9-97c8f04c8701">Роман (г. Кущевская)</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 9557); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Точно. Вкусовые ноты поражают разнообразием!
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(9557, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(9557, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9557">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9557&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/sladkii_kofe?comment=9557&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">1 день назад</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
@@ -1389,7 +1447,17 @@
     </div>
     <hr>
     <div class="pagination-block">
-        
+        <div class="pagination-wrap">
+                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/525?page=2','more');return false;">
+                <span class="load-ic ic"></span>
+                Загрузить больше
+            </a>
+                <ul class="pagination">
+                                                                                                                    <li class="active" ><span>1</span></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/525?page=2', '', true);return false;">2</a></li>
+                                                                                </ul>
+    </div>
+
     </div>
                                 </div>
 

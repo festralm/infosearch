@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="x62MEkNeFfvlVRRGDGONc96AeZvULLI1Xav8myjF">
-    <title>Почему кофе бывает кислотным</title>
-    <meta name="description" content="Кислотность — это основа вкусового богатства кофе. В этой статье рассказываем, от чего зависит интенсивность кислотности, какие типы кислотности бывают и в каком кофе встречаются.">
-    <meta name="keywords" content="кофе, кислотность, кислинка, арабика, робуста, вкус кофе">
+    <meta name="csrf-token" content="iRhLPInnItUcJ3wDCCLlHaHKdlmRXhs0E3TCRLFj">
+    <title>Разновидности кофе</title>
+    <meta name="description" content="Вид кофе и его разновидность — разные вещи. Например, у той же арабики есть очень много подвидов или, иначе говоря, разновидностей. Разбирать все не будем, но про самые популярные или интересные расскажем в этой статье">
+    <meta name="keywords" content="Кофе, арабика, робуста, разновидности, типика, бурбон">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe"/>
-    <meta property="og:title" content="Почему кофе бывает кислотным"/>
-    <meta property="og:description" content="Кислотность — это основа вкусового богатства кофе. В этой статье рассказываем, от чего зависит интенсивность кислотности, какие типы кислотности бывают и в каком кофе встречаются."/>
-    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kislotnost-v-kofe/mainlight.jpg"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe"/>
+    <meta property="og:title" content="Разновидности кофе"/>
+    <meta property="og:description" content="Вид кофе и его разновидность — разные вещи. Например, у той же арабики есть очень много подвидов или, иначе говоря, разновидностей. Разбирать все не будем, но про самые популярные или интересные расскажем в этой статье"/>
+    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/raznovidnosty-kofe/typica-coffee.jpg"/>
     <meta property="og:type" content="article"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="x62MEkNeFfvlVRRGDGONc96AeZvULLI1Xav8myjF">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="iRhLPInnItUcJ3wDCCLlHaHKdlmRXhs0E3TCRLFj">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="x62MEkNeFfvlVRRGDGONc96AeZvULLI1Xav8myjF"
+                     data-_token="iRhLPInnItUcJ3wDCCLlHaHKdlmRXhs0E3TCRLFj"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="x62MEkNeFfvlVRRGDGONc96AeZvULLI1Xav8myjF">        </form>
+            <input type="hidden" name="_token" value="iRhLPInnItUcJ3wDCCLlHaHKdlmRXhs0E3TCRLFj">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -710,7 +710,7 @@
             <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
     <script src="//yastatic.net/share2/share.js"></script>
     <div class="content contentWrap">
-        <div class="">
+        <div class="seriesWrapper">
             <div class="breadcrumb mb20">
                 <div class="row">
                     <ul itemscope itemtype="http://schema.org/BreadcrumbList">
@@ -726,42 +726,139 @@
                             </a>
                             <meta itemprop="position" content="2"/>
                         </li>
-                                                                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe"
+                                                                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                    <a href="https://shop.tastycoffee.ru/blog/series/raznovidnosti-kofe"
+                                       itemtype="http://schema.org/Thing" itemprop="http://schema.org/Thing">
+                                        <span itemprop="name">Серия статей «Разновидности кофе»</span>
+                                    </a>
+                                    <meta itemprop="position" content="2"/>
+                                </li>
+                                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                <a href="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe"
                                    itemtype="http://schema.org/Thing"
                                    itemprop="item">
-                                    <span itemprop="name">Почему кофе бывает кислотным</span>
+                                    <span itemprop="name">Разновидности кофе</span>
                                 </a>
                                 <meta itemprop="position" content="3"/>
                             </li>
                                             </ul>
                 </div>
             </div>
+                            <div class="row" style="display: flex; padding: 0px;">
+                    <div class="col-lg" style="padding-left: 0px;">
+                        <ul class="customul">
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe"
+                                       class="active-series"
+                                    >
+                                        Часть 1.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/redkie-raznovidnosti-kofe"
+                                       class=""
+                                    >
+                                        Часть 2.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/keniyskie-raznovidnosti-kofe"
+                                       class=""
+                                    >
+                                        Часть 3.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/zheltye-krasnye-raznovidnosti-kofe"
+                                       class=""
+                                    >
+                                        Часть 4.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/raznovidnosti-arabiki-s-samim-yarkim-vkusom"
+                                       class=""
+                                    >
+                                        Часть 5.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/geisha-ili-gesha"
+                                       class=""
+                                    >
+                                        Часть 6.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/raznovidnosti-ot-tipiki"
+                                       class=""
+                                    >
+                                        Часть 7.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/raznovidnosti-ot-burbona"
+                                       class=""
+                                    >
+                                        Часть 8.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/gibridy-arabiki"
+                                       class=""
+                                    >
+                                        Часть 9.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/raznovidnost-java"
+                                       class=""
+                                    >
+                                        Часть 10.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/yemenia-coffee"
+                                       class=""
+                                    >
+                                        Часть 11.
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://shop.tastycoffee.ru/blog/kak-raspoznat-raznovidnost-na-ferme"
+                                       class=""
+                                    >
+                                        Часть 12
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
                     </div>
         <div class="row">
             <div class="col-lg-9" style="padding: 0px;">
 
                                     <a href="https://shop.tastycoffee.ru/blog" class="greyLink indent desNone">Ко всем статьям</a>
                 
-                <h1 class="indent article-header">Почему кофе бывает кислотным</h1>
+                <h1 class="indent article-header">Разновидности кофе</h1>
                                     <div class="article-leadtext">
-                        <p>Кислотность &mdash; это основа вкусового богатства кофе. В этой статье рассказываем, от чего зависит интенсивность кислотности, какие типы кислотности бывают и в каком кофе встречаются</p>
+                        <p>Вид кофе и его разновидность &mdash; разные вещи. Например, у той же арабики есть очень много подвидов или, иначе говоря, разновидностей. Разбирать все не будем, но про самые популярные или интересные расскажем в этой статье</p>
                     </div>
                             </div>
             <div class="article-info" style="border-bottom: 0px;">
                                     <p class="article-info-inner time">
                         <img src="/assets/site/img/journal/clock.svg" alt="">
-                        5 мин. на чтение
+                        6 мин. на чтение
                     </p>
                     <p class="article-info-inner views-info">
                         <img src="/assets/site/img/journal/eye-article.svg" alt="">
-                        95511 просмотров
+                        66767 просмотров
                     </p>
                                 <div class="article-info-right">
                     <p class="article-info-inner article-fav">
                         <a href="#"
-                           class="blog-link-favorite-20 "
-                           onclick="setBlogFavorite(this, 20); return false;">
+                           class="blog-link-favorite-10 "
+                           onclick="setBlogFavorite(this, 10); return false;">
                             <img src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
                             <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                             В закладки
@@ -770,7 +867,7 @@
                                             <p class="article-info-inner article-comm">
                             <a href="#reviews" class="clickBlogComments countComment">
                                 <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                33 комментария
+                                9 комментариев
                             </a>
                         </p>
                                     </div>
@@ -779,12 +876,12 @@
         <div class="row">
             <div class="col-v10" style="padding-right: 0px;">
                 <div class="article-content">
-                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kislotnost-v-kofe/mainlight.jpg)"></div>
+                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/raznovidnosty-kofe/typica-coffee.jpg)"></div>
                     <div class="row" style="display: flex; padding: 0px;">
                         <div class="col-lg-1" style="padding-left: 0px;">
                             <div class="soc-block">
-                                <a class="blog-link-like-20  article-like socials "
-                                   onclick="setBlogLike(this, 20); return false;"
+                                <a class="blog-link-like-10  article-like socials "
+                                   onclick="setBlogLike(this, 10); return false;"
                                 >
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-active.svg"
                                          alt=""
@@ -792,8 +889,8 @@
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-finger.svg"
                                          alt="">
                                 </a>
-                                <a class="blog-link-favorite-20  article-like socials"
-                                   onclick="setBlogFavorite(this, 20); return false;"
+                                <a class="blog-link-favorite-10  article-like socials"
+                                   onclick="setBlogFavorite(this, 10); return false;"
                                 >
                                     <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
                                          src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -809,78 +906,83 @@
                             <div class="article-text">
 
                                 <div class="article-text-content" id="article-for-load">
-                                    <p dir="ltr">С&nbsp;одной стороны, кислотность&nbsp;&mdash; это нормальная характеристика для кофе, так&nbsp;же как и&nbsp;для остальных тропических фруктов и&nbsp;ягод. С&nbsp;другой&nbsp;&mdash; кислотность есть не&nbsp;в&nbsp;каждом кофе и&nbsp;<nobr>из-за</nobr> этого непонятно, почему в&nbsp;одном кофе кислотность яркая, в&nbsp;другом её вовсе нет и&nbsp;от&nbsp;чего это зависит.</p>
+                                    <p dir="ltr">Мы уже разобрались, что <a href="https://shop.tastycoffee.ru/blog/raznitsa-mezhdu-arabikoi-i-robustoi" target="_blank">кофе делится на виды</a>: арабику, робусту, либерику и много других, но редких. По легенде первый кофе обнаружили в регионе между Эфиопией, Суданом и Кенией и это была арабика. Позже выяснили, что арабика появилась, когда скрестились робуста, которую нашли только в 19 веке, и эужениоидис &mdash; редчайший, малоурожайный вид кофе.</p>
 
-<h4 dir="ltr"><strong>Интенсивность кислотности</strong></h4>
+<p dir="ltr">Но на этом различия в растениях не закончились &mdash; арабика продолжила скрещиваться и мутировать разными путями. А в результате появились сотни разновидностей. Расскажем о самых важных.</p>
 
-<p dir="ltr">Интенсивность кислотности зависит от&nbsp;четырёх факторов: высоты произрастания кофе, способа обработки зёрен, степени обжарки и&nbsp;приготовления. Теперь по&nbsp;порядку:</p>
+<h4 dir="ltr"><strong>Как появляются разновидности</strong></h4>
 
-<p dir="ltr"><strong>Высота произрастания.</strong> Чем выше растёт кофе, тем больше перепад дневных и&nbsp;ночных температур и&nbsp;меньше уровень кислорода, <nobr>из-за</nobr> этого кофе дольше созревает, в&nbsp;ягоде накапливается больше органических кислот, а&nbsp;само зерно становится плотнее.</p>
+<p dir="ltr">Разновидности, которые иногда называют сортами, появляются тремя способами: в результате естественных скрещиваний, естественных мутаций и путём селекции.</p>
 
-<p dir="ltr">В&nbsp;арабике яркая кислотность заложена от&nbsp;природы. В&nbsp;робусте кислоты присутствуют в&nbsp;очень небольших количествах. Такая разница связана с&nbsp;генетическими особенностями самих деревьев, а&nbsp;также с&nbsp;тем, что робуста растёт значительно ниже арабики.</p>
+<p dir="ltr"><strong>Естественное скрещивание</strong> &mdash; это спонтанный процесс, при котором одно дерево оплодотворяет другое и в результате получается новая разновидность, которая включает в себя какие-либо преимущества или недостатки от обоих деревьев. Такие разновидности случайны и их результат далеко не всегда хорош.</p>
 
-<p dir="ltr"><strong>Способ обработки.</strong> Кофе мытой обработки получается кислотнее, чем кофе, который обработали натуральным способом. Так происходит потому, что, <nobr>во-первых</nobr>, при натуральной обработке больше сахаров из&nbsp;клейковины успевают перейти в&nbsp;зерно, а&nbsp;<nobr>во-вторых</nobr>, при разных типах обработки, ферментация бактериями протекает <nobr>по-разному</nobr> и&nbsp;это влияет на&nbsp;вкус.</p>
+<p dir="ltr"><strong>Естественная мутация</strong> может происходить при пересадке дерева в другом регионе. Там совершенно другой состав почвы и климатические условия. Из-за этого дерево начинает меняться, то есть мутировать. Как правило, это приводит к тому, что внешний вид дерева, урожайность и вкусовые характеристики меняются &mdash; появляется новая разновидность.</p>
 
-<p dir="ltr">Способы обработки хани, полумытый, <nobr>вет-халл</nobr> и&nbsp;<nobr>палп-нэчурал</nobr> по&nbsp;влиянию на&nbsp;интенсивность кислотности находятся между мытым и&nbsp;натуральным&nbsp;&mdash; кофе получается с&nbsp;умеренной кислотностью.</p>
+<p dir="ltr"><strong>Селекция</strong> &mdash; это специальное, искусственное скрещивание двух разновидностей, чтобы получить в результате третью, но новую. Как правило, фермеры стараются выращивать проверенные разновидности и не занимаются селекцией &mdash; это слишком трудоёмко и дорого, а результат всегда непредсказуем.</p>
 
-<p dir="ltr"><strong>Степень обжарки.</strong> Все вкусоароматические компоненты появляются в&nbsp;кофе в&nbsp;результате химических реакций, которые происходят во&nbsp;время обжарки. Кислотность изначально присутствует в&nbsp;зёрнах, но&nbsp;не в сформированном виде.</p>
+<p dir="ltr"><img alt="Кофе восходит из земли" src="https://shop.tastycoffee.ru/files/shares/data/blog/raznovidnosty-kofe/growingcoffee.jpg" /></p>
 
-<p dir="ltr">Во&nbsp;время обжарки она изменяется, но&nbsp;это происходит нелинейно. От&nbsp;старта обжарки и&nbsp;до&nbsp;начала изменения цвета количество кислот увеличивается, затем они развиваются, становятся более комплексными, сложными и&nbsp;сладкими. Начиная со&nbsp;светлой и&nbsp;средней обжарки органические кислоты начинают разрушаться и&nbsp;чем темнее становится обжарка, тем меньше кислотности остаётся в&nbsp;кофе, но&nbsp;повышается его насыщенность и&nbsp;крепость.</p>
+<p dir="ltr">Самые известные селектированые разновидности &mdash; SL-28 и SL-34. Их получили в 30-х годах прошлого века в Scottish Laboratories. Отсюда и название &mdash; SL. В их вкусе чувствуется цитрусовая кислотность и сладость в послевкусии, а сами разновидности считаются чуть ли не элитными.</p>
 
-<p dir="ltr">Важно обжарить кофе так, чтобы кислотность была сладкой, а&nbsp;не&nbsp;агрессивной и&nbsp;все дескрипторы были максимально раскрыты. При тёмной обжарке разница между дорогим и&nbsp;дешёвым кофе теряется: сложные &laquo;энзимные&raquo; дескрипторы уходят, остаются только вкусы обжарки и&nbsp;карамелизации. Поэтому, если берут качественное зерно без дефектов и&nbsp;стараются раскрыть его вкусы, кофе обжаривают достаточно светло, а&nbsp;это раскрывает и&nbsp;кислотность.</p>
+<h4 dir="ltr"><strong>Самые популярные разновидности кофе</strong></h4>
 
-<p dir="ltr"><strong>Приготовление.</strong> Компоненты кофе во&nbsp;время приготовления растворяются не&nbsp;одновременно. Первыми растворяются фруктовые и&nbsp;органические кислоты. Затем&nbsp;&mdash; лёгкие компоненты, которые придают кофе вкус шоколада, ванили и&nbsp;карамели. В&nbsp;конце растворяются тяжёлые компоненты: табак, солод, дерево и&nbsp;другие.</p>
+<p dir="ltr">Большая часть мирового производства арабики идёт от типики &mdash; той самой разновидности, которую обнаружили в Эфиопии на заре кофейной индустрии.</p>
 
-<p dir="ltr">Если, например, уменьшить время приготовления, увеличить помол или снизить температуру&nbsp;&mdash; уменьшить общий процент экстракции, то&nbsp;кислотность проявится ярче. <nobr>Из-за</nobr> этого в&nbsp;эспрессо кофе всегда получается с&nbsp;более выраженной кислотностью, и&nbsp;чтобы сделать напиток более сбалансированным, кофе для эспрессо обжаривают чуть темнее и&nbsp;по&nbsp;другим профайлам. Такой кофе в&nbsp;нашем каталоге отмечен голубыми наклейками, а&nbsp;кофе, подходящий для всех остальных способов приготовления,&nbsp;&mdash; зелёными.</p>
+<p dir="ltr">По вкусу типика чистая и сладкая с полным телом. Её плоды высокого качества, но урожайность низкая. Первая мутация типики, которую удалось зафиксировать, привела к появлению второй популярной разновидности &mdash; бурбон. Урожайность бурбона выше, чем типики, но он хуже борется с болезнями. Во вкусе бурбона чувствуется сложная кислотность, яркие фруктовые вкусы и карамельная сладость.</p>
 
-<h4 dir="ltr"><strong>Виды и&nbsp;качество кислотности</strong></h4>
+<p dir="ltr">Типика и бурбон стали родителями почти всех разновидностей кофе, которые известны миру. Исключение &mdash; это дикие разновидности, которые нашли в первоначальном регионе произрастания арабики между Эфиопией, Суданом и Кенией &mdash; гейша, руме судан, дуддука, сеосиас, иргалем и другие. Они стоят в одном иерархическом ряду с типикой и отличаются хорошими вкусовыми характеристиками.</p>
 
-<p dir="ltr">Кислотность&nbsp;&mdash; это основа вкусового богатства кофе. Но&nbsp;во&nbsp;вкусе важна не&nbsp;интенсивность кислотности, а&nbsp;её качество. Кислотность бывает четырёх типов:</p>
+<p dir="ltr">Из разновидностей, которые произошли от типики и бурбона наиболее известны мундо ново, пакас и катурра.</p>
 
-<ul dir="ltr">
-	<li>ортофосфорная,</li>
-	<li>уксусная,</li>
-	<li>яблочная,</li>
-	<li>цитрусовая.</li>
-</ul>
+<p dir="ltr"><strong>Мундо Ново</strong> известен тем, что хорошо противостоит болезням, но прихотлив к состоянию почвы. Вкус: лёгкий и насыщенный, слегка горьковатый, несладкий.</p>
 
-<p>Чаще всего в&nbsp;кофе присутствуют все четыре типа кислотности в&nbsp;разных пропорциях, кроме ортофосфорной. Она встречается в&nbsp;робусте и&nbsp;некоторых типах арабик, которые растут на&nbsp;почвах с&nbsp;высоким содержанием фосфатов. Например, в&nbsp;Кении.</p>
+<p dir="ltr"><strong>Пакас</strong> в сравнении с бурбоном приносит больше урожая и хорошо растёт на больших высотах. Вкус: среднее тело со сбалансированной кислотностью и сладостью, сильные цветочные и пряные нотки.</p>
 
-<p dir="ltr">Уксусная кислота для кофе&nbsp;&mdash; это не&nbsp;очень хорошо. Часто она возникает <nobr>из-за</nobr> неправильной, слишком долгой ферментации кофе.</p>
+<p dir="ltr"><strong>Катурра</strong> растёт в Бразилии, Колумбии и всей Центральной Америке. На большой высоте зерно вырастает качественнее, чем на низких, но урожайность ниже. Вкус: лёгкое тело, яркая лимонная кислотность.</p>
 
-<p dir="ltr">Яблочная и&nbsp;цитрусовая кислоты&nbsp;&mdash; это как раз основа сложного вкусового букета. Эти кислоты отвечают за&nbsp;вкус яблок, ягод, апельсина и&nbsp;других фруктов.</p>
+<p dir="ltr">Особой популярностью пользуется разновидность марагоджип &mdash; это естественная мутация типики из Бразилии. Она растёт на больших высотах и отличается самыми крупными листьями и зёрнами в кофейной промышленности. При этом у марагоджипа довольно низкая урожайность. Вкус: плотный, с цветочно-цитрусовыми нотами.</p>
 
-<p dir="ltr">Если <a href="https://shop.tastycoffee.ru/blog/cupping">на&nbsp;каппинге</a> кофе ставят высокую оценку, это необязательно значит, что этот кофе самый кислотный. Оценивают именно её сложность и&nbsp;качество. Она может напоминать джем из&nbsp;смородины, сладкий апельсин или спелое зелёное яблоко.</p>
+<h4 dir="ltr"><strong>Другие разновидности</strong></h4>
 
-<h4 dir="ltr"><strong>В&nbsp;итоге</strong></h4>
+<p dir="ltr">Разновидности, которые произошли от типики и бурбона, продолжают скрещиваться между собой. Тогда появляются разновидности уже третьего и следующих уровней. Перечислить все нельзя &mdash; их как минимум 500, а точное число неизвестно.</p>
 
-<p dir="ltr">Кислотность&nbsp;&mdash; совершенно нормальная характеристика вкуса. Её интенсивность зависит от&nbsp;высоты плантации, способа обработки и&nbsp;степени обжарки.</p>
+<p dir="ltr"><img alt="Семейное дерево кофе" src="https://shop.tastycoffee.ru/files/shares/data/blog/raznovidnosty-kofe/394-Coffee_Family_Tree_Russian_11x17_WEB.jpg" /></p>
 
-<p dir="ltr">Если вы&nbsp;и&nbsp;обнаружили, что ваш кофе кислотный, постарайтесь его распробовать и&nbsp;найти в&nbsp;нём знакомые вкусы. Если делать так регулярно, ваш вкусовой опыт будет расти, и&nbsp;каждый раз вы&nbsp;будете находить всё новые и&nbsp;новые ноты.</p>
+<p dir="ltr">Из таких разновидностей наиболее известны:</p>
 
-<p dir="ltr">Главное, чтобы в&nbsp;кофе не&nbsp;было ярко выраженной горечи. Кофе должен быть сладким и&nbsp;кислотным.</p>
+<p dir="ltr"><strong>Катимор</strong> &mdash; гибрид катурры и гибридо-де-тимор. Выведен в Бразилии, даёт хороший урожай и устойчив к болезням. Но из-за присутствия робусты в селекции гибридо-де-тимор не отличается интересным вкусом. При хорошей обработке в аромате чувствуются травы и фрукты.</p>
+
+<p dir="ltr"><strong>Маракату</strong> &mdash; гибрид марагоджипа и катурры. Растёт на возвышенностях в Центральной Америке. Вкус: среднее тело с яркой, сложной кислотностью и спелыми фруктовыми оттенками.</p>
+
+<p dir="ltr">Кроме всего прочего, у каждой разновидности бывают различия между собой же. Например, бывает красная и жёлтая типика и такой же бурбон. Главное их различие &mdash; цвет ягод. А единого мнения о разнице во вкусе этих и подобных разновидностей нет.</p>
+
+<h4 dir="ltr"><strong>Какая разновидность самая лучшая</strong></h4>
+
+<p dir="ltr">Ответа на этот вопрос просто не может быть. При том что у всей арабики примерно одинаковое содержание кофеина, не бывает более или менее &laquo;бодрящей&raquo; разновидности. Главное различие между сортами для тех, кто пьёт кофе, а не выращивает &mdash; вкус.</p>
+
+<p dir="ltr">А если учесть, что генетика далеко <a href="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"target="_blank">не единственный фактор, который влияет на вкус</a>, то и выбрать лучшую разновидность невозможно. Каждый человек сам для себя отвечает на этот вопрос.</p>
                                 </div>
                                                                                                                                                     <div class="article-banner-another">
-                                            <a href="https://shop.tastycoffee.ru/blog/direct-trade-vzglyad-ekspertov">
+                                            <a href="https://shop.tastycoffee.ru/blog/draj-mill-etap-kotoryj-podgotavlivaet-partiyu-zerna-k-eksportu">
                                                 <div class="article-banner-another-inner-block">
                                                     <div class="article-banner-another-cover"
-                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/direct-trade-vzglyad-ekspertov/image4.jpg)"
+                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/draj-mill-etap-kotoryj-podgotavlivaet-partiyu-zerna-k-eksportu/image1.jpg)"
                                                     ></div>
                                                     <div class="blk">
                                                         <p class="article-banner-another-top">
                                                             Вам может быть интересно:
                                                         </p>
                                                         <p class="article-banner-another-header">
-                                                            Дайрект трейд — взгляд на прямую торговлю глазами экспертов
+                                                            Драй-милл — этап, который подготавливает партию зерна к экспорту
                                                         </p>
                                                         <p class="article-banner-another-date">
-                                                            01 апр 2021
+                                                            17 мая 2021
                                                             ·
-                                                            9 мин. на чтение
+                                                            5 мин. на чтение
                                                         </p>
                                                     </div>
-                                                    <a class="interestingFavorite blog-link-favorite-319 "
-                                                       onclick="setBlogFavorite(this, 319); return false;"
+                                                    <a class="interestingFavorite blog-link-favorite-331 "
+                                                       onclick="setBlogFavorite(this, 331); return false;"
                                                     >
                                                         <img class="fav-inner-theme"
                                                              src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -894,13 +996,13 @@
                                                                                                     <div class="article-info ">
                                     <div class="row" style="display: flex; padding: 0px;">
                                         <div class="col-lg-3" style="padding-left: 0px;">
-                                            <a class="blog-link-like-20  article-info-inner like-finger"
-                                               onclick="setBlogLike(this, 20); return false;"
+                                            <a class="blog-link-like-10  article-info-inner like-finger"
+                                               onclick="setBlogLike(this, 10); return false;"
                                                href="#">
                                                 <img src="/assets/site/img/journal/like-active.svg" alt=""
                                                      class="blog-icon-active">
                                                 <img src="/assets/site/img/journal/like-finger.svg" alt="">
-                                                <span class="count-like-20">62</span>
+                                                <span class="count-like-10">50</span>
                                             </a>
                                         </div>
                                         <div class="col-lg-9" style="padding-right: 0px;">
@@ -908,10 +1010,10 @@
                                                 <p class="article-info-inner views-info">
                                                     <img src="/assets/site/img/journal/eye-article.svg"
                                                          alt="">
-                                                    95511 просмотров
+                                                    66767 просмотров
                                                 </p>
-                                                <a class="blog-link-favorite-20  article-info-inner article-fav-bottom"
-                                                   onclick="setBlogFavorite(this, 20); return false;"
+                                                <a class="blog-link-favorite-10  article-info-inner article-fav-bottom"
+                                                   onclick="setBlogFavorite(this, 10); return false;"
                                                    href="#">
                                                     <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                                                     <img src="/assets/site/img/journal/fav-active.svg" alt=""
@@ -921,7 +1023,7 @@
                                                                                                     <a class="article-info-inner article-comm-bottom clickBlogComments countComment"
                                                        href="#reviews">
                                                         <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                                        33 комментария
+                                                        9 комментариев
                                                     </a>
                                                                                                 <div class="social">
                                                     <div class="ya-share2" data-services="vkontakte,telegram"
@@ -936,12 +1038,8 @@
                                             <div class="col-lg-8" style="padding-left: 0px;">
                                                 <p>Теги :</p>
                                                                                                                                                             <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=4">
-                                                            Классификация
-                                                        </a>
-                                                                                                                                                                                                                <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=7">
-                                                            Индустрия
+                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=3">
+                                                            Разновидности
                                                         </a>
                                                                                                                                                 </div>
                                         </div>
@@ -966,44 +1064,44 @@
                                                                                                                                 <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/industria-kofe-v-meksike/image6.jpeg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/pervaya_poezdka_v_keniyu/image3.png)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/industria-kofe-v-meksike" class="absLink"></a>
-            <a class="fav blog-link-favorite-457 "
-               onclick="setBlogFavorite(this, 457); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu" class="absLink"></a>
+            <a class="fav blog-link-favorite-526 "
+               onclick="setBlogFavorite(this, 526); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/industria-kofe-v-meksike">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    9.5K
+                    120
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/industria-kofe-v-meksike#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">29
+                   href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">3
                 </a>
             </div>
         </div>
     </div>
     <div class="main-article">
                             <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/industriya-kofe">
-                Индустрия
+               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
+                Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/industria-kofe-v-meksike">
+                <a href="https://shop.tastycoffee.ru/blog/pervaya_poezdka_v_keniyu">
             <p class="main-article-header">
-                Индустрия кофе в Мексике
+                Наша первая поездка в Кению: впечатления и результаты
             </p>
             <div class="main-article-subheader">
-                Рассказываем про индустрию кофе в стране, где его выращивают в основном мелкие фермеры.
+                Спойлер: в этом сезоне кенийского кофе у нас станет больше
             </div>
 
         </a>
         <p class="main-article-descr">
-            01 авг 2022 · 11 мин. на чтение
+            23 мар 2023 · 9 мин. на чтение
         </p>
     </div>
 </div>
@@ -1011,44 +1109,44 @@
                                                                                                                                 <div class="col-lg"
                                                   style="margin-left: 20px; margin-right: 20px;" >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/chem-fermentatsia-kofe-otlichaetsya-ot-fermentatsii-drugih-productov/image2.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/nasha_poezdka_v_braziliyu_i_kolumbiyu_v_2022_godu/image1.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/chem-fermentatsia-kofe-otlichaetsya-ot-fermentatsii-drugih-productov" class="absLink"></a>
-            <a class="fav blog-link-favorite-373 "
-               onclick="setBlogFavorite(this, 373); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/nasha_poezdka_v_braziliyu_i_kolumbiyu_v_2022_godu" class="absLink"></a>
+            <a class="fav blog-link-favorite-501 "
+               onclick="setBlogFavorite(this, 501); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/chem-fermentatsia-kofe-otlichaetsya-ot-fermentatsii-drugih-productov">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/nasha_poezdka_v_braziliyu_i_kolumbiyu_v_2022_godu">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    19.8K
+                    3.8K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/chem-fermentatsia-kofe-otlichaetsya-ot-fermentatsii-drugih-productov#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">28
+                   href="https://shop.tastycoffee.ru/blog/nasha_poezdka_v_braziliyu_i_kolumbiyu_v_2022_godu#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">35
                 </a>
             </div>
         </div>
     </div>
     <div class="main-article">
                             <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/industriya-kofe">
-                Индустрия
+               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
+                Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/chem-fermentatsia-kofe-otlichaetsya-ot-fermentatsii-drugih-productov">
+                <a href="https://shop.tastycoffee.ru/blog/nasha_poezdka_v_braziliyu_i_kolumbiyu_v_2022_godu">
             <p class="main-article-header">
-                Чем ферментация кофе отличается от ферментации других продуктов
+                Наша поездка в Бразилию и Колумбию в 2022 году
             </p>
             <div class="main-article-subheader">
-                Ферментация применяется не только в производстве кофе, но и в производстве вина, чая, кефира, пива и других продуктов
+                Мы посетили несколько производителей в этих странах, побывали на множестве каппингов и выбрали новые образцы кофе
             </div>
 
         </a>
         <p class="main-article-descr">
-            11 окт 2021 · 8 мин. на чтение
+            02 янв 2023 · 10 мин. на чтение
         </p>
     </div>
 </div>
@@ -1056,44 +1154,44 @@
                                                                                                                                 <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kofe-pod-microscopom/image5.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kooperativ_%D1%81ocatrel/image3.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/kofe-pod-microscopom" class="absLink"></a>
-            <a class="fav blog-link-favorite-301 "
-               onclick="setBlogFavorite(this, 301); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/kooperativ_%D1%81ocatrel" class="absLink"></a>
+            <a class="fav blog-link-favorite-505 "
+               onclick="setBlogFavorite(this, 505); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kofe-pod-microscopom">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kooperativ_%D1%81ocatrel">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    46.9K
+                    3.1K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/kofe-pod-microscopom#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">19
+                   href="https://shop.tastycoffee.ru/blog/kooperativ_%D1%81ocatrel#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">45
                 </a>
             </div>
         </div>
     </div>
     <div class="main-article">
                             <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/industriya-kofe">
-                Индустрия
+               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
+                Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/kofe-pod-microscopom">
+                <a href="https://shop.tastycoffee.ru/blog/kooperativ_%D1%81ocatrel">
             <p class="main-article-header">
-                Кофе под микроскопом: химия зерна и воздействие на организм
+                Бразильский кооператив Cocatrel: что за объединение и чем оно занимается
             </p>
             <div class="main-article-subheader">
-                Дело не только в кофеине
+                Чем занимается один из крупнейших кофейных кооперативов в Бразилии
             </div>
 
         </a>
         <p class="main-article-descr">
-            28 янв 2021 · 11 мин. на чтение
+            12 янв 2023 · 11 мин. на чтение
         </p>
     </div>
 </div>
@@ -1114,15 +1212,14 @@
 </div>
                                                                     </div>
                                 <div class="post-list for_paginate">
-                                    <div class="item social_post_item" id="blog_review_9506">
+                                    <div class="item social_post_item" id="blog_review_9242">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/36b576dd-b260-412e-87ba-3f3b7166b0e8">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_72935_1668848902.png">
+                            <a href="https://shop.tastycoffee.ru/profile/61464bb2-1f5f-482f-b58a-e0ad0ef3d136">
+                                            <div class="post-list__header--img">И</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/36b576dd-b260-412e-87ba-3f3b7166b0e8">Jul (г. Фрязино)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/61464bb2-1f5f-482f-b58a-e0ad0ef3d136">Ирина (г. Норильск)</a>
                     </p>
                     <p class="level">Любитель</p>
                 </div>
@@ -1132,7 +1229,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9506); return false;"
+                                   onclick="blogReviewAddReport(this, 9242); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1144,15 +1241,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Интуитивно стала выбирать кофе с блльшей высотой произрастания) Теперь понятно почему) Очень интересная статья. Спасибо!
+                Познавательно и интересно)
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9506, this); return false;"
+                <a href="#" onclick="blogCommentLike(9242, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(9506, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9242, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1163,7 +1260,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=9506">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=9242">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1171,7 +1268,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=9506&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=9242&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1179,7 +1276,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=9506&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=9242&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1195,196 +1292,21 @@
 
 
 
-                <p class="time">4 дня назад</p>
+                <p class="time">09.03.2023</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_8777">
+    <div class="item social_post_item" id="blog_review_8940">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/e0c93507-92a8-4b12-95d4-1de5aa347aa7">
-                                            <div class="post-list__header--img">Е</div>
+                            <a href="https://shop.tastycoffee.ru/profile/6430d273-0ce5-4003-a015-4b2b42afd591">
+                                            <div class="post-list__header--img">Т</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/e0c93507-92a8-4b12-95d4-1de5aa347aa7">Елена (г. Обнинск)</a>
-                    </p>
-                    <p class="level">Любитель</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8777); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                пока что трудно уловить эти нотки кислотности в кофе, но буду стараться)
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8777, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(8777, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8777">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8777&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8777&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">13.02.2023</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_8298">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/3abdca25-b674-4d2d-a3ce-4b616d154746">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_180408_1674868792.png">
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/3abdca25-b674-4d2d-a3ce-4b616d154746">Евгений (г. Владимир)</a>
-                    </p>
-                    <p class="level">Любитель</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8298); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Спасибо за информацию! Её стоит почитать тем, кто говорит, что кофе с кислотностью,это некачественно 😀
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8298, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">2</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(8298, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8298">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8298&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8298&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">28.01.2023</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_8177">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/b13a025d-6e5b-4bde-9866-942080ff55eb">
-                                            <div class="post-list__header--img">Е</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/b13a025d-6e5b-4bde-9866-942080ff55eb">Елена (г. Севастополь)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/6430d273-0ce5-4003-a015-4b2b42afd591">Татьяна (г. Переславль-Залесский)</a>
                     </p>
                     <p class="level">Новичок</p>
                 </div>
@@ -1394,7 +1316,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8177); return false;"
+                                   onclick="blogReviewAddReport(this, 8940); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1406,15 +1328,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                очень полезная статья. не думала, что кислотность настолько многогранна и бывает разных видов
+                Интересно! Тут и географию вспомнить можно))
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8177, this); return false;"
+                <a href="#" onclick="blogCommentLike(8940, this); return false;"
                    class="btn-like-up "
                 >
-                    <span class="ic">ic</span> <span class="value">2</span>
+                    <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(8177, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(8940, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1425,7 +1347,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8177">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=8940">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1433,7 +1355,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8177&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=8940&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1441,7 +1363,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=8177&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=8940&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1457,23 +1379,24 @@
 
 
 
-                <p class="time">23.01.2023</p>
+                <p class="time">20.02.2023</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_7735">
+    <div class="item social_post_item" id="blog_review_8166">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/be713b42-e31c-4b48-96ca-2f890829e0bf">
-                                            <div class="post-list__header--img">В</div>
+                            <a href="https://shop.tastycoffee.ru/profile/8b680267-4565-4d81-913d-c2e04c69c33e">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_194228_1673432402.png">
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/be713b42-e31c-4b48-96ca-2f890829e0bf">Владислав (г. Томск)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/8b680267-4565-4d81-913d-c2e04c69c33e">Мирослав (г. Майкоп)</a>
                     </p>
-                    <p class="level">Любитель</p>
+                    <p class="level">Новичок</p>
                 </div>
                         <div class="post-list__header--right">
                 <div class="post-actions">
@@ -1481,7 +1404,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 7735); return false;"
+                                   onclick="blogReviewAddReport(this, 8166); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1493,15 +1416,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Выраженная кислотность в кофе-это моё
+                Круто!
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(7735, this); return false;"
+                <a href="#" onclick="blogCommentLike(8166, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(7735, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(8166, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1512,7 +1435,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=7735">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=8166">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1520,7 +1443,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=7735&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=8166&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1528,7 +1451,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kislotnost-v-kofe?comment=7735&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=8166&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1544,7 +1467,181 @@
 
 
 
-                <p class="time">03.01.2023</p>
+                <p class="time">22.01.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_7904">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/e2590673-8eae-465a-94c4-9b38f39d6fe6">
+                                            <div class="post-list__header--img">К</div>
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/e2590673-8eae-465a-94c4-9b38f39d6fe6">Кирилл (г. Тюмень)</a>
+                    </p>
+                    <p class="level">Продвинутый</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 7904); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Многое узнал для себя. Буду пробовать разный кофе
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(7904, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(7904, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=7904">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=7904&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=7904&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">12.01.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_7822">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/a032497c-aaec-47ff-9534-9243718e2e0d">
+                                            <div class="post-list__header--img">И</div>
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/a032497c-aaec-47ff-9534-9243718e2e0d">Ишков (г. Старый Оскол)</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 7822); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Крутая статья!
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(7822, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(7822, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=7822">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=7822&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/raznovidnosty-kofe?comment=7822&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">08.01.2023</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
@@ -1554,17 +1651,13 @@
     <hr>
     <div class="pagination-block">
         <div class="pagination-wrap">
-                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/20?page=2','more');return false;">
+                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/10?page=2','more');return false;">
                 <span class="load-ic ic"></span>
                 Загрузить больше
             </a>
                 <ul class="pagination">
                                                                                                                     <li class="active" ><span>1</span></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/20?page=2', '', true);return false;">2</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/20?page=3', '', true);return false;">3</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/20?page=4', '', true);return false;">4</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/20?page=5', '', true);return false;">5</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/20?page=6', '', true);return false;">6</a></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/10?page=2', '', true);return false;">2</a></li>
                                                                                 </ul>
     </div>
 

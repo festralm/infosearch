@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj">
+    <meta name="csrf-token" content="0eMQuEYQv3NXvcyBwwf2bBl38GO4abK0OuF3pQF4">
     <title>Шоколад Tasty Coffee</title>
     <meta name="description" content="шоколад с каскарой, какао, горячий шоколад, шоколад , молочный горячий шоколад, горький шоколад">
     <meta name="keywords" content="шоколад с каскарой, какао, горячий шоколад, шоколад , молочный горячий шоколад, горький шоколад">
@@ -538,7 +538,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="0eMQuEYQv3NXvcyBwwf2bBl38GO4abK0OuF3pQF4">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -596,7 +596,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj"
+                     data-_token="0eMQuEYQv3NXvcyBwwf2bBl38GO4abK0OuF3pQF4"
                 >
                 </div>
                             </div>
@@ -611,7 +611,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj">        </form>
+            <input type="hidden" name="_token" value="0eMQuEYQv3NXvcyBwwf2bBl38GO4abK0OuF3pQF4">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             

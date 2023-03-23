@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="MDJriHiDZGcSKyLIGXZKWAvSzEdA4nKiSytZG407">
-    <title>Руководство по приготовлению кофе в иммерсионной воронке</title>
-    <meta name="description" content="Иммерсионная воронка — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иммерсионные воронки бывают разных форм, брендов и размеров, но наиболее популярной в России является керамическая воронка Bonavita, на ее примере мы и рассмотрим рецепт приготовления кофе.">
-    <meta name="keywords" content="бонавита, клевер, приготовление кофе, альтернатива, спешелти кофе, арабика, bonavita">
+    <meta name="csrf-token" content="kLQFDJUGsUdxEmF29nbKCsZPwWGim4VkzNcRU7Q1">
+    <title>Как климат плантации влияет на вкус кофе</title>
+    <meta name="description" content="Малейшие различия в выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. Скоро мы поговорим о каждом этапе жизни кофейной ягоды. Но начнём по порядку: в этой статье о влиянии климата и места произрастания на ягоду.">
+    <meta name="keywords" content="кофе, терруар, плантация, осадки, почва, высота, температура">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/guide-bonavita"/>
-    <meta property="og:title" content="Руководство по приготовлению кофе в иммерсионной воронке"/>
-    <meta property="og:description" content="Иммерсионная воронка — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иммерсионные воронки бывают разных форм, брендов и размеров, но наиболее популярной в России является керамическая воронка Bonavita, на ее примере мы и рассмотрим рецепт приготовления кофе."/>
-    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-bonavita/DSCF0006_1.jpg"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"/>
+    <meta property="og:title" content="Как климат плантации влияет на вкус кофе"/>
+    <meta property="og:description" content="Малейшие различия в выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. Скоро мы поговорим о каждом этапе жизни кофейной ягоды. Но начнём по порядку: в этой статье о влиянии климата и места произрастания на ягоду."/>
+    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/terroir/plantation.jpg"/>
     <meta property="og:type" content="article"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/guide-bonavita"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="MDJriHiDZGcSKyLIGXZKWAvSzEdA4nKiSytZG407">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="kLQFDJUGsUdxEmF29nbKCsZPwWGim4VkzNcRU7Q1">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="MDJriHiDZGcSKyLIGXZKWAvSzEdA4nKiSytZG407"
+                     data-_token="kLQFDJUGsUdxEmF29nbKCsZPwWGim4VkzNcRU7Q1"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="MDJriHiDZGcSKyLIGXZKWAvSzEdA4nKiSytZG407">        </form>
+            <input type="hidden" name="_token" value="kLQFDJUGsUdxEmF29nbKCsZPwWGim4VkzNcRU7Q1">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -727,10 +727,10 @@
                             <meta itemprop="position" content="2"/>
                         </li>
                                                                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="https://shop.tastycoffee.ru/blog/guide-bonavita"
+                                <a href="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"
                                    itemtype="http://schema.org/Thing"
                                    itemprop="item">
-                                    <span itemprop="name">Руководство по приготовлению кофе в иммерсионной воронке</span>
+                                    <span itemprop="name">Как климат плантации влияет на вкус кофе</span>
                                 </a>
                                 <meta itemprop="position" content="3"/>
                             </li>
@@ -743,25 +743,25 @@
 
                                     <a href="https://shop.tastycoffee.ru/blog" class="greyLink indent desNone">Ко всем статьям</a>
                 
-                <h1 class="indent article-header">Руководство по приготовлению кофе в иммерсионной воронке</h1>
+                <h1 class="indent article-header">Как климат плантации влияет на вкус кофе</h1>
                                     <div class="article-leadtext">
-                        <p>Иммерсионная воронка — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иммерсионные воронки бывают разных форм, брендов и размеров, но наиболее популярной в России является керамическая воронка Bonavita, на ее примере мы и рассмотрим рецепт приготовления кофе.</p>
+                        <p>Кофе &mdash; один из самых богатых напитков в мире по вкусовым качествам. Малейшие различия в терруаре, выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. В этой статье рассказываем о влиянии климата и места произрастания на ягоду</p>
                     </div>
                             </div>
             <div class="article-info" style="border-bottom: 0px;">
                                     <p class="article-info-inner time">
                         <img src="/assets/site/img/journal/clock.svg" alt="">
-                        4 мин. на чтение
+                        7 мин. на чтение
                     </p>
                     <p class="article-info-inner views-info">
                         <img src="/assets/site/img/journal/eye-article.svg" alt="">
-                        75933 просмотра
+                        65601 просмотр
                     </p>
                                 <div class="article-info-right">
                     <p class="article-info-inner article-fav">
                         <a href="#"
-                           class="blog-link-favorite-61 "
-                           onclick="setBlogFavorite(this, 61); return false;">
+                           class="blog-link-favorite-7 "
+                           onclick="setBlogFavorite(this, 7); return false;">
                             <img src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
                             <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                             В закладки
@@ -770,7 +770,7 @@
                                             <p class="article-info-inner article-comm">
                             <a href="#reviews" class="clickBlogComments countComment">
                                 <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                27 комментариев
+                                7 комментариев
                             </a>
                         </p>
                                     </div>
@@ -779,12 +779,12 @@
         <div class="row">
             <div class="col-v10" style="padding-right: 0px;">
                 <div class="article-content">
-                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-bonavita/DSCF0006_1.jpg)"></div>
+                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/terroir/plantation.jpg)"></div>
                     <div class="row" style="display: flex; padding: 0px;">
                         <div class="col-lg-1" style="padding-left: 0px;">
                             <div class="soc-block">
-                                <a class="blog-link-like-61  article-like socials "
-                                   onclick="setBlogLike(this, 61); return false;"
+                                <a class="blog-link-like-7  article-like socials "
+                                   onclick="setBlogLike(this, 7); return false;"
                                 >
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-active.svg"
                                          alt=""
@@ -792,8 +792,8 @@
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-finger.svg"
                                          alt="">
                                 </a>
-                                <a class="blog-link-favorite-61  article-like socials"
-                                   onclick="setBlogFavorite(this, 61); return false;"
+                                <a class="blog-link-favorite-7  article-like socials"
+                                   onclick="setBlogFavorite(this, 7); return false;"
                                 >
                                     <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
                                          src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -809,89 +809,135 @@
                             <div class="article-text">
 
                                 <div class="article-text-content" id="article-for-load">
-                                    <p dir="ltr">Иммерсионная воронка — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иммерсионные воронки бывают разных форм, брендов и размеров, но наиболее популярной в России является керамическая воронка Bonavita, на её примере мы и рассмотрим рецепт приготовления кофе.</p>
+                                    <p dir="ltr">Кофе &mdash; один из самых богатых напитков в мире по вкусовым качествам. Малейшие различия в выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. Скоро мы поговорим о каждом этапе жизни кофейной ягоды. Но начнём по порядку: в этой статье о влиянии климата и места произрастания на ягоду.</p>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image2.jpg" /></p>
+<p dir="ltr">На профессиональном языке условия, в которых растёт кофе, называют терруаром. В это понятие входит:</p>
 
-<p dir="ltr">Она отличается от классического пуровера тем, что на дне есть закрывающийся клапан, который останавливает пролив на нужное время. При этом с открытым клапаном в иммерсионной воронке можно приготовить и пуровер.</p>
+<ol>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">количество осадков;</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">качество почвы;</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">температура;</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">количество солнечного света;</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">высота, на которой находится плантация.</span></p>
+	</li>
+</ol>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image4.jpg" /></p>
+<p dir="ltr">Рассмотрим, как всё это влияет на кофе.</p>
 
-<p dir="ltr">Если сравнивать, то иммерсионная воронка из-за времени заваривания больше похожа на френч-пресс, но за счёт использования бумажного фильтра кофе получается прозрачным и более чистым.</p>
+<h4 dir="ltr"><strong>Количество осадков</strong></h4>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image5.jpg" /></p>
+<p dir="ltr">Кофе &mdash; очень чувствителен к количеству осадков. Если их мало: меньше 80 см в год, почва высыхает и разрушается, урожай кофе получается низким, а зёрна вырастают мелкими. Если осадков много: больше 300 см в год, вода вымывает ценные питательные вещества, а корни кофейного дерева гниют.</p>
 
-<p dir="ltr">Кроме большей плотности напитка, иммерсионная воронка обладает ещё одним преимуществом по сравнению с классическим пуровером: в ней проще заваривать кофе, если вы начинающий, потому что экстракция меньше зависит от скорости и способа вливания воды. Кроме того, если пуровер готовят с помощью специального чайника с тонким носиком, то иммерсионную воронку можно приготовить с помощью обычного чайника или питчера.</p>
+<p dir="ltr">Идеальный уровень &mdash; 150&ndash;250 см. При этом дожди равномерно идут в течение года, а в конце сезона, когда собирают урожай, устанавливается засушливый сезон на 1&ndash;2 месяца. Частые осадки вызывают цветение, но после него нужно затишье, чтобы дожди не повредили бутоны и ягода созрела здоровой.</p>
 
-<p dir="ltr">Перед приготовлением кофе рекомендуем узнать <a href="https://shop.tastycoffee.ru/blog/obshie-recomendacii-po-prigotovleniu">об основных факторах, которые влияют на вкус кофе вне зависимости от способа приготовления.</a></p>
+<p dir="ltr">Но влияние осадков сильно зависит от почвы, равномерности дождей и количества солнца. Низкое количество осадков всегда вредно, потому что дереву нечем питаться, но высокое &mdash; может быть как вредным, так и полезным в зависимости от места.</p>
 
-<h4 dir="ltr"><strong>Степень помола</strong></h4>
+<h4 dir="ltr"><strong>Почва</strong></h4>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image1.jpg" /></p>
+<p dir="ltr">Из почвы кофе берёт воду и важные питательные вещества, такие как азот, фосфор, калий, кальций и магний. От того, насколько почва плодородна, будет зависеть вкус кофе.</p>
 
-<p dir="ltr">Помол для иммерсионной воронки — средний, как для пуровера. Мы рекомендуем экспериментировать с размером помола, чтобы добиться идеального вкуса.</p>
+<p dir="ltr">Выше мы уже говорили, что кофейному дереву вредна засуха или чрезмерное количество воды. Поэтому почва не должна быть сухой или болотистой. Чтобы после дождей лишняя вода уходила, а во время засухи задерживалась, у почвы должен быть хороший дренаж.</p>
 
-<h4 dir="ltr"><strong>Дозировка кофе</strong></h4>
+<p dir="ltr">Если вода задерживается, в корнях появляется плесень и грибок и ягода вырастает с дефектами. Если почва пересыхает, дерево остаётся без питания и ягоды не получают питания. Почва должна быть умеренно влажной, особенно в засушливый сезон.</p>
 
-<p dir="ltr">Соотношение веса кофе к весу готового напитка всегда остаётся одним — 60 грамм зерна на 1 литр воды. Чтобы определить дозировку для каждого конкретного случая, нужно просто рассчитать пропорции. Например, чтобы приготовить стандартную чашку кофе в 250 мл, вам понадобится 15 грамм кофе.</p>
+<p><img alt="soil" src="https://shop.tastycoffee.ru/files/shares/data/blog/terroir/soil.jpg" /><br />
+<small>Почва должна содержать глину. Благодаря этому лишняя вода уходит, но почва не осушается</small></p>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image55.jpg" /></p>
+<div>
+<p dir="ltr">Помимо воды, дереву нужны другие питательные вещества. Почва на плантации должна быть плодородной, то есть в ней должно быть необходимое количество органических веществ и минералов, достаточно кислорода и хороший растительный покров.Тогда кофейное дерево будет здоровым, а урожай обильным и качественным.</p>
 
-<p dir="ltr">Мы не рекомендуем отмерять кофе на глаз, потому что малейшие отклонения в пропорциях значительно влияют на результат. Чтобы результат был стабильным, лучше всего перед каждым приготовлением взвешивать его на весах с шагом 0,1 г.</p>
+<p dir="ltr">Считается, что лучшая почва &mdash; это суглинок, который состоит из 40% песка, 40% ила и 20% глины. Такая почва хорошо выдерживает засуху, не отдаёт всю влагу и &laquo;дышит&raquo;. В результате у дерева всегда есть питание и нет болезней.</p>
 
-<h4 dir="ltr"><strong>Температура воды</strong></h4>
+<h4 dir="ltr"><strong>Температура</strong></h4>
 
-<p dir="ltr">Оптимальная температура для приготовления кофе натуральной обработки — 93°С, мытой — 95°С. Чтобы добиться такой температуры, нужно довести воду до кипения, а затем остудить в течение минуты, использовать хороший градусник для воды или чайник с датчиком температуры.</p>
+<p dir="ltr">Если кратко, дневная температура должна быть высокой, а ночная низкой. И вот почему.</p>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image88.jpg" /></p>
+<p dir="ltr">Эксперименты показали, что большой разрыв между этими температурами полезен для вкуса ягоды: кофе созревает медленнее, впитывает больше питательных соединений, получает больше сладости, полноты тела, кислотности и сложности вкуса.</p>
 
-<p dir="ltr">Температура воды значительно влияет на вкус, а выбор температуры зависит ещё и от конкретного сорта кофе. Какие-то универсальные рекомендации дать не получится, поэтому мы рекомендуем экспериментировать: разница в один градус может придать кофе яркость, сладость, баланс, а может оставить неприятное послевкусие.</p>
+<p><img alt="Кофейный пояс" src="https://shop.tastycoffee.ru/files/shares/data/blog/terroir/coffeebelt.jpg" /><br />
+<small>Кофейный пояс &mdash; это зона, в которой возможно выращивать вкусный кофе, потому что суточная температура высокая, а по ночам нет заморозков</small></p>
 
-<h4 dir="ltr"><strong>Распределение кофе в бумажном фильтре</strong></h4>
+<div>
+<p dir="ltr">Однако, ночная температура не должна опускаться ниже 0 &deg;С, а дневная быть выше 30 &deg;C. На морозе кофе погибает за несколько минут, на сильной жаре &mdash; за несколько часов. Идеально, когда перепад температуры составляет 15&ndash;30 &deg;С и не выходит за эти пределы.</p>
 
-<p dir="ltr">Ещё до того, как засыпать молотый кофе в бумажный фильтр, мы рекомендуем закрыть клапан и залить в воронку 2/3 горячей воды от всего объёма воронки. Через несколько секунд воду нужно слить — это поможет удалить возможный привкус бумаги.</p>
+<p dir="ltr">Температура зависит от климатического пояса, поэтому кофе растёт только рядом с экватором, облачности, то есть количества света и высоты. Сперва поясним про количество света.</p>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image77.jpg" /></p>
+<h4 dir="ltr"><strong>Количество света</strong></h4>
 
-<p dir="ltr">После этого снова закройте клапан, засыпьте кофе в фильтр и слегка встряхните воронку, чтобы равномерно распределить кофе.</p>
+<p dir="ltr">Кофе любит тень и не любит прямые солнечные лучи. Большое количество света ускоряет созревание ягод и помогает получить высокий урожай, но вкус такого кофе не бывает интересным и сложным. В тени кофе зреет медленнее, и как мы уже говорили, впитывает больше питательных веществ и набирает больше фруктовых и цветочных нот.</p>
 
-<h4 dir="ltr"><strong>Приготовление</strong></h4>
+<p dir="ltr">Количество света зависит от облачности. Чем она больше, тем больше тени и тем лучше это для кофе. Хорошо, когда на плантации регулярно идут дожди в вечернее время. Во-первых, дождевые облака закрывают солнце, а во-вторых, во время дождя температура воздуха немного опускается и это, как мы знаем, тоже полезно для кофе.</p>
 
-<p dir="ltr">Сначала нужно поставить воронку на весы и обнулить их, затем запустить таймер, аккуратно влить в воронку всю воду за 30 секунд и закрыть крышкой.</p>
+<p dir="ltr">Кроме облачности, важно расположение склона относительно частей света. Плантации на западной стороне освещает жаркое послеобеденное солнце. Плантации на восточной стороне освещает рассвет &mdash; мягкий, но яркий. Поэтому лучше выбирать кофе с плантаций, которые &laquo;смотрят&raquo; на Восток.</p>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image44.jpg" /></p>
+<p dir="ltr">Остался последний и самый важный фактор, который влияет на вкус кофе &mdash; высота.</p>
 
-<p dir="ltr">Спустя две минуты, нужно открыть клапан, чтобы вода начала проходить через фильтр в чашку. Этот этап займёт ещё примерно 2,5 минуты. Когда время выйдет, нужно закрыть клапан, чтобы завершить экстракцию.</p>
+<div>
+<h4 dir="ltr"><strong>Высота</strong></h4>
 
-<p dir="ltr">Общее время заваривания должно составить примерно 4,5 минуты — это время будет меняться, если вы готовите больше или меньше кофе.</p>
+<p dir="ltr">Почти всегда работает правило: чем выше плантация, тем качественнее кофе. Это связано с тем, что на высоте климат более прохладный, а перепады температур выше: днём интенсивный свет, ночью прохладный воздух. В таких условиях ягода дольше созревает и успевает впитать сложные сахара. В результате кофе приобретает глубокий и интересный вкус.</p>
 
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-bonavita/image33.jpg" /></p>
+<p dir="ltr">На возвышенностях почва каменистая и глинистая. У неё хороший дренаж, поэтому плантации на высоте редко бывают болотистыми или засушливыми. Кофейные деревья не голодают и не болеют.</p>
 
-<p dir="ltr">Кроме того, момент открытия/закрытия клапана можно менять в зависимости от результата. Общий принцип такой: если кофе получается водянистым, нужно либо увеличить время заваривания, либо уменьшить помол, если кофе переэкстрагируется и горчит — сократить время заваривания или увеличить помол.</p>
+<p dir="ltr">Арабика растёт на высоте 900&ndash;1800 метров. Но это условное значение, потому что в Африке, например, кофе иногда растёт на высоте около 2000 метров, а на Гавайях &mdash; из-за слишком холодного микроклимата, кофе выращивают на высоте 600 метров. Выше уже слишком холодно.</p>
 
-<p dir="ltr">В конце нужно снять воронку с чашки, выкинуть использованный фильтр с кофе, взболтать напиток для насыщения кислородом и наслаждаться вкусом!</p>
+<p><img alt="height for coffee cultivation" src="https://shop.tastycoffee.ru/files/shares/data/blog/terroir/high.jpg" /><br />
+<small>Один из самых высокогорных кофе растёт в Йемене на высотах от 2000 до 2500 метров</small></p>
+
+<div>
+<p dir="ltr">Робуста не такая прихотливая, как арабика. Она хорошо растёт на небольшой высоте и в не самых идеальных условиях. Но вкус у неё менее интересный &mdash; более землистый, без кислотности&nbsp;и с яркой горечью. Но это не значит, что робуста плохая, у неё тоже есть свои приверженцы. Прочитайте&nbsp;<a href="https://shop.tastycoffee.ru/blog/raznitsa-mezhdu-arabikoi-i-robustoi" target="_blank">подробнее о разнице между арабикой и робустой</a>.</p>
+
+<h4 dir="ltr"><strong>Обобщим</strong></h4>
+
+<p dir="ltr">Чтобы выращивать арабику, подойдут два варианта климата:</p>
+
+<ol>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">Субтропические регионы в 16-24&deg; от экватора. Дождливый и сухой сезоны должны быть чётко определены, а высота плантации 600-1200 метров. В таком климате растёт кофе из Мексики, Ямайки, Зимбабве и 80% кофе из Бразилии.</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="color:#000000;">Экваториальные области в широтах до 10&deg; от Экватора и на высоте 1100&ndash;1900 метров. В таких условиях растёт самый высококачественный кофе, которому присваивают класс спешелти. А из-за частых осадков, которые вызывают почти непрерывное цветение, в Кении и Колумбии урожай собирают два раза в год.</span></p>
+	</li>
+</ol>
+
+<p dir="ltr">Плантации робусты растут на широте 10&deg; к Югу и Северу от экватора на высоте 0&ndash;600 метров над уровнем моря. Этот кофе простой и неприхотливый к климатическим условиям.</p>
+
+<p dir="ltr">Не только терруар влияет на вкус кофе. Вместе с ним влияет разновидность зерна, способ и качество обработки, способ хранения и транспортировки, степень обжарки, <a href="https://shop.tastycoffee.ru/blog/kak-vibrat-vodu-dlya-kofe" target="_blank">качество воды</a> и способ приготовления. Это целый мир, про который снимают фильмы и пишут книги. И мы тоже напишем.</p>
+</div>
+</div>
+</div>
+</div>
                                 </div>
                                                                                                                                                     <div class="article-banner-another">
-                                            <a href="https://shop.tastycoffee.ru/blog/dvizhenia-i-postanovka-ruk-v-latte-art">
+                                            <a href="https://shop.tastycoffee.ru/blog/zachem-iskustvenno-dobavlyaut-mikroorganizmi">
                                                 <div class="article-banner-another-inner-block">
                                                     <div class="article-banner-another-cover"
-                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/dvizhenia-i-postanovka-ruk-v-latte-art/image2.jpg)"
+                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/zachem-iskustvenno-dobavlyaut-mikroorganizmi/image3.jpg)"
                                                     ></div>
                                                     <div class="blk">
                                                         <p class="article-banner-another-top">
                                                             Вам может быть интересно:
                                                         </p>
                                                         <p class="article-banner-another-header">
-                                                            Как движения и постановка рук бариста влияют на латте-арт
+                                                            Ферментация кофе: для чего искусственно добавляют микроорганизмы
                                                         </p>
                                                         <p class="article-banner-another-date">
-                                                            10 сен 2020
+                                                            24 июн 2021
                                                             ·
-                                                            10 мин. на чтение
+                                                            6 мин. на чтение
                                                         </p>
                                                     </div>
-                                                    <a class="interestingFavorite blog-link-favorite-263 "
-                                                       onclick="setBlogFavorite(this, 263); return false;"
+                                                    <a class="interestingFavorite blog-link-favorite-342 "
+                                                       onclick="setBlogFavorite(this, 342); return false;"
                                                     >
                                                         <img class="fav-inner-theme"
                                                              src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -905,13 +951,13 @@
                                                                                                     <div class="article-info ">
                                     <div class="row" style="display: flex; padding: 0px;">
                                         <div class="col-lg-3" style="padding-left: 0px;">
-                                            <a class="blog-link-like-61  article-info-inner like-finger"
-                                               onclick="setBlogLike(this, 61); return false;"
+                                            <a class="blog-link-like-7  article-info-inner like-finger"
+                                               onclick="setBlogLike(this, 7); return false;"
                                                href="#">
                                                 <img src="/assets/site/img/journal/like-active.svg" alt=""
                                                      class="blog-icon-active">
                                                 <img src="/assets/site/img/journal/like-finger.svg" alt="">
-                                                <span class="count-like-61">59</span>
+                                                <span class="count-like-7">33</span>
                                             </a>
                                         </div>
                                         <div class="col-lg-9" style="padding-right: 0px;">
@@ -919,10 +965,10 @@
                                                 <p class="article-info-inner views-info">
                                                     <img src="/assets/site/img/journal/eye-article.svg"
                                                          alt="">
-                                                    75933 просмотра
+                                                    65601 просмотр
                                                 </p>
-                                                <a class="blog-link-favorite-61  article-info-inner article-fav-bottom"
-                                                   onclick="setBlogFavorite(this, 61); return false;"
+                                                <a class="blog-link-favorite-7  article-info-inner article-fav-bottom"
+                                                   onclick="setBlogFavorite(this, 7); return false;"
                                                    href="#">
                                                     <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                                                     <img src="/assets/site/img/journal/fav-active.svg" alt=""
@@ -932,7 +978,7 @@
                                                                                                     <a class="article-info-inner article-comm-bottom clickBlogComments countComment"
                                                        href="#reviews">
                                                         <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                                        27 комментариев
+                                                        7 комментариев
                                                     </a>
                                                                                                 <div class="social">
                                                     <div class="ya-share2" data-services="vkontakte,telegram"
@@ -947,8 +993,8 @@
                                             <div class="col-lg-8" style="padding-left: 0px;">
                                                 <p>Теги :</p>
                                                                                                                                                             <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=6">
-                                                            Приготовление
+                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=2">
+                                                            Выращивание
                                                         </a>
                                                                                                                                                 </div>
                                         </div>
@@ -973,44 +1019,44 @@
                                                                                                                                 <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/tds-uroven-extractsii-kofe/main2.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/yemenia-coffee/image2.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/tds-i-uroven-extractsii" class="absLink"></a>
-            <a class="fav blog-link-favorite-55 "
-               onclick="setBlogFavorite(this, 55); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/yemenia-coffee" class="absLink"></a>
+            <a class="fav blog-link-favorite-343 "
+               onclick="setBlogFavorite(this, 343); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/tds-i-uroven-extractsii">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/yemenia-coffee">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    118.3K
+                    24.1K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/tds-i-uroven-extractsii#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">18
+                   href="https://shop.tastycoffee.ru/blog/yemenia-coffee#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">3
                 </a>
             </div>
         </div>
     </div>
     <div class="main-article">
                             <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/prigotovlenie-kofe">
-                Приготовление
+               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
+                Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/tds-i-uroven-extractsii">
+                <a href="https://shop.tastycoffee.ru/blog/yemenia-coffee">
             <p class="main-article-header">
-                Что такое TDS и уровень экстракции
+                Сенсация в мире кофе — новая разновидность Йемения
             </p>
             <div class="main-article-subheader">
-                Вкус кофе можно измерить в цифрах. Некоторых это удивляет, потому что обычно вкус считают чем-то субъективным, но в случае с кофе — существуют специальные параметры: TDS и уровень экстракции. Рассказываем, что это такое.
+                Вкусная и устойчивая к не самым благоприятным климатическим условиям
             </div>
 
         </a>
         <p class="main-article-descr">
-            23 дек 2018 · 8 мин. на чтение
+            28 июн 2021 · 5 мин. на чтение
         </p>
     </div>
 </div>
@@ -1018,44 +1064,44 @@
                                                                                                                                 <div class="col-lg"
                                                   style="margin-left: 20px; margin-right: 20px;" >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/putevoditel-po-rastitelnomu-moloku/image4.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/gorech-v-kofe/image2.png)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/putevoditel-po-rastitelnomu-moloku" class="absLink"></a>
-            <a class="fav blog-link-favorite-298 "
-               onclick="setBlogFavorite(this, 298); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/gorech-v-kofe" class="absLink"></a>
+            <a class="fav blog-link-favorite-151 "
+               onclick="setBlogFavorite(this, 151); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/putevoditel-po-rastitelnomu-moloku">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/gorech-v-kofe">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    33.6K
+                    55.8K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/putevoditel-po-rastitelnomu-moloku#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">6
+                   href="https://shop.tastycoffee.ru/blog/gorech-v-kofe#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">18
                 </a>
             </div>
         </div>
     </div>
     <div class="main-article">
                             <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/prigotovlenie-kofe">
-                Приготовление
+               href="https://shop.tastycoffee.ru/blog/klassifikatsiya-kofe">
+                Классификация
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/putevoditel-po-rastitelnomu-moloku">
+                <a href="https://shop.tastycoffee.ru/blog/gorech-v-kofe">
             <p class="main-article-header">
-                Путеводитель по растительному молоку
+                Горечь в кофе — хорошо это или плохо?
             </p>
             <div class="main-article-subheader">
-                Текст подготовлен на основе статьи Тасмин Грант.
+                В спешелти индустрии убеждены, что хороший кофе должен быть сладким и сбалансированным, но точно не горьким. Так ли это? Рассказываем, что такое горечь, откуда она появляется в кофе и всегда ли её наличие — это плохо.
             </div>
 
         </a>
         <p class="main-article-descr">
-            18 янв 2021 · 11 мин. на чтение
+            16 сен 2019 · 5 мин. на чтение
         </p>
     </div>
 </div>
@@ -1063,44 +1109,44 @@
                                                                                                                                 <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kofe-i-obratniy-osmos/image4.jpeg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/geisha-ili-gesha/geisha_main.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/kofe-i-obratniy-osmos" class="absLink"></a>
-            <a class="fav blog-link-favorite-460 "
-               onclick="setBlogFavorite(this, 460); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/geisha-ili-gesha" class="absLink"></a>
+            <a class="fav blog-link-favorite-84 "
+               onclick="setBlogFavorite(this, 84); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kofe-i-obratniy-osmos">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/geisha-ili-gesha">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    10.9K
+                    38.6K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/kofe-i-obratniy-osmos#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">54
+                   href="https://shop.tastycoffee.ru/blog/geisha-ili-gesha#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">14
                 </a>
             </div>
         </div>
     </div>
     <div class="main-article">
                             <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/prigotovlenie-kofe">
-                Приготовление
+               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
+                Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/kofe-i-obratniy-osmos">
+                <a href="https://shop.tastycoffee.ru/blog/geisha-ili-gesha">
             <p class="main-article-header">
-                Кофе и обратный осмос: как связаны вода и вкус чашки
+                Разновидность «гейша» или «геша»: как правильно?
             </p>
             <div class="main-article-subheader">
-                Почему воду можно и важно контролировать подобно температуре или помолу
+                Название этого удивительного кофе вызывает споры. Впервые эта разновидность кофе была найдена в местности под названием Геша в Эфиопии, но большинство называет её гейшей. Кто же всё-таки прав?
             </div>
 
         </a>
         <p class="main-article-descr">
-            11 авг 2022 · 7 мин. на чтение
+            06 мая 2019 · 4 мин. на чтение
         </p>
     </div>
 </div>
@@ -1121,15 +1167,14 @@
 </div>
                                                                     </div>
                                 <div class="post-list for_paginate">
-                                    <div class="item social_post_item" id="blog_review_9537">
+                                    <div class="item social_post_item" id="blog_review_9485">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/04caf0c6-3899-42b4-ba05-dda85dbe91ac">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_211817_1678954022.jpg">
+                            <a href="https://shop.tastycoffee.ru/profile/dcdf1438-5c53-47ed-bf35-0ed96e4f34a7">
+                                            <div class="post-list__header--img">М</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/04caf0c6-3899-42b4-ba05-dda85dbe91ac">Виктория (г. Москва)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/dcdf1438-5c53-47ed-bf35-0ed96e4f34a7">Максим (г. Северодвинск)</a>
                     </p>
                     <p class="level">Новичок</p>
                 </div>
@@ -1139,7 +1184,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9537); return false;"
+                                   onclick="blogReviewAddReport(this, 9485); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1151,15 +1196,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Наконец-то пришёл кофе Эфиопия Данче, сегодня буду пробовать заваривать в клевере первый раз
+                Про высоту произрастания интересно
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9537, this); return false;"
+                <a href="#" onclick="blogCommentLike(9485, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(9537, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9485, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1170,7 +1215,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-bonavita?comment=9537">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=9485">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1178,7 +1223,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=9537&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=9485&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1186,7 +1231,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=9537&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=9485&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1202,313 +1247,21 @@
 
 
 
-                <p class="time">3 дня назад</p>
+                <p class="time">5 дней назад</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_8992">
+    <div class="item social_post_item" id="blog_review_8387">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/a248072a-eac8-40f0-a76b-7672996e1675">
-                                            <div class="post-list__header--img">О</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/a248072a-eac8-40f0-a76b-7672996e1675">Ольга (г. Томск)</a>
-                    </p>
-                    <p class="level">Новичок</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8992); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                При изучении аксессуаров на сайте были предложены обычные воронки. Пластмассовая или керамическая меня не впечатлили и я купила кемекс. Про иммерсионную воронку только сейчас прочитала, к тому же у нее есть клапан, который позволяет как бы настояться кофе. А в кемексе получается только пролив, как в обычной воронке. Вообще, столько тонкостей. И все больше вопросов.
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8992, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(8992, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-bonavita?comment=8992">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=8992&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=8992&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">24.02.2023</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_6976">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/5f4bd487-5cdc-4c8c-b0f7-bf06226661e3">
+                            <a href="https://shop.tastycoffee.ru/profile/67d70eb9-eed7-412e-9956-e1b1d077afce">
                                             <div class="post-list__header--img">А</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/5f4bd487-5cdc-4c8c-b0f7-bf06226661e3">Алексей (г. Москва)</a>
-                    </p>
-                    <p class="level">Новичок</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 6976); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Подскажите, а если я просто заварю в чашке, а потом отфильтрую в воронке обычной, чем это будет хуже иммерсионной воронки?
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(6976, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">1</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(6976, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">1</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-bonavita?comment=6976">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=6976&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=6976&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">23.11.2022</p>
-            </div>
-                        <div class="post-list__body--comment" >
-                                <div class="item-comment main "
-         id="blog_review_8549">
-        <div class="review review-block">
-                            <a href="https://shop.tastycoffee.ru/profile/c3dce0b1-22b5-4b68-9bd0-828e1283e371">
-                                            <img class="avatar"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_143580_1664614606.png">
-                                    </a>
-                <div class="name-wrap">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/c3dce0b1-22b5-4b68-9bd0-828e1283e371">Никита (г. Самара)</a>
-                    </p>
-                    <p class="text-gray">Продвинутый</p>
-                </div>
-                        <p class="date">05.02.2023</p>
-            <div class="text">
-                А ничем не хуже, просто посуды больше потребуется и телодвижений. При тех же таймингах и помоле получите такой же вкус.
-            </div>
-                        <div class="response btn-like">
-                <a href="#" onclick="blogCommentLike(8549, this); return false;"
-                   class="btn-like-up ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" onclick="blogCommentDislike(8549, this); return false;"
-                   class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                            </div>
-                                </div>
-        <div class="reviewChild-block">
-                    </div>
-    </div>
-            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_6666">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/9eae6661-38f8-4ed5-b4db-4cb9742d5c53">
-                                            <div class="post-list__header--img">П</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/9eae6661-38f8-4ed5-b4db-4cb9742d5c53">Пётр (г. Великий Новгород)</a>
-                    </p>
-                    <p class="level">Эксперт</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 6666); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Спасибо за статью!
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(6666, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(6666, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-bonavita?comment=6666">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=6666&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=6666&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">07.11.2022</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_5772">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/013b5e28-3f9f-4eb4-a665-1f208891f85d">
-                                            <div class="post-list__header--img">А</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/013b5e28-3f9f-4eb4-a665-1f208891f85d">Артем (г. Санкт-Петербург)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/67d70eb9-eed7-412e-9956-e1b1d077afce">Анастасия (г. Москва)</a>
                     </p>
                     <p class="level">Любитель</p>
                 </div>
@@ -1518,7 +1271,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 5772); return false;"
+                                   onclick="blogReviewAddReport(this, 8387); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1530,16 +1283,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Прочтение комментариев обязательно. Пожалуй, начинаешь улавливать нюансы. Живое общение наполняет, даёт понять, что Вас (ценителей) много. Так интерес к продукту - Кофе- возрастает. <br />
-Спасибо ТестиКофе, за то, что сформировали такое комьюнити!
+                интересная статья, поняла, зачем указывают высоту произрастания
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(5772, this); return false;"
+                <a href="#" onclick="blogCommentLike(8387, this); return false;"
                    class="btn-like-up "
                 >
-                    <span class="ic">ic</span> <span class="value">1</span>
+                    <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(5772, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(8387, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1550,7 +1302,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-bonavita?comment=5772">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8387">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1558,7 +1310,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=5772&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8387&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1566,7 +1318,269 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-bonavita?comment=5772&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8387&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">31.01.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_8186">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/c20fa291-88ac-44fb-9eed-92dd4ef46510">
+                                            <div class="post-list__header--img">А</div>
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/c20fa291-88ac-44fb-9eed-92dd4ef46510">Андрей (г. Санкт-Петербург)</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 8186); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Спасибо, емко и содержательно.
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(8186, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(8186, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8186">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8186&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8186&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">23.01.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_6038">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_167061_1663528532.png">
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">Ирина (г. Москва)</a>
+                    </p>
+                    <p class="level">Эксперт</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 6038); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Очень интересная и нужная статья, особенно для тех, кто только начинает свое путешествие в мир кофе! Спасибо!
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(6038, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(6038, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=6038">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=6038&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=6038&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">26.09.2022</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_5756">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/38f63974-961f-47a3-bb48-344ecba59694">
+                                            <div class="post-list__header--img">А</div>
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/38f63974-961f-47a3-bb48-344ecba59694">Андрей (г. Краснодар)</a>
+                    </p>
+                    <p class="level">Продвинутый</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 5756); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Супер инфа
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(5756, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(5756, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=5756">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=5756&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=5756&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1592,15 +1606,13 @@
     <hr>
     <div class="pagination-block">
         <div class="pagination-wrap">
-                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/61?page=2','more');return false;">
+                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/7?page=2','more');return false;">
                 <span class="load-ic ic"></span>
                 Загрузить больше
             </a>
                 <ul class="pagination">
                                                                                                                     <li class="active" ><span>1</span></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/61?page=2', '', true);return false;">2</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/61?page=3', '', true);return false;">3</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/61?page=4', '', true);return false;">4</a></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/7?page=2', '', true);return false;">2</a></li>
                                                                                 </ul>
     </div>
 
@@ -1611,387 +1623,6 @@
                         </div>
                                     </div>
             </div>
-                            <div class="lookBox">
-                    <h4 class="center">Вас может заинтересовать</h4>
-                    <div class="owl-carousel card-wrap">
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="215">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >4.4
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    147
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=30">
-                                Рекомендуем
-                            </a>
-                                                    </div>
-                                                                                                        <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=31">
-                                Популярный
-                            </a>
-                                                    </div>
-                                                </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02">
-                Фильтры Hario бумажные, 100 шт
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02"
-                   class="absLink">Фильтры Hario бумажные, 100 шт</a>
-                
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/VCF-02-100W5.png"
-                                        alt="Фильтры Hario бумажные, 100 шт"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/hario/filter-hario-holland.png"
-                                        alt="Фильтры Hario бумажные, 100 шт"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Бумажные фильтры для пуровера Hario 02. 100 штук в упаковке
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                     
-                        <div class="wrap-btnCard-box">
-                                                    </div>
-                        <div class="count-wrap animated fadeIn">
-                            <span class="count_min" onclick="click_count(this);return false;"></span>
-                            <span class="count_item">
-                                    <input min="1" type="number" value="1" name="count"
-                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
-                                </span>
-                            <span class="count_plus" onclick="click_count(this);return false;"></span>
-                        </div>
-                                    </div>
-                                                            <a class="priceCb">589 <span class="rub">₽</span></a>
-                                    
-                                                        <div class="cardBox-f-r">
-                        <a class="buyBtn "
-                           onclick="add_in_cart(this);return false;"
-                           data-metrics="{&quot;id&quot;:215,&quot;name&quot;:&quot;\u0424\u0438\u043b\u044c\u0442\u0440\u044b Hario \u0431\u0443\u043c\u0430\u0436\u043d\u044b\u0435, 100 \u0448\u0442&quot;,&quot;price&quot;:&quot;589&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
-                        >
-                            <span class="buyText buyText_215">Купить</span>
-                        </a>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="267">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >5
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/bonavita-immersion-dripper#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    2
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                            </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/bonavita-immersion-dripper">
-                Воронка Bonavita (фарфоровая)
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/bonavita-immersion-dripper"
-                   class="absLink">Воронка Bonavita (фарфоровая)</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/Bonavita-porcelain.png"
-                                        alt="Воронка Bonavita (фарфоровая)"
-                                        itemprop=image/>
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Воронка Bonavita со встроенным клапаном
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="267"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="489">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >5
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/wilfa-white#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    7
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=31">
-                                Популярный
-                            </a>
-                                                    </div>
-                                                                                                        <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=32">
-                                Новый
-                            </a>
-                                                    </div>
-                                                </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/wilfa-white">
-                Воронка иммерсионная Wilfa SVART Pour Over белая
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/wilfa-white"
-                   class="absLink">Воронка иммерсионная Wilfa SVART Pour Over белая</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa2.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa3.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa4.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa1.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Белая иммерсионная воронка для приготовления кофе
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="489"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                            </div>
-                </div>
                     </div>
     </div>
     <footer>
@@ -2611,65 +2242,6 @@
         form_header.find('#postcode_header').val('');
     });
 </script>
-<script>
-    $(document).ready(function () {
-        $(document).on('click', '.receipt-modal-open', function(e) {
-            const product_id = $(this).attr('data-product');
-
-            if($(this).attr('data-is-user') === 'false') {
-                $('#receipt-modal-form').attr('action', "https://shop.tastycoffee.ru/ajax/products/0/subscribe".replace(0, product_id))
-                // $('#receipt-modal').modal('show');
-                $('[data-modal-name="notification-product-appearance-no-login"]').addClass('active');
-
-                return false;
-            }
-
-            $('[data-modal-name="notification-product-appearance"]').addClass('active');
-
-            $.ajax({
-                url: 'https://shop.tastycoffee.ru/ajax/products/0/subscribe'.replace(0, product_id),
-                method: 'POST',
-            }).done(function() {
-
-            }).fail(function(data) {
-
-            })
-        });
-        $('#receipt-modal form button').on('click', function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            var $form = $(this).closest('form');
-            var showError = function(text) {
-                var $errorEl = $form.find('.siteError');
-                $errorEl.text(text).show();
-                setTimeout(function() {
-                    $errorEl.text('').hide();
-                }, 3000);
-            }
-
-                if (!$form.find('[name="is_agreed"]').prop('checked')) {
-                    showError('Вы не согласились с условиями');
-                    return false;
-                }
-
-                $.ajax({
-                    url: $form.attr('action'),
-                    data: {email: $form.find('[name="email"]').val()},
-                    method: $form.attr('method'),
-                }).done(function () {
-                    $('[data-modal-name="notification-product-appearance-no-login"]').removeClass('active');
-                    $('[data-modal-name="notification-product-appearance-done"]').addClass('active');
-                    // $form.find('.info').remove();
-                }).fail(function (data) {
-                    if (data.status === 422) {
-                        showError(Object.values(data.responseJSON.errors).flat().join(', '));
-                    } else {
-                        showError(data.responseJSON.message);
-                    }
-                })
-            });
-        });
-    </script>
     <script>
         $(document).ready(function () {
             var posts = $('.article-banner-another');
@@ -2728,71 +2300,5 @@
         e[a] = {}, e[a].date = (new Date).getTime(), n = t.createElement(d), c = t.getElementsByTagName(d)[0], n.type = "text/javascript", n.async = !0, n.src = s, c.parentNode.insertBefore(n, c)
     }(window, document, "script", "https://tastycoffeesaleru.push.world/https.embed.js", "pw"), pw.websiteId = "e0f4f5dd207d407945e8c66c72c33fc6a1f1a6a09c7973e03dfecc25e2a368af";
 </script>-->
-    <div class="popupAdded animated fadeIn modal-notify" id="receipt-modal" data-modal-name="notification-product-appearance-no-login">
-    <div class="popupAdded-wrap modal-content p-lr-32">
-        <div class="w-100 pb-3 text-center">
-            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="50" height="50" fill="white"/>
-                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
-            </svg>
-        </div>
-        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
-
-        <div class="modal_body">
-            <form action="" class="" id="receipt-modal-form" method="POST">
-                <div class="info">
-                    <div class="input-wrap">
-                        <input type="text" name="email" placeholder="Введите ваш e-mail">
-                        <button type="button"></button>
-                    </div>
-                    <div class="siteError mb-3"></div>
-                    <div class="checkbox-wrap">
-                        <input id="agreed" type="checkbox" name="is_agreed">
-                        <label for="agreed" class="subscribe-agreed">
-                            <span class="label__box"></span>
-                            <span class="label__text">
-                                Согласен с <a href="https://shop.tastycoffee.ru/privacy" target="_blank">условиями обработки персональных данных</a> и
-                                <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank">Пользовательского соглашения</a>
-                            </span>
-                        </label>
-                    </div>
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance">
-    <div class="popupAdded-wrap p-lr-32">
-        <div class="w-100 pb-3 text-center">
-            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="50" height="50" fill="white"/>
-                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
-            </svg>
-        </div>
-        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
-        <div>
-            <div class="siteError mb-3"></div>
-        </div>
-        <button type="button" class="grayBtn closePa w-105 mb-3">Закрыть</button>
-    </div>
-</div>
-
-<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance-done">
-    <div class="popupAdded-wrap p-lr-32">
-        <div class="w-100 pb-3 text-center">
-            <div class="check-ic"></div>
-        </div>
-        <h3>Вы подписаны</h3>
-        <div>
-            <div class="siteError mb-3"></div>
-        </div>
-        <button type="button" class="blackBtn closePa w-74 mb-3">Ок</button>
-    </div>
-</div>
-</body>
+    </body>
 </html>

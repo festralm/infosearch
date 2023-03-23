@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="JNHi0OV4pkY9cc30Agw2gSYVQZphfd2w1maBYwlq">
+    <meta name="csrf-token" content="DSzEvuDQTYYm2OJtLuZmjF6CpHzzVI8bx5t7T6LB">
     <title>Интернет-магазин кофе и чая - ответы на вопросы</title>
     <meta name="description" content="Здесь мы собрали ответы на самые популярные вопросы, которые задают нашему интернет-магазину кофе и чая &quot;Tasty Coffee&quot;">
     <meta name="keywords" content="Интернет-магазин кофе, Интернет-магазин чая, кофе вопросы, кофе ответы, доставка кофе вопросы, чай вопросы, чай ответы">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="JNHi0OV4pkY9cc30Agw2gSYVQZphfd2w1maBYwlq">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="DSzEvuDQTYYm2OJtLuZmjF6CpHzzVI8bx5t7T6LB">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="JNHi0OV4pkY9cc30Agw2gSYVQZphfd2w1maBYwlq"
+                     data-_token="DSzEvuDQTYYm2OJtLuZmjF6CpHzzVI8bx5t7T6LB"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="JNHi0OV4pkY9cc30Agw2gSYVQZphfd2w1maBYwlq">        </form>
+            <input type="hidden" name="_token" value="DSzEvuDQTYYm2OJtLuZmjF6CpHzzVI8bx5t7T6LB">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -721,7 +721,7 @@
                         </div>
                         <div class="formReview-wrap">
                             <form class="formReview active send-feedback blackForm" action="https://shop.tastycoffee.ru/ajax/feedback/send">
-                                <input type="hidden" name="_token" value="JNHi0OV4pkY9cc30Agw2gSYVQZphfd2w1maBYwlq">                                <input type="hidden" name="type" value="3">
+                                <input type="hidden" name="_token" value="DSzEvuDQTYYm2OJtLuZmjF6CpHzzVI8bx5t7T6LB">                                <input type="hidden" name="type" value="3">
                                 <h3 class="indent">Задать вопрос</h3>
                                 <div class="row-wrap">
                                     <div class="col-v10">

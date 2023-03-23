@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="8PXVXorMu7jgmacbdRi5tvCxcY6EQl8YUwL5cu7R">
-    <title>Как климат плантации влияет на вкус кофе</title>
-    <meta name="description" content="Малейшие различия в выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. Скоро мы поговорим о каждом этапе жизни кофейной ягоды. Но начнём по порядку: в этой статье о влиянии климата и места произрастания на ягоду.">
-    <meta name="keywords" content="кофе, терруар, плантация, осадки, почва, высота, температура">
+    <meta name="csrf-token" content="B0fZrKv1Xb7XfiekB80wb7PHzJiFUvk1vma70x1P">
+    <title>Виды упаковок для экспорта кофе</title>
+    <meta name="description" content="Зелёный кофе так или иначе теряет влажность при хранении и транспортировке. Это происходит из-за перепадов температур, изменения уровня влажности в окружающей среде, а в случае с Россией — из-за сурового зимнего климата. Чтобы минимизировать потерю влажности и максимально уберечь кофе от потери качества, нужно правильно его упаковать.">
+    <meta name="keywords" content="Кофе, хранение, спешелти, спешиалти, грейнпро, джут, вакуум, grain-pro, jute, vacuum">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"/>
-    <meta property="og:title" content="Как климат плантации влияет на вкус кофе"/>
-    <meta property="og:description" content="Малейшие различия в выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. Скоро мы поговорим о каждом этапе жизни кофейной ягоды. Но начнём по порядку: в этой статье о влиянии климата и места произрастания на ягоду."/>
-    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/terroir/plantation.jpg"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/upakovka-kofe-export"/>
+    <meta property="og:title" content="Виды упаковок для экспорта кофе"/>
+    <meta property="og:description" content="Зелёный кофе так или иначе теряет влажность при хранении и транспортировке. Это происходит из-за перепадов температур, изменения уровня влажности в окружающей среде, а в случае с Россией — из-за сурового зимнего климата. Чтобы минимизировать потерю влажности и максимально уберечь кофе от потери качества, нужно правильно его упаковать."/>
+    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/upakovka-kofe-export/main3.jpg"/>
     <meta property="og:type" content="article"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/upakovka-kofe-export"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="8PXVXorMu7jgmacbdRi5tvCxcY6EQl8YUwL5cu7R">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="B0fZrKv1Xb7XfiekB80wb7PHzJiFUvk1vma70x1P">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="8PXVXorMu7jgmacbdRi5tvCxcY6EQl8YUwL5cu7R"
+                     data-_token="B0fZrKv1Xb7XfiekB80wb7PHzJiFUvk1vma70x1P"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="8PXVXorMu7jgmacbdRi5tvCxcY6EQl8YUwL5cu7R">        </form>
+            <input type="hidden" name="_token" value="B0fZrKv1Xb7XfiekB80wb7PHzJiFUvk1vma70x1P">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -727,10 +727,10 @@
                             <meta itemprop="position" content="2"/>
                         </li>
                                                                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe"
+                                <a href="https://shop.tastycoffee.ru/blog/upakovka-kofe-export"
                                    itemtype="http://schema.org/Thing"
                                    itemprop="item">
-                                    <span itemprop="name">Как климат плантации влияет на вкус кофе</span>
+                                    <span itemprop="name">Виды упаковок для экспорта кофе</span>
                                 </a>
                                 <meta itemprop="position" content="3"/>
                             </li>
@@ -743,25 +743,25 @@
 
                                     <a href="https://shop.tastycoffee.ru/blog" class="greyLink indent desNone">Ко всем статьям</a>
                 
-                <h1 class="indent article-header">Как климат плантации влияет на вкус кофе</h1>
+                <h1 class="indent article-header">Виды упаковок для экспорта кофе</h1>
                                     <div class="article-leadtext">
-                        <p>Кофе &mdash; один из самых богатых напитков в мире по вкусовым качествам. Малейшие различия в терруаре, выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. В этой статье рассказываем о влиянии климата и места произрастания на ягоду</p>
+                        <p>Зелёный кофе так или иначе теряет влажность при хранении и транспортировке. Это происходит из-за перепадов температур, изменения уровня влажности в окружающей среде, а в случае с Россией &mdash; из-за сурового зимнего климата. Чтобы минимизировать потерю влажности и максимально уберечь кофе от потери качества, нужно правильно его упаковать.</p>
                     </div>
                             </div>
             <div class="article-info" style="border-bottom: 0px;">
                                     <p class="article-info-inner time">
                         <img src="/assets/site/img/journal/clock.svg" alt="">
-                        7 мин. на чтение
+                        5 мин. на чтение
                     </p>
                     <p class="article-info-inner views-info">
                         <img src="/assets/site/img/journal/eye-article.svg" alt="">
-                        65598 просмотров
+                        47024 просмотра
                     </p>
                                 <div class="article-info-right">
                     <p class="article-info-inner article-fav">
                         <a href="#"
-                           class="blog-link-favorite-7 "
-                           onclick="setBlogFavorite(this, 7); return false;">
+                           class="blog-link-favorite-26 "
+                           onclick="setBlogFavorite(this, 26); return false;">
                             <img src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
                             <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                             В закладки
@@ -770,7 +770,7 @@
                                             <p class="article-info-inner article-comm">
                             <a href="#reviews" class="clickBlogComments countComment">
                                 <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                7 комментариев
+                                3 комментария
                             </a>
                         </p>
                                     </div>
@@ -779,12 +779,12 @@
         <div class="row">
             <div class="col-v10" style="padding-right: 0px;">
                 <div class="article-content">
-                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/terroir/plantation.jpg)"></div>
+                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/upakovka-kofe-export/main3.jpg)"></div>
                     <div class="row" style="display: flex; padding: 0px;">
                         <div class="col-lg-1" style="padding-left: 0px;">
                             <div class="soc-block">
-                                <a class="blog-link-like-7  article-like socials "
-                                   onclick="setBlogLike(this, 7); return false;"
+                                <a class="blog-link-like-26  article-like socials "
+                                   onclick="setBlogLike(this, 26); return false;"
                                 >
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-active.svg"
                                          alt=""
@@ -792,8 +792,8 @@
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-finger.svg"
                                          alt="">
                                 </a>
-                                <a class="blog-link-favorite-7  article-like socials"
-                                   onclick="setBlogFavorite(this, 7); return false;"
+                                <a class="blog-link-favorite-26  article-like socials"
+                                   onclick="setBlogFavorite(this, 26); return false;"
                                 >
                                     <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
                                          src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -809,135 +809,71 @@
                             <div class="article-text">
 
                                 <div class="article-text-content" id="article-for-load">
-                                    <p dir="ltr">Кофе &mdash; один из самых богатых напитков в мире по вкусовым качествам. Малейшие различия в выращивании, обработке и приготовлении, придают ему разные вкусовые оттенки и ароматы. Скоро мы поговорим о каждом этапе жизни кофейной ягоды. Но начнём по порядку: в этой статье о влиянии климата и места произрастания на ягоду.</p>
+                                    <p dir="ltr">После <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe">обработки кофе</a> не&nbsp;сразу попадает <a href="https://shop.tastycoffee.ru/blog/kontrol-kachestva-objarki">на&nbsp;обжарку</a>. Часто его ещё несколько месяцев хранят на&nbsp;ферме, чтобы кофе лучше раскрыл свой букет. Этот этап называют рестингом, то&nbsp;есть отдыхом. Затем зёрна фасуют в&nbsp;мешки, грузят на&nbsp;суда и&nbsp;отправляют в&nbsp;страны-импортёры. По&nbsp;прибытии не&nbsp;обжаренный кофе может храниться до&nbsp;года. Главное, чтобы его упаковка это позволяла. После года даже в&nbsp;хороших условиях кофе начинает стареть: во&nbsp;вкусе появляются ноты дерева, злаков и&nbsp;теряется <a href="https://shop.tastycoffee.ru/blog/kislotnost-v-kofe">кислотность</a>.</p>
 
-<p dir="ltr">На профессиональном языке условия, в которых растёт кофе, называют терруаром. В это понятие входит:</p>
+<p dir="ltr">Во&nbsp;время хранения и&nbsp;транспортировки важно сохранить <a href="https://shop.tastycoffee.ru/blog/vlazhnostj-kofe">уровень влажности на&nbsp;уровне 10&ndash;12&thinsp;%</a>. Если кофе высохнет, он&nbsp;постареет и&nbsp;потеряет яркость. Если он&nbsp;впитает лишнюю влагу, на&nbsp;нём может появиться грибок и&nbsp;плесень.</p>
 
-<ol>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">количество осадков;</span></p>
-	</li>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">качество почвы;</span></p>
-	</li>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">температура;</span></p>
-	</li>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">количество солнечного света;</span></p>
-	</li>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">высота, на которой находится плантация.</span></p>
-	</li>
-</ol>
+<p dir="ltr">Чтобы уберечь кофе от&nbsp;внешних воздействий, его упаковывают в&nbsp;специальные мешки&nbsp;&mdash; они защищают кофе от&nbsp;влаги, солнца, грызунов и&nbsp;посторонних запахов. Чаще всего используют один из&nbsp;трёх видов мешков: джутовые мешки, грейн-про и&nbsp;вакуумную упаковку. Вот про них и&nbsp;поговорим.</p>
 
-<p dir="ltr">Рассмотрим, как всё это влияет на кофе.</p>
+<h4 dir="ltr"><strong>Джут</strong></h4>
 
-<h4 dir="ltr"><strong>Количество осадков</strong></h4>
+<p dir="ltr">Джут&nbsp;&mdash; это мягкое растительное волокно, которое закручивают в&nbsp;прочные нити, из&nbsp;которых шьют мешки. Джут&nbsp;&mdash; одно из&nbsp;самых доступных натуральных волокон, которое по&nbsp;количеству производства и&nbsp;применения уступает только хлопку.</p>
 
-<p dir="ltr">Кофе &mdash; очень чувствителен к количеству осадков. Если их мало: меньше 80 см в год, почва высыхает и разрушается, урожай кофе получается низким, а зёрна вырастают мелкими. Если осадков много: больше 300 см в год, вода вымывает ценные питательные вещества, а корни кофейного дерева гниют.</p>
+<p dir="ltr"><img alt="Джутовый мешок для кофе" src="https://shop.tastycoffee.ru/files/shares/data/blog/upakovka-kofe-export/jutesack.jpg" /></p>
 
-<p dir="ltr">Идеальный уровень &mdash; 150&ndash;250 см. При этом дожди равномерно идут в течение года, а в конце сезона, когда собирают урожай, устанавливается засушливый сезон на 1&ndash;2 месяца. Частые осадки вызывают цветение, но после него нужно затишье, чтобы дожди не повредили бутоны и ягода созрела здоровой.</p>
+<p dir="ltr">Джутовые мешки&nbsp;&mdash; это самый экономичный и&nbsp;поэтому самый популярный способ упаковки кофе: они прочны и&nbsp;долговечны. Однако они не&nbsp;защищают кофе от&nbsp;влаги и&nbsp;посторонних запахов. Кофе в&nbsp;таких мешках можно хранить не&nbsp;дольше одного года, но&nbsp;только при условии, что окружающие условия идеальны.</p>
 
-<p dir="ltr">Но влияние осадков сильно зависит от почвы, равномерности дождей и количества солнца. Низкое количество осадков всегда вредно, потому что дереву нечем питаться, но высокое &mdash; может быть как вредным, так и полезным в зависимости от места.</p>
+<p dir="ltr">Если во&nbsp;время хранения или перевозки будут значительно меняться внешние условия, <a href="https://shop.tastycoffee.ru/blog/vlazhnostj-kofe">водная активность</a> кофе будет нестабильна. Это приведёт к&nbsp;потере или впитыванию влаги. При неправильном соблюдении окружающих условий кофе в&nbsp;джутовых мешках легко может потерять вкусовые особенности или стать непригодным из-за плесени или грибка.</p>
 
-<h4 dir="ltr"><strong>Почва</strong></h4>
+<p dir="ltr">Тем не&nbsp;менее джутовые мешки&nbsp;&mdash; это отраслевой стандарт. В&nbsp;ситуации, когда фермеры, перевозчики и&nbsp;обжарочные компании следят за&nbsp;окружающей обстановкой, они неплохо справляются со&nbsp;своей задачей.</p>
 
-<p dir="ltr">Из почвы кофе берёт воду и важные питательные вещества, такие как азот, фосфор, калий, кальций и магний. От того, насколько почва плодородна, будет зависеть вкус кофе.</p>
+<h4 dir="ltr"><strong>Грейн-про</strong></h4>
 
-<p dir="ltr">Выше мы уже говорили, что кофейному дереву вредна засуха или чрезмерное количество воды. Поэтому почва не должна быть сухой или болотистой. Чтобы после дождей лишняя вода уходила, а во время засухи задерживалась, у почвы должен быть хороший дренаж.</p>
+<p dir="ltr">Главный недостаток джутовых мешков в&nbsp;том, что они пористые. Через поры кофе теряет влагу и&nbsp;впитывает посторонние запахи. Чтобы это исправить, джутовые мешки усовершенствовали и&nbsp;в&nbsp;результате получились мешки грейн-про.</p>
 
-<p dir="ltr">Если вода задерживается, в корнях появляется плесень и грибок и ягода вырастает с дефектами. Если почва пересыхает, дерево остаётся без питания и ягоды не получают питания. Почва должна быть умеренно влажной, особенно в засушливый сезон.</p>
+<p dir="ltr"><img alt="Грейнпро мешок для кофе" src="https://shop.tastycoffee.ru/files/shares/data/blog/upakovka-kofe-export/grainpro.jpg" /></p>
 
-<p><img alt="soil" src="https://shop.tastycoffee.ru/files/shares/data/blog/terroir/soil.jpg" /><br />
-<small>Почва должна содержать глину. Благодаря этому лишняя вода уходит, но почва не осушается</small></p>
+<p dir="ltr">Грейн-про&nbsp;&mdash; это такой&nbsp;же джутовый мешок снаружи, но&nbsp;внутри него находится герметичный полиэтиленовый пакет с&nbsp;молнией. В&nbsp;таком мешке кофе не&nbsp;контактирует с&nbsp;окружающей средой, дольше сохраняет влагу и&nbsp;не&nbsp;подвергается грибку или плесени. Кофе в&nbsp;мешках грейн-про можно хранить дольше, хоть это и&nbsp;не&nbsp;желательно: при долгом сроке хранения ни&nbsp;один мешок и&nbsp;идеальные условия хранения не&nbsp;помогут сохранить качество кофе в&nbsp;полной мере. Мы&nbsp;рекомендуем обжаривать кофе в&nbsp;течение 1&ndash;1,5 лет после сбора урожая.</p>
 
-<div>
-<p dir="ltr">Помимо воды, дереву нужны другие питательные вещества. Почва на плантации должна быть плодородной, то есть в ней должно быть необходимое количество органических веществ и минералов, достаточно кислорода и хороший растительный покров.Тогда кофейное дерево будет здоровым, а урожай обильным и качественным.</p>
+<p dir="ltr">Мешки грейн-про дороже обычных джутовых мешков и&nbsp;поэтому их&nbsp;часто используют только для <a href="https://shop.tastycoffee.ru/blog/specialty-kofe">спешелти кофе</a>. В&nbsp;нашем случае мы&nbsp;просим упаковывать даже коммерческий кофе в&nbsp;грейн-про, чтобы не&nbsp;экономить на&nbsp;качестве. При этом не&nbsp;рекомендуется упаковывать спешелти кофе в&nbsp;обычные джутовые мешки, потому что он&nbsp;будет терять вкусовые преимущества.</p>
 
-<p dir="ltr">Считается, что лучшая почва &mdash; это суглинок, который состоит из 40% песка, 40% ила и 20% глины. Такая почва хорошо выдерживает засуху, не отдаёт всю влагу и &laquo;дышит&raquo;. В результате у дерева всегда есть питание и нет болезней.</p>
+<h4 dir="ltr"><strong>Вакуум</strong></h4>
 
-<h4 dir="ltr"><strong>Температура</strong></h4>
+<p dir="ltr">Вакуум&nbsp;&mdash; это самый дорогой способ упаковки кофе, потому что для него нужны не&nbsp;только специальные пластиковые пакеты, но&nbsp;и&nbsp;упаковочные машины.</p>
 
-<p dir="ltr">Если кратко, дневная температура должна быть высокой, а ночная низкой. И вот почему.</p>
+<p dir="ltr"><img alt="Вакуумная упаковка для кофе" src="https://shop.tastycoffee.ru/files/shares/data/blog/upakovka-kofe-export/vacuum.jpg" /></p>
 
-<p dir="ltr">Эксперименты показали, что большой разрыв между этими температурами полезен для вкуса ягоды: кофе созревает медленнее, впитывает больше питательных соединений, получает больше сладости, полноты тела, кислотности и сложности вкуса.</p>
+<p dir="ltr">В&nbsp;вакуумной упаковке кофе никак не&nbsp;контактирует с&nbsp;воздухом и&nbsp;влагой, а&nbsp;значит&nbsp;&mdash; дольше сохраняет аромат и&nbsp;не&nbsp;подвергается дефектам. Иначе говоря, максимально эффективно сохраняет качество. Однако перед фасовкой зёрен важно, чтобы они отдохнули и&nbsp;их&nbsp;водная активность стабилизировалась. Это нужно, чтобы даже в&nbsp;такой защищённой упаковке ароматы сохранялись в&nbsp;полной мере.</p>
 
-<p><img alt="Кофейный пояс" src="https://shop.tastycoffee.ru/files/shares/data/blog/terroir/coffeebelt.jpg" /><br />
-<small>Кофейный пояс &mdash; это зона, в которой возможно выращивать вкусный кофе, потому что суточная температура высокая, а по ночам нет заморозков</small></p>
+<p dir="ltr">Из-за стоимости вакуумной упаковки её&nbsp;используют только для микролотов и&nbsp;кофе наивысшего качества. Использовать её&nbsp;для коммерческого кофе просто нецелесообразно.</p>
 
-<div>
-<p dir="ltr">Однако, ночная температура не должна опускаться ниже 0 &deg;С, а дневная быть выше 30 &deg;C. На морозе кофе погибает за несколько минут, на сильной жаре &mdash; за несколько часов. Идеально, когда перепад температуры составляет 15&ndash;30 &deg;С и не выходит за эти пределы.</p>
+<h4 dir="ltr"><strong>Что запомнить</strong></h4>
 
-<p dir="ltr">Температура зависит от климатического пояса, поэтому кофе растёт только рядом с экватором, облачности, то есть количества света и высоты. Сперва поясним про количество света.</p>
+<p dir="ltr">Самый оптимальный вариант упаковки зелёного кофе&nbsp;&mdash; мешки грейн-про. Они защищают кофе лучше, чем джутовые, но стоят дешевле, чем вакуумная упаковка. Именно в&nbsp;таких мешках мы&nbsp;получаем кофе от&nbsp;производителей.</p>
 
-<h4 dir="ltr"><strong>Количество света</strong></h4>
-
-<p dir="ltr">Кофе любит тень и не любит прямые солнечные лучи. Большое количество света ускоряет созревание ягод и помогает получить высокий урожай, но вкус такого кофе не бывает интересным и сложным. В тени кофе зреет медленнее, и как мы уже говорили, впитывает больше питательных веществ и набирает больше фруктовых и цветочных нот.</p>
-
-<p dir="ltr">Количество света зависит от облачности. Чем она больше, тем больше тени и тем лучше это для кофе. Хорошо, когда на плантации регулярно идут дожди в вечернее время. Во-первых, дождевые облака закрывают солнце, а во-вторых, во время дождя температура воздуха немного опускается и это, как мы знаем, тоже полезно для кофе.</p>
-
-<p dir="ltr">Кроме облачности, важно расположение склона относительно частей света. Плантации на западной стороне освещает жаркое послеобеденное солнце. Плантации на восточной стороне освещает рассвет &mdash; мягкий, но яркий. Поэтому лучше выбирать кофе с плантаций, которые &laquo;смотрят&raquo; на Восток.</p>
-
-<p dir="ltr">Остался последний и самый важный фактор, который влияет на вкус кофе &mdash; высота.</p>
-
-<div>
-<h4 dir="ltr"><strong>Высота</strong></h4>
-
-<p dir="ltr">Почти всегда работает правило: чем выше плантация, тем качественнее кофе. Это связано с тем, что на высоте климат более прохладный, а перепады температур выше: днём интенсивный свет, ночью прохладный воздух. В таких условиях ягода дольше созревает и успевает впитать сложные сахара. В результате кофе приобретает глубокий и интересный вкус.</p>
-
-<p dir="ltr">На возвышенностях почва каменистая и глинистая. У неё хороший дренаж, поэтому плантации на высоте редко бывают болотистыми или засушливыми. Кофейные деревья не голодают и не болеют.</p>
-
-<p dir="ltr">Арабика растёт на высоте 900&ndash;1800 метров. Но это условное значение, потому что в Африке, например, кофе иногда растёт на высоте около 2000 метров, а на Гавайях &mdash; из-за слишком холодного микроклимата, кофе выращивают на высоте 600 метров. Выше уже слишком холодно.</p>
-
-<p><img alt="height for coffee cultivation" src="https://shop.tastycoffee.ru/files/shares/data/blog/terroir/high.jpg" /><br />
-<small>Один из самых высокогорных кофе растёт в Йемене на высотах от 2000 до 2500 метров</small></p>
-
-<div>
-<p dir="ltr">Робуста не такая прихотливая, как арабика. Она хорошо растёт на небольшой высоте и в не самых идеальных условиях. Но вкус у неё менее интересный &mdash; более землистый, без кислотности&nbsp;и с яркой горечью. Но это не значит, что робуста плохая, у неё тоже есть свои приверженцы. Прочитайте&nbsp;<a href="https://shop.tastycoffee.ru/blog/raznitsa-mezhdu-arabikoi-i-robustoi" target="_blank">подробнее о разнице между арабикой и робустой</a>.</p>
-
-<h4 dir="ltr"><strong>Обобщим</strong></h4>
-
-<p dir="ltr">Чтобы выращивать арабику, подойдут два варианта климата:</p>
-
-<ol>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">Субтропические регионы в 16-24&deg; от экватора. Дождливый и сухой сезоны должны быть чётко определены, а высота плантации 600-1200 метров. В таком климате растёт кофе из Мексики, Ямайки, Зимбабве и 80% кофе из Бразилии.</span></p>
-	</li>
-	<li dir="ltr">
-	<p dir="ltr"><span style="color:#000000;">Экваториальные области в широтах до 10&deg; от Экватора и на высоте 1100&ndash;1900 метров. В таких условиях растёт самый высококачественный кофе, которому присваивают класс спешелти. А из-за частых осадков, которые вызывают почти непрерывное цветение, в Кении и Колумбии урожай собирают два раза в год.</span></p>
-	</li>
-</ol>
-
-<p dir="ltr">Плантации робусты растут на широте 10&deg; к Югу и Северу от экватора на высоте 0&ndash;600 метров над уровнем моря. Этот кофе простой и неприхотливый к климатическим условиям.</p>
-
-<p dir="ltr">Не только терруар влияет на вкус кофе. Вместе с ним влияет разновидность зерна, способ и качество обработки, способ хранения и транспортировки, степень обжарки, <a href="https://shop.tastycoffee.ru/blog/kak-vibrat-vodu-dlya-kofe" target="_blank">качество воды</a> и способ приготовления. Это целый мир, про который снимают фильмы и пишут книги. И мы тоже напишем.</p>
-</div>
-</div>
-</div>
-</div>
+<p dir="ltr">Джутовые мешки хоть и&nbsp;экономичный вариант, но&nbsp;они плохо справляются со&nbsp;своей задачей. А&nbsp;вакуумная упаковка&nbsp;&mdash; самый надёжный, но&nbsp;дорогой вид упаковки, который увеличивает кофе в&nbsp;цене.</p>
                                 </div>
                                                                                                                                                     <div class="article-banner-another">
-                                            <a href="https://shop.tastycoffee.ru/blog/osobennosti-kofe-v-kolumbii">
+                                            <a href="https://shop.tastycoffee.ru/blog/ot_chego_zavisit_urozhajnost">
                                                 <div class="article-banner-another-inner-block">
                                                     <div class="article-banner-another-cover"
-                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/osobennosti-kofe-v-kolumbii/image4.jpg)"
+                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/ot_chego_zavisit_urozhajnost/image6.png)"
                                                     ></div>
                                                     <div class="blk">
                                                         <p class="article-banner-another-top">
                                                             Вам может быть интересно:
                                                         </p>
                                                         <p class="article-banner-another-header">
-                                                            Производство кофе в Колумбии
+                                                            От чего зависит урожайность кофейных деревьев
                                                         </p>
                                                         <p class="article-banner-another-date">
-                                                            02 фев 2019
+                                                            24 янв 2023
                                                             ·
                                                             12 мин. на чтение
                                                         </p>
                                                     </div>
-                                                    <a class="interestingFavorite blog-link-favorite-67 "
-                                                       onclick="setBlogFavorite(this, 67); return false;"
+                                                    <a class="interestingFavorite blog-link-favorite-508 "
+                                                       onclick="setBlogFavorite(this, 508); return false;"
                                                     >
                                                         <img class="fav-inner-theme"
                                                              src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -951,13 +887,13 @@
                                                                                                     <div class="article-info ">
                                     <div class="row" style="display: flex; padding: 0px;">
                                         <div class="col-lg-3" style="padding-left: 0px;">
-                                            <a class="blog-link-like-7  article-info-inner like-finger"
-                                               onclick="setBlogLike(this, 7); return false;"
+                                            <a class="blog-link-like-26  article-info-inner like-finger"
+                                               onclick="setBlogLike(this, 26); return false;"
                                                href="#">
                                                 <img src="/assets/site/img/journal/like-active.svg" alt=""
                                                      class="blog-icon-active">
                                                 <img src="/assets/site/img/journal/like-finger.svg" alt="">
-                                                <span class="count-like-7">33</span>
+                                                <span class="count-like-26">9</span>
                                             </a>
                                         </div>
                                         <div class="col-lg-9" style="padding-right: 0px;">
@@ -965,10 +901,10 @@
                                                 <p class="article-info-inner views-info">
                                                     <img src="/assets/site/img/journal/eye-article.svg"
                                                          alt="">
-                                                    65598 просмотров
+                                                    47024 просмотра
                                                 </p>
-                                                <a class="blog-link-favorite-7  article-info-inner article-fav-bottom"
-                                                   onclick="setBlogFavorite(this, 7); return false;"
+                                                <a class="blog-link-favorite-26  article-info-inner article-fav-bottom"
+                                                   onclick="setBlogFavorite(this, 26); return false;"
                                                    href="#">
                                                     <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                                                     <img src="/assets/site/img/journal/fav-active.svg" alt=""
@@ -978,7 +914,7 @@
                                                                                                     <a class="article-info-inner article-comm-bottom clickBlogComments countComment"
                                                        href="#reviews">
                                                         <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                                        7 комментариев
+                                                        3 комментария
                                                     </a>
                                                                                                 <div class="social">
                                                     <div class="ya-share2" data-services="vkontakte,telegram"
@@ -1019,24 +955,24 @@
                                                                                                                                 <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/sem-factov-o-botanike-kofe/image1.png)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kak-fermery-upravlyaut-fermentaciey/image10.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/sem-factov-o-botanike-kofe" class="absLink"></a>
-            <a class="fav blog-link-favorite-248 "
-               onclick="setBlogFavorite(this, 248); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/kak-fermery-upravlyaut-fermentaciey" class="absLink"></a>
+            <a class="fav blog-link-favorite-315 "
+               onclick="setBlogFavorite(this, 315); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/sem-factov-o-botanike-kofe">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kak-fermery-upravlyaut-fermentaciey">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    41.6K
+                    22.7K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/sem-factov-o-botanike-kofe#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">20
+                   href="https://shop.tastycoffee.ru/blog/kak-fermery-upravlyaut-fermentaciey#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">0
                 </a>
             </div>
         </div>
@@ -1046,17 +982,17 @@
                href="https://shop.tastycoffee.ru/blog/botanika-kofe">
                 Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/sem-factov-o-botanike-kofe">
+                <a href="https://shop.tastycoffee.ru/blog/kak-fermery-upravlyaut-fermentaciey">
             <p class="main-article-header">
-                Семь фактов о ботанике кофе, которые вас удивят
+                Как фермеры управляют ферментацией кофе
             </p>
             <div class="main-article-subheader">
-                А вы знали, что корни кофейных деревьев простираются на 20–25 км?
+                Текст подготовлен на основе статьи Жизель Гуэйрра
             </div>
 
         </a>
         <p class="main-article-descr">
-            23 июл 2020 · 5 мин. на чтение
+            18 мар 2021 · 11 мин. на чтение
         </p>
     </div>
 </div>
@@ -1064,24 +1000,24 @@
                                                                                                                                 <div class="col-lg"
                                                   style="margin-left: 20px; margin-right: 20px;" >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/chto-takoe-cascara/image3.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/nauchniy-podhod-k-fermentacii/image2.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/chto-takoe-cascara" class="absLink"></a>
-            <a class="fav blog-link-favorite-85 "
-               onclick="setBlogFavorite(this, 85); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/nauchniy-podhod-k-fermentacii" class="absLink"></a>
+            <a class="fav blog-link-favorite-412 "
+               onclick="setBlogFavorite(this, 412); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/chto-takoe-cascara">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/nauchniy-podhod-k-fermentacii">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    67.8K
+                    13.9K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/chto-takoe-cascara#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">8
+                   href="https://shop.tastycoffee.ru/blog/nauchniy-podhod-k-fermentacii#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">18
                 </a>
             </div>
         </div>
@@ -1091,17 +1027,17 @@
                href="https://shop.tastycoffee.ru/blog/botanika-kofe">
                 Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/chto-takoe-cascara">
+                <a href="https://shop.tastycoffee.ru/blog/nauchniy-podhod-k-fermentacii">
             <p class="main-article-header">
-                Каскара — тренд или отходы производства?
+                Научный подход к ферментации кофе на примере фермера из Колумбии
             </p>
             <div class="main-article-subheader">
-                Напиток из каскары, высушенной кофейной мякоти, называют кофейным чаем, хотя по вкусу он больше похож на компот. Мы выяснили, что такое каскара, почему ее цена в 2 раза превышает цену кофе и насколько напиток из нее безопасен для здоровья.
+                Чаще всего ферментация — это процедура, в основе которой лежит опыт. Но в этом случае еще и наука
             </div>
 
         </a>
         <p class="main-article-descr">
-            08 мая 2019 · 5 мин. на чтение
+            24 фев 2022 · 9 мин. на чтение
         </p>
     </div>
 </div>
@@ -1109,24 +1045,24 @@
                                                                                                                                 <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/stenofilla-vid/image3.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kak-raspoznat-raznovidnost-na-ferme/image2.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/stenofilla-vid" class="absLink"></a>
-            <a class="fav blog-link-favorite-347 "
-               onclick="setBlogFavorite(this, 347); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/kak-raspoznat-raznovidnost-na-ferme" class="absLink"></a>
+            <a class="fav blog-link-favorite-304 "
+               onclick="setBlogFavorite(this, 304); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/stenofilla-vid">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kak-raspoznat-raznovidnost-na-ferme">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    23.4K
+                    22K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/stenofilla-vid#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">6
+                   href="https://shop.tastycoffee.ru/blog/kak-raspoznat-raznovidnost-na-ferme#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">1
                 </a>
             </div>
         </div>
@@ -1136,17 +1072,17 @@
                href="https://shop.tastycoffee.ru/blog/botanika-kofe">
                 Выращивание
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/stenofilla-vid">
+                <a href="https://shop.tastycoffee.ru/blog/kak-raspoznat-raznovidnost-na-ferme">
             <p class="main-article-header">
-                Стенофилла. Сможет ли забытый вид обеспечить нас вкусным кофе
+                Как избежать ошибок при распознавании разновидностей на ферме
             </p>
             <div class="main-article-subheader">
-                Потерянный вид кофе, который снова нашли и удивились
+                Текст подготовлен на основе статьи Николаса Кастеллано
             </div>
 
         </a>
         <p class="main-article-descr">
-            12 июл 2021 · 8 мин. на чтение
+            08 фев 2021 · 7 мин. на чтение
         </p>
     </div>
 </div>
@@ -1167,101 +1103,14 @@
 </div>
                                                                     </div>
                                 <div class="post-list for_paginate">
-                                    <div class="item social_post_item" id="blog_review_9485">
+                                    <div class="item social_post_item" id="blog_review_7782">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/dcdf1438-5c53-47ed-bf35-0ed96e4f34a7">
-                                            <div class="post-list__header--img">М</div>
+                            <a href="https://shop.tastycoffee.ru/profile/1cffb348-4a82-45d4-a5d2-3a0a45cd7200">
+                                            <div class="post-list__header--img">Н</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/dcdf1438-5c53-47ed-bf35-0ed96e4f34a7">Максим (г. Северодвинск)</a>
-                    </p>
-                    <p class="level">Новичок</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9485); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Про высоту произрастания интересно
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9485, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(9485, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=9485">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=9485&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=9485&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">5 дней назад</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_8387">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/67d70eb9-eed7-412e-9956-e1b1d077afce">
-                                            <div class="post-list__header--img">А</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/67d70eb9-eed7-412e-9956-e1b1d077afce">Анастасия (г. Москва)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/1cffb348-4a82-45d4-a5d2-3a0a45cd7200">Наталья (г. Кольцово)</a>
                     </p>
                     <p class="level">Любитель</p>
                 </div>
@@ -1271,7 +1120,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8387); return false;"
+                                   onclick="blogReviewAddReport(this, 7782); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1283,15 +1132,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                интересная статья, поняла, зачем указывают высоту произрастания
+                Интересная статья!
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8387, this); return false;"
+                <a href="#" onclick="blogCommentLike(7782, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(8387, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(7782, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1302,7 +1151,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8387">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/upakovka-kofe-export?comment=7782">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1310,7 +1159,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8387&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/upakovka-kofe-export?comment=7782&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1318,7 +1167,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8387&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/upakovka-kofe-export?comment=7782&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1334,21 +1183,21 @@
 
 
 
-                <p class="time">31.01.2023</p>
+                <p class="time">06.01.2023</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_8186">
+    <div class="item social_post_item" id="blog_review_48">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/c20fa291-88ac-44fb-9eed-92dd4ef46510">
+                            <a href="https://shop.tastycoffee.ru/profile/3d71407b-6875-4551-bb8e-420bcf962d17">
                                             <div class="post-list__header--img">А</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/c20fa291-88ac-44fb-9eed-92dd4ef46510">Андрей (г. Санкт-Петербург)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/3d71407b-6875-4551-bb8e-420bcf962d17">Александр (г. Москва)</a>
                     </p>
                     <p class="level">Новичок</p>
                 </div>
@@ -1358,7 +1207,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8186); return false;"
+                                   onclick="blogReviewAddReport(this, 48); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1370,26 +1219,26 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Спасибо, емко и содержательно.
+                Уже больше года заказываю ваш кофе. А нельзя ли приобрести у вас несколько джутовых мешков от кофе?
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8186, this); return false;"
+                <a href="#" onclick="blogCommentLike(48, this); return false;"
                    class="btn-like-up "
                 >
-                    <span class="ic">ic</span> <span class="value">0</span>
+                    <span class="ic">ic</span> <span class="value">1</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(8186, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(48, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
                 <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                    <span class="ic">ic</span> <span class="value count_reviews_text">1</span>
                 </a>
                 <div class="btn-share">
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8186">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/upakovka-kofe-export?comment=48">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1397,7 +1246,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8186&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/upakovka-kofe-export?comment=48&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1405,7 +1254,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=8186&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/upakovka-kofe-export?comment=48&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1421,201 +1270,47 @@
 
 
 
-                <p class="time">23.01.2023</p>
+                <p class="time">07.03.2018</p>
             </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_6038">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_167061_1663528532.png">
+                        <div class="post-list__body--comment" >
+                                <div class="item-comment main moder"
+         id="blog_review_49">
+        <div class="review review-block">
+                            <a href="https://shop.tastycoffee.ru/profile/12a8197b-4280-42e6-bdf9-315003564043">
+                                            <img class="avatar"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_9360_1567403210.png">
                                     </a>
-                <div class="post-list__header--name">
+                <div class="name-wrap">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/5b98b3d2-27a3-4ad6-8a4b-97c20146ffe8">Ирина (г. Москва)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/12a8197b-4280-42e6-bdf9-315003564043">Юлия (г. Ижевск)</a>
                     </p>
-                    <p class="level">Эксперт</p>
+                    <p class="text-gray">Команда Tasty Coffee</p>
                 </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 6038); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
+                        <p class="date">13.03.2018</p>
+            <div class="text">
+                Добрый день, Александр! Спасибо за выбор нашего кофе. Пожалуйста, оставьте к Вашему следующему заказу комментарий с пожеланием получить джутовые мешки. Мы постараемся вложить их в посылку.
             </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Очень интересная и нужная статья, особенно для тех, кто только начинает свое путешествие в мир кофе! Спасибо!
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(6038, this); return false;"
-                   class="btn-like-up "
-                >
+                        <div class="response btn-like">
+                <a href="#" onclick="blogCommentLike(49, this); return false;"
+                   class="btn-like-up ">
+                    <span class="ic">ic</span> <span class="value">3</span>
+                </a>
+                <a href="#" onclick="blogCommentDislike(49, this); return false;"
+                   class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(6038, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=6038">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=6038&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=6038&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">26.09.2022</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
+                            </div>
+                                </div>
+        <div class="reviewChild-block">
+                    </div>
     </div>
-    <div class="item social_post_item" id="blog_review_5756">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/38f63974-961f-47a3-bb48-344ecba59694">
-                                            <div class="post-list__header--img">А</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/38f63974-961f-47a3-bb48-344ecba59694">Андрей (г. Краснодар)</a>
-                    </p>
-                    <p class="level">Продвинутый</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 5756); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
             </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Супер инфа
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(5756, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(5756, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=5756">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=5756&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/kak-klimat-plantacii-vliyaet-na-vkus-kofe?comment=5756&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">04.09.2022</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
         </div>
 
     </div>
     <hr>
     <div class="pagination-block">
-        <div class="pagination-wrap">
-                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/7?page=2','more');return false;">
-                <span class="load-ic ic"></span>
-                Загрузить больше
-            </a>
-                <ul class="pagination">
-                                                                                                                    <li class="active" ><span>1</span></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/7?page=2', '', true);return false;">2</a></li>
-                                                                                </ul>
-    </div>
-
+        
     </div>
                                 </div>
 

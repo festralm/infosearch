@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="aqCYzJJo9ksZzKKPZnk3FNUes6SUao5jfcKXCm7x">
+    <meta name="csrf-token" content="NFg1eZqC7eloEdnQSUDiMhnYfDjlhtreIL9n6TWh">
     <title>Аксессуары для кофе, интернет магазин чая и кофе</title>
     <meta name="description" content="Аксессуары для кофе: фирменные чашки для кофе американо, капучино, эспрессо, френч-прессы, турки из меди, турки из керамики, банки для кофе, чистящие средства для кофемашин от 190 руб в нашем интернет-магазине чая и кофе.">
     <meta name="keywords" content="Аксессуары для кофе, интернет-магазин кофе, кофе купить интернет-магазин, чашки для кофе, чистящее средство для кофемашин порошок">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="aqCYzJJo9ksZzKKPZnk3FNUes6SUao5jfcKXCm7x">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="NFg1eZqC7eloEdnQSUDiMhnYfDjlhtreIL9n6TWh">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="aqCYzJJo9ksZzKKPZnk3FNUes6SUao5jfcKXCm7x"
+                     data-_token="NFg1eZqC7eloEdnQSUDiMhnYfDjlhtreIL9n6TWh"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="aqCYzJJo9ksZzKKPZnk3FNUes6SUao5jfcKXCm7x">        </form>
+            <input type="hidden" name="_token" value="NFg1eZqC7eloEdnQSUDiMhnYfDjlhtreIL9n6TWh">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             

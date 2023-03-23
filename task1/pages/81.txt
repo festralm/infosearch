@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="mvYMOMgkbHsTgWhfZt7eKTwzMuzr1inMfqiSnex2">
-    <title>Руководство по приготовлению кофе в пуровере</title>
-    <meta name="description" content="Пуровер — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иногда этот метод так и называют — «воронка». Иногда V60 или Hario в честь наиболее популярного производителя воронок. Рассказываем, как его приготовить.">
-    <meta name="keywords" content="Пуровер, V60, в60, воронка, харио, альтернатива, кофе, спешелти, арабика, hario">
+    <meta name="csrf-token" content="1Iz9UiV15nf0zvk9TXJQ9bnrwhw6HuggokqJAREt">
+    <title>Руководство по приготовлению кофе в аэропрессе</title>
+    <meta name="description" content="Аэропресс — это метод, при котором вода проходит через кофе под давлением руки. Рассказываем об этом подробнее.">
+    <meta name="keywords" content="Аэропресс, кофе, арабика, спешелти">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/guide-pourover"/>
-    <meta property="og:title" content="Руководство по приготовлению кофе в пуровере"/>
-    <meta property="og:description" content="Пуровер — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иногда этот метод так и называют — «воронка». Иногда V60 или Hario в честь наиболее популярного производителя воронок. Рассказываем, как его приготовить."/>
-    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/main2.jpg"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/guide-aeropress"/>
+    <meta property="og:title" content="Руководство по приготовлению кофе в аэропрессе"/>
+    <meta property="og:description" content="Аэропресс — это метод, при котором вода проходит через кофе под давлением руки. Рассказываем об этом подробнее."/>
+    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/main.jpg"/>
     <meta property="og:type" content="article"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/guide-pourover"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/guide-aeropress"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="mvYMOMgkbHsTgWhfZt7eKTwzMuzr1inMfqiSnex2">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="1Iz9UiV15nf0zvk9TXJQ9bnrwhw6HuggokqJAREt">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="mvYMOMgkbHsTgWhfZt7eKTwzMuzr1inMfqiSnex2"
+                     data-_token="1Iz9UiV15nf0zvk9TXJQ9bnrwhw6HuggokqJAREt"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="mvYMOMgkbHsTgWhfZt7eKTwzMuzr1inMfqiSnex2">        </form>
+            <input type="hidden" name="_token" value="1Iz9UiV15nf0zvk9TXJQ9bnrwhw6HuggokqJAREt">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -727,10 +727,10 @@
                             <meta itemprop="position" content="2"/>
                         </li>
                                                                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="https://shop.tastycoffee.ru/blog/guide-pourover"
+                                <a href="https://shop.tastycoffee.ru/blog/guide-aeropress"
                                    itemtype="http://schema.org/Thing"
                                    itemprop="item">
-                                    <span itemprop="name">Руководство по приготовлению кофе в пуровере</span>
+                                    <span itemprop="name">Руководство по приготовлению кофе в аэропрессе</span>
                                 </a>
                                 <meta itemprop="position" content="3"/>
                             </li>
@@ -743,25 +743,25 @@
 
                                     <a href="https://shop.tastycoffee.ru/blog" class="greyLink indent desNone">Ко всем статьям</a>
                 
-                <h1 class="indent article-header">Руководство по приготовлению кофе в пуровере</h1>
+                <h1 class="indent article-header">Руководство по приготовлению кофе в аэропрессе</h1>
                                     <div class="article-leadtext">
-                        <p>Пуровер — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иногда этот метод так и называют — «воронка». Иногда V60 или Hario в честь наиболее популярного производителя воронок. Рассказываем, как его приготовить.</p>
+                        <p>Аэропресс — это метод, при котором вода проходит через кофе под давлением руки. Рассказываем об этом подробнее.</p>
                     </div>
                             </div>
             <div class="article-info" style="border-bottom: 0px;">
                                     <p class="article-info-inner time">
                         <img src="/assets/site/img/journal/clock.svg" alt="">
-                        4 мин. на чтение
+                        3 мин. на чтение
                     </p>
                     <p class="article-info-inner views-info">
                         <img src="/assets/site/img/journal/eye-article.svg" alt="">
-                        176187 просмотров
+                        112245 просмотров
                     </p>
                                 <div class="article-info-right">
                     <p class="article-info-inner article-fav">
                         <a href="#"
-                           class="blog-link-favorite-52 "
-                           onclick="setBlogFavorite(this, 52); return false;">
+                           class="blog-link-favorite-53 "
+                           onclick="setBlogFavorite(this, 53); return false;">
                             <img src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
                             <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                             В закладки
@@ -770,7 +770,7 @@
                                             <p class="article-info-inner article-comm">
                             <a href="#reviews" class="clickBlogComments countComment">
                                 <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                74 комментария
+                                66 комментариев
                             </a>
                         </p>
                                     </div>
@@ -779,12 +779,12 @@
         <div class="row">
             <div class="col-v10" style="padding-right: 0px;">
                 <div class="article-content">
-                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/main2.jpg)"></div>
+                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/main.jpg)"></div>
                     <div class="row" style="display: flex; padding: 0px;">
                         <div class="col-lg-1" style="padding-left: 0px;">
                             <div class="soc-block">
-                                <a class="blog-link-like-52  article-like socials "
-                                   onclick="setBlogLike(this, 52); return false;"
+                                <a class="blog-link-like-53  article-like socials "
+                                   onclick="setBlogLike(this, 53); return false;"
                                 >
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-active.svg"
                                          alt=""
@@ -792,8 +792,8 @@
                                     <img style="margin-left: 15px;" src="/assets/site/img/journal/like-finger.svg"
                                          alt="">
                                 </a>
-                                <a class="blog-link-favorite-52  article-like socials"
-                                   onclick="setBlogFavorite(this, 52); return false;"
+                                <a class="blog-link-favorite-53  article-like socials"
+                                   onclick="setBlogFavorite(this, 53); return false;"
                                 >
                                     <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
                                          src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -809,13 +809,7 @@
                             <div class="article-text">
 
                                 <div class="article-text-content" id="article-for-load">
-                                    <p dir="ltr">Пуровер — это альтернативный метод заваривания кофе, в котором используется специальная воронка. Иногда этот метод так и называют — «воронка». Иногда V60 или Hario в честь наиболее популярного производителя воронок.</p>
-
-<p dir="ltr">Воронки для пуровера делают разные производители из разных материалов: пластика, керамики или стекла, разных форм и размеров. Но в России наиболее популярны пуроверы японской фирмы Hario.</p>
-
-<p dir="ltr">Процесс приготовления кофе в пуровере напоминает приготовление в кемексе, но всё же немного отличается, из-за чего вкус получается другим.</p>
-
-<p dir="ltr">Пуровер, как и любые фильтр-способы заваривания, хорошо помогает раскрывать цветочные, ягодные и фруктовые ароматы.</p>
+                                    <p dir="ltr">Главная особенность аэропресса в том, что при заваривании вода проходит через кофе под небольшим давлением, которое создаётся при нажатии рукой на поршень. Благодаря бумажному фильтру напиток получается чистым и прозрачным, а благодаря давлению — более плотным, чем капельные методы заваривания. Существует два способа приготовления кофе в аэропрессе: прямой и перевернутый. Но в нашем руководстве мы разберем только прямой метод. </p>
 
 <p dir="ltr">Перед приготовлением кофе рекомендуем узнать <a href="https://shop.tastycoffee.ru/blog/obshie-recomendacii-po-prigotovleniu">об основных факторах, которые влияют на вкус кофе вне зависимости от способа приготовления.</a></p>
 
@@ -823,13 +817,13 @@
 
 <p>Обязательно:</p>
 
-<p>1. <a href="https://shop.tastycoffee.ru/coffee?methods=3a,4a&amp;page=1" target="_blank">Кофе</a> в зернах или молотый.</p>
+<p>1. <a href="https://shop.tastycoffee.ru/coffee?methods=3a,4a&amp;page=1" target="_blank">Кофе</a> в зернах или молотый.</p>
 
-<p>2. <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic" target="_blank">Пуровер</a>.</p>
+<p>2. <a href="https://shop.tastycoffee.ru/accessories/aeropress" target="_blank">Аэропресс</a>.</p>
 
-<p>3. Бумажные <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02" target="_blank">фильтры</a>.</p>
+<p>3. Бумажные <a href="https://shop.tastycoffee.ru/accessories/filter-aeropress" target="_blank">фильтры</a>.</p>
 
-<p>4. Горячая <a href="https://shop.tastycoffee.ru/blog/kak-vibrat-vodu-dlya-kofe" target="_blank">вода</a>. </p>
+<p>4. Горячая <a href="https://shop.tastycoffee.ru/blog/kak-vibrat-vodu-dlya-kofe" target="_blank">вода</a>. </p>
 
 <p>Желательно: </p>
 
@@ -839,81 +833,63 @@
 
 <p>3. Таймер.</p>
 
-<p>4. <a href="https://shop.tastycoffee.ru/accessories/kettle-timemore-fishsmart" target="_blank">Чайник</a> с тонким носиком.</p>
-
 <h4 dir="ltr"><strong>Степень помола</strong></h4>
 
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image1.jpg" /></p>
+<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/image1.jpg" /></p>
 
-<p dir="ltr">Помол для пуровера нужен средний: крупнее, чем для эспрессо, но мельче, чем для френч-пресса. Мы рекомендуем экспериментировать с размером помола, чтобы добиться идеального вкуса.</p>
+<p dir="ltr">Помол для аэропресса нужен чуть мельче среднего — по виду он должен быть между помолами для эспрессо и пуровера. Тем не менее, аэропресс больше других методов позволяет экспериментировать с помолом, поэтому в зависимости от результата, можно его подстраивать, меняя таким образом вкус.</p>
 
 <h4 dir="ltr"><strong>Дозировка кофе</strong></h4>
 
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image2.jpg" /></p>
-
-<p dir="ltr">Стандартная дозировка кофе для воронки V60 на 1 чашку — 15 грамм на 250 мл воды. Оптимальное соотношение количества молотого кофе к весу готового напитка всегда должно оставаться одним — 60 грамм кофе на 1 литр воды. Мы не рекомендуем отмерять кофе на глаз, потому что малейшие отклонения в пропорциях значительно влияют на результат. Чтобы результат был стабильным, лучше всего перед каждым приготовлением взвешивать его на весах с шагом 0,1 г.</p>
-
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image3.jpg" /></p>
-
-<p dir="ltr">При изменении количества кофе, обязательно нужно будет подстроить помол, так как скорость пролива в этом случае тоже изменится. Чем больше кофе вы используете — тем крупнее должен быть помол.</p>
+<p dir="ltr">Оптимальная дозировка кофе — 18 г. Вы можете экспериментировать, пробовать разные варианты и ориентироваться на вкус.</p>
 
 <h4 dir="ltr"><strong>Температура воды</strong></h4>
 
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image5.jpg" /></p>
+<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/image2.jpg" /></p>
 
-<p dir="ltr">Оптимальная температура для приготовления кофе в пуровере — 93—95°С. Чтобы добиться такой температуры, нужно довести воду до кипения, а затем остудить в течение минуты, использовать хороший градусник для воды или чайник с датчиком температуры.</p>
-
-<h4 dir="ltr"><strong>Распределение кофе в бумажном фильтре</strong></h4>
-
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image4.jpg" /></p>
-
-<p dir="ltr">Ещё до того, как засыпать молотый кофе в бумажный фильтр, мы рекомендуем пролить через него 100–200 мл горячей воды и вылить её. Это нужно, чтобы удалить возможный привкус бумаги.</p>
-
-<p dir="ltr">После этого засыпьте кофе в фильтр и слегка встряхните воронку, чтобы равномерно распределить кофе.</p>
-
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image6.jpg" /></p>
-
-<h4 dir="ltr"><strong>Предсмачивание</strong></h4>
-
-<p dir="ltr"><img alt="" src="https://shop.tastycoffee.ru/files/shares/data/blog/guide-pourover/image8.jpg" />Первый этап вливания воды — предсмачивание. Оно помогает улучшить вкус кофе и сделать экстракцию более стабильной. Для вливания мы рекомендуем использовать чайник с тонким носиком, так регулировать поток воды будет намного проще. </p>
-
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image8.jpg" /></p>
-
-<p dir="ltr">Нужно поставить пуровер на весы и обнулить их, затем запустить таймер и аккуратно смочить кофе небольшим объемом воды. Объём воды для предсмачивания обычно считают по тройному коэффициенту относительно веса самого кофе. Если вы используете 15 грамм кофе, то влить нужно 45 грамм воды. Если вы используете больше кофе, чем обычно, например, 30 грамм, то и вес воды для предсмачивания нужно будет увеличить до 90 мл.</p>
-
-<p dir="ltr">После вливания нужно подождать 30 секунд, пока вся вода не впитается в кофе. Когда это произойдет, можно приступать к приготовлению.</p>
+<p dir="ltr">Оптимальная температура для приготовления кофе в аэропрессе — 90 °С. Для этого можно довести воду до кипения, а затем дать ей остыть в течение одной-двух минут. Здесь нужно отметить, что Алан Адлер, изобретатель аэропресса, рекомендует использовать воду температурой 80 °С. Но в большинстве случаев все-таки используют температуру 90 °С.</p>
 
 <h4 dir="ltr"><strong>Вливание воды</strong></h4>
 
-<p dir="ltr">После предсмачивания нужно аккуратно начать вливать воду в кофе круговыми движениями по часовой стрелке, начиная из центра и продвигаясь ближе к краям, пока общий вес воды не достигнет нужного значения.</p>
+<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/image4.jpg" /></p>
 
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-pourover/new/image9.jpg" /></p>
+<p dir="ltr">Перед тем, как установить сетку с бумажным фильтром в аэропресс, пролейте через фильтр немного горячей воды, чтобы избавиться от возможного привкуса бумаги, а затем засыпьте молотый кофе в аэропресс.</p>
 
-<p dir="ltr">Существует два основных способа вливания воды: интервальный и единовременный. Единовременный метод — когда воду вливают за один раз, интервальный метод — определёнными порциями за несколько раз. Интервальный метод помогает усилить экстракцию и извлечь больше веществ из кофе.</p>
+<p dir="ltr">Для более полной экстракции мы рекомендуем вливать воду в два этапа.</p>
 
-<p dir="ltr">В зависимости от выбранного метода вливания и объема кофе, общее время заваривания может варьироваться от 2,5 до 4 минут. В конце нужно выкинуть использованный фильтр с кофе, взболтать напиток для насыщения кислородом и наслаждаться вкусом!</p>
+<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/image5.jpg" /></p>
+
+<p dir="ltr">Сначала влить треть от всего объема воды по отношению кофе, то есть на 18 г кофе можно взять 50–60 мл воды и подождать 30 секунд, а затем залить оставшуюся воду. Если общий объем воды равен 180 мл, то нужно влить остаток — 120–130 мл воды и установить поршень сверху на место, но сделать небольшое обратное вытягивающее движение, чтобы вода не протекала через фильтр вниз. В таком положении аэропресс нужно оставить еще на 40 секунд.</p>
+
+<h4 dir="ltr"><strong>Давление на поршень</strong></h4>
+
+<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-aeropress/new/image6.jpg" /></p>
+
+<p dir="ltr">После окончания предсмачивания и заваривания снимите поршень и перемешайте кофе, а затем установите его обратно и, сохраняя постоянное давление, плавно опускайте поршень в течение 20-30 секунд, пока вся вода не попадает в чашку.</p>
+
+<p dir="ltr">В самом конце нужно выкинуть использованный фильтр с кофе и наслаждаться напитком!</p>
                                 </div>
                                                                                                                                                     <div class="article-banner-another">
-                                            <a href="https://shop.tastycoffee.ru/blog/guide-mokka">
+                                            <a href="https://shop.tastycoffee.ru/blog/guide-cezve">
                                                 <div class="article-banner-another-inner-block">
                                                     <div class="article-banner-another-cover"
-                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-mokka/new/main.jpg)"
+                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-cezve/new/main.jpg)"
                                                     ></div>
                                                     <div class="blk">
                                                         <p class="article-banner-another-top">
                                                             Вам может быть интересно:
                                                         </p>
                                                         <p class="article-banner-another-header">
-                                                            Руководство по приготовлению кофе в гейзерной кофеварке
+                                                            Руководство по приготовлению кофе в турке
                                                         </p>
                                                         <p class="article-banner-another-date">
-                                                            28 янв 2019
+                                                            06 фев 2019
                                                             ·
                                                             2 мин. на чтение
                                                         </p>
                                                     </div>
-                                                    <a class="interestingFavorite blog-link-favorite-62 "
-                                                       onclick="setBlogFavorite(this, 62); return false;"
+                                                    <a class="interestingFavorite blog-link-favorite-63 "
+                                                       onclick="setBlogFavorite(this, 63); return false;"
                                                     >
                                                         <img class="fav-inner-theme"
                                                              src="/assets/site/img/journal/fav-theme.svg" alt="">
@@ -927,13 +903,13 @@
                                                                                                     <div class="article-info ">
                                     <div class="row" style="display: flex; padding: 0px;">
                                         <div class="col-lg-3" style="padding-left: 0px;">
-                                            <a class="blog-link-like-52  article-info-inner like-finger"
-                                               onclick="setBlogLike(this, 52); return false;"
+                                            <a class="blog-link-like-53  article-info-inner like-finger"
+                                               onclick="setBlogLike(this, 53); return false;"
                                                href="#">
                                                 <img src="/assets/site/img/journal/like-active.svg" alt=""
                                                      class="blog-icon-active">
                                                 <img src="/assets/site/img/journal/like-finger.svg" alt="">
-                                                <span class="count-like-52">177</span>
+                                                <span class="count-like-53">78</span>
                                             </a>
                                         </div>
                                         <div class="col-lg-9" style="padding-right: 0px;">
@@ -941,10 +917,10 @@
                                                 <p class="article-info-inner views-info">
                                                     <img src="/assets/site/img/journal/eye-article.svg"
                                                          alt="">
-                                                    176187 просмотров
+                                                    112245 просмотров
                                                 </p>
-                                                <a class="blog-link-favorite-52  article-info-inner article-fav-bottom"
-                                                   onclick="setBlogFavorite(this, 52); return false;"
+                                                <a class="blog-link-favorite-53  article-info-inner article-fav-bottom"
+                                                   onclick="setBlogFavorite(this, 53); return false;"
                                                    href="#">
                                                     <img src="/assets/site/img/journal/fav-theme.svg" alt="">
                                                     <img src="/assets/site/img/journal/fav-active.svg" alt=""
@@ -954,7 +930,7 @@
                                                                                                     <a class="article-info-inner article-comm-bottom clickBlogComments countComment"
                                                        href="#reviews">
                                                         <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                                        74 комментария
+                                                        66 комментариев
                                                     </a>
                                                                                                 <div class="social">
                                                     <div class="ya-share2" data-services="vkontakte,telegram"
@@ -994,6 +970,51 @@
                                     <div class="row" style="display: flex; padding: 0px;">
                                                                                                                                 <div class="col-lg"
                                                  >
+                                                <div class="itemres new">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-espresso/main2.jpg)">
+        <div class="itemres-hover">
+            <a href="https://shop.tastycoffee.ru/blog/guide-espresso" class="absLink"></a>
+            <a class="fav blog-link-favorite-50 "
+               onclick="setBlogFavorite(this, 50); return false;"
+               href="#">
+                <img src="/assets/site/img/journal/fav.svg" alt="">
+                <img src="/assets/site/img/journal/fav-white.svg" alt=""
+                     class="blog-icon-active">
+            </a>
+            <div class="itemres-hover-date">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/guide-espresso">
+                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                    327.9K
+                </a>
+                <a class="itemres-hover-comm countComment"
+                   href="https://shop.tastycoffee.ru/blog/guide-espresso#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">167
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="main-article">
+                            <a class="theme-link"
+               href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">
+                Руководства по приготовлению
+            </a>
+                <a href="https://shop.tastycoffee.ru/blog/guide-espresso">
+            <p class="main-article-header">
+                Руководство по приготовлению эспрессо
+            </p>
+            <div class="main-article-subheader">
+                Эспрессо — сложный и интересный напиток. Его считают одним из самых привередливых к условиям приготовления и навыкам бариста. Чтобы приготовить вкусный эспрессо, нужно внимательно выбирать зерно, следить за чистотой оборудования, давлением и температурой воды, дозировкой кофе, темперовкой и временем приготовления. Рассказываем об этом подробнее.
+            </div>
+
+        </a>
+        <p class="main-article-descr">
+            12 дек 2018 · 10 мин. на чтение
+        </p>
+    </div>
+</div>
+                                            </div>
+                                                                                                                                <div class="col-lg"
+                                                  style="margin-left: 20px; margin-right: 20px;" >
                                                 <div class="itemres new">
     <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/rukovodstvo-po-prigotovlenitu-drip-kofe/image4.jpg)">
         <div class="itemres-hover">
@@ -1038,71 +1059,26 @@
 </div>
                                             </div>
                                                                                                                                 <div class="col-lg"
-                                                  style="margin-left: 20px; margin-right: 20px;" >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-mokka/new/main.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/guide-mokka" class="absLink"></a>
-            <a class="fav blog-link-favorite-62 "
-               onclick="setBlogFavorite(this, 62); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/guide-mokka">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    178.2K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/guide-mokka#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">204
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">
-                Руководства по приготовлению
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/guide-mokka">
-            <p class="main-article-header">
-                Руководство по приготовлению кофе в гейзерной кофеварке
-            </p>
-            <div class="main-article-subheader">
-                Гейзерная кофеварка — один из наиболее простых способов приготовить кофе дома. Рассказываем, как правильно это делать.
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            28 янв 2019 · 2 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
-                                                                                                                                <div class="col-lg"
                                                  >
                                                 <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-cezve/new/main.jpg)">
+    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/guide-filter/new/main.jpg)">
         <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/guide-cezve" class="absLink"></a>
-            <a class="fav blog-link-favorite-63 "
-               onclick="setBlogFavorite(this, 63); return false;"
+            <a href="https://shop.tastycoffee.ru/blog/guide-filter" class="absLink"></a>
+            <a class="fav blog-link-favorite-57 "
+               onclick="setBlogFavorite(this, 57); return false;"
                href="#">
                 <img src="/assets/site/img/journal/fav.svg" alt="">
                 <img src="/assets/site/img/journal/fav-white.svg" alt=""
                      class="blog-icon-active">
             </a>
             <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/guide-cezve">
+                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/guide-filter">
                     <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    634.7K
+                    165.4K
                 </a>
                 <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/guide-cezve#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">183
+                   href="https://shop.tastycoffee.ru/blog/guide-filter#reviews">
+                    <img src="/assets/site/img/journal/comm.svg" alt="">59
                 </a>
             </div>
         </div>
@@ -1112,17 +1088,17 @@
                href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">
                 Руководства по приготовлению
             </a>
-                <a href="https://shop.tastycoffee.ru/blog/guide-cezve">
+                <a href="https://shop.tastycoffee.ru/blog/guide-filter">
             <p class="main-article-header">
-                Руководство по приготовлению кофе в турке
+                Руководство по приготовлению кофе в капельной кофеварке
             </p>
             <div class="main-article-subheader">
-                Турка, Джезва, Ибрик — разные названия одного из старейших способов приготовления кофе. Кофе из турки получается очень плотным и крепким, за счёт отсутствия фильтрации, большого количества мельчайших частиц кофе, длительности приготовления и высокой температуры. Рассказываем, как его правильно готовить.
+                Из-за своего удобства и возможности приготовить много кофе за раз этот метод считается одним из самых популярных в мире. Мы считаем этот метод одним из самых удобных и практичных. Рассказываем, как приготовить кофе в капельной кофеварке.
             </div>
 
         </a>
         <p class="main-article-descr">
-            06 фев 2019 · 2 мин. на чтение
+            16 янв 2019 · 3 мин. на чтение
         </p>
     </div>
 </div>
@@ -1143,237 +1119,14 @@
 </div>
                                                                     </div>
                                 <div class="post-list for_paginate">
-                                    <div class="item social_post_item" id="blog_review_9588">
+                                    <div class="item social_post_item" id="blog_review_9326">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/77ddf982-df74-44a8-ac88-e5516abcf2b0">
-                                            <div class="post-list__header--img">Д</div>
+                            <a href="https://shop.tastycoffee.ru/profile/75bf1314-9002-409a-896c-fa85a64fd7c3">
+                                            <div class="post-list__header--img">В</div>
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/77ddf982-df74-44a8-ac88-e5516abcf2b0">Денис (г. Бишкек)</a>
-                    </p>
-                    <p class="level">Эксперт</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 9588); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                👍👍👍
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(9588, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">1</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(9588, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-pourover?comment=9588">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=9588&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=9588&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">12 часов назад</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_8969">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/932ed789-d02b-4374-bf3b-4852e412123a">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_9405_1677141193.png">
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/932ed789-d02b-4374-bf3b-4852e412123a">Евгений (г. Дубна)</a>
-                    </p>
-                    <p class="level">Продвинутый</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8969); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                В августе 2017-го друг открыл для меня Пуровер, за что ему безмерная благодарность. <br />
-Инициация прошла по всем канонам: правильный кофе и рецепт + церемониальная атмосфера + сопровождение голосом.<br />
-<br />
-С тех пор завариваю воронку почти каждый день, а то и по несколько раз в день. <br />
-Формирую новые кофейронные связи.
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8969, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">4</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(8969, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">2</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-pourover?comment=8969">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8969&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8969&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">23.02.2023</p>
-            </div>
-                        <div class="post-list__body--comment" >
-                                <div class="item-comment main "
-         id="blog_review_9442">
-        <div class="review review-block">
-                            <a href="https://shop.tastycoffee.ru/profile/ada47c96-b299-492a-92bb-5b0dadd59a9e">
-                                            <img class="avatar"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_91617_1642058884.png">
-                                    </a>
-                <div class="name-wrap">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/ada47c96-b299-492a-92bb-5b0dadd59a9e">Кирилл (г. Пушкин)</a>
-                    </p>
-                    <p class="text-gray">Любитель</p>
-                </div>
-                        <p class="date">6 дней назад</p>
-            <div class="text">
-                Прошу пояснить вопрос контроль веса напитка. При предсмачиванием инструкция требует обнуления весов. <br />
-<br />
-Предсмачивание.<br />
-Нужно поставить пуровер на весы и обнулить их, затем запустить таймер и аккуратно смочить кофе небольшим объемом воды. Объём воды для предсмачивания обычно считают по тройному коэффициенту относительно веса самого кофе. После вливания нужно подождать 30 секунд, пока вся вода не впитается в кофе. Когда это произойдет, можно приступать к приготовлению.<br />
-<br />
-На этом этапе влитая вода на 90% остаётся внутри смолотого кофе. Я вижу это так, что не обнуляя после предсмачивания весы, мы не можем контролировать сколько воды будет отфильтровано в напиток.<br />
-<br />
-Я завариваю кофе на двоих, и вес фильтра с мокрым кофе достигает 90 грамм, из которых сухого кофе кофе 30 грамм.<br />
-<br />
-Поправьте меня, если не прав.
-            </div>
-                        <div class="response btn-like">
-                <a href="#" onclick="blogCommentLike(9442, this); return false;"
-                   class="btn-like-up ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" onclick="blogCommentDislike(9442, this); return false;"
-                   class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                            </div>
-                            <a href="#" class="all-answers"
-                   onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/blog/review/9442/child'); return false;"
-                >Все ответы (1)</a>
-                                </div>
-        <div class="reviewChild-block">
-                    </div>
-    </div>
-            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_8950">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/38fc3f3c-d195-430e-9d3f-55be082d9038">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_204023_1679541088.jpg">
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/38fc3f3c-d195-430e-9d3f-55be082d9038">Михаил (г. Красноярск)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/75bf1314-9002-409a-896c-fa85a64fd7c3">Владимир (г. Москва)</a>
                     </p>
                     <p class="level">Новичок</p>
                 </div>
@@ -1383,7 +1136,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8950); return false;"
+                                   onclick="blogReviewAddReport(this, 9326); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1395,167 +1148,15 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                Подскажите сайты с рецептами под V60 с возможностью выбора кофемолки или чтобы в щелчках комонданте, чтобы повторять точнее
+                Новая инфа )
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8950, this); return false;"
+                <a href="#" onclick="blogCommentLike(9326, this); return false;"
                    class="btn-like-up "
                 >
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(8950, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">3</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-pourover?comment=8950">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8950&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8950&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">21.02.2023</p>
-            </div>
-                        <div class="post-list__body--comment" >
-                                <div class="item-comment main "
-         id="blog_review_9177">
-        <div class="review review-block">
-                            <a href="https://shop.tastycoffee.ru/profile/47ff8dd7-4454-4a2a-8f18-2fb4ea5f678a">
-                                            <img class="avatar"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_73162_1650631367.png">
-                                    </a>
-                <div class="name-wrap">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/47ff8dd7-4454-4a2a-8f18-2fb4ea5f678a">АНДРЕЙ (г. Самара)</a>
-                    </p>
-                    <p class="text-gray">Эксперт</p>
-                </div>
-                        <p class="date">05.03.2023</p>
-            <div class="text">
-                <a href='https://theweldercatherine.ru'>https://theweldercatherine.ru</a>  у них под каждый вид кофе рецепт есть.. плюс в блоге есть таблицы с соотношением помолов на разных кофемолках)  да и можно выбрать в настройках свою кофемолку там и тогда в рецептах на страницах кофе будет указываться ваша кофемолка)) в принципе почти все рецепты у них изначально на команданте..  а так особо нет сайтов.. помол же он будет отличаться даже если брать одно кофе но у разных обжарщиков
-            </div>
-                        <div class="response btn-like">
-                <a href="#" onclick="blogCommentLike(9177, this); return false;"
-                   class="btn-like-up ">
-                    <span class="ic">ic</span> <span class="value">1</span>
-                </a>
-                <a href="#" onclick="blogCommentDislike(9177, this); return false;"
-                   class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                            </div>
-                                </div>
-        <div class="reviewChild-block">
-                    </div>
-    </div>
-    <div class="item-comment main "
-         id="blog_review_9086">
-        <div class="review review-block">
-                            <a href="https://shop.tastycoffee.ru/profile/b424eca7-b8bc-46f7-83a9-d99d851e22f7">
-                                            <img class="avatar"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_163576_1662137114.png">
-                                    </a>
-                <div class="name-wrap">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/b424eca7-b8bc-46f7-83a9-d99d851e22f7">Alan (г. Владикавказ)</a>
-                    </p>
-                    <p class="text-gray">Любитель</p>
-                </div>
-                        <p class="date">28.02.2023</p>
-            <div class="text">
-                Я бы подсказал, но это получится не очень красиво по отношению к нашему тейсти)
-            </div>
-                        <div class="response btn-like">
-                <a href="#" onclick="blogCommentLike(9086, this); return false;"
-                   class="btn-like-up ">
-                    <span class="ic">ic</span> <span class="value">1</span>
-                </a>
-                <a href="#" onclick="blogCommentDislike(9086, this); return false;"
-                   class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                            </div>
-                            <a href="#" class="all-answers"
-                   onclick="getAllChildReviews(this, 'https://shop.tastycoffee.ru/blog/review/9086/child'); return false;"
-                >Все ответы (1)</a>
-                                </div>
-        <div class="reviewChild-block">
-                    </div>
-    </div>
-            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_8855">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/327ba9bc-f904-482c-a488-e00b93630098">
-                                            <div class="post-list__header--img">Н</div>
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/327ba9bc-f904-482c-a488-e00b93630098">Николай (г. Волоколамск)</a>
-                    </p>
-                    <p class="level">Продвинутый</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8855); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Нууу... так себе
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8855, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(8855, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9326, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1566,7 +1167,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-pourover?comment=8855">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9326">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1574,7 +1175,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8855&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9326&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1582,7 +1183,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8855&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9326&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1598,24 +1199,24 @@
 
 
 
-                <p class="time">17.02.2023</p>
+                <p class="time">13.03.2023</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
         </div>
 
     </div>
-    <div class="item social_post_item" id="blog_review_8739">
+    <div class="item social_post_item" id="blog_review_9313">
         <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/5fbd8b4c-2ec9-4176-80fe-618d33ba3b6b">
+                            <a href="https://shop.tastycoffee.ru/profile/97eaa8e4-6617-49db-996f-442223454173">
                                             <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_101021_1669220375.png">
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_109000_1670075848.png">
                                     </a>
                 <div class="post-list__header--name">
                     <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/5fbd8b4c-2ec9-4176-80fe-618d33ba3b6b">Дмитрий (г. Санкт-Петербург)</a>
+                        <a href="https://shop.tastycoffee.ru/profile/97eaa8e4-6617-49db-996f-442223454173">Сергей (г. Муром)</a>
                     </p>
-                    <p class="level">Продвинутый</p>
+                    <p class="level">Любитель</p>
                 </div>
                         <div class="post-list__header--right">
                 <div class="post-actions">
@@ -1623,7 +1224,7 @@
                     <ul class="post-actions__dropdown">
                                                     <li>
                                 <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8739); return false;"
+                                   onclick="blogReviewAddReport(this, 9313); return false;"
                                 >
                                     <span class="ic-complain">ic</span>
                                     Пожаловаться на комментарий
@@ -1635,15 +1236,17 @@
         </div>
         <div class="post-list__body">
             <div class="post-list__body--text">
-                спасибо оч полезно
+                Мне нравится аэропресс.<br />
+Крутой и многогранный девайс.<br />
+А еще его сложно подвергать критике он делает то что должен делать!
             </div>
             <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8739, this); return false;"
+                <a href="#" onclick="blogCommentLike(9313, this); return false;"
                    class="btn-like-up "
                 >
-                    <span class="ic">ic</span> <span class="value">1</span>
+                    <span class="ic">ic</span> <span class="value">0</span>
                 </a>
-                <a  href="#" onclick="blogCommentDislike(8739, this); return false;"
+                <a  href="#" onclick="blogCommentDislike(9313, this); return false;"
                     class="btn-like-down ">
                     <span class="ic">ic</span> <span class="value">0</span>
                 </a>
@@ -1654,7 +1257,7 @@
                     <span class="ic">ic</span>
                     <ul class="menuHm">
     <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-pourover?comment=8739">
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9313">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -1662,7 +1265,7 @@
         </a>
     </li>
     <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8739&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9313&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
             </svg>
@@ -1670,7 +1273,7 @@
         </a>
     </li>
     <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-pourover?comment=8739&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9313&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
             <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
             </svg>
@@ -1686,7 +1289,270 @@
 
 
 
-                <p class="time">11.02.2023</p>
+                <p class="time">12.03.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_9202">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/309acf1a-01f7-4e5f-8445-15c7e748f3b0">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_177728_1668328426.png">
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/309acf1a-01f7-4e5f-8445-15c7e748f3b0">Сергей (г. Петрозаводск)</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 9202); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Принято к сведению
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(9202, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(9202, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9202">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9202&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9202&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">06.03.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_9034">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/5780e2c1-00ed-4a55-8a37-813f87e2d00e">
+                                            <img class="post-list__header--img"
+                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_207093_1677402938.png">
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/5780e2c1-00ed-4a55-8a37-813f87e2d00e">Евгений</a>
+                    </p>
+                    <p class="level">Новичок</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 9034); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                Единственный способ заваривания кофе, который еще не попробовал. Читая комментарии понимаю, что открывается большая возможность для экспериментов!
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(9034, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(9034, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9034">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9034&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=9034&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">26.02.2023</p>
+            </div>
+                        <div class="post-list__body--comment" style="display: none" >
+                                            </div>
+        </div>
+
+    </div>
+    <div class="item social_post_item" id="blog_review_7555">
+        <div class="post-list__header">
+                            <a href="https://shop.tastycoffee.ru/profile/1379fa9c-7cfb-4e57-9124-d2475544d3e9">
+                                            <div class="post-list__header--img">Р</div>
+                                    </a>
+                <div class="post-list__header--name">
+                    <p class="name">
+                        <a href="https://shop.tastycoffee.ru/profile/1379fa9c-7cfb-4e57-9124-d2475544d3e9">Роман (г. Ижевск)</a>
+                    </p>
+                    <p class="level">Продвинутый</p>
+                </div>
+                        <div class="post-list__header--right">
+                <div class="post-actions">
+                    <button class="post-actions__btn" type="button"></button>
+                    <ul class="post-actions__dropdown">
+                                                    <li>
+                                <a class="link" href="#"
+                                   onclick="blogReviewAddReport(this, 7555); return false;"
+                                >
+                                    <span class="ic-complain">ic</span>
+                                    Пожаловаться на комментарий
+                                </a>
+                            </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="post-list__body">
+            <div class="post-list__body--text">
+                +
+            </div>
+            <div class="post-list__body--response btn-like">
+                <a href="#" onclick="blogCommentLike(7555, this); return false;"
+                   class="btn-like-up "
+                >
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a  href="#" onclick="blogCommentDislike(7555, this); return false;"
+                    class="btn-like-down ">
+                    <span class="ic">ic</span> <span class="value">0</span>
+                </a>
+                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
+                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
+                </a>
+                <div class="btn-share">
+                    <span class="ic">ic</span>
+                    <ul class="menuHm">
+    <li>
+        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/guide-aeropress?comment=7555">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Копировать ссылку
+        </a>
+    </li>
+    <li>
+        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=7555&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
+            </svg>
+            ВКонтакте
+        </a>
+    </li>
+    <li>
+        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/guide-aeropress?comment=7555&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
+            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
+            </svg>
+
+            Telegram
+        </a>
+    </li>
+</ul>
+                </div>
+
+
+
+
+
+
+                <p class="time">20.12.2022</p>
             </div>
                         <div class="post-list__body--comment" style="display: none" >
                                             </div>
@@ -1696,18 +1562,18 @@
     <hr>
     <div class="pagination-block">
         <div class="pagination-wrap">
-                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=2','more');return false;">
+                    <a class="loadLink" onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/53?page=2','more');return false;">
                 <span class="load-ic ic"></span>
                 Загрузить больше
             </a>
                 <ul class="pagination">
                                                                                                                     <li class="active" ><span>1</span></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=2', '', true);return false;">2</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=3', '', true);return false;">3</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=4', '', true);return false;">4</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=5', '', true);return false;">5</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=6', '', true);return false;">6</a></li>
-                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/52?page=7', '', true);return false;">7</a></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/53?page=2', '', true);return false;">2</a></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/53?page=3', '', true);return false;">3</a></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/53?page=4', '', true);return false;">4</a></li>
+                                                                                                            <li ><span>...</span></li>
+                                                                                                                                                    <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/53?page=7', '', true);return false;">7</a></li>
+                                                                                                <li><a onclick="on_paginate_product_reviews(this,'https://shop.tastycoffee.ru/ajax/blog_comments/53?page=8', '', true);return false;">8</a></li>
                                                                                 </ul>
     </div>
 
@@ -1724,7 +1590,7 @@
                                                     <div
     class="cardBox noteBox-for-open main-edit grey goods  ">
     <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="209">
+        <input type="hidden" name="product_id" value="180">
         <div class="noteBox animated fadeIn">
     <div class="noteBox-wrap">
         <a class="closeBtn min" onclick="close_note(this); return false;"></a>
@@ -1735,487 +1601,12 @@
             <div class="cardBox-h-l">
                 <div class="ratingCard"
                     onclick=$(&quot;.enterOpen&quot;).click()
-                >5
+                >4.9
                 </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/purover-hario#reviews"
+                                <a href="https://shop.tastycoffee.ru/accessories/aeropress#reviews"
                    class="countComment">
                     <i class="ic comment-ic"></i>
-                    83
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=31">
-                                Популярный
-                            </a>
-                                                    </div>
-                                                </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/purover-hario">
-                Воронка Hario пластиковая белая
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/purover-hario"
-                   class="absLink">Воронка Hario пластиковая белая</a>
-                
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/hario_dr_4_1.png"
-                                        alt="Воронка Hario пластиковая белая"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/hario_dr_4_2.png"
-                                        alt="Воронка Hario пластиковая белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/hario_dr_4_3.png"
-                                        alt="Воронка Hario пластиковая белая"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Пластиковая воронка Hario размером 02 для приготовления кофе методом пуровер
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                     
-                        <div class="wrap-btnCard-box">
-                                                    </div>
-                        <div class="count-wrap animated fadeIn">
-                            <span class="count_min" onclick="click_count(this);return false;"></span>
-                            <span class="count_item">
-                                    <input min="1" type="number" value="1" name="count"
-                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
-                                </span>
-                            <span class="count_plus" onclick="click_count(this);return false;"></span>
-                        </div>
-                                    </div>
-                                                            <a class="priceCb">699 <span class="rub">₽</span></a>
-                                    
-                                                        <div class="cardBox-f-r">
-                        <a class="buyBtn "
-                           onclick="add_in_cart(this);return false;"
-                           data-metrics="{&quot;id&quot;:209,&quot;name&quot;:&quot;\u0412\u043e\u0440\u043e\u043d\u043a\u0430 Hario \u043f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u0430\u044f \u0431\u0435\u043b\u0430\u044f&quot;,&quot;price&quot;:&quot;699&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
-                        >
-                            <span class="buyText buyText_209">Купить</span>
-                        </a>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="268">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >5
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    25
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=30">
-                                Рекомендуем
-                            </a>
-                                                    </div>
-                                                </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic">
-                Воронка Hario керамическая белая
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic"
-                   class="absLink">Воронка Hario керамическая белая</a>
-                
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/hario-ceramic-white.png"
-                                        alt="Воронка Hario керамическая белая"
-                                        itemprop=image/>
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Керамическая воронка Hario размером 02 для приготовления кофе методом пуровер
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                     
-                        <div class="wrap-btnCard-box">
-                                                    </div>
-                        <div class="count-wrap animated fadeIn">
-                            <span class="count_min" onclick="click_count(this);return false;"></span>
-                            <span class="count_item">
-                                    <input min="1" type="number" value="1" name="count"
-                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
-                                </span>
-                            <span class="count_plus" onclick="click_count(this);return false;"></span>
-                        </div>
-                                    </div>
-                                                            <a class="priceCb">2090 <span class="rub">₽</span></a>
-                                    
-                                                        <div class="cardBox-f-r">
-                        <a class="buyBtn "
-                           onclick="add_in_cart(this);return false;"
-                           data-metrics="{&quot;id&quot;:268,&quot;name&quot;:&quot;\u0412\u043e\u0440\u043e\u043d\u043a\u0430 Hario \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0435\u043b\u0430\u044f&quot;,&quot;price&quot;:&quot;2090&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
-                        >
-                            <span class="buyText buyText_268">Купить</span>
-                        </a>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="308">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >5
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/purover-hario-copper#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    0
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                            </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/purover-hario-copper">
-                Воронка Hario (медная)
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/purover-hario-copper"
-                   class="absLink">Воронка Hario (медная)</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/hario-copper.png"
-                                        alt="Воронка Hario (медная)"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/Hario-V60-Copper-Dripper_1.png"
-                                        alt="Воронка Hario (медная)"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Медная воронка для приготовления кофе со знаменитым дизайном от легендарного японского производителя
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="308"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="309">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >4.7
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic-red#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    3
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                            </div>
-        </div>
-        <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic-red">
-                Воронка Hario керамическая, красная
-            </a>
-                    </div>
-        <div class="tovarImg center-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/purover-hario-ceramic-red"
-                   class="absLink">Воронка Hario керамическая, красная</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/hario-ceramic-red1.png"
-                                        alt="Воронка Hario керамическая, красная"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/hario-ceramic-red3.png"
-                                        alt="Воронка Hario керамическая, красная"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/hario-ceramic-red2.png"
-                                        alt="Воронка Hario керамическая, красная"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Красная керамическая воронка для приготовления кофе методом пуровер
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="309"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey goods  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="215">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >4.4
-                </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    147
+                    57
                 </a>
                 <div class="btnCard-wrap">
                     <a class="btnCard note "
@@ -2247,30 +1638,23 @@
                                                 </div>
         </div>
         <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02">
-                Фильтры Hario бумажные, 100 шт
+                        <a href="https://shop.tastycoffee.ru/accessories/aeropress">
+                Аэропресс
             </a>
                     </div>
         <div class="tovarImg center-image">
             <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/filter-purover-hario-vcf-02"
-                   class="absLink">Фильтры Hario бумажные, 100 шт</a>
+                <a href="https://shop.tastycoffee.ru/accessories/aeropress"
+                   class="absLink">Аэропресс</a>
                 
                                                                     <div class="sliderGoods-wrap">
                         <div class="owl-carousel sliderCatalog owl-theme">
                                                             <div class="item">
                                     <img
                                         class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/jul17/VCF-02-100W5.png"
-                                        alt="Фильтры Hario бумажные, 100 шт"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories2020/aeropress.png"
+                                        alt="Аэропресс"
                                         itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/hario/filter-hario-holland.png"
-                                        alt="Фильтры Hario бумажные, 100 шт"
-                                        />
                                 </div>
                                                     </div>
                     </div>
@@ -2279,7 +1663,7 @@
         </div>
         <div class="hiddenCard animated fadeIn ">
             <div class="textTovar text-hide">
-                Бумажные фильтры для пуровера Hario 02. 100 штук в упаковке
+                Аэропресс — удобное устройство для приготовления кофе с помощью давления воздуха
             </div>
                     </div>
 
@@ -2299,14 +1683,14 @@
                             <span class="count_plus" onclick="click_count(this);return false;"></span>
                         </div>
                                     </div>
-                                                            <a class="priceCb">589 <span class="rub">₽</span></a>
+                                                            <a class="priceCb">2849 <span class="rub">₽</span></a>
                                     
                                                         <div class="cardBox-f-r">
                         <a class="buyBtn "
                            onclick="add_in_cart(this);return false;"
-                           data-metrics="{&quot;id&quot;:215,&quot;name&quot;:&quot;\u0424\u0438\u043b\u044c\u0442\u0440\u044b Hario \u0431\u0443\u043c\u0430\u0436\u043d\u044b\u0435, 100 \u0448\u0442&quot;,&quot;price&quot;:&quot;589&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                           data-metrics="{&quot;id&quot;:180,&quot;name&quot;:&quot;\u0410\u044d\u0440\u043e\u043f\u0440\u0435\u0441\u0441&quot;,&quot;price&quot;:&quot;2849&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
                         >
-                            <span class="buyText buyText_215">Купить</span>
+                            <span class="buyText buyText_180">Купить</span>
                         </a>
                     </div>
                             </div>
@@ -2329,7 +1713,7 @@
                                                     <div
     class="cardBox noteBox-for-open main-edit grey goods  ">
     <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" accessories>
-        <input type="hidden" name="product_id" value="489">
+        <input type="hidden" name="product_id" value="213">
         <div class="noteBox animated fadeIn">
     <div class="noteBox-wrap">
         <a class="closeBtn min" onclick="close_note(this); return false;"></a>
@@ -2340,12 +1724,12 @@
             <div class="cardBox-h-l">
                 <div class="ratingCard"
                     onclick=$(&quot;.enterOpen&quot;).click()
-                >5
+                >4.9
                 </div>
-                                <a href="https://shop.tastycoffee.ru/accessories/wilfa-white#reviews"
+                                <a href="https://shop.tastycoffee.ru/accessories/filter-aeropress#reviews"
                    class="countComment">
                     <i class="ic comment-ic"></i>
-                    7
+                    19
                 </a>
                 <div class="btnCard-wrap">
                     <a class="btnCard note "
@@ -2362,67 +1746,26 @@
                                     </div>
             </div>
             <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=31">
-                                Популярный
-                            </a>
-                                                    </div>
-                                                                                                        <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/accessories?type=32">
-                                Новый
-                            </a>
-                                                    </div>
-                                                </div>
+                                                                                            </div>
         </div>
         <div class="nameTovar">
-                        <a href="https://shop.tastycoffee.ru/accessories/wilfa-white">
-                Воронка иммерсионная Wilfa SVART Pour Over белая
+                        <a href="https://shop.tastycoffee.ru/accessories/filter-aeropress">
+                Фильтры для аэропресса, 350 шт
             </a>
                     </div>
         <div class="tovarImg center-image">
             <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/accessories/wilfa-white"
-                   class="absLink">Воронка иммерсионная Wilfa SVART Pour Over белая</a>
+                <a href="https://shop.tastycoffee.ru/accessories/filter-aeropress"
+                   class="absLink">Фильтры для аэропресса, 350 шт</a>
                 
-                                    <div class="scaImg scaArchive"></div>
                                                                     <div class="sliderGoods-wrap">
                         <div class="owl-carousel sliderCatalog owl-theme">
                                                             <div class="item">
                                     <img
                                         class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/filter-aeropress.png"
+                                        alt="Фильтры для аэропресса, 350 шт"
                                         itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa2.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa3.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa4.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/wilfa1.png"
-                                        alt="Воронка иммерсионная Wilfa SVART Pour Over белая"
-                                        />
                                 </div>
                                                     </div>
                     </div>
@@ -2431,7 +1774,7 @@
         </div>
         <div class="hiddenCard animated fadeIn ">
             <div class="textTovar text-hide">
-                Белая иммерсионная воронка для приготовления кофе
+                Специальные бумажные фильтры для аэропресса. 350 штук в упаковке
             </div>
                     </div>
 
@@ -2439,18 +1782,27 @@
             
             <div class="cardBox-f">
                 <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
                                     </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="489"
+                                                            <a class="priceCb">649 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:213,&quot;name&quot;:&quot;\u0424\u0438\u043b\u044c\u0442\u0440\u044b \u0434\u043b\u044f \u0430\u044d\u0440\u043e\u043f\u0440\u0435\u0441\u0441\u0430, 350 \u0448\u0442&quot;,&quot;price&quot;:&quot;649&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
                         >
-                            Сообщить о поступлении
-                        </button>
+                            <span class="buyText buyText_213">Купить</span>
+                        </a>
                     </div>
                             </div>
         </div>

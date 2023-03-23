@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="DEdjPSiJTbtVeADY4P0bLJNu5YeRdI3iCP0nEZgD">
+    <meta name="csrf-token" content="j37CdwfgxT4r5NON9l1DqbpYtyNGSPQQHtVqy2fn">
     <title>Скидки на кофе Tasty Coffee</title>
     <meta name="description" content="Скидки на кофе Tasty Coffee,  купон на кофе, акция на кофе">
     <meta name="keywords" content="Скидки на кофе Tasty Coffee,  купон на кофе, акция на кофе">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="DEdjPSiJTbtVeADY4P0bLJNu5YeRdI3iCP0nEZgD">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="j37CdwfgxT4r5NON9l1DqbpYtyNGSPQQHtVqy2fn">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="DEdjPSiJTbtVeADY4P0bLJNu5YeRdI3iCP0nEZgD"
+                     data-_token="j37CdwfgxT4r5NON9l1DqbpYtyNGSPQQHtVqy2fn"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="DEdjPSiJTbtVeADY4P0bLJNu5YeRdI3iCP0nEZgD">        </form>
+            <input type="hidden" name="_token" value="j37CdwfgxT4r5NON9l1DqbpYtyNGSPQQHtVqy2fn">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             

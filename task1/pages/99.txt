@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="ksssTRXd4QALj07gO2LKxasB0V0QTqVJho9tXQTs">
-    <title>Вет-халл — обработка кофе на Суматре</title>
-    <meta name="description" content="В статье про способы обработки кофе мы рассказали про четыре популярных способа: натуральный, мытый, хани и паса. Но на индонезийском острове Суматра не используют ни один из них, а кофе знаменит своим плотным и ярким вкусом. В этой статье мы рассказываем про вет-халл — способ обработки, которому суматранский кофе обязан своим вкусом">
-    <meta name="keywords" content="wet-hull, wet hulled, вет-халл, обработка, кофе, Суматра, ветхалл,">
+    <meta name="csrf-token" content="ZEvEaoyvSdINyQsGRFTmJpMRyHR5bNhofbIm7DuU">
+    <title>Обжарка</title>
+    <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
+    <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
     <meta charset="utf-8"/>
 
     <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
@@ -14,15 +14,15 @@
     <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra"/>
-    <meta property="og:title" content="Вет-халл — обработка кофе на Суматре"/>
-    <meta property="og:description" content="В статье про способы обработки кофе мы рассказали про четыре популярных способа: натуральный, мытый, хани и паса. Но на индонезийском острове Суматра не используют ни один из них, а кофе знаменит своим плотным и ярким вкусом. В этой статье мы рассказываем про вет-халл — способ обработки, которому суматранский кофе обязан своим вкусом"/>
-    <meta property="og:image" content="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/wet-hull-obrabotka-kofe-sumatra/main2.jpg"/>
-    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/blog/obzharka-kofe"/>
+    <meta property="og:title" content="Обжарка"/>
+    <meta property="og:description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой."/>
+    <meta property="og:image" content="https://shop.tastycoffee.ru/assets/site/img/site_logo.jpg"/>
+    <meta property="og:type" content="website"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
-    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra"/>
+    <link rel="canonical" href="https://shop.tastycoffee.ru/blog/obzharka-kofe"/>
     <link rel="manifest" href="/manifest.json">
     <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
     <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
@@ -523,7 +523,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="ksssTRXd4QALj07gO2LKxasB0V0QTqVJho9tXQTs">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="ZEvEaoyvSdINyQsGRFTmJpMRyHR5bNhofbIm7DuU">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -581,7 +581,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="ksssTRXd4QALj07gO2LKxasB0V0QTqVJho9tXQTs"
+                     data-_token="ZEvEaoyvSdINyQsGRFTmJpMRyHR5bNhofbIm7DuU"
                 >
                 </div>
                             </div>
@@ -596,7 +596,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="ksssTRXd4QALj07gO2LKxasB0V0QTqVJho9tXQTs">        </form>
+            <input type="hidden" name="_token" value="ZEvEaoyvSdINyQsGRFTmJpMRyHR5bNhofbIm7DuU">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
@@ -707,1188 +707,622 @@
     </div>
 
 
-            <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
-    <script src="//yastatic.net/share2/share.js"></script>
-    <div class="content contentWrap">
-        <div class="seriesWrapper">
-            <div class="breadcrumb mb20">
-                <div class="row">
-                    <ul itemscope itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a href="/" itemtype="http://schema.org/Thing" itemprop="item">
-                                <span itemprop="name">Главная</span>
-                            </a>
-                            <meta itemprop="position" content="1"/>
-                        </li>
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a href="https://shop.tastycoffee.ru/blog" itemtype="http://schema.org/Thing" itemprop="item">
-                                <span itemprop="name">Журнал</span>
-                            </a>
-                            <meta itemprop="position" content="2"/>
-                        </li>
-                                                                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                    <a href="https://shop.tastycoffee.ru/blog/series/series-processing"
-                                       itemtype="http://schema.org/Thing" itemprop="http://schema.org/Thing">
-                                        <span itemprop="name">Серия статей «Все про обработку кофе»</span>
-                                    </a>
-                                    <meta itemprop="position" content="2"/>
-                                </li>
-                                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a href="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra"
-                                   itemtype="http://schema.org/Thing"
-                                   itemprop="item">
-                                    <span itemprop="name">Вет-халл — обработка кофе на Суматре</span>
-                                </a>
-                                <meta itemprop="position" content="3"/>
-                            </li>
-                                            </ul>
-                </div>
-            </div>
-                            <div class="row" style="display: flex; padding: 0px;">
-                    <div class="col-lg" style="padding-left: 0px;">
-                        <ul class="customul">
-                                                            <li>
-                                    <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe"
-                                       class=""
-                                    >
-                                        Часть 1.
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra"
-                                       class="active-series"
-                                    >
-                                        Часть 2.
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="https://shop.tastycoffee.ru/blog/kak-sushat-kofe"
-                                       class=""
-                                    >
-                                        Часть 3.
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="https://shop.tastycoffee.ru/blog/pochemu-kofe-naturalnoy-obrabotki-slashe-chem-kofe-mitoy"
-                                       class=""
-                                    >
-                                        Часть 4.
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="https://shop.tastycoffee.ru/blog/hulling"
-                                       class=""
-                                    >
-                                        Часть 5.
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="https://shop.tastycoffee.ru/blog/hani-pulp-natural-i-polumitiy-sposob-obrabotki"
-                                       class=""
-                                    >
-                                        Часть 6
-                                    </a>
-                                </li>
-                                                    </ul>
-                    </div>
-                </div>
-                    </div>
+        <div class="content contentWrap">
         <div class="row">
-            <div class="col-lg-9" style="padding: 0px;">
+            <h1 class="h2 indent">Журнал о кофе</h1>
 
-                                    <a href="https://shop.tastycoffee.ru/blog" class="greyLink indent desNone">Ко всем статьям</a>
-                
-                <h1 class="indent article-header">Вет-халл — обработка кофе на Суматре</h1>
-                                    <div class="article-leadtext">
-                        <p>В статье про способы обработки кофе мы рассказали про четыре популярных способа: натуральный, мытый, хани и паса. Но на индонезийском острове Суматра не используют ни один из них, а кофе знаменит своим плотным и ярким вкусом. В этой статье мы рассказываем про вет-халл — способ обработки, которому суматранский кофе обязан своим вкусом</p>
-                    </div>
-                            </div>
-            <div class="article-info" style="border-bottom: 0px;">
-                                    <p class="article-info-inner time">
-                        <img src="/assets/site/img/journal/clock.svg" alt="">
-                        4 мин. на чтение
-                    </p>
-                    <p class="article-info-inner views-info">
-                        <img src="/assets/site/img/journal/eye-article.svg" alt="">
-                        55557 просмотров
-                    </p>
-                                <div class="article-info-right">
-                    <p class="article-info-inner article-fav">
-                        <a href="#"
-                           class="blog-link-favorite-21 "
-                           onclick="setBlogFavorite(this, 21); return false;">
-                            <img src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
-                            <img src="/assets/site/img/journal/fav-theme.svg" alt="">
-                            В закладки
-                        </a>
-                    </p>
-                                            <p class="article-info-inner article-comm">
-                            <a href="#reviews" class="clickBlogComments countComment">
-                                <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                4 комментария
-                            </a>
-                        </p>
-                                    </div>
+            <div class="menuLink-wrap verticalScroll">
+                <ul class="menuLink">
+                    <li class="">
+                        <a href="https://shop.tastycoffee.ru/blog">Все темы</a>
+                    </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">Руководства по приготовлению</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/prigotovlenie-kofe">Приготовление</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/industriya-kofe">Индустрия</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/botanika-kofe">Выращивание</a>
+                        </li>
+                                            <li class="active">
+                            <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe">Обжарка</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/klassifikatsiya-kofe">Классификация</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/oborudovanie">Оборудование</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/marketing">Маркетинг</a>
+                        </li>
+                                            <li class="">
+                            <a href="https://shop.tastycoffee.ru/blog/tea">Чай</a>
+                        </li>
+                                    </ul>
             </div>
         </div>
-        <div class="row">
-            <div class="col-v10" style="padding-right: 0px;">
-                <div class="article-content">
-                    <div class="article-cover" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/wet-hull-obrabotka-kofe-sumatra/main2.jpg)"></div>
-                    <div class="row" style="display: flex; padding: 0px;">
-                        <div class="col-lg-1" style="padding-left: 0px;">
-                            <div class="soc-block">
-                                <a class="blog-link-like-21  article-like socials "
-                                   onclick="setBlogLike(this, 21); return false;"
-                                >
-                                    <img style="margin-left: 15px;" src="/assets/site/img/journal/like-active.svg"
-                                         alt=""
-                                         class="blog-icon-active">
-                                    <img style="margin-left: 15px;" src="/assets/site/img/journal/like-finger.svg"
-                                         alt="">
-                                </a>
-                                <a class="blog-link-favorite-21  article-like socials"
-                                   onclick="setBlogFavorite(this, 21); return false;"
-                                >
-                                    <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
-                                         src="/assets/site/img/journal/fav-theme.svg" alt="">
-                                    <img style="width: 19.5px;margin-left: 15px;padding-bottom: 0px;margin-bottom: -5px;"
-                                         src="/assets/site/img/journal/fav-active.svg" alt="" class="blog-icon-active">
-                                </a>
-                                <div class="social">
-                                    <div class="ya-share2" data-services="vkontakte,telegram"></div>
-                                </div>
-                            </div>
+        <div class="row" style="display: flex;">
+            <div class="col-v3" style="padding-right: 20px;">
+                <div class="sidebar-journal">
+                    <div class="theme-block">
+                        <p class="theme-header">Обжарка</p>
+                        <div class="theme-descr">
+                            <p>Всё&nbsp;о том,&nbsp;как обжаривается кофе и как управлять вкусом во время обжарки</p>
                         </div>
-                        <div class="col-lg-8" style="padding-left: 0px;">
-                            <div class="article-text">
-
-                                <div class="article-text-content" id="article-for-load">
-                                    <p dir="ltr">Индонезийский остров Суматра известен своим кофе благодаря яркому и необычному вкусу. Дело в том, что его обрабатывают по методу вет-халл (wet-hull) — это исключительно суматранский метод, о котором сказано очень мало. В этой статье мы собираемся это исправить.</p>
-
-<h4 dir="ltr"><strong>Как обрабатывают кофе по методу вет-халл</strong></h4>
-
-<p dir="ltr">Вет-халл немного напоминает <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe">мытый и хани способ</a>, но не повторяет их в точности. Разберёмся, в чём его суть.</p>
-
-<p dir="ltr">Сперва <a href="https://shop.tastycoffee.ru/blog/kak-ustroena-yagoda-kofe">кофейные ягоды</a> очищают от мякоти с помощью депульпаторов, как и в мытом способе. Затем зёрна выкладывают на ночь для ферментации, при которой сахара из клейковины переходят в зерно — это напоминает способ хани. Но затем процесс меняется.</p>
-
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/wet-hull-obrabotka-kofe-sumatra/image1.jpg" /><br />
-<small>©cafeimports.com</small></p>
-
-<p dir="ltr">На следующий день зёрна отмывают от клейковины и получается кофе в пергаменте с влажностью около 50–60 %. На этом этапе фермер продаёт ещё влажный кофе на ближайшую станцию обработки, где его сушат на солнце не больше 2–3 дней. Когда уровень влажности достигает 20–24 %, с зёрен удаляют пергамент — делают <a href="https://shop.tastycoffee.ru/blog/hulling">халлинг</a>.</p>
-
-<p dir="ltr">Основное отличие вет-халла от мытого метода в уровне влажности зёрен. При обработке мытым способом кофе высушивают пока уровень влажности не будет около 11 %. При таком уровне зерно и пергамент становятся твёрдыми и удалять пергамент проще.</p>
-
-<p dir="ltr">В случае с вет-халлом, когда с зерна удаляют пергамент, оно всё ещё влажное и довольно мягкое. Отсюда и название wet-hull — wet hulled coffee, то есть кофе, который проходит халлинг в ещё влажном состоянии.</p>
-
-<p dir="ltr">Чтобы удалить пергамент, требуется больше трения, поэтому на производствах такого кофе используют специальные, более мощные, халлеры. А из-за уровня влажности во время халлинга на зёрнах часто появляются дефекты: вместе с пергаментом отрываются кусочки самого зерна или, наоборот, часть пергамента остаётся на зёрнах.</p>
-
-<p dir="ltr">Когда пергамент удалён, зёрна высушивают на солнце, а на ночь убирают в мешки, чтобы ферментация продолжалась. Когда зерно достигнет нормального уровня влажности 11–13 %, оно готово к экспорту.</p>
-
-<p dir="ltr"><img alt="" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/wet-hull-obrabotka-kofe-sumatra/image2.jpg" /><br />
-<small>©cafeimports.com</small></p>
-
-<h4 dir="ltr"><strong>Почему на Суматре используют такой метод</strong></h4>
-
-<p dir="ltr">Вет-халл не самый экономичный или надёжный метод обработки, но есть две причины, почему именно его используют на Суматре: экономия и климат.</p>
-
-<p dir="ltr">В 1699 году голландские колонисты организовали производство кофе. Им важно было, чтобы на его обработку уходило как можно меньше времени: чем дольше кофе оставался на ферме, тем дороже стоило его производство. Обработка способом вет-халл проходит быстрее, чем любой другой способ, и поэтому для колонистов он был выгоднее.</p>
-
-<p dir="ltr">Но дело не только в экономии. В обычном случае сушка кофе занимает 2–3 недели, но из-за влажного климата Индонезии кофе сохнет дольше. За это время бактерии успевают испортить зёрна: появляется плесень и дефекты. Чтобы ускорить сушку зёрен, с них удаляют естественную защиту от повреждений и солнца — пергамент. На зёрна без пергамента попадает больше солнечного света и они сохнут быстрее в 2–3 раза.</p>
-
-<h4 dir="ltr"><strong>Что получается в результате</strong></h4>
-
-<p dir="ltr">Суматранский кофе известен своим ярким и необычным вкусом, который сложно спутать с кофе <a href="https://shop.tastycoffee.ru/blog/raznovidnosty-kofe">других происхождений</a>. Для кофе из Суматры свойственны дескрипторы шиповника, тропических фруктов, красных ягод и очень плотное тело.</p>
-
-<p dir="ltr">Кроме необычного вкуса, обработка вет-халл доставляет и некоторые проблемы: из-за быстрой сушки зелёный кофе значительно быстрее стареет. Часто уже к концу текущего урожая во вкусе появляются первые признаки старения: ноты чёрного чая и древесные оттенки во вкусе.</p>
-
-<p>Кроме того, производством кофе на Суматре занимаются в основном мелкие фермеры, которым часто не хватает знаний о кофе, а продажа происходит не напрямую, а через станции обработки, которые скупают весь кофе в округе и не выделяют происхождения и фермеров. Поэтому найти <a href="https://shop.tastycoffee.ru/blog/specialty-kofe">спешелти</a> Суматру бывает достаточно сложно. Тем не менее этот кофе однозначно стоит того, чтобы его попробовать.</p>
-                                </div>
-                                                                                                                                                    <div class="article-banner-another">
-                                            <a href="https://shop.tastycoffee.ru/blog/zheltye-krasnye-raznovidnosti-kofe">
-                                                <div class="article-banner-another-inner-block">
-                                                    <div class="article-banner-another-cover"
-                                                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/zheltye-krasnye-raznovidnosti-kofe/main2.jpg)"
-                                                    ></div>
-                                                    <div class="blk">
-                                                        <p class="article-banner-another-top">
-                                                            Вам может быть интересно:
-                                                        </p>
-                                                        <p class="article-banner-another-header">
-                                                            О жёлтых и красных разновидностях кофе
-                                                        </p>
-                                                        <p class="article-banner-another-date">
-                                                            20 июл 2018
-                                                            ·
-                                                            3 мин. на чтение
-                                                        </p>
+                        <div class="category-subs-wrap">
+                            <button class="btn-outline"
+                                    data-sub-id=""
+                                    onclick="addBlogSubscribe(this, '', '8')"
+                            >
+                                Подписаться
+                            </button>
+                        </div>
+                    </div>
+                    <div class="tags-theme-block">
+                        <p class="tags-header">Теги</p>
+                        <div class="tags-theme-block-inner">
+                            <a class="tag-link outline" href="https://shop.tastycoffee.ru/blog/tags">Все</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=2">Выращивание</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=4">Классификация</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=5">Обжарка</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=7">Индустрия</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=11">оборудование</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=14">Экология</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=18">Премия</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=54">Обработка</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=55">Книги</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=56">Теория</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=66">перевод</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=76">Производство</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=80">Смеси</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=81">Хранение</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=84">Контроль обжарки</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=98">Свежесть</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=113">Исследование</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=121">Зеленый кофе</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=137">Обжарка кофе</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=145">Ароматика кофе</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=153">ростеры</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=159">плотность</a>
+                                                            <a class="tag-link outline"
+                                   href="https://shop.tastycoffee.ru/blog/tags?tags=221">цвет</a>
                                                     </div>
-                                                    <a class="interestingFavorite blog-link-favorite-34 "
-                                                       onclick="setBlogFavorite(this, 34); return false;"
-                                                    >
-                                                        <img class="fav-inner-theme"
-                                                             src="/assets/site/img/journal/fav-theme.svg" alt="">
-                                                        <img class="fav-inner-theme blog-icon-active"
-                                                             src="/assets/site/img/journal/fav-active.svg" alt="">
-                                                    </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-v7">
+                <div class="journal-content " data-category-action="https://shop.tastycoffee.ru/blog/obzharka-kofe">
+                    <div class="sort menuLink-wrap verticalScroll">
+        <a class="sort-inner">Сортировать :</a>
+    <a class="sort-inner blog-category-sort active  "
+       data-sort="date">
+        <span class="lnr lnr-arrow-down"></span>
+        <span class="lnr lnr-arrow-up"></span>
+        по дате
+    </a>
+    <a class="sort-inner blog-category-sort "
+       data-sort="likes">
+        <span class="lnr lnr-arrow-down"></span>
+        <span class="lnr lnr-arrow-up"></span>
+        по количеству рекомендаций
+    </a>
+    <a class="sort-inner blog-category-sort "
+       data-sort="views">
+        <span class="lnr lnr-arrow-down"></span>
+        <span class="lnr lnr-arrow-up"></span>
+        по количеству просмотров
+    </a>
+            <p class="all-articles">38 статей</p>
+    </div>                    <div class="for_paginate without-margin">
+                                                    <div class="theme-article-wrapper" style=&quot;padding-top: 0px;&quot;>
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
 
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                                                    <div class="article-info ">
-                                    <div class="row" style="display: flex; padding: 0px;">
-                                        <div class="col-lg-3" style="padding-left: 0px;">
-                                            <a class="blog-link-like-21  article-info-inner like-finger"
-                                               onclick="setBlogLike(this, 21); return false;"
-                                               href="#">
-                                                <img src="/assets/site/img/journal/like-active.svg" alt=""
-                                                     class="blog-icon-active">
-                                                <img src="/assets/site/img/journal/like-finger.svg" alt="">
-                                                <span class="count-like-21">40</span>
-                                            </a>
-                                        </div>
-                                        <div class="col-lg-9" style="padding-right: 0px;">
-                                            <div class="article-subscribe-section-right">
-                                                <p class="article-info-inner views-info">
-                                                    <img src="/assets/site/img/journal/eye-article.svg"
-                                                         alt="">
-                                                    55557 просмотров
-                                                </p>
-                                                <a class="blog-link-favorite-21  article-info-inner article-fav-bottom"
-                                                   onclick="setBlogFavorite(this, 21); return false;"
-                                                   href="#">
-                                                    <img src="/assets/site/img/journal/fav-theme.svg" alt="">
-                                                    <img src="/assets/site/img/journal/fav-active.svg" alt=""
-                                                         class="blog-icon-active">
-                                                    В закладки
-                                                </a>
-                                                                                                    <a class="article-info-inner article-comm-bottom clickBlogComments countComment"
-                                                       href="#reviews">
-                                                        <img src="/assets/site/img/journal/comm-article.svg" alt="">
-                                                        4 комментария
-                                                    </a>
-                                                                                                <div class="social">
-                                                    <div class="ya-share2" data-services="vkontakte,telegram"
-                                                         data-counter=""></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                    <div class="article-tags">
-                                        <div class="row" style="display: flex; padding: 0px;">
-                                            <div class="col-lg-8" style="padding-left: 0px;">
-                                                <p>Теги :</p>
-                                                                                                                                                            <a class="article-tag-bottom"
-                                                           href="https://shop.tastycoffee.ru/blog/tags?tags=2">
-                                                            Выращивание
-                                                        </a>
-                                                                                                                                                </div>
-                                        </div>
-                                    </div>
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/neuroset-protiv-kolorimetra/image5.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/neuroset-protiv-kolorimetra" class="absLink"></a>
+                            <a class="fav blog-link-favorite-496 "
+                               onclick="setBlogFavorite(this, 496); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/neuroset-protiv-kolorimetra">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    4.8K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/neuroset-protiv-kolorimetra#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">22
+                                    </a>
                                                             </div>
                         </div>
-                                                    <div class="col-lg">
-                                                                    <div class="article-author-block">
-                                                                                    <div class="article-author-img"
-                                                 style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/avatar/demish.png)"
-                                            ></div>
-                                                                                <p class="article-author">Вячеслав Демиш</p>
-                                        <p class="article-author-unit"></p>
-                                    </div>
-                                                            </div>
-                                            </div>
-                                            <div class="row" style="display: flex; padding: 0px;">
-                            <div class="col-lg-9" style="padding-left: 0px;">
-                                <div class="read-another ">
-                                    <p class="read-another-header">Читайте также</p>
-                                    <div class="row" style="display: flex; padding: 0px;">
-                                                                                                                                <div class="col-lg"
-                                                 >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/osobennosti-industrii-kofe-v-efiopii/DSCF0200.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/osobennosti-industrii-kofe-v-efiopii" class="absLink"></a>
-            <a class="fav blog-link-favorite-72 "
-               onclick="setBlogFavorite(this, 72); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/osobennosti-industrii-kofe-v-efiopii">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    60.7K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/osobennosti-industrii-kofe-v-efiopii#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">26
-                </a>
+                    </div>
             </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
-                Выращивание
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/osobennosti-industrii-kofe-v-efiopii">
-            <p class="main-article-header">
-                Особенности кофейной индустрии в Эфиопии
-            </p>
-            <div class="main-article-subheader">
-                Система выращивания и продажи кофе внутри Эфиопии — одна из самых запутанных в мире. Мы съездили туда, чтобы получше во всём этом разобраться и выбрать новые сорта. Это статья о поездке.
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            08 мар 2019 · 15 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
-                                                                                                                                <div class="col-lg"
-                                                  style="margin-left: 20px; margin-right: 20px;" >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/liberika/image8.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/liberika" class="absLink"></a>
-            <a class="fav blog-link-favorite-289 "
-               onclick="setBlogFavorite(this, 289); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/liberika">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    33.5K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/liberika#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">4
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
-                Выращивание
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/liberika">
-            <p class="main-article-header">
-                Что такое либерика
-            </p>
-            <div class="main-article-subheader">
-                Перевод статьи Тасмин Грант.
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            10 дек 2020 · 11 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
-                                                                                                                                <div class="col-lg"
-                                                 >
-                                                <div class="itemres new">
-    <div class="article-card" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/afrikanskie-krovati/image1.jpg)">
-        <div class="itemres-hover">
-            <a href="https://shop.tastycoffee.ru/blog/afrikanskie-krovati" class="absLink"></a>
-            <a class="fav blog-link-favorite-323 "
-               onclick="setBlogFavorite(this, 323); return false;"
-               href="#">
-                <img src="/assets/site/img/journal/fav.svg" alt="">
-                <img src="/assets/site/img/journal/fav-white.svg" alt=""
-                     class="blog-icon-active">
-            </a>
-            <div class="itemres-hover-date">
-                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/afrikanskie-krovati">
-                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
-                    24.9K
-                </a>
-                <a class="itemres-hover-comm countComment"
-                   href="https://shop.tastycoffee.ru/blog/afrikanskie-krovati#reviews">
-                    <img src="/assets/site/img/journal/comm.svg" alt="">5
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="main-article">
-                            <a class="theme-link"
-               href="https://shop.tastycoffee.ru/blog/botanika-kofe">
-                Выращивание
-            </a>
-                <a href="https://shop.tastycoffee.ru/blog/afrikanskie-krovati">
-            <p class="main-article-header">
-                Что означает фраза «кофе высушен на африканских кроватях». И где еще фермеры сушат кофе
-            </p>
-            <div class="main-article-subheader">
-                Рассказываем о популярном методе сушки зеленого кофе
-            </div>
-
-        </a>
-        <p class="main-article-descr">
-            15 апр 2021 · 6 мин. на чтение
-        </p>
-    </div>
-</div>
-                                            </div>
-                                                                            </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row" style="display: flex; padding: 0px;">
-                            <a name="reviews"></a>
-                            <div class="col-lg-9 articleBox" style="padding-left: 0px;">
-                                <p class="comments-header">Комментарии</p>
-                                <div>
-                                                                            <div class="reviewsNoAuth">
-    <span class="review_span"><img src="/assets/site/img/key_auth.png" class="review_span_img"></span>
-    <p id="review-noLogged" class="review_prod">Чтобы оставить комментарий, необходимо <a href="javascript:void(0);" class="open_modal_auth">войти</a> в личный кабинет или <a href="https://shop.tastycoffee.ru/create-account">зарегистрироваться</a>.
-    </p>
-</div>
-                                                                    </div>
-                                <div class="post-list for_paginate">
-                                    <div class="item social_post_item" id="blog_review_8174">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/8b680267-4565-4d81-913d-c2e04c69c33e">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_194228_1673432402.png">
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
                                     </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/8b680267-4565-4d81-913d-c2e04c69c33e">Мирослав (г. Майкоп)</a>
-                    </p>
-                    <p class="level">Новичок</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 8174); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Круто. А когда будет статья про обработку «Паса»?
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(8174, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(8174, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=8174">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=8174&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=8174&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">22.01.2023</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_3022">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/a80c0a87-6ffc-4dee-87cc-7eccce4ad6bb">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_20113_1641370878.png">
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/a80c0a87-6ffc-4dee-87cc-7eccce4ad6bb">Ольга (г. Симферополь)</a>
-                    </p>
-                    <p class="level">Новичок</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 3022); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Спасибо
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(3022, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(3022, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">0</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=3022">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=3022&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=3022&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">27.01.2022</p>
-            </div>
-                        <div class="post-list__body--comment" style="display: none" >
-                                            </div>
-        </div>
-
-    </div>
-    <div class="item social_post_item" id="blog_review_2279">
-        <div class="post-list__header">
-                            <a href="https://shop.tastycoffee.ru/profile/95e735b1-5dbb-4630-9ceb-212494f7e9e0">
-                                            <img class="post-list__header--img"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_102342_1635431392.png">
-                                    </a>
-                <div class="post-list__header--name">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/95e735b1-5dbb-4630-9ceb-212494f7e9e0">Елизавета (г. Ростов-на-Дону)</a>
-                    </p>
-                    <p class="level">Новичок</p>
-                </div>
-                        <div class="post-list__header--right">
-                <div class="post-actions">
-                    <button class="post-actions__btn" type="button"></button>
-                    <ul class="post-actions__dropdown">
-                                                    <li>
-                                <a class="link" href="#"
-                                   onclick="blogReviewAddReport(this, 2279); return false;"
-                                >
-                                    <span class="ic-complain">ic</span>
-                                    Пожаловаться на комментарий
-                                </a>
-                            </li>
-                                                                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="post-list__body">
-            <div class="post-list__body--text">
-                Доброго времени суток! <br />
-Пожалуй, на вашем ресурсе тема способов обработки описана подробнее, чем где-либо, что наконец позволило лично мне окончательно разобраться во всех отличиях каждого способа, за что очень хочется вас поблагодарить! <br />
-И возник небольшой вопрос на тему способа паса. Подскажите, пожалуйста, писали ли вы о нем подробнее? Попыталась найти информацию среди других ваших статей, но, к сожалению, безуспешно. Заранее спасибо за ответ!
-            </div>
-            <div class="post-list__body--response btn-like">
-                <a href="#" onclick="blogCommentLike(2279, this); return false;"
-                   class="btn-like-up "
-                >
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a  href="#" onclick="blogCommentDislike(2279, this); return false;"
-                    class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" class="btn-chat" onclick="toggleSocialPostReviews(this, ''); return false;">
-                    <span class="ic">ic</span> <span class="value count_reviews_text">1</span>
-                </a>
-                <div class="btn-share">
-                    <span class="ic">ic</span>
-                    <ul class="menuHm">
-    <li>
-        <a href="#" onclick="copyPostLink(this); return false;" data-text="https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=2279">
-            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.58795 6.46923C4.70001 6.66072 4.83807 6.84117 5.00213 7.00544C6.03732 8.04192 7.71569 8.04193 8.75088 7.00544L10.2236 5.53082C11.2588 4.49433 11.2588 2.81385 10.2236 1.77737C9.18842 0.740879 7.51005 0.740877 6.47486 1.77736L5.99655 2.25629M7.41204 5.53078C7.29998 5.33928 7.16191 5.15884 6.99785 4.99457C5.96266 3.95808 4.28429 3.95808 3.24911 4.99457L1.77639 6.46918C0.741203 7.50567 0.741203 9.18615 1.77639 10.2226C2.81158 11.2591 4.48995 11.2591 5.52514 10.2226L5.99655 9.75062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            Копировать ссылку
-        </a>
-    </li>
-    <li>
-        <a href="https://vk.com/share.php?url=https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=2279&title=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11.51 4.82612C11.9536 5.2563 12.4241 5.67304 12.8274 6.14355C13.0022 6.35864 13.1635 6.57373 13.2979 6.81571C13.4727 7.16524 13.3113 7.55509 13.0022 7.56853H11.0529C10.5555 7.60886 10.1522 7.40721 9.81611 7.05769C9.54725 6.78883 9.29182 6.49307 9.0364 6.21077C8.92886 6.08978 8.82131 5.98223 8.68688 5.90157C8.41802 5.72681 8.18948 5.78058 8.0416 6.06289C7.88029 6.3452 7.8534 6.65439 7.83996 6.97703C7.81307 7.4341 7.67864 7.55509 7.22157 7.58198C6.24021 7.62231 5.29919 7.47443 4.42538 6.97703C3.65912 6.5334 3.06761 5.91502 2.54333 5.21597C1.53509 3.8582 0.768824 2.35256 0.0697768 0.806593C-0.0915418 0.457069 0.0294471 0.268864 0.405857 0.268864C1.03769 0.255421 1.68296 0.255421 2.31479 0.268864C2.57022 0.268864 2.74498 0.416739 2.83908 0.658717C3.1886 1.50564 3.60534 2.31223 4.12963 3.05161C4.26406 3.25326 4.41194 3.45491 4.61358 3.58934C4.84212 3.75066 5.01688 3.69689 5.12443 3.44146C5.19164 3.28015 5.21853 3.10538 5.23197 2.94407C5.28575 2.35256 5.28575 1.76106 5.20509 1.183C5.15131 0.820036 4.94967 0.578058 4.57326 0.510842C4.38505 0.470513 4.41194 0.403296 4.50604 0.29575C4.66736 0.107545 4.81523 0 5.09754 0H7.30223C7.65175 0.0672161 7.73241 0.228535 7.77274 0.578058V3.02472C7.77274 3.15916 7.83996 3.56245 8.08193 3.65656C8.27014 3.72377 8.40457 3.56245 8.52556 3.44146C9.04985 2.87685 9.42626 2.21813 9.76234 1.53253C9.91021 1.23678 10.0446 0.914139 10.1656 0.604945C10.2597 0.37641 10.4076 0.255421 10.663 0.268864H12.7871C12.8543 0.268864 12.9081 0.268864 12.9753 0.282307C13.3382 0.349524 13.4323 0.497399 13.3248 0.846922C13.15 1.39809 12.8139 1.85516 12.4779 2.31223C12.1283 2.79619 11.7519 3.28015 11.389 3.7641C11.0798 4.20773 11.1067 4.43626 11.51 4.82612Z" fill="black"/>
-            </svg>
-            ВКонтакте
-        </a>
-    </li>
-    <li>
-        <a href="https://t.me/share/url?url=https://shop.tastycoffee.ru/blog/wet-hull-obrabotka-kofe-sumatra?comment=2279&text=Посмотрите комментарий @ в журнале о кофе" target="_blank">
-            <svg width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M4.7087 7.24974L4.5102 10.3209C4.7942 10.3209 4.91721 10.1867 5.06471 10.0256L6.39624 8.62583L9.15531 10.8484C9.66132 11.1586 10.0178 10.9952 10.1543 10.3363L11.9654 1.00177L11.9659 1.00122C12.1264 0.178422 11.6954 -0.143326 11.2024 0.0585227L0.557102 4.54155C-0.169415 4.85175 -0.158415 5.29725 0.433599 5.49909L3.15516 6.43024L9.47682 2.07921C9.77432 1.86251 10.0448 1.98241 9.82232 2.19911L4.7087 7.24974Z" fill="black"/>
-            </svg>
-
-            Telegram
-        </a>
-    </li>
-</ul>
-                </div>
-
-
-
-
-
-
-                <p class="time">21.11.2021</p>
-            </div>
-                        <div class="post-list__body--comment" >
-                                <div class="item-comment main moder"
-         id="blog_review_2317">
-        <div class="review review-block">
-                            <a href="https://shop.tastycoffee.ru/profile/96be76e7-5b12-4af5-9d1b-90d201dea1fc">
-                                            <img class="avatar"
-                             src="https://coffee-static.storage.yandexcloud.net/avatar/avatar_46589_1630915611.png">
-                                    </a>
-                <div class="name-wrap">
-                    <p class="name">
-                        <a href="https://shop.tastycoffee.ru/profile/96be76e7-5b12-4af5-9d1b-90d201dea1fc">Виктория (г. Ижевск)</a>
-                    </p>
-                    <p class="text-gray">Команда Tasty Coffee</p>
-                </div>
-                        <p class="date">24.11.2021</p>
-            <div class="text">
-                Добрый день, Елизавета!<br /><br />
-Рада узнать, что благодаря нашим статьям вы стали лучше разбираться в особенностях различных способов обработки кофе.<br /><br />
-Обработка паса очень похожа на хани. Спелые ягоды выкладывают на африканских кроватях и сушат в течение 24 часов, как при натуральной обработке. Спустя 24 часа ягоды депульпируют. Затем пачмент, покрытый клейковиной, отправляют снова на сушку. Время сушки может отличаться.<br /><br />
-К сожалению, на данный момент у нас нет статьи про этот способ обработки. Но вы можете ознакомиться с <a href="https://shop.tastycoffee.ru/blog/hani-pulp-natural-i-polumitiy-sposob-obrabotki" target="_blank">материалом</a> про обработку хани. Буду рада, если вам понравится!
-            </div>
-                        <div class="response btn-like">
-                <a href="#" onclick="blogCommentLike(2317, this); return false;"
-                   class="btn-like-up ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                <a href="#" onclick="blogCommentDislike(2317, this); return false;"
-                   class="btn-like-down ">
-                    <span class="ic">ic</span> <span class="value">0</span>
-                </a>
-                            </div>
-                                </div>
-        <div class="reviewChild-block">
-                    </div>
-    </div>
-            </div>
-        </div>
-
-    </div>
-    <hr>
-    <div class="pagination-block">
-        
-    </div>
-                                </div>
-
-                                                            </div>
-                        </div>
-                                    </div>
-            </div>
-                            <div class="lookBox">
-                    <h4 class="center">Вас может заинтересовать</h4>
-                    <div class="owl-carousel card-wrap">
-                                                    <div
-    class="cardBox noteBox-for-open main-edit green coffee  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
-        <input type="hidden" name="product_id" value="27">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >4.7
-                </div>
-                                <a href="https://shop.tastycoffee.ru/coffee/sumatra-gayo#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    176
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                            <a class="btnCard compare  btnCardCompare_27"
-                           data-product-id="27"
-                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
-                           title="Сравнение товаров"
-                        ></a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                            </div>
-        </div>
-        <div class="nameTovar">
-                            <span>Для фильтра</span>
-                        <a href="https://shop.tastycoffee.ru/coffee/sumatra-gayo">
-                Суматра Гайо
-            </a>
-                            <div class="processingMethod">
-                    <span class="processingMethod__text">вет-халл</span>
-                    <div class="tipMicrolot">
-                        <div class="wrap">
-                            <p><strong>Обработка</strong> — это этап производства, который напрямую влияет на
-                                вкус кофе. Например, кофе натуральной обработки — часто менее кислотный и более плотный,
-                                кофе мытой обработки — наоборот, более кислотный и лёгкий. Однако всегда возможны
-                                исключения, так как эти характеристики зависят не только от способа обработки.</p>
-                            <a href="https://shop.tastycoffee.ru/blog/sposoby-obrabotki-kofe" target="_blank">Подробнее
-                                об обработке <span
-                                    class="arr"></span></a>
-                        </div>
-
-                    </div>
-                </div>
-                    </div>
-        <div class="tovarImg ">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/coffee/sumatra-gayo"
-                   class="absLink">Суматра Гайо</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack6/alt-mono/sumatra-gayo-025.png"
-                                        alt="Суматра Гайо"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack6/alt-mono/sumatra-gayo-1.png"
-                                        alt="Суматра Гайо"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans4/mono_asia/brans - sumatra-gayo.png"
-                                        alt="Суматра Гайо"
-                                        />
-                                </div>
-                                                    </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Отчетливые ноты шиповника и лайма с оттенками жареных орехов на послевкусии
-            </div>
-                            <div class="lineCb-wrap animated fadeIn">
-                                            <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 80%"></span></div>
-                            <span class="lineCb__text">Кислотность</span>
-                        </div>
-                                                                <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 80%"></span>
-                            </div>
-                            <span class="lineCb__text">Плотность</span>
-                        </div>
-                                    </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="27"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit green coffee  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
-        <input type="hidden" name="product_id" value="420">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >4.8
-                </div>
-                                <a href="https://shop.tastycoffee.ru/coffee/sumatra-mandiri#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    20
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
-                    </a>
-                                            <a class="btnCard compare  btnCardCompare_420"
-                           data-product-id="420"
-                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
-                           title="Сравнение товаров"
-                        ></a>
-                                    </div>
-            </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/coffee?filters=28">
-                                Микролот
-                            </a>
-                                                            <div class="tipMicrolot">
-                                    <div class="wrap">
-                                        <p><strong>Микролот</strong> — это сезонный кофе с яркими вкусовыми особенностями
-                                            более
-                                            высокого качества с оценкой от 85 баллов по SCA. Он получается таким за счет
-                                            тщательного
-                                            внимания при выращивании и обработке, но его урожай обычно сильно ограничен.</p>
-                                        <a href="https://shop.tastycoffee.ru/blog/chto-takoe-microlot-kofe"
-                                        target="_blank">Подробнее о микролотах <span class="arr"></span></a>
-                                    </div>
-
-                                </div>
-                                                    </div>
-                                                                                                        <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/coffee?type=30">
-                                Рекомендуем
-                            </a>
-                                                    </div>
                                                                                     </div>
-        </div>
-        <div class="nameTovar">
-                            <span>Для фильтра</span>
-                        <a href="https://shop.tastycoffee.ru/coffee/sumatra-mandiri">
-                Суматра Мандири
-            </a>
-                    </div>
-        <div class="tovarImg ">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/coffee/sumatra-mandiri"
-                   class="absLink">Суматра Мандири</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <div class="sliderGoods-wrap">
-                        <div class="owl-carousel sliderCatalog owl-theme">
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack5/alt-microlot/sumatra-mandiri-025.png"
-                                        alt="Суматра Мандири"
-                                        itemprop=image/>
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack5/alt-microlot/sumatra-mandiri-1.png"
-                                        alt="Суматра Мандири"
-                                        />
-                                </div>
-                                                            <div class="item">
-                                    <img
-                                        class="tovarImg"
-                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/beans4/mono_asia/bean-sumatra-mandiri.png"
-                                        alt="Суматра Мандири"
-                                        />
-                                </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/neuroset-protiv-kolorimetra">
+                        <div class="theme-article-header">
+                            Нейросеть против колориметра: насколько перспективно новое приложение
+                        </div>
+                        <div class="theme-article-descr">
+                            Заменит ли искусственный интеллект лабораторное оборудование обжарщиков
+                        </div>
+                        <div class="theme-article-date">
+                                                            15 дек 2022 ·
+                                Софья Ахметшина ·
+                                6 мин. на чтение
                                                     </div>
-                    </div>
-                
-            </div>
-        </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Мед, ликерная конфета, темный шоколад, специи. Плотное тело и яркая, ягодная кислотность
-            </div>
-                            <div class="lineCb-wrap animated fadeIn">
-                                            <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 80%"></span></div>
-                            <span class="lineCb__text">Кислотность</span>
-                        </div>
-                                                                <div class="lineCb-item">
-                            <div class="lineCb"><span style="width: 60%"></span>
-                            </div>
-                            <span class="lineCb__text">Плотность</span>
-                        </div>
-                                    </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="420"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
-    </div>
-    </div>
-
-                                                    <div
-    class="cardBox noteBox-for-open main-edit grey coffee  ">
-    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" coffee>
-        <input type="hidden" name="product_id" value="488">
-        <div class="noteBox animated fadeIn">
-    <div class="noteBox-wrap">
-        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
-        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
-        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
-    </div>
-</div>        <div class="cardBox-h">
-            <div class="cardBox-h-l">
-                <div class="ratingCard"
-                    onclick=$(&quot;.enterOpen&quot;).click()
-                >5
-                </div>
-                                <a href="https://shop.tastycoffee.ru/coffee/capsules-sumatra#reviews"
-                   class="countComment">
-                    <i class="ic comment-ic"></i>
-                    18
-                </a>
-                <div class="btnCard-wrap">
-                    <a class="btnCard note "
-                       onclick="open_note(this); return false;"
-                       title="Заметки"
-                    ></a>
-                    <a class="btnCard favorite "
-                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
-                       title="Избранное"
-                    >
-                        <span class="favoriteAdd"></span>
-                        <span class="favoriteAdded"></span>
                     </a>
-                                            <a class="btnCard compare  btnCardCompare_488"
-                           data-product-id="488"
-                           onclick="toggleCompareProduct(this, 'https://shop.tastycoffee.ru/products/compare/toggle'); return false;"
-                           title="Сравнение товаров"
-                        ></a>
-                                    </div>
+                </div>
             </div>
-            <div class="cardBox-h-r">
-                                                                                                                                                    <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/coffee?type=30">
-                                Рекомендуем
-                            </a>
-                                                    </div>
-                                                                                                        <div class="cdh-1">
-                            <a class="microlotHover"
-                            href="https://shop.tastycoffee.ru/coffee?type=79">
-                                Заканчивается
-                            </a>
-                                                    </div>
-                                                </div>
         </div>
-        <div class="nameTovar">
-                            <span>Капсулы для Nespresso</span>
-                        <a href="https://shop.tastycoffee.ru/coffee/capsules-sumatra">
-                Суматра
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/front-ispareniya/image3.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/front-ispareniya" class="absLink"></a>
+                            <a class="fav blog-link-favorite-494 "
+                               onclick="setBlogFavorite(this, 494); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/front-ispareniya">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    4.8K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/front-ispareniya#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">26
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/front-ispareniya">
+                        <div class="theme-article-header">
+                            Фронт испарения: что это и какое значение имеет для обжарки кофе
+                        </div>
+                        <div class="theme-article-descr">
+                            Как испарение влаги в зерне влияет на процесс обжарки
+                        </div>
+                        <div class="theme-article-date">
+                                                            08 дек 2022 ·
+                                Софья Ахметшина ·
+                                7 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/analizator-zelenogo-kofe-ot-profileprint/image1.jpeg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/analizator-zelenogo-kofe-ot-profileprint" class="absLink"></a>
+                            <a class="fav blog-link-favorite-481 "
+                               onclick="setBlogFavorite(this, 481); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/analizator-zelenogo-kofe-ot-profileprint">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    6.5K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/analizator-zelenogo-kofe-ot-profileprint#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">37
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/analizator-zelenogo-kofe-ot-profileprint">
+                        <div class="theme-article-header">
+                            Как узнать качество кофе за несколько секунд: анализатор от ProfilePrint
+                        </div>
+                        <div class="theme-article-descr">
+                            Рассказываем об устройстве, которое анализирует качество кофе за несколько секунд
+                        </div>
+                        <div class="theme-article-date">
+                                                            24 окт 2022 ·
+                                Софья Ахметшина ·
+                                10 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kak-i-dlya-chego-modernizirovat-proizvodstvo-po-obzharke/image1.jpeg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/kak-i-dlya-chego-modernizirovat-proizvodstvo-po-obzharke" class="absLink"></a>
+                            <a class="fav blog-link-favorite-458 "
+                               onclick="setBlogFavorite(this, 458); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kak-i-dlya-chego-modernizirovat-proizvodstvo-po-obzharke">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    9.2K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/kak-i-dlya-chego-modernizirovat-proizvodstvo-po-obzharke#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">38
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/kak-i-dlya-chego-modernizirovat-proizvodstvo-po-obzharke">
+                        <div class="theme-article-header">
+                            Как и для чего модернизировать производство по обжарке кофе
+                        </div>
+                        <div class="theme-article-descr">
+                            Оборудование и технологии, которые внедряют для совершенствования производства
+                        </div>
+                        <div class="theme-article-date">
+                                                            04 авг 2022 ·
+                                Софья Ахметшина ·
+                                11 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kak-obzharochnaya-kompania-mozhet-stat-ekologichnee/image5.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/kak-obzharochnaya-kompania-mozhet-stat-ekologichnee" class="absLink"></a>
+                            <a class="fav blog-link-favorite-409 "
+                               onclick="setBlogFavorite(this, 409); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kak-obzharochnaya-kompania-mozhet-stat-ekologichnee">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    14.3K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/kak-obzharochnaya-kompania-mozhet-stat-ekologichnee#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">26
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/kak-obzharochnaya-kompania-mozhet-stat-ekologichnee">
+                        <div class="theme-article-header">
+                            Как обжарочная компания может стать экологичнее
+                        </div>
+                        <div class="theme-article-descr">
+                            Рассказываем о том, что мы делаем, чтобы наше производство было безопасным для природы
+                        </div>
+                        <div class="theme-article-date">
+                                                            14 фев 2022 ·
+                                Софья Ахметшина ·
+                                13 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/nazvanie-objarki/image2.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/nazvanie-objarki" class="absLink"></a>
+                            <a class="fav blog-link-favorite-383 "
+                               onclick="setBlogFavorite(this, 383); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/nazvanie-objarki">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    27.2K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/nazvanie-objarki#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">66
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/nazvanie-objarki">
+                        <div class="theme-article-header">
+                            Названия обжарки: от цвета к способу приготовления
+                        </div>
+                        <div class="theme-article-descr">
+                            Почему теперь не так важно светлая обжарка или темная. Важно, для какого она способа приготовления
+                        </div>
+                        <div class="theme-article-date">
+                                                            15 ноя 2021 ·
+                                Софья Ахметшина ·
+                                7 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/kak-obzharivat-kofe-eksperimentalnoj-obrabotki/image1.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/kak-obzharivat-kofe-eksperimentalnoj-obrabotki" class="absLink"></a>
+                            <a class="fav blog-link-favorite-366 "
+                               onclick="setBlogFavorite(this, 366); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/kak-obzharivat-kofe-eksperimentalnoj-obrabotki">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    20.3K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/kak-obzharivat-kofe-eksperimentalnoj-obrabotki#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">33
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/kak-obzharivat-kofe-eksperimentalnoj-obrabotki">
+                        <div class="theme-article-header">
+                            Поздний крэк, короткое время развития и другие особенности обжарки экспериментального кофе
+                        </div>
+                        <div class="theme-article-descr">
+                            Делимся некоторыми советами по обжарке нестандартного кофе
+                        </div>
+                        <div class="theme-article-date">
+                                                            16 сен 2021 ·
+                                Софья Ахметшина ·
+                                7 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/plotnost-kofe/image2.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/plotnost-kofe" class="absLink"></a>
+                            <a class="fav blog-link-favorite-358 "
+                               onclick="setBlogFavorite(this, 358); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/plotnost-kofe">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    29.5K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/plotnost-kofe#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">31
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/plotnost-kofe">
+                        <div class="theme-article-header">
+                            Плотность кофе: для чего нужен этот параметр и на что он влияет
+                        </div>
+                        <div class="theme-article-descr">
+                            Более и менее плотный кофе нужно обжаривать по-разному
+                        </div>
+                        <div class="theme-article-date">
+                                                            19 авг 2021 ·
+                                Софья Ахметшина ·
+                                4 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="theme-article-wrapper" >
+        <div class="row" style="display: flex; padding: 0px;">
+            <div class="col-lg-4" style="padding-left: 0px;">
+
+                    <div class="theme-article-img"
+                         style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/data/blog/istoria-razvitia-rosterov/image4.jpg)">
+                        <div class="itemres-hover">
+                            <a href="https://shop.tastycoffee.ru/blog/istoria-razvitia-rosterov" class="absLink"></a>
+                            <a class="fav blog-link-favorite-350 "
+                               onclick="setBlogFavorite(this, 350); return false;"
+                               href="#">
+                                <img src="/assets/site/img/journal/fav.svg" alt="">
+                                <img src="/assets/site/img/journal/fav-white.svg" alt="" class="blog-icon-active">
+                            </a>
+                            <div class="itemres-hover-date">
+                                <a class="itemres-hover-views" href="https://shop.tastycoffee.ru/blog/istoria-razvitia-rosterov">
+                                    <img src="/assets/site/img/journal/eye-new.svg" alt="">
+                                    23.2K
+                                </a>
+                                                                    <a class="itemres-hover-comm countComment"
+                                       href="https://shop.tastycoffee.ru/blog/istoria-razvitia-rosterov#reviews">
+                                        <img src="/assets/site/img/journal/comm.svg" alt="">6
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg">
+                <div class="theme-article">
+                                            <div>
+                                                                                                <a href="https://shop.tastycoffee.ru/blog/obzharka-kofe"
+                                       class="theme-article-theme">
+                                        Обжарка
+                                    </a>
+                                                                                    </div>
+                                        <a href="https://shop.tastycoffee.ru/blog/istoria-razvitia-rosterov">
+                        <div class="theme-article-header">
+                            История развития кофейных ростеров
+                        </div>
+                        <div class="theme-article-descr">
+                            От глиняной сковороды до устройств на компьютерном управлении
+                        </div>
+                        <div class="theme-article-date">
+                                                            22 июл 2021 ·
+                                Софья Ахметшина ·
+                                12 мин. на чтение
+                                                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="pagination-block">
+            <div class="text-center">
+            <a class="more-link" href="#"
+               onclick="on_paginate(this,'https://shop.tastycoffee.ru/blog/obzharka-kofe?sort_name=date&amp;sort_by=desc&amp;page=2','more');return false;">
+                <img src="/assets/site/img/journal/dots.png"
+                     style="width: 2.7%;vertical-align: middle;padding-right: -3px;margin-right: 7px;">
+                Загрузить больше
             </a>
-                    </div>
-        <div class="tovarImg center-image zoom-image">
-            <div class="tovarImg-wrap ">
-                <a href="https://shop.tastycoffee.ru/coffee/capsules-sumatra"
-                   class="absLink">Суматра</a>
-                
-                                    <div class="scaImg scaArchive"></div>
-                                                                    <img class="tovarImg" src="https://coffee-static.storage.yandexcloud.net/files/shares/data/capsules/sumatra_capsules2.png"
-                         alt="Суматра">
-                
-            </div>
         </div>
-        <div class="hiddenCard animated fadeIn ">
-            <div class="textTovar text-hide">
-                Яркий вкус с нотами лайма, шиповника, специй и горького шоколада. В одной упаковке 10 капсул, которые подходят для кофеварок Nespresso
-            </div>
-                    </div>
-
-        <div class="absCard">
-            
-            <div class="cardBox-f">
-                <div class="cardBox-f-top">
-                                    </div>
-                
-                 
-                    <div class="cardBox-f-r">
-                        <button
-                            class="buyBtn wo-icon buyText receipt-modal-open"
-                            type="button"
-                            data-is-user="false"
-                            data-product="488"
-                        >
-                            Сообщить о поступлении
-                        </button>
-                    </div>
-                            </div>
-        </div>
-    </form>
-    <div class="grayBox" onclick="$(this).toggleClass('active')">
-        <div class="btnQuestion whiteQuestion"></div>
-        <div class="grayBox__title">
-            Для экспертов
-        </div>
-        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
-        <div class="grayBox__dropdown">
-            <p>До статуса “Эксперт” осталось:</p>
-            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных</p>
-        </div>
-
     </div>
-    </div>
-
                                             </div>
                 </div>
-                    </div>
+            </div>
+        </div>
     </div>
     <footer>
     <div class="top-f">
@@ -2507,85 +1941,7 @@
         form_header.find('#postcode_header').val('');
     });
 </script>
-<script>
-    $(document).ready(function () {
-        $(document).on('click', '.receipt-modal-open', function(e) {
-            const product_id = $(this).attr('data-product');
 
-            if($(this).attr('data-is-user') === 'false') {
-                $('#receipt-modal-form').attr('action', "https://shop.tastycoffee.ru/ajax/products/0/subscribe".replace(0, product_id))
-                // $('#receipt-modal').modal('show');
-                $('[data-modal-name="notification-product-appearance-no-login"]').addClass('active');
-
-                return false;
-            }
-
-            $('[data-modal-name="notification-product-appearance"]').addClass('active');
-
-            $.ajax({
-                url: 'https://shop.tastycoffee.ru/ajax/products/0/subscribe'.replace(0, product_id),
-                method: 'POST',
-            }).done(function() {
-
-            }).fail(function(data) {
-
-            })
-        });
-        $('#receipt-modal form button').on('click', function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            var $form = $(this).closest('form');
-            var showError = function(text) {
-                var $errorEl = $form.find('.siteError');
-                $errorEl.text(text).show();
-                setTimeout(function() {
-                    $errorEl.text('').hide();
-                }, 3000);
-            }
-
-                if (!$form.find('[name="is_agreed"]').prop('checked')) {
-                    showError('Вы не согласились с условиями');
-                    return false;
-                }
-
-                $.ajax({
-                    url: $form.attr('action'),
-                    data: {email: $form.find('[name="email"]').val()},
-                    method: $form.attr('method'),
-                }).done(function () {
-                    $('[data-modal-name="notification-product-appearance-no-login"]').removeClass('active');
-                    $('[data-modal-name="notification-product-appearance-done"]').addClass('active');
-                    // $form.find('.info').remove();
-                }).fail(function (data) {
-                    if (data.status === 422) {
-                        showError(Object.values(data.responseJSON.errors).flat().join(', '));
-                    } else {
-                        showError(data.responseJSON.message);
-                    }
-                })
-            });
-        });
-    </script>
-    <script>
-        $(document).ready(function () {
-            var posts = $('.article-banner-another');
-            if (posts.length) {
-                var post = posts.eq(0),
-                    elements = $('.article-text-content > p'),
-                    positionNumber = Math.round(elements.length / 2);
-
-                if (positionNumber > 1) {
-                    if (elements.eq(positionNumber).children('img').length) {
-                        positionNumber++;
-                    };
-                    post.appendTo(elements.eq(positionNumber));
-                }
-
-
-            }
-        });
-    </script>
-    
     <script type="text/javascript" async defer>(function () {
             var s = document.createElement('script');
             s.type = 'text/javascript';
@@ -2624,71 +1980,5 @@
         e[a] = {}, e[a].date = (new Date).getTime(), n = t.createElement(d), c = t.getElementsByTagName(d)[0], n.type = "text/javascript", n.async = !0, n.src = s, c.parentNode.insertBefore(n, c)
     }(window, document, "script", "https://tastycoffeesaleru.push.world/https.embed.js", "pw"), pw.websiteId = "e0f4f5dd207d407945e8c66c72c33fc6a1f1a6a09c7973e03dfecc25e2a368af";
 </script>-->
-    <div class="popupAdded animated fadeIn modal-notify" id="receipt-modal" data-modal-name="notification-product-appearance-no-login">
-    <div class="popupAdded-wrap modal-content p-lr-32">
-        <div class="w-100 pb-3 text-center">
-            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="50" height="50" fill="white"/>
-                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
-            </svg>
-        </div>
-        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
-
-        <div class="modal_body">
-            <form action="" class="" id="receipt-modal-form" method="POST">
-                <div class="info">
-                    <div class="input-wrap">
-                        <input type="text" name="email" placeholder="Введите ваш e-mail">
-                        <button type="button"></button>
-                    </div>
-                    <div class="siteError mb-3"></div>
-                    <div class="checkbox-wrap">
-                        <input id="agreed" type="checkbox" name="is_agreed">
-                        <label for="agreed" class="subscribe-agreed">
-                            <span class="label__box"></span>
-                            <span class="label__text">
-                                Согласен с <a href="https://shop.tastycoffee.ru/privacy" target="_blank">условиями обработки персональных данных</a> и
-                                <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank">Пользовательского соглашения</a>
-                            </span>
-                        </label>
-                    </div>
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance">
-    <div class="popupAdded-wrap p-lr-32">
-        <div class="w-100 pb-3 text-center">
-            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="50" height="50" fill="white"/>
-                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
-                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
-            </svg>
-        </div>
-        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
-        <div>
-            <div class="siteError mb-3"></div>
-        </div>
-        <button type="button" class="grayBtn closePa w-105 mb-3">Закрыть</button>
-    </div>
-</div>
-
-<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance-done">
-    <div class="popupAdded-wrap p-lr-32">
-        <div class="w-100 pb-3 text-center">
-            <div class="check-ic"></div>
-        </div>
-        <h3>Вы подписаны</h3>
-        <div>
-            <div class="siteError mb-3"></div>
-        </div>
-        <button type="button" class="blackBtn closePa w-74 mb-3">Ок</button>
-    </div>
-</div>
-</body>
+    </body>
 </html>

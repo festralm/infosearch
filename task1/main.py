@@ -54,6 +54,8 @@ class Crawler:
             url = furl.furl(url).tostr()
             logging.info(f'Crawling №{url_num}: {url}')
             opener = urllib.request.FancyURLopener({})
+            if any(ext in url for ext in ['.mp4', '.jpg', '.apk', '.shop']):
+                continue
             try:
                 f = opener.open(url)
             except Exception:

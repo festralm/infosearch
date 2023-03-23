@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta name="csrf-token" content="NSpLl6EeXjkVeWSZU19pluMJpYLh3iTC5qqXiJqc">
+    <meta name="csrf-token" content="q6EbvH7TZRvaBJPeprg61J4TpOAcZBgPAtXam8vv">
     <title>Оформление заказа</title>
     <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
     <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
@@ -524,7 +524,7 @@
             <div class="feedBack-wrap">
                 <a class="closeBtn" href="#"></a>
                 <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
-                    <input type="hidden" name="_token" value="NSpLl6EeXjkVeWSZU19pluMJpYLh3iTC5qqXiJqc">                    <input type="hidden" name="type" value="1">
+                    <input type="hidden" name="_token" value="q6EbvH7TZRvaBJPeprg61J4TpOAcZBgPAtXam8vv">                    <input type="hidden" name="type" value="1">
                     <div class="itemFb">
                         <h5>Свяжитесь со мной</h5>
                         <input type="text" placeholder="Имя" name="name" required>
@@ -582,7 +582,7 @@
                      data-context="signin"
                      data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
                      data-itp_support="true"
-                     data-_token="NSpLl6EeXjkVeWSZU19pluMJpYLh3iTC5qqXiJqc"
+                     data-_token="q6EbvH7TZRvaBJPeprg61J4TpOAcZBgPAtXam8vv"
                 >
                 </div>
                             </div>
@@ -597,7 +597,7 @@
             </div>
         </div>
         <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
-            <input type="hidden" name="_token" value="NSpLl6EeXjkVeWSZU19pluMJpYLh3iTC5qqXiJqc">        </form>
+            <input type="hidden" name="_token" value="q6EbvH7TZRvaBJPeprg61J4TpOAcZBgPAtXam8vv">        </form>
         <div class="exportPoints fadeIn animated">
             <a class="closeBtn" href="#"></a>
             
