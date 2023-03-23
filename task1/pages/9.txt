@@ -1,1 +1,3215 @@
-<!doctype html><html prefix="og: http://ogp.me/ns#"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title data-react-helmet="true">Ой!</title><meta data-react-helmet="true" property="og:title" content="Яндекс"><meta data-react-helmet="true" property="og:description" content="Найдётся всё"><meta data-react-helmet="true" property="og:image" content="https://yastatic.net/s3/home-static/_/37/37a02b5dc7a51abac55d8a5b6c865f0e.png"><link rel="stylesheet" href="/captcha_smart.0bfc4d9561e7e6e94795.min.css?k=1666276736660"><style>@media only screen and (min-width:651px){body{background-image:url('https://captcha-backgrounds.s3.yandex.net/static/default-background.jpg')}}.LogoLink{background-image:url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNzggOTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTI0OS43ODkgODQuODY4OVY3Mi40MTQ2QzI0NSA3NS42MjQ1IDIzNi45NzYgNzguNDQ5MiAyMjkuNDY5IDc4LjQ0OTJDMjE4LjIxIDc4LjQ0OTIgMjEzLjkzOSA3My4xODUgMjEzLjI5MSA2Mi4zOTk4SDI1MC40MzZWNTQuMzEwOUMyNTAuNDM2IDMxLjg0MTcgMjQwLjQ3MSAyMy4zNjc3IDIyNS4wNjkgMjMuMzY3N0MyMDYuMzAzIDIzLjM2NzcgMTk3LjM3MiAzNy42MTk1IDE5Ny4zNzIgNTcuMTM1NkMxOTcuMzcyIDc5LjYwNDcgMjA4LjUwMyA5MC41MTgzIDIyOC4xNzUgOTAuNTE4M0MyMzguMDExIDkwLjUxODMgMjQ1LjI1OSA4Ny45NTA0IDI0OS43ODkgODQuODY4OVpNMzQ2LjA4MSA5MC41MTgzQzM1My4xOTkgOTAuNTE4MyAzNTguMjQ3IDg5LjIzNDMgMzYyIDg2LjUzOFY3NC4wODM3QzM1OC4xMTcgNzYuNzggMzUzLjQ1OCA3OC40NDkyIDM0Ni45ODcgNzguNDQ5MkMzMzUuOTg2IDc4LjQ0OTIgMzMxLjQ1NiA2OS45NzUxIDMzMS40NTYgNTYuNjIyQzMzMS40NTYgNDIuNjI2OSAzMzcuMDIxIDM1LjQzNjggMzQ3LjExNiAzNS40MzY4QzM1My4wNyAzNS40MzY4IDM1OC44OTQgMzcuNDkxMSAzNjIgMzkuNDE3MVYyNi40NDkyQzM1OC43NjQgMjQuNjUxNiAzNTMuMDcgMjMuMzY3NyAzNDUuNDM0IDIzLjM2NzdDMzI1Ljc2MSAyMy4zNjc3IDMxNS41MzcgMzcuMzYyNyAzMTUuNTM3IDU3LjAwNzJDMzE1LjUzNyA3OC41Nzc2IDMyNS41MDIgOTAuNTE4MyAzNDYuMDgxIDkwLjUxODNaTTEwOC43MTcgMjQuNjUxNlY1MC4yMDIySDg4LjEzODJWMjQuNjUxNkg3Mi43MzY3Vjg5LjIzNDNIODguMTM4MlY2Mi4yNzE0SDEwOC43MTdWODkuMjM0M0gxMjQuMTE4VjI0LjY1MTZIMTA4LjcxN1pNMTkzLjYxOSA3Ny4xNjUySDE4Ni43NTlWMjQuNjUxNkgxNDEuODQ5VjMwLjE3MjZDMTQxLjg0OSA0NS45NjUyIDE0MC44MTQgNjYuMzggMTM1LjM3OCA3Ny4xNjUySDEzMC41ODlWMTA0SDE0NC44MjZWODkuMjM0M0gxNzkuMzgyVjEwNEgxOTMuNjE5Vjc3LjE2NTJaTTI5OC45NyA4OS4yMzQzSDMxNi40NDNMMjkxLjcyMyA1NC40MzkzTDMxMy40NjYgMjQuNjUxNkgyOTcuOTM1TDI3Ni4xOTIgNTQuNDM5M1YyNC42NTE2SDI2MC43OVY4OS4yMzQzSDI3Ni4xOTJWNTcuNTIwOEwyOTguOTcgODkuMjM0M1pNMjI0LjgxIDM1LjQzNjhDMjMyLjQ0NiAzNS40MzY4IDIzNC43NzYgNDEuNzI4MiAyMzQuNzc2IDQ5LjgxNzFWNTEuMTAxSDIxMy4yOTFDMjEzLjY4IDQwLjgyOTQgMjE3LjQzMyAzNS40MzY4IDIyNC44MSAzNS40MzY4Wk0xNzEuMzU4IDc3LjE2NTJIMTQ5LjYxNUMxNTMuODg2IDY3LjQwNzIgMTU1LjA1MSA0OS44MTcxIDE1NS4wNTEgMzguNjQ2N1YzNi43MjA4SDE3MS4zNThWNzcuMTY1MloiIGZpbGw9ImJsYWNrIj48L3BhdGg+CiAgICAgICAgPHBhdGggZD0iTTQ0LjEzMzcgODkuMjM0Nkg1OS43OTRWMEgzNy4wMTUzQzE0LjEwNzIgMCAyLjA3MDc5IDExLjY4NCAyLjA3MDc5IDI4Ljg4ODlDMi4wNzA3OSA0Mi42MjcyIDguNjcxNDMgNTAuNzE2IDIwLjQ0OSA1OS4wNjE3TDAgODkuMjM0NkgxNi45NTQ2TDM5LjczMzMgNTUuNDY2N0wzMS44Mzg0IDUwLjIwMjVDMjIuMjYxIDQzLjc4MjcgMTcuNjAxNyAzOC43NzUzIDE3LjYwMTcgMjcuOTkwMUMxNy42MDE3IDE4LjQ4ODkgMjQuMzMxOCAxMi4wNjkxIDM3LjE0NDggMTIuMDY5MUg0NC4xMzM3Vjg5LjIzNDZaIiBmaWxsPSIjRkMzRjFEIj48L3BhdGg+PC9zdmc+')}</style><div id="root"><div class="Theme Theme_color_yandex-default Theme_root_default"><div class="Container"><div class="Spacer" style="padding-bottom:40px"><a href="https://www.ya.ru" title="Yandex" target="_blank" class="Link Link_view_default LogoLink"></a></div><form method="POST" action="/checkcaptcha?key=b8cdae57-513c83c8-efc4d8c4-4869348b_2/1676301333/ff9b3300c5375d82be4c8eed7e175181_51fe5cbb11c709438af302e9d89cac34&mt=E75F55F33B4E47EEE3702EEA048AB6090F5D4C4F6154991591E12D6C8E8F8CB3A61E&retpath=aHR0cHM6Ly95YS5ydS8__c223da627224a915ae6b0bf4bade2741&u=1b410ed1-2c46a81e-2f3b9713-6dbdd7c3&s=0d9ad6f851e4459d64f2feee1c528914"><div class="Spacer" style="padding-bottom:16px"><span class="Text Text_weight_medium Text_typography_headline-s">Подтвердите, что запросы отправляли вы, а не робот</span></div><span class="Text Text_weight_regular Text_typography_body-long-m">Нам очень жаль, но запросы с вашего устройства похожи на автоматические. <a href="https://yandex.ru/support/smart-captcha?unique_key=1b410ed1-2c46a81e-2f3b9713-6dbdd7c3" target="_blank" class="Link Link_view_default">Почему это могло произойти?</a></span><div class="Spacer Spacer_auto-gap_bottom" style="padding-top:40px;padding-bottom:40px"><div class="CheckboxCaptcha" data-testid="checkbox-captcha"><div class="CheckboxCaptcha-Inner"><div class="CheckboxCaptcha-Anchor"><input type="submit" class="CheckboxCaptcha-Button" aria-checked="false" aria-labelledby="smartcaptcha-status" role="checkbox"><div class="CheckboxCaptcha-Checkbox" data-checked="false"><svg class="SvgIcon" width="24" height="24" viewBox="0 0 24 25" fill="none"><path d="M4 12.5L9.5 18.5L20 6.5" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div class="CheckboxCaptcha-Label"><span class="Text Text_weight_regular Text_typography_control-xxl CheckboxCaptcha-LabelText">Я не робот</span><span class="Text Text_color_control-secondary Text_weight_regular Text_typography_control-l CheckboxCaptcha-SecondaryText">Нажмите, чтобы продолжить</span><span class="Text Text_color_ghost Text_weight_regular Text_typography_control-s CheckboxCaptcha-Links"><a target="_blank" href="https://cloud.yandex.ru/services/smartcaptcha" aria-describedby="service-link-description" class="Link Link_view_captcha">Yandex SmartCaptcha</a>•<a target="_blank" href="https://yandex.ru/legal/smartcaptcha_notice/" aria-describedby="connect-link-description" class="Link Link_view_captcha">Обработка данных</a><div class="visuallyhidden" id="service-link-description">connect-link-description</div><div class="visuallyhidden" id="privacy-link-description">Сайт с информацией об обработке данных</div></span></div><div class="CheckboxCaptcha-Icon"><svg width="41" height="20" viewBox="0 0 41 20" fill="none" class="CloudIcon"><path d="M10.251 11.0479C10.7785 12.2034 10.9542 12.6053 10.9542 13.9932V15.8333H9.07031V12.7309L5.51562 5H7.48142L10.251 11.0479ZM12.5746 5L10.2698 10.2376H12.1852L14.4963 5H12.5746Z" fill="#000"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10 18.2292C14.5448 18.2292 18.2292 14.5448 18.2292 10C18.2292 5.45516 14.5448 1.77083 10 1.77083C5.45516 1.77083 1.77083 5.45516 1.77083 10C1.77083 14.5448 5.45516 18.2292 10 18.2292ZM10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z" fill="#000"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M39.2333 10C39.2333 14.55 35.55 18.2333 31 18.2333C29.8094 18.2333 28.9202 17.7864 28.4755 17.2443C28.0308 16.7022 27.9057 15.8152 28.0588 14.5339L30.7088 14.0082C33.13 13.5647 34.4641 12.2176 34.9417 9.80288C35.0001 9.46485 35.0669 9.12682 35.1301 8.8064C35.156 8.67525 35.1813 8.54705 35.2052 8.42301C35.2774 8.03104 35.3471 7.65855 35.411 7.31691C35.4783 6.95699 35.5392 6.63132 35.5899 6.3532C35.861 4.78329 35.6407 3.62423 35.0309 2.81788C37.5398 4.22801 39.2333 6.91477 39.2333 10ZM31 1.76667C26.45 1.76667 22.7667 5.45 22.7667 10C22.7667 13.0852 24.4602 15.772 26.9691 17.1821C26.3593 16.3758 26.139 15.2167 26.4101 13.6468C26.4684 13.3273 26.538 12.9507 26.6158 12.5305C26.67 12.2378 26.7281 11.9239 26.7889 11.5934C26.8128 11.4694 26.8381 11.3412 26.864 11.21C26.9273 10.8896 26.994 10.5516 27.0524 10.2136C27.5136 7.78235 28.8477 6.43534 31.2688 5.99181L33.9412 5.46614C34.0943 4.18484 33.9692 3.29778 33.5245 2.75569C33.0798 2.2136 32.1906 1.76667 31 1.76667ZM41 10C41 15.5167 36.5167 20 31 20C25.4833 20 21 15.5167 21 10C21 4.48333 25.4833 0 31 0C36.5167 0 41 4.48333 41 10ZM33.6241 7.30597L31.6147 7.70022C29.9018 8.02876 29.1112 8.81726 28.7818 10.5257C28.7052 10.9076 28.6385 11.2698 28.5741 11.6199C28.5554 11.7215 28.5368 11.8222 28.5183 11.922C28.4689 12.1848 28.4195 12.4476 28.3701 12.694L30.363 12.2998C32.0759 11.9712 32.883 11.1827 33.2124 9.47434C33.2848 9.11359 33.3515 8.75192 33.4182 8.39024C33.485 8.02852 33.5517 7.6668 33.6241 7.30597Z" fill="#000"></path></svg></div><div class="CheckboxCaptcha-Alert"></div><div id="smartcaptcha-status" class="CheckboxCaptcha-Status visuallyhidden">SmartCaptcha нужна проверка пользователя</div></div></div></div><span class="Text Text_color_ghost Text_weight_regular Text_typography_control-xs">Если у вас возникли проблемы, пожалуйста, воспользуйтесь <a href="https://yandex.ru/support/smart-captcha?unique_key=1b410ed1-2c46a81e-2f3b9713-6dbdd7c3#help" target="_blank" class="Link Link_view_default">формой обратной связи</a></span><input type="hidden" name="rdata"><input type="hidden" name="aesKey"><input type="hidden" name="signKey"></form></div></div></div> <script>window.__SSR_DATA__={url:"/ru/checkbox",reqId:"1676301333866158-2778355673918298593-vla1-4260-vla-l7-balancer-8080-BAL",uniqueKey:"1b410ed1-2c46a81e-2f3b9713-6dbdd7c3",invalid:"no",formAction:"/checkcaptcha?key=b8cdae57-513c83c8-efc4d8c4-4869348b_2/1676301333/ff9b3300c5375d82be4c8eed7e175181_51fe5cbb11c709438af302e9d89cac34&mt=E75F55F33B4E47EEE3702EEA048AB6090F5D4C4F6154991591E12D6C8E8F8CB3A61E&retpath=aHR0cHM6Ly95YS5ydS8__c223da627224a915ae6b0bf4bade2741&u=1b410ed1-2c46a81e-2f3b9713-6dbdd7c3&s=0d9ad6f851e4459d64f2feee1c528914",captchaKey:"b8cdae57-513c83c8-efc4d8c4-4869348b_2/1676301333/ff9b3300c5375d82be4c8eed7e175181_51fe5cbb11c709438af302e9d89cac34",imageSrc:"",voiceSrc:"",introSrc:"",aesKey:"Eh1TKSImB7YOeLCbF2uOj4d2a2867iMPabx3Vzr/Gpo=",aesSign:"1_1676301333_5997732771433062522_ceb8b4b78c3cb438076d920c05759bcc"}</script><script src="/captcha_smart_error.0bfc4d9561e7e6e94795.min.js?k=1666276736660" crossorigin=""></script><script src="https://yastatic.net/react/16.8.4/react-with-dom-and-polyfills.min.js" crossorigin=""></script><script src="/captcha_smart.0bfc4d9561e7e6e94795.min.js?k=1666276736660" crossorigin=""></script><script>!function(e,n,t,a,c){e.ym=e.ym||function(){(e.ym.a=e.ym.a||[]).push(arguments)},e.ym.l=+new Date,a=n.createElement(t),c=n.getElementsByTagName(t)[0],a.async=1,a.src="https://mc.yandex.ru/metrika/tag.js",c.parentNode.insertBefore(a,c)}(window,document,"script"),ym(10630330,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0,ut:"noindex",params:{req_id:"1676301333866158-2778355673918298593-vla1-4260-vla-l7-balancer-8080-BAL",unique_key:"1b410ed1-2c46a81e-2f3b9713-6dbdd7c3"}})</script><noscript><div><img src="https://mc.yandex.ru/watch/10630330?ut=noindex" style="position:absolute;left:-9999px" alt=""></div></noscript><div><img src="https://adfstat.yandex.ru/captcha?req_id=1676301333866158-2778355673918298593-vla1-4260-vla-l7-balancer-8080-BAL&unique_key=1b410ed1-2c46a81e-2f3b9713-6dbdd7c3" style="position:absolute;left:-9999px" alt=""></div>
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta name="csrf-token" content="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj">
+    <title>Шоколад Tasty Coffee</title>
+    <meta name="description" content="шоколад с каскарой, какао, горячий шоколад, шоколад , молочный горячий шоколад, горький шоколад">
+    <meta name="keywords" content="шоколад с каскарой, какао, горячий шоколад, шоколад , молочный горячий шоколад, горький шоколад">
+    <meta charset="utf-8"/>
+
+    <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
+    <meta name="yandex-verification" content="883d96ebc7bc9c6e"/>
+    <meta name="google-site-verification" content="ayOMDCjQje3Xdqzlg-4jCbIi2vTAN_vEuayT1a2eB0Y"/>
+    <meta name="google-site-verification" content="aPfTGAs_K8t79N8d1wV8uNkluThRiNJSiJF-7G84dH8"/>
+    <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/chocolate"/>
+    <meta property="og:title" content="Шоколад Tasty Coffee"/>
+    <meta property="og:description" content="шоколад с каскарой, какао, горячий шоколад, шоколад , молочный горячий шоколад, горький шоколад"/>
+    <meta property="og:image" content="https://shop.tastycoffee.ru/assets/site/img/site_logo.jpg"/>
+    <meta property="og:type" content="website"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
+    <link rel="canonical" href="https://shop.tastycoffee.ru/chocolate"/>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
+    <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
+
+    <style>
+        body{
+            font-size: 12px;
+            color: #000;
+            line-height: 1.4;
+        }
+        a{
+            color: #000;
+        }
+
+        /* при обновлении страницы фиксируем высоту селекта, чтобы не было скачка */
+        .bootstrap-select > select{
+            height: 38px;
+            overflow:hidden;
+        }
+    </style>
+    <link rel="stylesheet" href="/assets/site/css/style.css?id=65815173f151d34456ef">
+    <link rel="icon" type="image/svg+xml" sizes="any" href="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg">
+    <link rel="apple-touch-icon" type="image/svg+xml" sizes="any" href="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://shop.tastycoffee.ru/assets/site/img/logo/pwa-192x192.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="192x192" href="https://shop.tastycoffee.ru/assets/site/img/logo/pwa-192x192.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="https://shop.tastycoffee.ru/assets/site/img/logo/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://shop.tastycoffee.ru/assets/site/img/logo/apple-touch-icon-180x180.png">
+    <link rel="stylesheet" href="https://shop.tastycoffee.ru/assets/site/css/fix.css">
+    <link rel="stylesheet" href="https://shop.tastycoffee.ru/assets/site/css/fix-blog.css">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Tasty Coffee">
+    <meta name="apple-mobile-web-app-title" content="Tasty Coffee">
+    <meta name="theme-color" content="#000000">
+    <meta name="msapplication-navbutton-color" content="#000000">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-starturl" content="/">
+
+    <!--floktory-->
+    <script type="text/javascript" src="https://api.flocktory.com/v2/loader.js?site_id=3556" async="async"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    
+        <style>
+        .grayFilterBtn {
+            background: rgba(240, 240, 240, 0.75);
+            border-radius: 100px;
+            align-items: center;
+            padding: 8px 16px;
+            font-size: 13px;
+            line-height: 20px;
+            cursor: pointer;
+            margin: 0;
+            color: #000 !important;
+            text-decoration: none;
+        }
+    </style>
+
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?162",t.onload=function(){VK.Retargeting.Init("VK-RTRG-432834-hqEHz"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+<noscript>
+    <img src="https://vk.com/rtrg?p=VK-RTRG-432834-hqEHz" style="position:fixed; left:-999px;" alt=""/>
+</noscript>
+
+<!-- NT -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+    })(window,document,'script','dataLayer','GTM-WK26S92');
+</script>
+<!-- End NT -->
+<!-- NT (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK26S92"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End NT (noscript) -->
+
+<!-- pixelVK -->
+<script type="text/javascript">
+    !function(){
+        var t = document.createElement("script");
+        t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?162", t.onload = function(){
+            VK.Retargeting.Init("VK-RTRG-406988-biK0O"),VK.Retargeting.Hit()
+        }, document.head.appendChild(t)
+    }();
+</script>
+<noscript>
+    <img src="https://vk.com/rtrg?p=VK-RTRG-406988-biK0O" style="position:fixed; left:-999px;" alt=""/>
+</noscript>
+<!-- End pixelVK -->
+
+<!-- Facebook Pixel Code -->
+<!--<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '398589467470921');
+    fbq('track', 'PageView');
+</script>-->
+<!--<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=398589467470921&ev=PageView&noscript=1" />
+</noscript>-->
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" async defer>(function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        m[i].l = 1 * new Date();
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(52141249, "init", {
+        id: 52141249,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+        ecommerce: "dataLayer"
+    });
+    window.dataLayer = window.dataLayer || [];
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/52141249" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--Трэкер-контейнер "Основной"-->
+<script type="text/javascript">
+    window.__mixm__ = window.__mixm__ || [];
+    window.__mixm__.push(['mAdvId',1294983657]);
+</script>
+<!--Трэкер-контейнер "Основной"-->
+
+<!--TikTok-->
+<!--<script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+
+        ttq.load('C17F5HBAF71QPV1BMDL0');
+        ttq.page();
+    }(window, document, 'ttq');
+</script>-->
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NH6FRX2');
+</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="notice scrollbar-dynamic">
+    <div class="noticeBox" data-timeout="0" data-show="0">
+            <div class="row" data-id="18">
+                <p class="notify-text" style="display: none">Специальная цена на <a href="../../../coffee/espresso-nutty" target="_blank" rel="noopener">Натти</a>&nbsp;до 24 марта: 1199 р/кг</p>
+                <button id="noticeBox-close" class="closeBtn" data-id="18"></button>
+            </div>
+    </div>
+
+
+    <header>
+
+        <div class="row">
+            <div class="headerFlex">
+                <div class="top-let-h">
+                    <div class="citySelect">
+                        <div class="logo-h desNone">
+                            <div class="logo__text">Интернет-магазин<br> свежего кофе</div>
+                        </div>
+                        <button id="city_open" class="greyLink"><span
+                                class="city_header_name">Ижевск</span><span
+                                class="arrow"></span></button>
+                    </div>
+                    <div class="cityPoint">
+                        <div class="text9"><span
+                                class="count_pvz_header">476 пунктов</span><br>
+                            выдачи заказов
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                
+                <div class="phone-h">
+                    <a class="greyLink" href="tel:8 (800) 333-49-80">8 (800) 333-49-80
+                        <span class="arrow"></span></a>
+                </div>
+                <div class="selectCoffee-h">
+                    <a href="https://shop.tastycoffee.ru/how-to-choose-coffee" class="greyLink">Как выбрать
+                        кофе?</a>
+                </div>
+                <div class="group-links-h">
+                    <ul>
+                        <li><a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya" class="greyLink">Как
+                                приготовить?</a></li>
+                        <li><a class="greyLink" target="_blank" href="http://tastycoffee.ru/" rel="noopener">Оптовый
+                                сайт</a></li>
+                    </ul>
+                </div>
+                                
+                <div class="enter-h">
+                    <div class="reg-wrap">
+                        
+                            <div class="greyLink-wrap ">
+                                <button class="greyLink enterOpen">Вход</button>
+                            </div>
+                            <div class="greyLink-wrap">
+                                <a class="greyLink" href="https://shop.tastycoffee.ru/create-account">Регистрация</a>
+                            </div>
+                                            </div>
+                </div>
+                                <div class="line-h"></div>
+
+
+                <div class="logo-h">
+                    <a href="/"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg"
+                                     alt="Интернет-магазин свежего кофе"></a>
+                    <div class="logo__text">
+                        Интернет-магазин<br> свежего кофе
+                    </div>
+                </div>
+                <div class="menu-h">
+    <div class="wrapMlh active-m">
+        <a href="https://shop.tastycoffee.ru/coffee"
+           class="m-no-link menu__link-h menuAc openMob active">Купить</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li><a href="https://shop.tastycoffee.ru/coffee">Кофе</a></li>
+            <li><a href="https://shop.tastycoffee.ru/tea">Чай</a></li>
+            <li><a href="https://shop.tastycoffee.ru/accessories">Аксессуары</a></li>
+            <li><a href="https://shop.tastycoffee.ru/chocolate">Шоколад и снеки</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/subscription">Подписка на кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/accessories/gift-certificate">Подарочный сертификат</a></li>
+                    </ul>
+    </div>
+    <div class="wrapMlh ">
+        <a class="menu__link-h "
+           href=https://shop.tastycoffee.ru/reviews>
+            Отзывы
+                            <span class="reviewsCount">16585</span>
+                    </a>
+    </div>
+
+
+
+
+    <div class="wrapMlh header-community_link ">
+        <a class="menu__link-h "
+           href="https://shop.tastycoffee.ru/community">Сообщество</a>
+        <div class="community_title-tip tipEl">
+    <button class="tip-btn">?</button>
+    <div class="tip-text">
+        В кофейном сообществе пользователи делятся впечатлениями, идеями и рецептами кофе, а также общаются друг с другом
+    </div>
+</div>
+    </div>
+    
+    <div class="wrapMlh ">
+        <a href="https://shop.tastycoffee.ru/blog" class="m-no-link menu__link-h menuAc ">Читать</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li class=""><a href="https://shop.tastycoffee.ru/blog">Журнал о кофе</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/faq">Частые вопросы</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/how-to-choose-coffee">Как выбрать кофе?</a></li>
+        </ul>
+    </div>
+    <div class="wrapMlh ">
+        <a
+            class="m-no-link menu__link-h menuAc "
+            href="https://shop.tastycoffee.ru/shipment-and-payment">Условия работы</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li class=""><a href="https://shop.tastycoffee.ru/shipment-and-payment">Доставка и оплата</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/discount-system">Система скидок</a></li>
+        </ul>
+    </div>
+
+</div>
+                                    <form class="search-m" action="https://shop.tastycoffee.ru/search"
+                          data-action="https://shop.tastycoffee.ru/ajax/search/product/header">
+                        <input class="searchItems" id="search_h" type="text" name="q" placeholder="Поиск по каталогу…">
+                        <input type="submit">
+                        <div id="openSearch_h"></div>
+                        <div class="headerProduct-search"></div>
+                    </form>
+                                <div class="socialNetworks">
+                    <button class="socBtn">open</button>
+                    <ul>
+                        <li>
+                            <a class="vk" title="Vkontakte" href="https://vk.com/tastycoffeeroasters" target="_blank">
+                                <span class="box">Написать нам в ВК</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="faq des" title="" href="https://shop.tastycoffee.ru/faq"
+                               target="_blank"><span class="box">Ответы на частые вопросы</span></a>
+                            <a class="faq mob" title="" href="https://shop.tastycoffee.ru/faq"
+                               target="_blank"><span class="box">Ответы на частые вопросы</span></a>
+                        </li>
+                        <li>
+                            <a class="vb des" title="Viber" href="viber://chat?number=+79508242000"
+                               target="_blank"><span class="box">Написать нам в Viber</span></a>
+                            <a class="vb mob" title="Viber" href="viber://add?number=79508242000" target="_blank"><span
+                                    class="box">Написать нам в Viber</span></a>
+                        </li>
+                        <li>
+                            <a class="wa des" title="WhatsApp" href="https://api.whatsapp.com/send?phone=7979508242000"
+                               target="_blank"><span class="box">Написать нам в WhatsApp</span> </a>
+                            <a class="wa mob" title="WhatsApp" href="whatsapp://send?phone=79508242000" target="_blank"><span
+                                    class="box">Написать нам в WhatsApp</span></a>
+                        </li>
+                        <li>
+                            <a class="in" title="Instagram" href="https://www.instagram.com/tastycoffeeroasters"
+                               target="_blank"><span class="box">Написать нам в Instagram</span></a>
+                        </li>
+                        <li>
+                            <a class="tel des" title="Telegram" href="https://t.me/sharov_artem" target="_blank"><span
+                                    class="box">Написать нам в Telegram</span></a>
+                            <a class="tel mob" title="Telegram" href="tg://resolve?domain=sharov_artem" target="_blank"><span
+                                    class="box">Написать нам в Telegram</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <a href="https://shop.tastycoffee.ru/my-favorites" class="fav-h"></a>
+                <div id="compareBlock-header">
+                    <div class="comparison-h">
+    <a href="https://shop.tastycoffee.ru/compare"
+       class="comparison-h-link">
+            </a>
+    <div class="comparisonBox">
+                    <p class="comparisonBox__title">Пока нет товаров для сравнения</p>
+            </div>
+</div>
+                </div>
+
+                <div class="basket-h">
+                    <a href="https://shop.tastycoffee.ru/basket" id="openBasket">
+                        <span class="btnBasket"></span>
+                        <span class="greyText-wrap" id="header_cart_text">
+                        <div class="basketPrice">0 <span class="rub">₽</span></div>
+<div class="greyText">0 товаров </div>                    </span>
+                    </a>
+                </div>
+                <div class="hamburger hamburger--spin">
+                    <div class="hamburger-box">
+                        <div class="hamburger-inner"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="city_popup" class="popupSr fadeIn">
+            <form data-action="https://shop.tastycoffee.ru/ajax/select-header-city">
+                <a class="closeBtn" href="#"></a>
+                <h5>Выбор города</h5>
+                
+                <input type="text"
+                       class="inputEl"
+                       id="city_header"
+                       data-after-select="afterSelectCityHeader"
+                       name="city_header"
+                       placeholder="Поиск по названию">
+                <div class="cityResult">
+                    <div class="row-wrap">
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="5">Москва</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="6">Красноярск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="7">Тольятти</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="8">Санкт-Петербург</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="9">Мурманск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="10">Тула</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="11">Архангельск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="12">Набережные Челны</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="13">Тюмень</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="14">Владивосток</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="15">Ульяновск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="16">Волгоград</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="17">Нижний Новгород</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="18">Уфа</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="19">Воронеж</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="20">Новосибирск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="21">Хабаровск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="22">Екатеринбург</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="23">Омск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="24">Челябинск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="25">Ижевск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="26">Пермь</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="27">Ярославль</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="28">Иркутск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="29">Ростов-на-Дону</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="30">Казань</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="31">Саратов</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="32">Кемерово</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="33">Самара</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="34">Краснодар</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="35">Сургут</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="36">Тверь</a>
+                            </div>
+                                            </div>
+                </div>
+            </form>
+        </div>
+        <div id="feedBack__popup" class="feedBack fadeIn animated">
+            <div class="feedBack-wrap">
+                <a class="closeBtn" href="#"></a>
+                <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
+                    <input type="hidden" name="_token" value="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj">                    <input type="hidden" name="type" value="1">
+                    <div class="itemFb">
+                        <h5>Свяжитесь со мной</h5>
+                        <input type="text" placeholder="Имя" name="name" required>
+                        <input class="phone-mask" type="text" name="phone" placeholder="Телефон" required>
+                    </div>
+                    <div class="itemFb">
+                        <div class="checkbox-wrap">
+                            <input id="consent" type="checkbox" name="is_check" value="1" checked>
+                            <label for="consent" class="feedback-agreed">
+                                <span class="label__box"></span>
+                                <span class="label__text">
+                                            <p class="text12 ">Согласен с условиями обработки <a
+                                                    href="https://shop.tastycoffee.ru/privacy" target="_blank">персональных данных</a>,
+                                            <a href="https://shop.tastycoffee.ru/user-agreement"
+                                               target="_blank">Пользовательского соглашения</a> и
+                                            <a href="https://shop.tastycoffee.ru/public-offer" target="_blank">Публичной оферты</a></p>
+                        </span>
+                            </label>
+                        </div>
+                        <div class="showErrors_text"></div>
+                        <input type="submit" class="blackBtn" value="Отправить запрос">
+                        <div class="text11">Мы перезваниваем в рабочее время в течение 2 часов</div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div id="enterPopup" class="popupEn fadeIn">
+            <a class="closeBtn" href="#"></a>
+            <form class="popupEn__form" id="sign-in-form" action="https://shop.tastycoffee.ru/login">
+                <h5>Вход на сайт</h5>
+                <input placeholder="E-mail" id="email" name="email" type="email" required>
+                <input id="password" type="password" name="password" placeholder="Пароль" required>
+                <p class="siteError siteError-email">
+
+                </p>
+                <div class="checkbox-wrap">
+                    <input name="remember" id="remember" type="checkbox">
+                    <label for="remember">
+                        <span class="label__box"></span>
+                        <span class="label__text">Запомнить меня на этом компьютере</span>
+                    </label>
+                </div>
+                <input type="submit" id="sign-in" class="blackBtn" value="Войти"/>
+                <a href="https://shop.tastycoffee.ru/password/reset" class="enterLk__link">Забыли пароль?</a>
+            </form>
+            <div class="popupEn-c">
+                
+                <a href="#" class="socBtn vk vk-login"></a>
+                <a href="#" class="socBtn gmail gmail-login"></a>
+                <a href="#" class="socBtn apple apple-login"></a>
+                <a href="#" class="socBtn sber sb-login"></a>
+                <a href="#" class="socBtn yandex-login"></a>
+                                <div id="g_id_onload"
+                     data-client_id="881119885027-1a5vu5mvlb1s0l8t2qoqrpn0k3idaau0.apps.googleusercontent.com"
+                     data-context="signin"
+                     data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
+                     data-itp_support="true"
+                     data-_token="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj"
+                >
+                </div>
+                            </div>
+            <div class="popupEn-c">
+                <a href="https://shop.tastycoffee.ru/create-account" class="blackLink">Регистрация</a>
+            </div>
+        </div>
+        <div class="basket-popup fadeIn">
+            <a class="closeBtn" href="#"></a>
+            <div class="basket-popup-wrap" id="header_cart_modal">
+                <div class="basket__title basket__title-no-products">Пока корзина пуста</div>
+            </div>
+        </div>
+        <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
+            <input type="hidden" name="_token" value="jr6XjtCSnoE2IPkPe57qjzuXAGLP4B4ydi03bvBj">        </form>
+        <div class="exportPoints fadeIn animated">
+            <a class="closeBtn" href="#"></a>
+            
+            <div class="text13">В ваш город доставляем службами</div>
+            <div id="count_pvz_content">
+                <table class="tabletEp">
+    <tbody>
+                    <tr>
+            <td class="headerDeliveryImageWrap_dpd"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/dpd.svg" alt=""></td>
+            <td><p class="borderEp">DPD</p></td>
+                        <td><p>95 пунктов выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_cdek"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/cdek.svg" alt=""></td>
+            <td><p class="borderEp">СДЭК</p></td>
+                        <td><p>30 пунктов выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_pony"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pony.svg" alt=""></td>
+            <td><p class="borderEp">Pony Express</p></td>
+                        <td><p>1 пункт выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_pickpoint"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pickpoint-new.svg" alt=""></td>
+            <td><p class="borderEp">PickPoint</p></td>
+                        <td><p>187 пунктов выдачи</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_ems"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/ems/images.jpeg" alt=""></td>
+            <td><p class="borderEp">EMS</p></td>
+                        <td><p>до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_free"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/post_new.svg" alt=""></td>
+            <td><p class="borderEp">Почта России</p></td>
+                        <td><p>1 пункт выдачи</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_tastycoffee"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo_gray.svg" alt=""></td>
+            <td><p class="borderEp">Tasty Coffee</p></td>
+                            <td><p>до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_yandex"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/yandex-delivery.svg" alt=""></td>
+            <td><p class="borderEp">Яндекс Доставка</p></td>
+                        <td><p>162 пункта выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_fivepost"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/assets/site/img/fivepost.jpg" alt=""></td>
+            <td><p class="borderEp">5post</p></td>
+                        <td><p>-</p></td>
+                    </tr>
+        </tbody>
+</table>
+            </div>
+            <p>Адреса пунктов выдачи, сроки и стоимость доставки можно увидеть в корзине при оформлении заказа</p>
+            
+            
+            
+            
+        </div>
+    </header>
+
+<button class="topBtn">Наверх</button>
+
+    <div class="socialNetworks fix">
+        <button class="socBtn">open</button>
+        <ul>
+            
+            
+            
+            
+            
+            <li>
+                <a class="quiz des" href="https://shop.tastycoffee.ru/coffee-quiz" target="_blank">
+                    <span class="box">Как выбрать кофе?</span></a>
+                <a class="quiz mob" href="https://shop.tastycoffee.ru/coffee-quiz" target="_blank">
+                    <span class="box">Как выбрать кофе?</span></a>
+            </li>
+            <li>
+                <a class="faq des" href="https://shop.tastycoffee.ru/faq" target="_blank">
+                    <span class="box">Ответы на частые вопросы</span></a>
+                <a class="faq mob" href="https://shop.tastycoffee.ru/faq" target="_blank">
+                    <span class="box">Ответы на частые вопросы</span></a>
+            </li>
+            <li>
+                <a class="vb des" title="Viber" href="viber://chat?number=+79508242000" target="_blank">
+                    <span class="box">Написать нам в Viber</span></a>
+                <a class="vb mob" title="Viber" href="viber://add?number=79508242000" target="_blank">
+                    <span class="box">Написать нам в Viber</span></a>
+            </li>
+            <li>
+                <a class="wa des" title="WhatsApp" href="https://api.whatsapp.com/send?phone=79508242000"
+                   target="_blank"><span class="box">Написать нам в WhatsApp</span> </a>
+                <a class="wa mob" title="WhatsApp" href="whatsapp://send?phone=79508242000" target="_blank"><span
+                        class="box">Написать нам в WhatsApp</span></a>
+            </li>
+            
+            
+            
+            <li>
+                <a class="tel des" title="Telegram" href="https://t.me/tastycoffeeshop" target="_blank"><span
+                        class="box">Написать нам в Telegram</span></a>
+                <a class="tel mob" title="Telegram" href="tg://resolve?domain=tastycoffeeshop" target="_blank"><span
+                        class="box">Написать нам в Telegram</span></a>
+            </li>
+        </ul>
+    </div>
+
+
+        <div class="content grey coffeePages coffeePages-static-methods">
+        <div class="row">
+            <div class="flex3">
+                <div>
+                    <h1 class="h2 indent">Каталог шоколада и снеков</h1>
+                    <p class="text">Выберите категорию:</p>
+                </div>
+            </div>
+        </div>
+        <div class="filterBox-wrap">
+                    <div class="row">
+                        <div class="scroll-wrap tb1024 scroll-wrap-md ">
+                            <form id="form-catalog-header" class="catalog_form_filters">
+                                <div class="filterBox filterBox-static chocolate">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        <div class="itemFb-wrap">
+                                                <input class="itemFb-input"  type="checkbox" id="filter121" name="filters[14][]" value="121">
+                                                <div class="itemFb itemFb-static">
+                                                    <label for="filter121" class="itemFb-label-blue">
+                                                        <span class="itemFb-ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/chocolate/chocolate-powder.svg);"></span>
+                                                        <span class="itemFb__text">Шоколад в порошке</span>
+                                                    </label>
+                                            </div>
+                                            </div>
+                                                                                    <div class="itemFb-wrap">
+                                                <input class="itemFb-input"  type="checkbox" id="filter122" name="filters[14][]" value="122">
+                                                <div class="itemFb itemFb-static">
+                                                    <label for="filter122" class="itemFb-label-blue">
+                                                        <span class="itemFb-ic" style="background-image: url(https://coffee-static.storage.yandexcloud.net/files/shares/filters/chocolate/chocolate-bar.svg);"></span>
+                                                        <span class="itemFb__text">Шоколад в плитках</span>
+                                                    </label>
+                                            </div>
+                                            </div>
+                                                                                                                
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+        <div class="catalogBox">
+            <div class="row">
+                <div class="catalogBox-wrap">
+                    <div class="flex3">
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+
+                        <form id="form-catalog-left" class="catalog_form_filters w-100">
+                            <div class="filterLine">
+                                <div class="select-wrap">
+                                    <select class="milling filter-milling default"
+        name="sort_price"
+        data-title="Цена"
+        data-prefix="Цена:"
+>
+    <option  value="asc">По возрастанию цены</option>
+    <option  value="desc">По убыванию цены</option>
+</select>
+                                </div>
+                                <a class="lightBtn" href="https://shop.tastycoffee.ru/chocolate"><span class="closeBtn min"></span> Сбросить фильтры</a>
+                            </div>
+                        </form>
+                        <div class="filterContent">
+                            <div class="radioMenu-wrap">
+                                <form id="form-catalog-top" class="catalog_form_filters">
+                                    <div class="radioMenu">
+                                        <div class="itemRm">
+                                            <input type="radio" checked id="rm1"
+                                                   name="type" value="">
+                                            <label for="rm1">Все</label>
+                                        </div>
+
+                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="itemRm">
+                                                    <input  type="radio"
+                                                        id="rm30" name="type"
+                                                        value="30">
+                                                    <label for="rm30">
+                                                        Рекомендуем
+                                                    </label>
+                                                </div>
+                                                                                                                                                                                            <div class="itemRm">
+                                                    <input  type="radio"
+                                                        id="rm31" name="type"
+                                                        value="31">
+                                                    <label for="rm31">
+                                                        Популярный
+                                                    </label>
+                                                </div>
+                                                                                                                                                                                            <div class="itemRm">
+                                                    <input  type="radio"
+                                                        id="rm32" name="type"
+                                                        value="32">
+                                                    <label for="rm32">
+                                                        Новый
+                                                    </label>
+                                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                                </form>
+                            </div>
+                            <div id="catalog-products" class="for_paginate">
+                                <div class="card-wrap catalogCard">
+                                    <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="279">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.9
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/chocolate-5g#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    193
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=31">
+                                Популярный
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/chocolate-5g">
+                Шоколад молочный 5 г, 32% (10 штук)
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/chocolate-5g"
+                   class="absLink">Шоколад молочный 5 г, 32% (10 штук)</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/chocolate-5g.png"
+                                        alt="Шоколад молочный 5 г, 32% (10 штук)"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/chocolate-5g-2.png"
+                                        alt="Шоколад молочный 5 г, 32% (10 штук)"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Небольшие плитки молочного шоколада в упаковке с фирменным дизайном по 5 грамм (10 штук)
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">89 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:279,&quot;name&quot;:&quot;\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u043c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 5 \u0433, 32% (10 \u0448\u0442\u0443\u043a)&quot;,&quot;price&quot;:&quot;89&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_279">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1274">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.7
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/hot-milk-chocolate#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    19
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/hot-milk-chocolate">
+                Молочный горячий шоколад, 33%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/hot-milk-chocolate"
+                   class="absLink">Молочный горячий шоколад, 33%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/hot-milk-chocolate-350.png"
+                                        alt="Молочный горячий шоколад, 33%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Порошок для приготовления горячего шоколада
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                                                        <div
+                                class="cardBox-f-l "
+                                data-option-id="6"
+                            >
+                                                                                                                                                                                    <div class="radioCard">
+                                        <input id="price7548" type="radio"
+                                            name="options[1703]"
+                                            data-option-value-id="123"
+                                            data-option-id="6"
+                                            checked=checked
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/hot-milk-chocolate-350.png');edit_ya_metric_from_lists(this,'569','350 г');"
+                                            value="7548"
+                                        >
+                                        <label for="price7548"
+                                            class="priceCb-wrap">
+                                            <span class="priceCb-h animated fadeIn">
+                                                <span class="priceCb__wt">350 г</span>                                            </span>
+                                            <a class="priceCb">569 <span
+                                                    class="rub">₽</span></a>
+                                        </label>
+                                    </div>
+                                                                                                                                                                            </div>
+                                                            
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1274,&quot;name&quot;:&quot;\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0433\u043e\u0440\u044f\u0447\u0438\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434, 33%&quot;,&quot;price&quot;:569,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;350 \u0433&quot;}"
+                        >
+                            <span class="buyText buyText_1274">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1258">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.9
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/cocoa-without-sugar#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    23
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/cocoa-without-sugar">
+                Какао без сахара, 90%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/cocoa-without-sugar"
+                   class="absLink">Какао без сахара, 90%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/cocoa-without-sugar.png"
+                                        alt="Какао без сахара, 90%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Порошок для приготовления какао
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                                                        <div
+                                class="cardBox-f-l "
+                                data-option-id="6"
+                            >
+                                                                                                                                                                                    <div class="radioCard">
+                                        <input id="price7637" type="radio"
+                                            name="options[1683]"
+                                            data-option-value-id="41"
+                                            data-option-id="6"
+                                            checked=checked
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/cocoa-without-sugar.png');edit_ya_metric_from_lists(this,'499','250 г');"
+                                            value="7637"
+                                        >
+                                        <label for="price7637"
+                                            class="priceCb-wrap">
+                                            <span class="priceCb-h animated fadeIn">
+                                                <span class="priceCb__wt">250 г</span>                                            </span>
+                                            <a class="priceCb">499 <span
+                                                    class="rub">₽</span></a>
+                                        </label>
+                                    </div>
+                                                                                                                                                                            </div>
+                                                            
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1258,&quot;name&quot;:&quot;\u041a\u0430\u043a\u0430\u043e \u0431\u0435\u0437 \u0441\u0430\u0445\u0430\u0440\u0430, 90%&quot;,&quot;price&quot;:499,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
+                        >
+                            <span class="buyText buyText_1258">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1275">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.9
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/cacao#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    18
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/cacao">
+                Какао, 31%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/cacao"
+                   class="absLink">Какао, 31%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/cacao.png"
+                                        alt="Какао, 31%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Порошок для приготовления какао
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                                                        <div
+                                class="cardBox-f-l "
+                                data-option-id="6"
+                            >
+                                                                                                                                                                                    <div class="radioCard">
+                                        <input id="price7549" type="radio"
+                                            name="options[1704]"
+                                            data-option-value-id="123"
+                                            data-option-id="6"
+                                            checked=checked
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/cacao.png');edit_ya_metric_from_lists(this,'479','350 г');"
+                                            value="7549"
+                                        >
+                                        <label for="price7549"
+                                            class="priceCb-wrap">
+                                            <span class="priceCb-h animated fadeIn">
+                                                <span class="priceCb__wt">350 г</span>                                            </span>
+                                            <a class="priceCb">479 <span
+                                                    class="rub">₽</span></a>
+                                        </label>
+                                    </div>
+                                                                                                                                                                            </div>
+                                                            
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1275,&quot;name&quot;:&quot;\u041a\u0430\u043a\u0430\u043e, 31%&quot;,&quot;price&quot;:479,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;350 \u0433&quot;}"
+                        >
+                            <span class="buyText buyText_1275">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1017">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.7
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/dark-chocolate-50g#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    45
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/dark-chocolate-50g">
+                Горький шоколад Мадагаскар Амбанжа 50 г, 70%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/dark-chocolate-50g"
+                   class="absLink">Горький шоколад Мадагаскар Амбанжа 50 г, 70%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/ChocolateBlack.png"
+                                        alt="Горький шоколад Мадагаскар Амбанжа 50 г, 70%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Во вкусе ваниль, курага, малина, цветочный мед, трюфельная конфета
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">399 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1017,&quot;name&quot;:&quot;\u0413\u043e\u0440\u044c\u043a\u0438\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440 \u0410\u043c\u0431\u0430\u043d\u0436\u0430 50 \u0433, 70%&quot;,&quot;price&quot;:&quot;399&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1017">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1018">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.9
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-50g#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    46
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-50g">
+                Молочный шоколад Бали Джембрана 50 г, 50%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-50g"
+                   class="absLink">Молочный шоколад Бали Джембрана 50 г, 50%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/ChocolateMilk.png"
+                                        alt="Молочный шоколад Бали Джембрана 50 г, 50%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Во вкусе сливочное сгущенное молоко, кокосовый сахар, шоколадная вафля
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">379 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1018,&quot;name&quot;:&quot;\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434 \u0411\u0430\u043b\u0438 \u0414\u0436\u0435\u043c\u0431\u0440\u0430\u043d\u0430 50 \u0433, 50%&quot;,&quot;price&quot;:&quot;379&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1018">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1285">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.5
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/hot-dark-chocolate#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    24
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                            </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/hot-dark-chocolate">
+                Тёмный горячий шоколад, 70%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/hot-dark-chocolate"
+                   class="absLink">Тёмный горячий шоколад, 70%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/hot-dark-chocolate-250.png"
+                                        alt="Тёмный горячий шоколад, 70%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Порошок для приготовления горячего шоколада
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                                                        <div
+                                class="cardBox-f-l "
+                                data-option-id="6"
+                            >
+                                                                                                                                                                                    <div class="radioCard">
+                                        <input id="price7610" type="radio"
+                                            name="options[1718]"
+                                            data-option-value-id="41"
+                                            data-option-id="6"
+                                            checked=checked
+                                            onchange="select_img(this,'https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/hot-dark-chocolate-250.png');edit_ya_metric_from_lists(this,'439','250 г');"
+                                            value="7610"
+                                        >
+                                        <label for="price7610"
+                                            class="priceCb-wrap">
+                                            <span class="priceCb-h animated fadeIn">
+                                                <span class="priceCb__wt">250 г</span>                                            </span>
+                                            <a class="priceCb">439 <span
+                                                    class="rub">₽</span></a>
+                                        </label>
+                                    </div>
+                                                                                                                                                                            </div>
+                                                            
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1285,&quot;name&quot;:&quot;\u0422\u0451\u043c\u043d\u044b\u0439 \u0433\u043e\u0440\u044f\u0447\u0438\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434, 70%&quot;,&quot;price&quot;:439,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;250 \u0433&quot;}"
+                        >
+                            <span class="buyText buyText_1285">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1119">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >5
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/white-chocolate-with-matches#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    13
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/white-chocolate-with-matches">
+                Шоколад белый с матчей 50 г, 37%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/white-chocolate-with-matches"
+                   class="absLink">Шоколад белый с матчей 50 г, 37%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/white-chocolate-with-matches.png"
+                                        alt="Шоколад белый с матчей 50 г, 37%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Во вкусе гречишный мёд, сливочный йогурт, зелёный чай
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">399 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1119,&quot;name&quot;:&quot;\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0431\u0435\u043b\u044b\u0439 \u0441 \u043c\u0430\u0442\u0447\u0435\u0439 50 \u0433, 37%&quot;,&quot;price&quot;:&quot;399&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1119">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1167">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >5
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-with-cocoa-beans#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    12
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-with-cocoa-beans">
+                Молочный шоколад с какао-бобами 50 г, 50%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-with-cocoa-beans"
+                   class="absLink">Молочный шоколад с какао-бобами 50 г, 50%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/MilkChocolateCacao.png"
+                                        alt="Молочный шоколад с какао-бобами 50 г, 50%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Во вкусе кокосовый сахар, ваниль, сливочный ирис
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">379 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1167,&quot;name&quot;:&quot;\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434 \u0441 \u043a\u0430\u043a\u0430\u043e-\u0431\u043e\u0431\u0430\u043c\u0438 50 \u0433, 50%&quot;,&quot;price&quot;:&quot;379&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1167">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1117">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >5
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-with-coffee#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    8
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-with-coffee">
+                Молочный шоколад с кофе 50 г, 50%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/milk-chocolate-with-coffee"
+                   class="absLink">Молочный шоколад с кофе 50 г, 50%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/ChocolateCoffee.png"
+                                        alt="Молочный шоколад с кофе 50 г, 50%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Во вкусе патока, кориандр, шоколадный пломбир
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">379 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1117,&quot;name&quot;:&quot;\u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434 \u0441 \u043a\u043e\u0444\u0435 50 \u0433, 50%&quot;,&quot;price&quot;:&quot;379&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1117">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1042">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >4.8
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/chocolate-cascara-50g#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    28
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/chocolate-cascara-50g">
+                Горький шоколад с каскарой 50 г, 62%
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/chocolate-cascara-50g"
+                   class="absLink">Горький шоколад с каскарой 50 г, 62%</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/ChocolateCascara.png"
+                                        alt="Горький шоколад с каскарой 50 г, 62%"
+                                        itemprop=image/>
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Во вкусе чай каркаде, абрикос, малина, цветочные ноты
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">399 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1042,&quot;name&quot;:&quot;\u0413\u043e\u0440\u044c\u043a\u0438\u0439 \u0448\u043e\u043a\u043e\u043b\u0430\u0434 \u0441 \u043a\u0430\u0441\u043a\u0430\u0440\u043e\u0439 50 \u0433, 62%&quot;,&quot;price&quot;:&quot;399&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1042">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                                <div
+    class="cardBox noteBox-for-open main-edit grey chocolate  ">
+    <form action="https://shop.tastycoffee.ru/ajax/add_in_cart" chocolate>
+        <input type="hidden" name="product_id" value="1360">
+        <div class="noteBox animated fadeIn">
+    <div class="noteBox-wrap">
+        <a class="closeBtn min" onclick="close_note(this); return false;"></a>
+        <textarea class="editor" name="note_text" placeholder="Вы можете оставить для себя заметку об этом товаре..."></textarea>
+        <a class="greyLink" onclick="edit_note(this, 'https://shop.tastycoffee.ru/ajax/edit_note'); return false;">сохранить</a>
+    </div>
+</div>        <div class="cardBox-h">
+            <div class="cardBox-h-l">
+                <div class="ratingCard"
+                    onclick=$(&quot;.enterOpen&quot;).click()
+                >0
+                </div>
+                                <a href="https://shop.tastycoffee.ru/chocolate/granola-bar-yogurt-cherry#reviews"
+                   class="countComment">
+                    <i class="ic comment-ic"></i>
+                    0
+                </a>
+                <div class="btnCard-wrap">
+                    <a class="btnCard note "
+                       onclick="open_note(this); return false;"
+                       title="Заметки"
+                    ></a>
+                    <a class="btnCard favorite "
+                       onclick="click_favorite(this, 'https://shop.tastycoffee.ru/ajax/edit_favorite'); return false;"
+                       title="Избранное"
+                    >
+                        <span class="favoriteAdd"></span>
+                        <span class="favoriteAdded"></span>
+                    </a>
+                                    </div>
+            </div>
+            <div class="cardBox-h-r">
+                                                                                                                                                    <div class="cdh-1">
+                            <a class="microlotHover"
+                            href="https://shop.tastycoffee.ru/chocolate?type=32">
+                                Новый
+                            </a>
+                                                    </div>
+                                                </div>
+        </div>
+        <div class="nameTovar">
+                        <a href="https://shop.tastycoffee.ru/chocolate/granola-bar-yogurt-cherry">
+                Батончик фирменный злаковый &quot;Гранола йогурт-вишня&quot;
+            </a>
+                    </div>
+        <div class="tovarImg center-image">
+            <div class="tovarImg-wrap ">
+                <a href="https://shop.tastycoffee.ru/chocolate/granola-bar-yogurt-cherry"
+                   class="absLink">Батончик фирменный злаковый &quot;Гранола йогурт-вишня&quot;</a>
+                
+                                                                    <div class="sliderGoods-wrap">
+                        <div class="owl-carousel sliderCatalog owl-theme">
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/granola-bar-yogurt-cherry.png"
+                                        alt="Батончик фирменный злаковый &quot;Гранола йогурт-вишня&quot;"
+                                        itemprop=image/>
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/granola-bar-yogurt-1.png"
+                                        alt="Батончик фирменный злаковый &quot;Гранола йогурт-вишня&quot;"
+                                        />
+                                </div>
+                                                            <div class="item">
+                                    <img
+                                        class="tovarImg"
+                                        src="https://coffee-static.storage.yandexcloud.net/files/shares/data/accessories3/chocolate/granola-bar-yogurt-2.png"
+                                        alt="Батончик фирменный злаковый &quot;Гранола йогурт-вишня&quot;"
+                                        />
+                                </div>
+                                                    </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="hiddenCard animated fadeIn ">
+            <div class="textTovar text-hide">
+                Злаковый батончик с белым шоколадом и кусочками вишни
+            </div>
+                    </div>
+
+        <div class="absCard">
+            
+            <div class="cardBox-f">
+                <div class="cardBox-f-top">
+                     
+                        <div class="wrap-btnCard-box">
+                                                    </div>
+                        <div class="count-wrap animated fadeIn">
+                            <span class="count_min" onclick="click_count(this);return false;"></span>
+                            <span class="count_item">
+                                    <input min="1" type="number" value="1" name="count"
+                                        onkeypress="onkeypressOnlyNumber(event)" title="количество товара">
+                                </span>
+                            <span class="count_plus" onclick="click_count(this);return false;"></span>
+                        </div>
+                                    </div>
+                                                            <a class="priceCb">89 <span class="rub">₽</span></a>
+                                    
+                                                        <div class="cardBox-f-r">
+                        <a class="buyBtn "
+                           onclick="add_in_cart(this);return false;"
+                           data-metrics="{&quot;id&quot;:1360,&quot;name&quot;:&quot;\u0411\u0430\u0442\u043e\u043d\u0447\u0438\u043a \u0444\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0437\u043b\u0430\u043a\u043e\u0432\u044b\u0439 \&quot;\u0413\u0440\u0430\u043d\u043e\u043b\u0430 \u0439\u043e\u0433\u0443\u0440\u0442-\u0432\u0438\u0448\u043d\u044f\&quot;&quot;,&quot;price&quot;:&quot;89&quot;,&quot;quantity&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;}"
+                        >
+                            <span class="buyText buyText_1360">Купить</span>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </form>
+    <div class="grayBox" onclick="$(this).toggleClass('active')">
+        <div class="btnQuestion whiteQuestion"></div>
+        <div class="grayBox__title">
+            Для экспертов
+        </div>
+        <p class="grayBox__text">Эта информационная карточка доступна только пользователям со статусом эксперт</p>
+        <div class="grayBox__dropdown">
+            <p>До статуса “Эксперт” осталось:</p>
+            <p>30+ отзывов/комментариев/постов на сайте, 15+ заказов, 30+ прочитанных статей, 20+ попробованных сортов</p>
+        </div>
+
+    </div>
+    </div>
+
+                <div class="catalog-preload"></div>
+</div>
+<div class="pagination-block">
+    <div class="pagination-wrap">
+                    <a class="loadLink" onclick="on_paginate(this,'https://shop.tastycoffee.ru/chocolate?page=2','more');return false;"><span class="load-ic ic"></span> Загрузить больше</a>
+                <ul class="pagination">
+                                                                                                                    <li class="active" ><span>1</span></li>
+                                                                                                <li><a onclick="on_paginate(this,'https://shop.tastycoffee.ru/chocolate?page=2');return false;">2</a></li>
+                                                                                </ul>
+    </div>
+
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+    <div class="top-f">
+        <div class="row">
+            <div class="row-wrap">
+                <div class="col-v2 col-m3 col-p10">
+                    <p class="text12">ПОМОЩЬ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://shop.tastycoffee.ru/community">Сообщество</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/faq">Вопрос-ответ</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/how-to-choose-coffee">Как выбрать кофе?</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">Как готовить кофе?</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/blog">Журнал о кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/shipment-and-payment">Доставка и оплата</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/discount-system">Система скидок</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/return-money">Возврат денежных средств</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/contact-us">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class="col-v2 col-p10 tabletNone">
+                    <p class="text12">КОМПАНИЯ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://tastycoffee.ru/about/" rel="noopener" target="_blank">О компании <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/about/progress/" rel="noopener" target="_blank">Достижения <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/" rel="noopener" target="_blank">Перейти на оптовый сайт <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/about/production/" rel="noopener" target="_blank">Наше производство <span class="opt_img"></span></a></li>
+                        <li><a href="https://shop.tastycoffee.ru/partners">Партнёрская программа</a></li>
+                        <li><a href="https://zen.yandex.ru/id/5d26f076a1b4f100aaa3aed9" rel="noopener" target="_blank">Канал в Яндекс.Дзен <span class="opt_img"></span></a></li>
+                    </ul>
+                </div>
+                <div class="col-v2 col-m3 col-p10">
+                    <p class="text12">КАТАЛОГ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://shop.tastycoffee.ru/coffee">Кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/tea">Чай</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/accessories">Аксессуары</a></li>
+                                                <li><a href="https://shop.tastycoffee.ru/disabled">Архив сортов</a></li>
+                    </ul>
+                </div>
+                <div class="col-v4 col-p10 right">
+                    <a href="tel:88003334980" class="footer_phone">8 (800) 333-49-80</a>
+                    <div class="footer_mail-wrap">
+                        Бесплатный звонок по России
+                    </div>
+                                            <a class="yandex-rating"
+                           href="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=73582/path=dynamic.150x101/*https://market.yandex.ru/shop--teisti-kofe/558269/reviews"
+                           target="_blank"
+                        >
+                            <img src="/assets/site/img/rating-yandex.png"
+                                border="0"
+                                alt="Читайте отзывы покупателей и оценивайте качество магазина Тэйсти Кофе на Яндекс.Маркете"/>
+                        </a>
+                                        <div class="social-f">
+
+
+
+                                                    <a href="https://t.me/roastedinizhevsk" rel="noopener" target="_blank" class="socBtn tg">Телеграм</a>
+                                                                            <a href="https://www.youtube.com/channel/UCyskbBJLPU0teU0YCcDbcGg" rel="noopener" target="_blank" class="socBtn yt">Youtube</a>
+                                                                            <a href="https://vk.com/tastycoffeeroasters" rel="noopener" target="_blank" class="socBtn vk">ВКонтакте</a>
+                            
+
+
+                    </div>
+                    <div class="store-block">
+                        <div class="store-wrapper">
+                            <div class="wrapStore w-100 d-flex flex-wrap">
+                                <a href="https://apps.apple.com/us/app/tasty-coffee-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD/id1540743534" target="_blank" class="storeLink iosStore">
+                                    <img src="/assets/site/img/appstore.svg" alt="">
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=com.tastycoffee.shop" target="_blank" class="storeLink googleStore">
+                                    <img src="/assets/site/img/googleplay.svg" alt="">
+                                </a>
+                            </div>
+                            <div class="wrapStore secondRow w-100 d-flex flex-wraps" style="padding: 0;">
+                                <a href="https://coffee-static.storage.yandexcloud.net/files/tastycoffee.apk" target="_blank" class="storeLink apk">
+                                    <img src="/assets/site/img/apk.svg" alt="">
+                                </a>
+                                <a href="https://appgallery.huawei.com/app/C107264619" target="_blank" class="storeLink huaweiStore">
+                                    <img src="/assets/site/img/appgallery.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom-f">
+        <div class="row">
+            <div class="row-wrap middle">
+                <div class="col-v2 col-m5 col-p10">
+                    <div class="text-f">© 2023 «Tasty Coffee»</div>
+                    <a class="link-f indent desNone" href="https://shop.tastycoffee.ru/rss">RSS</a>
+                    <a href="https://shop.tastycoffee.ru/privacy" class="link-f desNone">Политика конфиденциальности</a>
+                    <a href="https://shop.tastycoffee.ru/user-agreement" class="link-f desNone">Пользовательское соглашение</a>
+                    <a href="https://shop.tastycoffee.ru/public-offer" class="link-f desNone">Публичная оферта</a>
+                </div>
+                <div class="col-v4 col-m5 mobNone">
+                    <div class="text-f">
+                        Использование любых материалов с данного ресурса возможно только после письменного согласия владельца авторских прав
+                    </div>
+                </div>
+                <div class="col-v4 right tabletNone">
+                    <a class="link-f indent" href="https://shop.tastycoffee.ru/rss">RSS</a>
+                    <a href="https://shop.tastycoffee.ru/privacy" class="link-f" target="_blank">Политика конфиденциальности</a><br>
+                    <a href="https://shop.tastycoffee.ru/user-agreement" class="link-f" target="_blank">Пользовательское соглашение</a> &nbsp;
+                    <a href="https://shop.tastycoffee.ru/public-offer" class="link-f" target="_blank">Публичная оферта</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="popupRight" id="formBankCard">
+    <div class="wrap">
+        <div class="wrapper w-100">
+            <div class="closeBtn"></div>
+            <button type="button" class="closeBtn close-btn">x</button>
+            <p class="h3 mb-3" style="line-height: 1.1;">Привязка <span class="d-block">банковской карты</span></p>
+            <p class="mb-3 small">Для проверки карты мы спишем и вернем 1 руб.</p>
+            <form class="add-bank-card" action="#">
+                <div class="front-ide">
+                    <input type="text" placeholder="Номер карты" id="cardNumber">
+                    <p class="text-gray">Действует до</p>
+                    <input type="number" placeholder="ММ" oninput="if(value.length>2)value=value.slice(0,2)">
+                    <input type="number" placeholder="ГГ" oninput="if(value.length>2)value=value.slice(0,2)">
+                </div>
+                <div class="back-side">
+                    <div class="input-wrapper">
+                        <input type="number" placeholder="CVC/CVV" oninput="if(value.length>3)value=value.slice(0,3)">
+                    </div>
+                </div>
+                <div class="w-100">
+                    <input type="submit" value="Привязать карту" class="blackBtn">
+                </div>
+            </form>
+            <div class="checkbox-wrap">
+                <input id="is_check1" type="checkbox" name="is_check" value="1">
+                <label for="is_check1">
+                    <span class="label__box"></span>
+                    <span class="label__text">
+                        <span class="greenLink">Согласен с
+                            <a href="https://shop.tastycoffee.ru/privacy" target="_blank" class="greenLink">условиями обработки персональных данных</a>,
+                              <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank" class="greenLink">Пользовательского соглашения</a> и
+                              <a href="https://shop.tastycoffee.ru/public-offer" target="_blank" class="greenLink">Публичной оферты</a>
+                        </span>
+                    </span>
+                </label>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="default">
+    <div class="popupAdded-wrap">
+        <h5 class="modal-text"></h5>
+        <button id="closePa" class="greyText">Продолжить</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn error" data-modal-name="error">
+    <div class="popupAdded-wrap">
+        <div class="error-ic"></div>
+        <h3>Ошибка</h3>
+        <button id="closePa" class="greyText">Продолжить покупки</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="thanks">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3>Товар добавлен<br> в корзину</h3>
+        <a href="https://shop.tastycoffee.ru/basket" class="blackBtn"><i class="ic"></i> Перейти в корзину</a>
+        <button id="closePa" class="greyText">Продолжить покупки</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="cancel-order">
+    <div class="popupAdded-wrap">
+        <h3>Вы уверены, что хотите отменить заказ?</h3>
+        <div style="display: flex; flex-direction: row">
+            <a href="" class="url blackBtn" style="background-color: white!important;color: #202020!important;margin: auto;font-size: 14px;">Да</a>
+            <button id="closePa" class="greyText">Нет</button>
+        </div>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="success-send">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3>Сообщение<br> отправлено</h3>
+        <button class="closePa greyText">Продолжить</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="success-other">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3 class="modal-title"></h3>
+        <button type="button" class="closePa blackBtn w-74 mb-0">Ок</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="error-coupon">
+    <div class="popupAdded-wrap">
+        <div class="cross-ic"></div>
+        <h3 class="modal-title"></h3>
+        <button type="button" class="closePa blackBtn w-74 mb-0">Ок</button>
+    </div>
+</div>
+<div class="modal fade" id="successСopyingPost" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm border-modal" role="document">
+        <div class="modal-content">
+            <div class="modal-body pt-5 pb-5">
+                <div class="success-ic"></div>
+                <h3 class="text-center">Ссылка скопирована</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addPhotoComment" tabindex="-1" role="dialog"  aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered border-modal" role="document">
+        <div class="modal-content ">
+            <div class="modal-header mb-3 mb-md-4 pt-4 pt-md-5 pr-3 pr-md-5 pb-0 pb-md-2 pl-3 pl-md-5">
+                <h3 class="mb-0">Прикрепить фото к сообщению</h3>
+                <button type="button" class="close m-0" data-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body pt-0 pr-3 pr-md-5 pb-5 pl-md-5 pl-3  ">
+                <div class="w-100 mb-4 pb-md-2">
+                    <label for="photo" class="btn-file m-0">
+                        <input id="default-comment-photo" type="file" accept="image/*" onchange="commentDefaultFileInputChange(this)">
+                        Загрузить фото
+                    </label>
+                </div>
+                <div class="mb-4 pb-md-2">
+                    <div class="uploaded-photo ">
+                        <img class="comment-modal-photo-img"
+                            src=""
+                            alt="img">
+                        <a href="#" class="close" onclick="removeSelectedModalCommentFile(this)"></a>
+                    </div>
+                </div>
+                <button type="button" class="blackBtn m-0 pl-4 pr-4 mb-2"
+                    onclick="setSelectedCommentFile(this); return false;"
+                >Отправить</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+    <div class="popupAdded animated fadeIn" data-modal-name="you-must-be-logged-in-to-leave-ratings">
+        <div class="popupAdded-wrap">
+            <span class="greyText">Вы должны быть авторизованы, чтобы оставлять оценки!</span>
+        </div>
+    </div>
+<script src="/assets/site/js/app.js?id=71760b2b17bed952df07"></script>
+<script type="text/javascript">typeof setMask === 'function' ? setMask('') : false;</script>
+<!--[if lt IE 10]>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.1/jquery.xdomainrequest.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/suggestions-jquery@18.10.1/dist/js/jquery.suggestions.min.js"></script>
+<script>
+    var token = "0f4cc30a067721a528e599de9977253e34ba67de";
+    function join(arr /*, separator */) {
+        var separator = arguments.length > 1 ? arguments[1] : ", ";
+        return arr.filter(function(n){return n}).join(separator);
+    }
+
+    function cityToString(address) {
+        return join([
+            join([address.city_type, address.city], " "),
+            join([address.settlement_type, address.settlement], " ")
+        ]);
+    }
+</script><script type="text/javascript">
+    var
+        type = "ADDRESS",
+        form_header   = $('#city_header').closest('form'),
+        city_header   = $('#city_header'),
+        address_header = $('#address_header');
+        initSelect_header = true;
+    var auto_city_header = city_header.attr('data-auto-city');
+    city_header.suggestions({
+        token: token,
+        type: type,
+        scrollOnFocus: false,
+        // hint: true,
+        geoLocation: !!auto_city_header,
+        bounds: "country-city-settlement",
+        constraints: [
+                        {
+                locations: {
+                    country: 'Армения'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Австралия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Австрия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Азербайджан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Бахрейн'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Беларусь'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Хорватия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Кипр'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Чехия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Эстония'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Финляндия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Франция'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Грузия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Германия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Венгрия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Индия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Ирландия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Израиль'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Италия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Япония'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Казахстан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Республика Корея'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Киргизия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Латвия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Литва'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Малайзия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Молдова'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Монголия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Нидерланды'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Норвегия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Португалия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Румыния'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Россия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Саудовская Аравия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Словакия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Словения'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Испания'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Швеция'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Швейцария'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Тайвань'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Таджикистан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Таиланд'
+                }
+            },
+                        {
+                locations: {
+                    country: 'ОАЭ'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Британия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Узбекистан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Вьетнам'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Сербия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Черногория'
+                }
+            },
+                    ],
+        onSelect: function (suggestion, changed) {
+
+            // отчищаем поля
+            if (changed && !initSelect_header) {
+                address_header.val("");
+                $('#postcode_header').val("");
+            }
+
+            if (suggestion.value.includes('')) {
+                initSelect_header = false;
+            }
+
+            address_header.selectpicker("refresh");
+            $('.office input[name="shipping_flat"]').val("");
+
+            form_header.find('#dadata_city_header').val(JSON.stringify(suggestion.data));
+            if (address_header.val() === '') {
+                form_header.find('#postcode_header').val(suggestion.data.postal_code);
+                var event = city_header.attr('data-after-select');
+                if (event) {
+                    window[event](city_header, suggestion);
+                }
+            }
+        },
+        onSelectNothing: function () {
+
+        }
+    });
+    if (auto_city_header){
+
+        $(document).ready(function() {
+            city_header.suggestions().getGeoLocation()
+            .done(function (locationData) {
+                var sgt = {
+                    value: null,
+                    date: locationData
+                };
+                city_header.suggestions().setSuggestion(sgt);
+                city_header.val(cityToString(locationData));
+                $('#dadata_city_header').val(JSON.stringify(locationData));
+                city_header.suggestions().fixData();
+                var event = city_header.attr('data-after-select');
+                if (event) {
+                    console.log(event);
+                    window[event](city_header);
+                }
+            });
+        })
+
+    }
+    if ($('input[name=check_dadata_init]').val() === '0') {
+        city_header.suggestions().fixData();
+    }
+        address_header.suggestions({
+        token: token,
+        type: type,
+        hint: false,
+        scrollOnFocus: false,
+        bounds: "street-house",
+
+        
+                constraints: {
+            locations: {
+                            }
+        },
+                restrict_value: true,
+        onSelect: function (suggestion) {
+            form_header.find('#dadata_address_header').val(JSON.stringify(suggestion.data));
+            if (!form_header.find('#dadata_city_header').val()) {
+                form_header.find('#dadata_city_header').val(JSON.stringify(suggestion.data));
+            }
+            form_header.find('#postcode_header').val(suggestion.data.postal_code);
+            var event = address_header.attr('data-after-select');
+            if (event) {
+                window[event](address_header, suggestion);
+            }
+        },
+        onSelectNothing: function () {
+            if ($(this).attr('data-after-select')=='toggleDisabledPostcode'){
+                $(this).closest('form').find('[name="shipping_postcode"]').closest('.index').attr('hidden',null);
+            }
+        }
+    });
+
+    address_header.attr("autocomplete", "nope");
+        city_header.attr("autocomplete", "nope");
+    city_header.on('input', function () {
+        form_header.find('#dadata_city_header').val('');
+    });
+    address_header.on('input', function () {
+        form_header.find('#dadata_address_header').val('');
+        form_header.find('#postcode_header').val('');
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $(document).on('click', '.receipt-modal-open', function(e) {
+            const product_id = $(this).attr('data-product');
+
+            if($(this).attr('data-is-user') === 'false') {
+                $('#receipt-modal-form').attr('action', "https://shop.tastycoffee.ru/ajax/products/0/subscribe".replace(0, product_id))
+                // $('#receipt-modal').modal('show');
+                $('[data-modal-name="notification-product-appearance-no-login"]').addClass('active');
+
+                return false;
+            }
+
+            $('[data-modal-name="notification-product-appearance"]').addClass('active');
+
+            $.ajax({
+                url: 'https://shop.tastycoffee.ru/ajax/products/0/subscribe'.replace(0, product_id),
+                method: 'POST',
+            }).done(function() {
+
+            }).fail(function(data) {
+
+            })
+        });
+        $('#receipt-modal form button').on('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            var $form = $(this).closest('form');
+            var showError = function(text) {
+                var $errorEl = $form.find('.siteError');
+                $errorEl.text(text).show();
+                setTimeout(function() {
+                    $errorEl.text('').hide();
+                }, 3000);
+            }
+
+                if (!$form.find('[name="is_agreed"]').prop('checked')) {
+                    showError('Вы не согласились с условиями');
+                    return false;
+                }
+
+                $.ajax({
+                    url: $form.attr('action'),
+                    data: {email: $form.find('[name="email"]').val()},
+                    method: $form.attr('method'),
+                }).done(function () {
+                    $('[data-modal-name="notification-product-appearance-no-login"]').removeClass('active');
+                    $('[data-modal-name="notification-product-appearance-done"]').addClass('active');
+                    // $form.find('.info').remove();
+                }).fail(function (data) {
+                    if (data.status === 422) {
+                        showError(Object.values(data.responseJSON.errors).flat().join(', '));
+                    } else {
+                        showError(data.responseJSON.message);
+                    }
+                })
+            });
+        });
+    </script>
+
+    <script type="text/javascript" async defer>(function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.charset = 'utf-8';
+            s.async = true;
+            s.defer = true;
+            s.src = '//me-talk.ru/support/support.js?h=1645ced87d2f67dd699696c718a5dfdd';
+            var sc = document.getElementsByTagName('script')[0];
+            var callback = function () {/* Здесь вы можете вызывать API. Например, чтобы изменить отступ по высоте: supportAPI.setSupportTop(200); */
+            };
+            s.onreadystatechange = s.onload = function () {
+                var state = s.readyState;
+                if (!callback.done && (!state || /loaded|complete/.test(state))) {
+                    callback.done = true;
+                    callback();
+                }
+            };
+            if (sc) sc.parentNode.insertBefore(s, sc); else document.documentElement.firstChild.appendChild(s);
+        })();</script>
+
+<script async defer src="https://www.googletagmanager.com/gtag/js?id=UA-49925495-2"></script>
+<script async defer> window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-49925495-2');
+    gtag('config', 'AW-353971060');
+</script>
+
+<!-- push world -->
+<!--<script>!function (e, t, d, s, a, n, c) {
+        e[a] = {}, e[a].date = (new Date).getTime(), n = t.createElement(d), c = t.getElementsByTagName(d)[0], n.type = "text/javascript", n.async = !0, n.src = s, c.parentNode.insertBefore(n, c)
+    }(window, document, "script", "https://tastycoffeesaleru.push.world/https.embed.js", "pw"), pw.websiteId = "e0f4f5dd207d407945e8c66c72c33fc6a1f1a6a09c7973e03dfecc25e2a368af";
+</script>-->
+    <div class="popupAdded animated fadeIn modal-notify" id="receipt-modal" data-modal-name="notification-product-appearance-no-login">
+    <div class="popupAdded-wrap modal-content p-lr-32">
+        <div class="w-100 pb-3 text-center">
+            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="50" height="50" fill="white"/>
+                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
+            </svg>
+        </div>
+        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
+
+        <div class="modal_body">
+            <form action="" class="" id="receipt-modal-form" method="POST">
+                <div class="info">
+                    <div class="input-wrap">
+                        <input type="text" name="email" placeholder="Введите ваш e-mail">
+                        <button type="button"></button>
+                    </div>
+                    <div class="siteError mb-3"></div>
+                    <div class="checkbox-wrap">
+                        <input id="agreed" type="checkbox" name="is_agreed">
+                        <label for="agreed" class="subscribe-agreed">
+                            <span class="label__box"></span>
+                            <span class="label__text">
+                                Согласен с <a href="https://shop.tastycoffee.ru/privacy" target="_blank">условиями обработки персональных данных</a> и
+                                <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank">Пользовательского соглашения</a>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance">
+    <div class="popupAdded-wrap p-lr-32">
+        <div class="w-100 pb-3 text-center">
+            <svg class="mb-4" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="50" height="50" fill="white"/>
+                <path d="M24.5718 39H11.9433C10.2211 39 9.50397 37.5369 10.3648 36.4729C11.9431 34.5221 14.096 32.8818 14.096 26.4975C14.096 20.1133 15.9613 12 24.5718 12M24.4282 39H37.0567C38.7789 39 39.496 37.5369 38.6352 36.4729C37.0569 34.5221 34.904 32.8818 34.904 26.4975C34.904 20.1133 33.0387 12 24.4282 12" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M27 43C27 44.1046 25.8807 45 24.5 45C23.1193 45 22 44.1046 22 43" stroke="#B3B3B4" stroke-width="4"/>
+                <path d="M25 11C25 10.4477 24.7761 10 24.5 10C24.2239 10 24 10.4477 24 11" stroke="#B3B3B4" stroke-width="4"/>
+            </svg>
+        </div>
+        <h3>Мы отправим вам письмо, когда товар поступит в продажу</h3>
+        <div>
+            <div class="siteError mb-3"></div>
+        </div>
+        <button type="button" class="grayBtn closePa w-105 mb-3">Закрыть</button>
+    </div>
+</div>
+
+<div class="popupAdded animated fadeIn" data-modal-name="notification-product-appearance-done">
+    <div class="popupAdded-wrap p-lr-32">
+        <div class="w-100 pb-3 text-center">
+            <div class="check-ic"></div>
+        </div>
+        <h3>Вы подписаны</h3>
+        <div>
+            <div class="siteError mb-3"></div>
+        </div>
+        <button type="button" class="blackBtn closePa w-74 mb-3">Ок</button>
+    </div>
+</div>
+</body>
+</html>

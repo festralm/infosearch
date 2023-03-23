@@ -54,7 +54,10 @@ class Crawler:
             url = furl.furl(url).tostr()
             logging.info(f'Crawling №{url_num}: {url}')
             opener = urllib.request.FancyURLopener({})
-            f = opener.open(url)
+            try:
+                f = opener.open(url)
+            except Exception:
+                continue
             global content
             try:
                 content = f.read()
@@ -77,5 +80,5 @@ class Crawler:
 
 
 if __name__ == '__main__':
-    urls = ['https://www.kinopoisk.ru/lists/categories/movies/1/']
+    urls = ['https://shop.tastycoffee.ru/']
     Crawler(urls=urls).run(100)
