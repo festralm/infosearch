@@ -45,13 +45,13 @@
       <img src="/static/images/branding/google_logo.png" alt="Google_logo" width=20%>
     </p>
 
-    {% if engine_name %}
-    <div style="display: inline;">current engine: <span class="label label-success">{{ engine_name }}</span></div>
+<!--    {% if engine_name %}-->
+<!--    <div style="display: inline;">current engine: <span class="label label-success">{{ engine_name }}</span></div>-->
 
-    <button class="btn btn-success" id="thumb-btn" type="button" style="float:right;">
-       Display thumbnail : On
-    </button>
-    {% endif %}
+<!--    <button class="btn btn-success" id="thumb-btn" type="button" style="float:right;">-->
+<!--       Display thumbnail : On-->
+<!--    </button>-->
+<!--    {% endif %}-->
 
   </div>
 
@@ -95,29 +95,6 @@
         <h3><a href = {{ result.link }} target="_blank" >
           {{ result.title|safe }}
         </a></h3>
-<!--        {% if result.snippet %}-->
-<!--          {% if result.thumbnail %}-->
-<!--            <div>-->
-<!--              <div id="{{ result.title }}_tn" style="float:left; width:{{ result.thumbnail.width}}px;">-->
-<!--                  <a href="{{ result.link }}" target="_blank"><img style="" src={{ result.thumbnail.src }} alt="thumbnail"/></a>-->
-<!--              </div>-->
-<!--              <div id="{{ result.title }}_content" style="float:left;height:{{ result.thumbnail.height }}px;position:relative;">-->
-<!--                <div id="r_snippet" style="margin-left:20px;margin-top:20px;font-size:20px;">{{ result.snippet|safe }}</div>-->
-<!--                <div id="r_link" style="margin-left:20px;bottom:0;font-size:13px;position:absolute;">{{ result.displayLink|safe }}</div>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          {% else %}-->
-<!--            <div id="r_snippet" style="font-size:18px;text">{{ result.snippet|safe }}</div>-->
-<!--            <div id="r_link" style="font-size:13px;color:#008000">{{ result.displayLink|safe }}</div>-->
-<!--          {% endif %}-->
-<!--        {% else %}-->
-<!--          <div id="r_link" style="font-size:13px;color:#008000">{{ result.displayLink|safe }}</div>-->
-          <div id="r_tn" style="width:{{ result.thumbnail.width}}px;">
-              <a href="{{ result.link }}" target="_blank">
-                <img src = {{ result.thumbnail.src }} alt="thumbnail"/>
-              </a>
-          </div>
-<!--        {% endif%}-->
       </div>
     {% endfor %}
 

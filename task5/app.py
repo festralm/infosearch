@@ -1,11 +1,11 @@
 # -*- coding:utf-8 -*-
 from flask import Flask, request, render_template
 from flask_bootstrap import Bootstrap
-import json, sys
-import requests
 from pathlib import Path
 import io
-from task2.tokenizer import Tokenizer
+import sys
+sys.path.append('../task2')
+from tokenizer import Tokenizer
 import re
 
 app = Flask(__name__)
@@ -22,7 +22,7 @@ def index():
 def get_pages(q, start_index, count):
     tokenizer = Tokenizer()
 
-    if start_index + count > 100:
+    if int(start_index) + count > 100:
         if count > 100:
             count = 100
         start_index = 100 - count
@@ -45,7 +45,7 @@ def get_pages(q, start_index, count):
 
     result['queries'] = {}
     result['queries']['request'] = []
-    result['queries']['request'].appens({})
+    result['queries']['request'].append({})
     result['queries']['request'][0]['startIndex'] = start_index + 1
 
     result['items'] = []
@@ -55,6 +55,7 @@ def get_pages(q, start_index, count):
         item['htmlTitle'] = link[0]
         item['link'] = link[0]
         item['htmlFormattedUrl'] = link[0]
+        result['items'].append(item)
 
     return result
 
@@ -65,12 +66,16 @@ def query():
         count = 10
         q = request.args.get('q')
         start_index = request.args.get('start')
+        if start_index is None:
+            start_index = 0
+        else:
+            start_index = int(start_index) - 1
 
         data = get_pages(q, start_index, count)
         results = []
         items = data['items']
         current_start_index = data['queries']['request'][0]['startIndex']
-        page_index = (current_start_index - 1) / count + 1
+        page_index = (current_start_index - 1) // count + 1
 
         if current_start_index == 1:
             has_previous = 0
