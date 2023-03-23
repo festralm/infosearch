@@ -1,5 +1,1427 @@
-<!DOCTYPE html><html class="i-ua_js_no i-ua_css_standard" dir="ltr" lang="ru"><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Блокировка сервиса и капча - Капча. Обратная связь</title><link rel="shortcut icon" href="//yastatic.net/s3/locdoc/static/support/_/favicon.ico"/><meta name="copyright" content="(C) Copyright 2022"/><meta name="DC.rights.owner" content="(C) Copyright 2022"/><meta name="DC.type" content="concept"/><meta name="keywords" content="Яндекс капча постоянно., Яндекс постоянная капча., Бесконечная капча Яндекс., Яндекс постоянно выдает капчу., Не вижу капчу Яндекс., Не вижу капчу в Яндексе., Captcha error Yandex., Яндекс капча не работает."/><meta name="prodname" content="Капча"/><meta name="DC.format" content="HTML5"/><meta name="DC.identifier" content="index"/><meta name="DC.language" content="ru"/><meta name="generator" content="Yandex Yoda DITA"/><meta name="topic_id" content="index"/><meta name="topic_name" content="Блокировка сервиса и капча"/><meta name="doc_id" content="smart-captcha-guide"/><meta name="doc_name" content="Обратная связь"/><meta name="component_id" content=""/><meta name="component_name" content=""/><meta name="product_id" content="smart-captcha"/><meta name="product_name" content="Капча"/><meta name="description" content="Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы cookie. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение."/><meta name="product" content="smart-captcha"/><meta name="product_realname" content="Капча"/><meta name="doc_group" content="smart-captcha-guide"/><meta name="doc_group_name" content="smart-captcha-guide"/><meta name="section_name" content="Блокировка сервиса и капча"/><meta name="langs" content="ru"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/><meta name="service_name" content="Капча"/><meta property="og:type" content="article"/><meta property="og:title" content="Блокировка сервиса и капча - Капча. Обратная связь"/><meta property="og:url" content="https://yandex.ru/support/smart-captcha/index.html#why-blocked-service"/><meta property="og:description" content="Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы cookie. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение."/><script nonce="SJxNPwppDslvD6GoVP2cFQ==">;(function(d,e,c,r){e=d.documentElement;c="className";r="replace";e[c]=e[c][r]("i-ua_js_no","i-ua_js_yes");if(d.compatMode!="CSS1Compat")e[c]=e[c][r]("i-ua_css_standart","i-ua_css_quirks")})(document);;(function(d,e,c,n,w,v,f){e=d.documentElement;c="className";n="createElementNS";f="firstChild";w="http://www.w3.org/2000/svg";e[c]+=" i-ua_svg_"+(!!d[n]&&!!d[n](w,"svg").createSVGRect?"yes":"no");v=d.createElement("div");v.innerHTML="<svg/>";e[c]+=" i-ua_inlinesvg_"+((v[f]&&v[f].namespaceURI)==w?"yes":"no");})(document);;(function(w,e,s,c,x,l,p,d){c="className";x="deviceXDPI";l="logicalXDPI";p="devicePixelRatio";d=x in s&&l in s&&s[x]/s[l]||p in w&&w[p];d>1&&(e[c]+=" i-ua_retina_yes")})(window,document.documentElement,screen);</script><link rel="stylesheet" href="//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.css"/><link rel="stylesheet" href="//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/themes/github.min.css"/><!--[if lte IE 8]><link rel="stylesheet" href="//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.ie8.css"/><![endif]--><link rel="stylesheet" href="//yastatic.net/s3/locdoc/static/support/master-1667216625/desktop.bundles/doc/_doc.css"/><link rel="stylesheet" href="https://yastatic.net/s3/locdoc/static/libraries/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.min.css"/><link rel="stylesheet" href="https://yastatic.net/s3/locdoc/static/libraries/nprogress/0.2.0/nprogress.min.css"/><script src="https://yastatic.net/ravenjs/3.23.3/raven.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script></head><body class="b-page layout b-page__body i-ua i-global i-bem" data-bem='{"b-page":{"raven":{"config":{"autoBreadcrumbs":true,"environment":"production","captureUnhandledRejections":true,"release":"master-1667216625"},"user":{}},"serviceType":"support","isTouch":false},"i-ua":{},"i-global":{"lang":"ru","tld":"ru","content-region":"ru","click-host":"//clck.yandex.ru","passport-host":"https://passport.yandex.ru","pass-host":"https://pass.yandex.ru","social-host":"https://social.yandex.ru","export-host":"https://export.yandex.ru","lego-static-host":"https://yastatic.net/lego/2.10-142"}}'><div class="notify i-bem" data-bem='{"notify":{}}'></div><i class="metrika i-bem" data-bem='{"metrika":{"counters":[2105623,70746865]}}'><script nonce="SJxNPwppDslvD6GoVP2cFQ==">(function(m,e,t,r,i,k,a) {m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");ym(2105623, "init", {"accurateTrackBounce":true,"clickmap":true,"trackHash":true,"trackLinks":true,"webvisor":true});ym(70746865, "init", {"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"webvisor":false});</script><noscript><div><img class="metrika__img" src="https://mc.yandex.ru/watch/2105623" style="position:absolute; left:-9999px;" alt=""/><img class="metrika__img" src="https://mc.yandex.ru/watch/70746865" style="position:absolute; left:-9999px;" alt=""/></div></noscript></i><iframe class="ux-feedback i-bem" frameBorder="0" id="uxfb_iframe" src="https://samsara.s3.yandex.net/static/doc-ux-feedback.html" sandbox="allow-scripts allow-same-origin allow-forms allow-popups" style="display: none;" data-bem='{"ux-feedback":{}}'></iframe><div class="layout__head"><div class="b-header layout__head-inner i-bem" data-bem='{"b-header":{}}'><div class="mobile-search b-header__mobile-search"><div class="mobile-search__wrapper"><form class="search2 mobile-search__search-form suggest2-form i-bem" role="search" action="/support/search-results/" data-bem='{"suggest2-form":{"popupName":"popup2"}}'><div class="suggest2-form__node mobile-search__input"><span class="input input_size_m input_theme_normal suggest2-form__input i-bem" data-bem='{"input":{"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq16763013379172845994" name="query" aria-labelledby="labeluniq16763013379172845994 hintuniq16763013379172845994" value=""/></span></span><div class="popup2 popup2_target_anchor popup2_theme_clear popup2_autoclosable_yes mobile-search__popup suggest2 suggest2_theme_normal suggest2_size_m suggest2_adaptive_yes suggest2_type_support suggest2-detect i-bem" data-bem='{"popup2":{"directions":["bottom-left"]},"suggest2":{"url":"/support/api/suggest/","dataType":"json","abortQueries":true,"submitBySelect":true,"sequentialQueriesTimeout":200},"suggest2-detect":{}}'><div class="popup2__content"></div></div></div></form><button class="button2 button2_view_classic mobile-search__button i-bem" type="button" autocomplete="off" tabindex="0" data-bem='{"button2":{}}'><span class="button2__text">Отменить</span></button></div></div><div class="header2 header2_border_transparent b-header__wrapper" role="banner"><div class="header2__main"><div class="header2__logo"><div class="b-header__logo b-header__logo_legal_no"><a class="b-header__logo-item" href="https://ya.ru" tabindex="-1"><image src="https://yastatic.net/q/logoaas/v2/Яндекс.svg" alt="Яндекс"></image></a><a class="b-header__logo-item" href="/support" tabindex="-1"><image src="https://yastatic.net/q/logoaas/v2/Справка.svg" alt="Справка"></image></a></div><button class="button2 button2_size_m button2_theme_clear button2_type_check button2_view_classic b-header__menu i-bem" type="button" autocomplete="off" tabindex="0" aria-pressed="false" data-bem='{"button2":{}}'><span class="icon b-header__menu-icon"></span></button></div><div class="header2__left"><span class="b-header__title">Капча</span><form class="search2 b-header__search suggest2-form i-bem" role="search" action="/support/search-results/" data-bem='{"suggest2-form":{"popupName":"popup2"}}'><input class="search2__hidden" type="hidden" name="service" value="smart-captcha"/><div class="suggest2-form__node"><span class="input input_size_m input_theme_normal suggest2-form__input i-bem" data-bem='{"input":{"live":false}}'><span class="input__box"><span class="input__clear" unselectable="on"> </span><input class="input__control" id="uniq16763013379172845995" name="query" aria-labelledby="labeluniq16763013379172845995 hintuniq16763013379172845995" value=""/></span></span><button class="button2 button2_size_m button2_theme_normal button2_pin_clear-round button2_type_submit button2_view_classic suggest2-form__button i-bem" type="submit" autocomplete="off" tabindex="-1" data-bem='{"button2":{}}'><span class="button2__text">Найти</span></button><div class="popup2 popup2_target_anchor popup2_theme_clear popup2_autoclosable_yes suggest2 suggest2_theme_normal suggest2_size_m suggest2_adaptive_yes suggest2_type_support suggest2-detect i-bem" data-bem='{"popup2":{"directions":["bottom-left"]},"suggest2":{"url":"/support/api/suggest/","dataType":"json","abortQueries":true,"submitBySelect":true,"sequentialQueriesTimeout":200},"suggest2-detect":{}}'><div class="popup2__content"></div></div></div></form></div><div class="header2__right"><button class="button2 button2_size_m button2_theme_clear button2_type_check button2_view_classic b-header__mini-search i-bem" type="button" autocomplete="off" tabindex="0" aria-pressed="false" data-bem='{"button2":{}}'><span class="icon b-header__mini-search-icon"></span></button><div class="user2 b-header__user i-bem" data-bem='{"user2":{"_retpath":"//yandex.ru/support/smart-captcha/index.html#why-blocked-service","_yu":"","accountsUrl":"https://pass.yandex.ru/accounts","_passportHost":"https://passport.yandex.ru"}}'><a class="button2 button2_size_m button2_theme_pseudo button2_type_link button2_view_classic user2__enter i-bem" title="Войти" tabindex="-1" href="https://passport.yandex.ru/auth?retpath=%2F%2Fyandex.ru%2Fsupport%2Fsmart-captcha%2Findex.html%23why-blocked-service" data-bem='{"button2":{}}'><span class="icon icon_size_m button2__icon button2__icon_side_left user2__enter-icon"></span><span class="button2__text">Войти</span></a></div></div></div><div class="header2__white-stripe"></div></div><div class="mobile-menu b-header__mobile-menu i-bem" data-bem='{"mobile-menu":{"headerTitle":"Обратная связь"}}'><div class="mobile-menu__close icon icon_type_close"></div><div class="mobile-menu__header">Обратная связь</div><div class="mobile-menu__breadcrumbs"></div><div class="mobile-menu__menu"><div class="doc-c-mobile-menu doc-c doc-c-i-bem" doc-data-bem='{"doc-c-mobile-menu":{"levels":[{"hasParent":false,"items":[{"block":"doc-c-mobile-menu","elem":"item","data":{"title":"Блокировка сервиса и капча","path":"/support/smart-captcha/index.html","hasChildren":false,"nextLevel":{}},"mods":{},"elemMods":{"active":"yes","opener":""},"__func77":true,"js":{"data":{"title":"Блокировка сервиса и капча","path":"/support/smart-captcha/index.html","hasChildren":false,"nextLevel":{}}},"content":{"block":"link","mix":{"block":"doc-c-mobile-menu","elem":"link"},"mods":{"theme":"black"},"text":"Блокировка сервиса и капча","url":"/support/smart-captcha/index.html","__func64":true,"__func57":true,"tag":"a","js":{},"attrs":{"tabindex":"0","href":"/support/smart-captcha/index.html"},"content":[null,null,{"tag":false,"html":"Блокировка сервиса и капча"},null]}},{"block":"doc-c-mobile-menu","elem":"item","data":{"title":"О странице 403","path":"/support/smart-captcha/about-403.html","hasChildren":false,"nextLevel":{}},"mods":{},"elemMods":{"active":"no","opener":""},"__func77":true,"js":{"data":{"title":"О странице 403","path":"/support/smart-captcha/about-403.html","hasChildren":false,"nextLevel":{}}},"content":{"block":"link","mix":{"block":"doc-c-mobile-menu","elem":"link"},"mods":{"theme":"black"},"text":"О странице 403","url":"/support/smart-captcha/about-403.html","__func64":true,"__func57":true,"tag":"a","js":{},"attrs":{"tabindex":"0","href":"/support/smart-captcha/about-403.html"},"content":[null,null,{"tag":false,"html":"О странице 403"},null]}},{"block":"doc-c-mobile-menu","elem":"item","data":{"title":"О странице 429","path":"/support/smart-captcha/about-429.html","hasChildren":false,"nextLevel":{}},"mods":{},"elemMods":{"active":"no","opener":""},"__func77":true,"js":{"data":{"title":"О странице 429","path":"/support/smart-captcha/about-429.html","hasChildren":false,"nextLevel":{}}},"content":{"block":"link","mix":{"block":"doc-c-mobile-menu","elem":"link"},"mods":{"theme":"black"},"text":"О странице 429","url":"/support/smart-captcha/about-429.html","__func64":true,"__func57":true,"tag":"a","js":{},"attrs":{"tabindex":"0","href":"/support/smart-captcha/about-429.html"},"content":[null,null,{"tag":false,"html":"О странице 429"},null]}}]}]}}'><div class="doc-c-mobile-menu__container"><div class="doc-c-mobile-menu__level"><div class="doc-c-mobile-menu__item doc-c-mobile-menu__item_active_yes doc-c-i-bem" doc-data-bem='{"doc-c-mobile-menu__item":{"data":{"title":"Блокировка сервиса и капча","path":"/support/smart-captcha/index.html","hasChildren":false,"nextLevel":{}}}}'><a class="link link_theme_black doc-c-mobile-menu__link doc-c-i-bem" tabindex="0" href="/support/smart-captcha/index.html" doc-data-bem='{"link":{}}'>Блокировка сервиса и капча</a></div><div class="doc-c-mobile-menu__item doc-c-mobile-menu__item_active_no doc-c-i-bem" doc-data-bem='{"doc-c-mobile-menu__item":{"data":{"title":"О странице 403","path":"/support/smart-captcha/about-403.html","hasChildren":false,"nextLevel":{}}}}'><a class="link link_theme_black doc-c-mobile-menu__link doc-c-i-bem" tabindex="0" href="/support/smart-captcha/about-403.html" doc-data-bem='{"link":{}}'>О странице 403</a></div><div class="doc-c-mobile-menu__item doc-c-mobile-menu__item_active_no doc-c-i-bem" doc-data-bem='{"doc-c-mobile-menu__item":{"data":{"title":"О странице 429","path":"/support/smart-captcha/about-429.html","hasChildren":false,"nextLevel":{}}}}'><a class="link link_theme_black doc-c-mobile-menu__link doc-c-i-bem" tabindex="0" href="/support/smart-captcha/about-429.html" doc-data-bem='{"link":{}}'>О странице 429</a></div></div></div></div></div></div></div></div><div class="content layout__content i-bem" data-bem='{"content":{"data":{"page":"doc","stHost":"//yastatic.net/s3/locdoc/static/support/master-1667216625","passportHost":"https://passport.yandex.ru","env":"production","dev":false,"version":"master-1667216625","blackbox":{},"yandexuid":"","jquery":"//yastatic.net/jquery/1.12.4/jquery.min.js","nonce":"SJxNPwppDslvD6GoVP2cFQ==","tld":"ru","query":{},"serviceType":"support","metrikaCounters":[{"id":2105623,"params":{"accurateTrackBounce":true,"clickmap":true,"trackHash":true,"trackLinks":true,"webvisor":true}},{"id":70746865,"params":{"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"webvisor":false}}],"originalUrl":"/support/smart-captcha/index.html#why-blocked-service","host":"yandex.ru","homeUrl":"/support","raven":{"config":{"autoBreadcrumbs":true,"environment":"production","captureUnhandledRejections":true,"release":"master-1667216625"},"user":{}},"uatraits":{"isMobile":false,"isBrowser":false,"isTouch":false,"OSFamily":"Unknown"},"textDirection":"ltr","formParams":{},"service":{"metric_counters":["52183960"],"name":"Капча","is_fos":true,"url":"","footer_additional":"","icon":"","type":"none","id":1914,"slug":"smart-captcha","nameKey":"1914_name"},"alerts":[],"documentPath":"smart-captcha/index.html","doccenter":{"html_heads":{"sources":{"meta":{"copyright":"(C) Copyright 2022","DC.rights.owner":"(C) Copyright 2022","DC.type":"concept","keywords":"Яндекс капча постоянно., Яндекс постоянная капча., Бесконечная капча Яндекс., Яндекс постоянно выдает капчу., Не вижу капчу Яндекс., Не вижу капчу в Яндексе., Captcha error Yandex., Яндекс капча не работает.","prodname":"Капча","DC.format":"HTML5","DC.identifier":"index","DC.language":"ru","generator":"Yandex Yoda DITA","topic_id":"index","topic_name":"Блокировка сервиса и капча","doc_id":"smart-captcha-guide","doc_name":"Обратная связь","component_id":"","component_name":"","product_id":"smart-captcha","product_name":"Капча","description":"Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы cookie. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение.","product":"smart-captcha","product_realname":"Капча","doc_group":"smart-captcha-guide","doc_group_name":"smart-captcha-guide","section_name":"Блокировка сервиса и капча","langs":"ru"},"title":"Блокировка сервиса и капча","js":["//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.ru.no-bem.js","//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/highlight.min.js"],"inlineJs":[],"css":["//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.css","//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/themes/github.min.css"],"common":{"js":["//yastatic.net/jquery/1.12.4/jquery.min.js"]},"legacy":{"js":["//yastatic.net/es5-shims/0.0.1/es5-shims.min.js"],"css":["//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.ie8.css"]}},"meta":"<meta name=\"copyright\" content=\"(C) Copyright 2022\"/>\n<meta name=\"DC.rights.owner\" content=\"(C) Copyright 2022\"/>\n<meta name=\"DC.type\" content=\"concept\"/>\n<meta name=\"keywords\" content=\"Яндекс капча постоянно., Яндекс постоянная капча., Бесконечная капча Яндекс., Яндекс постоянно выдает капчу., Не вижу капчу Яндекс., Не вижу капчу в Яндексе., Captcha error Yandex., Яндекс капча не работает.\"/>\n<meta name=\"prodname\" content=\"Капча\"/>\n<meta name=\"DC.format\" content=\"HTML5\"/>\n<meta name=\"DC.identifier\" content=\"index\"/>\n<meta name=\"DC.language\" content=\"ru\"/>\n<meta name=\"generator\" content=\"Yandex Yoda DITA\"/>\n<meta name=\"topic_id\" content=\"index\"/>\n<meta name=\"topic_name\" content=\"Блокировка сервиса и капча\"/>\n<meta name=\"doc_id\" content=\"smart-captcha-guide\"/>\n<meta name=\"doc_name\" content=\"Обратная связь\"/>\n<meta name=\"product_id\" content=\"smart-captcha\"/>\n<meta name=\"product_name\" content=\"Капча\"/>\n<meta name=\"description\" content=\"Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы cookie. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение.\"/>\n<meta name=\"product\" content=\"smart-captcha\"/>\n<meta name=\"product_realname\" content=\"Капча\"/>\n<meta name=\"doc_group\" content=\"smart-captcha-guide\"/>\n<meta name=\"doc_group_name\" content=\"smart-captcha-guide\"/>\n<meta name=\"section_name\" content=\"Блокировка сервиса и капча\"/>\n<meta name=\"langs\" content=\"ru\"/>\n<script src=\"//yastatic.net/jquery/1.12.4/jquery.min.js\"></script>","bundle":{"styles":"<!--[if IE 8]><link rel=\"stylesheet\" href=\"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.ie8.css\"/><![endif]-->\n<link rel=\"stylesheet\" href=\"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.css\"/>\n<link rel=\"stylesheet\" href=\"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/themes/github.min.css\"/>","js":"<!--[if IE 8]><script src=\"//yastatic.net/es5-shims/0.0.1/es5-shims.min.js\"></script><![endif]-->\n<script src=\"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.ru.no-bem.js\"></script>\n<script src=\"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/highlight.min.js\"></script>"},"lang":"ru","title":"Блокировка сервиса и капча"},"menu":"<div class=\"doc-c-menu doc-c doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-menu\":{}}&#39;><div class=\"doc-c-menu__content doc-c-menu__content_opener_yes doc-c-menu__content_open_yes doc-c-menu__content_has-current_yes\"><div class=\"doc-c-menu__item doc-c-menu__item_open_yes doc-c-menu__item_current_yes\"><a class=\"link link_theme_black doc-c-menu__link doc-c-i-bem\" tabindex=\"0\" href=\"/support/smart-captcha/index.html\" doc-data-bem=&#39;{\"link\":{}}&#39;><div class=\"doc-c-menu__border-left\"></div>Блокировка сервиса и капча</a></div><div class=\"doc-c-menu__item\"><a class=\"link link_theme_black doc-c-menu__link doc-c-i-bem\" tabindex=\"0\" href=\"/support/smart-captcha/about-403.html\" doc-data-bem=&#39;{\"link\":{}}&#39;><div class=\"doc-c-menu__border-left\"></div>О странице 403</a></div><div class=\"doc-c-menu__item\"><a class=\"link link_theme_black doc-c-menu__link doc-c-i-bem\" tabindex=\"0\" href=\"/support/smart-captcha/about-429.html\" doc-data-bem=&#39;{\"link\":{}}&#39;><div class=\"doc-c-menu__border-left\"></div>О странице 429</a></div></div></div>","document":"<main role=\"main\" class=\"doc-c doc-c-main doc-c-i-bem\" doc-data-bem=\"{&amp;quot;doc-c-main&amp;quot;:{}}\"><article role=\"article\" aria-labelledby=\"ariaid-title1\" class=\"doc-c-article\"> <h1 class=\"title topictitle1 doc-c-headers doc-c-headers_mod_h1\" id=\"ariaid-title1\" data-help-title=\"1\">Блокировка сервиса и капча</h1> <div class=\"abstract\"> <ol class=\"ol minitoc sl doc-c-list doc-c-list_type_ol doc-c-list_type_minitoc doc-c-list_type_sl\"><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#why-blocked-service\">Почему сервис заблокировали?</a></li><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#too-fast\">Капча появляется слишком часто</a></li><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#code-input\">Почему после нажатия «Я не робот» мне предлагается ввести код?</a></li><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#error\">Не вижу картинку капчи</a></li><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#unreadable\">Символы капчи неразборчивые</a></li><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#no-rus-keyboard\">Нет русской раскладки на клавиатуре</a></li><li class=\"li doc-c-list doc-c-list__li\"><a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#help\">Написать в службу поддержки</a></li></ol> </div> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title2\" id=\"why-blocked-service\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title2\">Почему сервис заблокировали?</h2> <div class=\"body conbody\" data-help-text=\"1\"> <p class=\"p\">Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/common/browsers-settings/browsers-cookies.html\" target=\"_blank\">cookie</a>. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение.</p> <img class=\"image border doc-c-image doc-c-image_border_yes\" src=\"https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/d8222223061b7c386c5fd2f6ab669afef798c95e.png\"> </div> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title3\" id=\"too-fast\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title3\">Капча появляется слишком часто</h2> <div class=\"body conbody\" data-help-text=\"1\"> <p class=\"p\">Основные причины частого появления капчи:</p> <ul class=\"ul doc-c-list doc-c-list_type_ul\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__bullet\"></div><div class=\"doc-c-list__item-content\">в браузере <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/common/browsers-settings/browsers-cookies.html\" target=\"_blank\">запрещено сохранение cookie</a>, в которых фиксируется успешный ввод капчи; </div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__bullet\"></div><div class=\"doc-c-list__item-content\">вы используете <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/common/browsers-settings/incognito.html\" target=\"_blank\">режим Инкогнито</a>, при котором cookie автоматически удаляются при закрытии браузера.</div></li> </ul> <p class=\"p\">Чтобы капча перестала появляться слишком часто:</p> <ol class=\"ol doc-c-list doc-c-list_type_ol\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Включите сохранение cookie в браузере. <ul class=\"sl simple doc-c-list doc-c-list_type_ul doc-c-list_type_sl\"> <li class=\"sli doc-c-list doc-c-list__li doc-c-list__sli\"> <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/browser/personal-data-protection/cookies.html#del-cookie\" target=\"_blank\">Яндекс Браузер</a> </li> <li class=\"sli doc-c-list doc-c-list__li doc-c-list__sli\"> <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.microsoft.com/ru-ru/help/4027947/windows-delete-cookies\" target=\"_blank\">Microsoft Edge</a> </li> <li class=\"sli doc-c-list doc-c-list__li doc-c-list__sli\"> <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.google.com/chrome/answer/95647?hl=ru&amp;amp;ref_topic=7438325chrome\" target=\"_blank\">Google Chrome</a> </li> <li class=\"sli doc-c-list doc-c-list__li doc-c-list__sli\"> <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.mozilla.org/ru/kb/kuki-informaciya-kotoruyu-veb-sajty-hranyat-na-vas#w_yuaaaaiji-jcj\" target=\"_blank\">Mozilla Firefox</a> </li> <li class=\"sli doc-c-list doc-c-list__li doc-c-list__sli\"> <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://help.opera.com/ru/latest/web-preferences/#setCookies\" target=\"_blank\">Opera</a> </li> <li class=\"sli doc-c-list doc-c-list__li doc-c-list__sli\"> <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://help.apple.com/safari/mac/9.0/?lang=ru#/sfri11471\" target=\"_blank\">Safari</a> </li> </ul></div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Правильно введите капчу. Используйте строчные и прописные буквы. Знаки препинания и пробелы можно не вводить. </div></li> </ol> <div class=\"note note note_note doc-c-note doc-c-note_mod_note\"><span class=\"note__title doc-c-note__title\">Примечание.</span> Как убрать капчу в <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://wordstat.yandex.ru/\" target=\"_blank\">Wordstat</a>, читайте в справке <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/direct/troubleshooting/wordstat.html#captcha\" target=\"_blank\">Директа</a>. </div> </div> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title4\" id=\"code-input\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title4\">Почему после нажатия <span class=\"q\">«Я не робот»</span> мне предлагается ввести код? </h2> <div class=\"body conbody\" data-help-text=\"1\"> <p class=\"p\">Иногда подтверждения <span class=\"q\">«Я не робот»</span> недостаточно, чтобы отличить реального человека от программы. Мы постоянно работаем над улучшением алгоритмов, но иногда просим пройти дополнительную проверку. </p> <p class=\"p\">В этом случае, чтобы вернуться на страницу сервиса, введите символы, которые вы видите на картинке капчи, и нажмите <span class=\"ph uicontrol doc-c-uicontrol\">Отправить</span>. </p> <img class=\"image border doc-c-image doc-c-image_border_yes\" src=\"https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/fe80337f4a0ab32d0ff677d0872eae77d0926f34.png\"> <p class=\"p\">Используйте строчные и прописные буквы. Знаки препинания и пробелы можно игнорировать.</p> <p class=\"p\">Чтобы сменить картинку капчи, нажмите значок <img class=\"image doc-c-image\" src=\"https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/1479ddca367e5f909179d2f9f8d6cb277888c988.png\">.</p> <p class=\"p\">Вместо символов с картинки можно ввести цифры из звуковой капчи:</p> <ol class=\"ol doc-c-list doc-c-list_type_ol\" id=\"code-input__audio-captcha\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Нажмите значок <img class=\"image doc-c-image\" src=\"https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/feed2e2492566d0218cbc508f5f2544fa1366e55.png\">.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Прослушайте сообщение.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Введите услышанные цифры в поле ввода под картинкой капчи. </div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Нажмите <span class=\"ph uicontrol doc-c-uicontrol\">Отправить</span>.</div></li> </ol> <div class=\"note attention note_attention doc-c-note doc-c-note_mod_attention\"><span class=\"note__title doc-c-note__title\">Внимание.</span> Яндекс запрашивает только символы с картинки и никогда не просит указать номер телефона, отправить SMS или заново ввести логин и пароль. Если вы столкнулись с подобными требованиями — вы попали на поддельную страницу. Сообщите нам об этом через <a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#help\">форму обратной связи</a>.</div> <p class=\"p\">Если символы введены верно, Яндекс запомнит ваш браузер как проверенный (при условии, что файлы <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/common/browsers-settings/browsers-cookies.html\" target=\"_blank\">cookie</a> сохраняются в вашем браузере постоянно). </p> <p class=\"p\">Если вам необходимо совершать именно автоматические запросы к Яндексу, воспользуйтесь сервисом <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"http://xml.yandex.ru/\" target=\"_blank\">Яндекс XML</a>.</p> <p class=\"p\">Если вы долгое время не можете вернуться к сервису из-за дополнительных проверок, напишите об этом в <a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#help\">cлужбу поддержки</a>.</p> </div> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title5\" id=\"error\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title5\">Не вижу картинку капчи</h2> <div class=\"body conbody\" data-help-text=\"1\"> <p class=\"p\">Если после выбора опции <span class=\"q\">«Я не робот»</span> картинка капчи не появилась, посмотрите, виден ли логотип Яндекса в левом верхнем углу страницы:</p> <dl class=\"dl cut doc-c-list doc-c-list_type_dl\"> <div class=\"doc-c-cut doc-c-cut_type_pseudo doc-c-cut_theme_normal doc-c-i-bem\" doc-data-bem=\"{&amp;quot;doc-c-cut&amp;quot;:{}}\"><span class=\"doc-c-cut__pseudo-link\"><span class=\"doc-c-cut__inner\">Не виден</span></span><div class=\"doc-c-cut__content\"> <p class=\"p\">Возможно, браузер блокирует отображение всех картинок:</p> <ol class=\"ol doc-c-list doc-c-list_type_ol\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Включите показ картинок:<p class=\"p\"><a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/browser/troubleshooting/troubleshooting.html#image\" target=\"_blank\">Яндекс Браузер</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.google.com/chrome/answer/114662?hl=ru&amp;amp;co=GENIE.Platform%3DDesktop#zippy=%2C%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C\" target=\"_blank\">Google Chrome</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.mozilla.org/ru/kb/ustraneni-problem-pri-kotoryh-ne-pokazyvayutsya-iz#w_proverte-razresheniia-na-zagruzku-izobrazhenii-dlia-opredelennogo-veb-saita\" target=\"_blank\">Mozilla Firefox</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://help.opera.com/ru/latest/web-preferences/#%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8\" target=\"_blank\">Opera</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/14.0/mac/11.0\" target=\"_blank\">Safari</a></p></div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Очистите <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/common/browsers-settings/cache.html\" target=\"_blank\">кеш</a> браузера.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Перезагрузите страницу, чтобы убедиться, что проблема решена.</div></li> </ol> </div></div>  <div class=\"doc-c-cut doc-c-cut_type_pseudo doc-c-cut_theme_normal doc-c-i-bem\" doc-data-bem=\"{&amp;quot;doc-c-cut&amp;quot;:{}}\"><span class=\"doc-c-cut__pseudo-link\"><span class=\"doc-c-cut__inner\">Виден</span></span><div class=\"doc-c-cut__content\"> <div class=\"p\">Некоторые расширения (например, блокировщик рекламы) ограничивают показ содержимого страниц, в том числе картинки капчи. Попробуйте найти блокирующее расширение методом перебора и отключите его:<ol class=\"ol doc-c-list doc-c-list_type_ol\" id=\"error__extension-block\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Отключите на время все расширения в вашем браузере:<p class=\"p\"><a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/browser/personalization/extension.html#actions\" target=\"_blank\">Яндекс Браузер</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.microsoft.com/ru-ru/microsoft-edge/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026\" target=\"_blank\">Microsoft Edge</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.google.com/chrome_webstore/answer/2664769?hl=ru\" target=\"_blank\">Google Chrome</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.mozilla.org/ru/kb/udalenie-dopolnenij#w_otkliuchenie-rasshirenii\" target=\"_blank\">Mozilla Firefox</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://help.opera.com/ru/latest/customization/#%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F\" target=\"_blank\">Opera</a></p><p class=\"p\"><a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://support.apple.com/ru-ru/HT203051\" target=\"_blank\">Safari</a></p></div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Если картинка капчи появилась, методом перебора найдите расширение, которое ее блокирует.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Отключите расширение. Вы можете также написать его разработчикам о проблеме.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Очистите <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/common/browsers-settings/cache.html\" target=\"_blank\">кеш</a>, чтобы в браузер не подгружалась ранее сохраненная копия с блокированными картинками.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__counter\"></div><div class=\"doc-c-list__item-content\">Перезагрузите страницу, чтобы убедиться, что проблема решена.</div></li> </ol> </div> </div></div>  </dl> </div> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title6\" id=\"unreadable\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title6\">Символы капчи неразборчивые</h2> <div class=\"body conbody\" data-help-text=\"1\"> <p class=\"p\">Если вы видите на картинке капчи неразборчивые символы: </p> <ul class=\"ul doc-c-list doc-c-list_type_ul\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__bullet\"></div><div class=\"doc-c-list__item-content\">Нажмите значок <img class=\"image doc-c-image\" src=\"https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/1479ddca367e5f909179d2f9f8d6cb277888c988.png\">, чтобы сменить картинку капчи.</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__bullet\"></div><div class=\"doc-c-list__item-content\">Воспользуйтесь <a class=\"xref doc-c-link\" href=\"/support/smart-captcha/index.html#code-input__audio-captcha\">звуковой капчей</a> вместо обычной.</div></li> </ul> </div> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title7\" id=\"no-rus-keyboard\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title7\">Нет русской раскладки на клавиатуре</h2> <div class=\"body conbody\" data-help-text=\"1\"> <p class=\"p\">Используйте один из способов:</p> <ul class=\"ul doc-c-list doc-c-list_type_ul\"> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__bullet\"></div><div class=\"doc-c-list__item-content\">Введите символы с помощью виртуальной клавиатуры (например, <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://translit.ru/keyboard/\" target=\"_blank\">translit.ru</a>).</div></li> <li class=\"li doc-c-list doc-c-list__li\"><div class=\"doc-c-list__bullet\"></div><div class=\"doc-c-list__item-content\">Перейдите на страницу сервиса Яндекса в доменной зоне <code class=\"doc-c-codeblock doc-c-codeblock_inline_yes doc-c-i-bem\" doc-data-bem=\"{&amp;quot;doc-c-codeblock&amp;quot;:{}}\">.com</code> (например, <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://yandex.com/\" target=\"_blank\">yandex.com</a>), где отображается капча с латинскими символами.</div></li> </ul> </div> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title8\" id=\"help\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title8\">Написать в службу поддержки </h2> <div class=\"body conbody\" data-help-text=\"1\"> <div class=\"doc-c-dl-radio doc-c-i-bem\" doc-data-bem=\"{&amp;#34;doc-c-dl-radio&amp;#34;:{}}\"><span class=\"radiobox radiobox_size_m radiobox_theme_normal radiobox_view_classic doc-c-i-bem\" doc-data-bem=\"{&amp;#34;radiobox&amp;#34;:{&amp;#34;live&amp;#34;:false}}\"><label class=\"radiobox__radio doc-c-dl-radio__radio doc-c-i-bem\" for=\"uniq167517810790110606\" doc-data-bem=\"{&amp;#34;radiobox__radio&amp;#34;:{&amp;#34;value&amp;#34;:&amp;#34;doc-c-dl-radio-0-0&amp;#34;}}\"><span class=\"radiobox__box\"><input class=\"radiobox__control\" id=\"uniq167517810790110606\" type=\"radio\" name=\"doc-c-dl-radio-0\" value=\"doc-c-dl-radio-0-0\"></span><span class=\"radiobox__text\">Вопрос о капче</span></label><label class=\"radiobox__radio doc-c-dl-radio__radio doc-c-i-bem\" for=\"uniq167517810790110607\" doc-data-bem=\"{&amp;#34;radiobox__radio&amp;#34;:{&amp;#34;value&amp;#34;:&amp;#34;doc-c-dl-radio-0-1&amp;#34;}}\"><span class=\"radiobox__box\"><input class=\"radiobox__control\" id=\"uniq167517810790110607\" type=\"radio\" name=\"doc-c-dl-radio-0\" value=\"doc-c-dl-radio-0-1\"></span><span class=\"radiobox__text\">Другой вопрос о сервисах Яндекса</span></label></span><div class=\"doc-c-dl-radio__content doc-c-dl-radio__content_val_doc-c-dl-radio-0-0 doc-c-dl-radio__content_hidden_yes\"> <div class=\"doc-c-form doc-c-i-bem\" id=\"2182\" data-title-from=\"Блокировка сервиса и капча\" name=\"2182\" doc-data-bem=\"{&amp;quot;doc-c-form&amp;quot;:{}}\"><iframe class=\"doc-c-form__iframe\" frameborder=\"0\" width=\"100%\" name=\"2182\" src=\"https://forms.yandex.ru/surveys/2182/?form_title=%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BE%20%D0%BA%D0%B0%D0%BF%D1%87%D0%B5%D0%94%D1%80%D1%83%D0%B3%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%D1%85%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0&amp;lang=ru&amp;title=%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%B8%20%D0%BA%D0%B0%D0%BF%D1%87%D0%B0&amp;iframe=1&amp;path=%2Fsupport%2Fsmart-captcha%2Findex.html&amp;mobile=false&amp;service=smart-captcha&amp;referer=undefined&amp;url=https%3A%2F%2Fyandex.ru%2Fsupport%2Fsmart-captcha%2Findex.html%23help\"></iframe></div> </div><div class=\"doc-c-dl-radio__content doc-c-dl-radio__content_val_doc-c-dl-radio-0-1 doc-c-dl-radio__content_hidden_yes\"> <p class=\"p\">Пожалуйста, обратитесь в службу поддержки этого сервиса напрямую. Для этого воспользуйтесь формой обратной связи в <a class=\"xref doc-c-link doc-c-link_type_external\" href=\"https://yandex.ru/support/\" target=\"_blank\">Справке</a> этого сервиса (обычно формы расположены внизу страниц или доступны из оглавления). Так ваше сообщение сразу попадет к нужным специалистам, и вам ответят быстрее.</p> <p class=\"p\">Чтобы сообщить о проблеме с вашим сайтом, перейдите в раздел <a class=\"xref doc-c-link\" href=\"https://yandex.ru/support/webmaster/troubleshooting.html\" target=\"_blank\">Обратная связь</a> справки Яндекс Вебмастера. </p> </div></div> </div> <nav role=\"navigation\" class=\"related-links doc-c-related-links\"><div class=\"linklist relinfo\"><div class=\"linkset-title\">Узнайте больше</div> <div class=\"linklist-item\"><a class=\"link doc-c-link\" href=\"https://yandex.ru/support/common/index.html\" target=\"_blank\">Частые вопросы от пользователей Яндекса</a></div>\n<div class=\"linklist-item\"><a class=\"link doc-c-link\" href=\"https://yandex.ru/support/passport/support-restore.html#support-restore\" target=\"_blank\">Восстановление доступа к Яндекс ID</a></div></div></nav> </article> <article class=\"topic concept nested1 doc-c-article doc-c-article_mod_topic\" aria-labelledby=\"ariaid-title9\" id=\"facts-concept\"> <h2 class=\"title topictitle2 doc-c-headers doc-c-headers_mod_h2\" id=\"ariaid-title9\"></h2> <div class=\"body conbody\" data-help-text=\"1\"> </div> </article>\n</article></main>","minitoc":[{"text":"Почему сервис заблокировали?","href":"#why-blocked-service"},{"text":"Капча появляется слишком часто","href":"#too-fast"},{"text":"Почему после нажатия «Я не робот» мне предлагается ввести код?","href":"#code-input"},{"text":"Не вижу картинку капчи","href":"#error"},{"text":"Символы капчи неразборчивые","href":"#unreadable"},{"text":"Нет русской раскладки на клавиатуре","href":"#no-rus-keyboard"},{"text":"Написать в службу поддержки","href":"#help"}],"mobile_menu":"<div class=\"doc-c-mobile-menu doc-c doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-mobile-menu\":{\"levels\":[{\"hasParent\":false,\"items\":[{\"block\":\"doc-c-mobile-menu\",\"elem\":\"item\",\"data\":{\"title\":\"Блокировка сервиса и капча\",\"path\":\"/support/smart-captcha/index.html\",\"hasChildren\":false,\"nextLevel\":{}},\"mods\":{},\"elemMods\":{\"active\":\"yes\",\"opener\":\"\"},\"__func77\":true,\"js\":{\"data\":{\"title\":\"Блокировка сервиса и капча\",\"path\":\"/support/smart-captcha/index.html\",\"hasChildren\":false,\"nextLevel\":{}}},\"content\":{\"block\":\"link\",\"mix\":{\"block\":\"doc-c-mobile-menu\",\"elem\":\"link\"},\"mods\":{\"theme\":\"black\"},\"text\":\"Блокировка сервиса и капча\",\"url\":\"/support/smart-captcha/index.html\",\"__func64\":true,\"__func57\":true,\"tag\":\"a\",\"js\":{},\"attrs\":{\"tabindex\":\"0\",\"href\":\"/support/smart-captcha/index.html\"},\"content\":[null,null,{\"tag\":false,\"html\":\"Блокировка сервиса и капча\"},null]}},{\"block\":\"doc-c-mobile-menu\",\"elem\":\"item\",\"data\":{\"title\":\"О странице 403\",\"path\":\"/support/smart-captcha/about-403.html\",\"hasChildren\":false,\"nextLevel\":{}},\"mods\":{},\"elemMods\":{\"active\":\"no\",\"opener\":\"\"},\"__func77\":true,\"js\":{\"data\":{\"title\":\"О странице 403\",\"path\":\"/support/smart-captcha/about-403.html\",\"hasChildren\":false,\"nextLevel\":{}}},\"content\":{\"block\":\"link\",\"mix\":{\"block\":\"doc-c-mobile-menu\",\"elem\":\"link\"},\"mods\":{\"theme\":\"black\"},\"text\":\"О странице 403\",\"url\":\"/support/smart-captcha/about-403.html\",\"__func64\":true,\"__func57\":true,\"tag\":\"a\",\"js\":{},\"attrs\":{\"tabindex\":\"0\",\"href\":\"/support/smart-captcha/about-403.html\"},\"content\":[null,null,{\"tag\":false,\"html\":\"О странице 403\"},null]}},{\"block\":\"doc-c-mobile-menu\",\"elem\":\"item\",\"data\":{\"title\":\"О странице 429\",\"path\":\"/support/smart-captcha/about-429.html\",\"hasChildren\":false,\"nextLevel\":{}},\"mods\":{},\"elemMods\":{\"active\":\"no\",\"opener\":\"\"},\"__func77\":true,\"js\":{\"data\":{\"title\":\"О странице 429\",\"path\":\"/support/smart-captcha/about-429.html\",\"hasChildren\":false,\"nextLevel\":{}}},\"content\":{\"block\":\"link\",\"mix\":{\"block\":\"doc-c-mobile-menu\",\"elem\":\"link\"},\"mods\":{\"theme\":\"black\"},\"text\":\"О странице 429\",\"url\":\"/support/smart-captcha/about-429.html\",\"__func64\":true,\"__func57\":true,\"tag\":\"a\",\"js\":{},\"attrs\":{\"tabindex\":\"0\",\"href\":\"/support/smart-captcha/about-429.html\"},\"content\":[null,null,{\"tag\":false,\"html\":\"О странице 429\"},null]}}]}]}}&#39;><div class=\"doc-c-mobile-menu__container\"><div class=\"doc-c-mobile-menu__level\"><div class=\"doc-c-mobile-menu__item doc-c-mobile-menu__item_active_yes doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-mobile-menu__item\":{\"data\":{\"title\":\"Блокировка сервиса и капча\",\"path\":\"/support/smart-captcha/index.html\",\"hasChildren\":false,\"nextLevel\":{}}}}&#39;><a class=\"link link_theme_black doc-c-mobile-menu__link doc-c-i-bem\" tabindex=\"0\" href=\"/support/smart-captcha/index.html\" doc-data-bem=&#39;{\"link\":{}}&#39;>Блокировка сервиса и капча</a></div><div class=\"doc-c-mobile-menu__item doc-c-mobile-menu__item_active_no doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-mobile-menu__item\":{\"data\":{\"title\":\"О странице 403\",\"path\":\"/support/smart-captcha/about-403.html\",\"hasChildren\":false,\"nextLevel\":{}}}}&#39;><a class=\"link link_theme_black doc-c-mobile-menu__link doc-c-i-bem\" tabindex=\"0\" href=\"/support/smart-captcha/about-403.html\" doc-data-bem=&#39;{\"link\":{}}&#39;>О странице 403</a></div><div class=\"doc-c-mobile-menu__item doc-c-mobile-menu__item_active_no doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-mobile-menu__item\":{\"data\":{\"title\":\"О странице 429\",\"path\":\"/support/smart-captcha/about-429.html\",\"hasChildren\":false,\"nextLevel\":{}}}}&#39;><a class=\"link link_theme_black doc-c-mobile-menu__link doc-c-i-bem\" tabindex=\"0\" href=\"/support/smart-captcha/about-429.html\" doc-data-bem=&#39;{\"link\":{}}&#39;>О странице 429</a></div></div></div></div>","prev_next":{"prevItem":{"disabled":true},"nextItem":{"disabled":false,"title":"О странице 403","link":"/support/smart-captcha/about-403.html"}},"breadcrumbs":[{"url":"/support/smart-captcha/index.html","title":"Блокировка сервиса и капча"}],"useful_links":null,"meta":{"copyright":"(C) Copyright 2022","DC.rights.owner":"(C) Copyright 2022","DC.type":"concept","keywords":"Яндекс капча постоянно., Яндекс постоянная капча., Бесконечная капча Яндекс., Яндекс постоянно выдает капчу., Не вижу капчу Яндекс., Не вижу капчу в Яндексе., Captcha error Yandex., Яндекс капча не работает.","prodname":"Капча","DC.format":"HTML5","DC.identifier":"index","DC.language":"ru","generator":"Yandex Yoda DITA","topic_id":"index","topic_name":"Блокировка сервиса и капча","doc_id":"smart-captcha-guide","doc_name":"Обратная связь","component_id":"","component_name":"","product_id":"smart-captcha","product_name":"Капча","description":"Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы cookie. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение.","product":"smart-captcha","product_realname":"Капча","doc_group":"smart-captcha-guide","doc_group_name":"smart-captcha-guide","section_name":"Блокировка сервиса и капча","langs":"ru"},"voter":"<div class=\"doc-c-voter doc-c doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-voter\":{}}&#39;><div class=\"doc-c-voter__title\">Была ли статья полезна?</div><div class=\"doc-c-voter__buttons\"><button class=\"button button_type_no button_size_s button_theme_normal button_pseudo_yes button_side_left doc-c-voter__button doc-c-i-bem\" type=\"button\" autocomplete=\"off\" doc-data-bem=&#39;{\"button\":{}}&#39;><span class=\"button__text\"><span class=\"icon icon_type_thumb-down\"></span>Нет</span></button><button class=\"button button_type_yes button_size_s button_theme_normal button_pseudo_yes button_side_right doc-c-voter__button doc-c-i-bem\" type=\"button\" autocomplete=\"off\" doc-data-bem=&#39;{\"button\":{}}&#39;><span class=\"button__text\"><span class=\"icon icon_type_thumb-up\"></span>Да</span></button></div><div class=\"doc-c-voter__negative-popup doc-c-i-bem\" doc-data-bem=&#39;{\"doc-c-voter__negative-popup\":{}}&#39;><div class=\"popup2 popup2_type_negative popup2_target_anchor popup2_theme_normal popup2_autoclosable_yes popup2_view_classic popup2_hiding_yes doc-c-i-bem\" doc-data-bem=&#39;{\"popup2\":{}}&#39;><div class=\"b-menu-vert\"><div class=\"b-menu-vert__title\">Уточните, почему:</div><ul class=\"b-menu-vert__layout\"><li class=\"b-menu-vert__layout-unit b-menu-vert__layout-unit_position_first\"><div class=\"b-menu-vert__item\"><span class=\"link link_theme_pseudo link_pseudo_yes doc-c-voter__negative-reason doc-c-i-bem\" tabindex=\"0\" role=\"button\" reason-type=\"no-answer\" doc-data-bem=&#39;{\"link\":{}}&#39;><span class=\"link__inner\">нет ответа на мой вопрос</span></span></div></li><li class=\"b-menu-vert__layout-unit\"><div class=\"b-menu-vert__item\"><span class=\"link link_theme_pseudo link_pseudo_yes doc-c-voter__negative-reason doc-c-i-bem\" tabindex=\"0\" role=\"button\" reason-type=\"dont-like\" doc-data-bem=&#39;{\"link\":{}}&#39;><span class=\"link__inner\">мне не нравится, как это работает</span></span></div></li><li class=\"b-menu-vert__layout-unit\"><div class=\"b-menu-vert__item\"><span class=\"link link_theme_pseudo link_pseudo_yes doc-c-voter__negative-reason doc-c-i-bem\" tabindex=\"0\" role=\"button\" reason-type=\"recommendation-doesnt-work\" doc-data-bem=&#39;{\"link\":{}}&#39;><span class=\"link__inner\">рекомендации не помогли</span></span></div></li><li class=\"b-menu-vert__layout-unit\"><div class=\"b-menu-vert__item\"><span class=\"link link_theme_pseudo link_pseudo_yes doc-c-voter__negative-reason doc-c-i-bem\" tabindex=\"0\" role=\"button\" reason-type=\"difficult-text\" doc-data-bem=&#39;{\"link\":{}}&#39;><span class=\"link__inner\">текст трудно понять</span></span></div></li><li class=\"b-menu-vert__layout-unit\"><div class=\"b-menu-vert__item\"><span class=\"link link_theme_pseudo link_pseudo_yes doc-c-voter__negative-reason doc-c-i-bem\" tabindex=\"0\" role=\"button\" reason-type=\"content-header-correlation\" doc-data-bem=&#39;{\"link\":{}}&#39;><span class=\"link__inner\">содержание статьи не соответствует заголовку</span></span></div></li><li class=\"b-menu-vert__layout-unit b-menu-vert__layout-unit_position_last\"><div class=\"b-menu-vert__item\"><span class=\"link link_theme_pseudo link_pseudo_yes doc-c-voter__negative-reason doc-c-i-bem\" tabindex=\"0\" role=\"button\" reason-type=\"other\" doc-data-bem=&#39;{\"link\":{}}&#39;><span class=\"link__inner\">другая причина</span></span></div></li></ul></div></div></div><div class=\"doc-c-voter__positive-popup\"><div class=\"popup2 popup2_type_positive popup2_target_anchor popup2_theme_normal popup2_autoclosable_yes popup2_view_classic popup2_hiding_yes doc-c-i-bem\" doc-data-bem=&#39;{\"popup2\":{\"directions\":[\"top-left\",\"top-center\",\"top-right\"]}}&#39;>Спасибо за ваш отзыв!</div></div><div class=\"popup2 popup2_type_voter-form popup2_target_anchor popup2_theme_normal popup2_autoclosable_yes popup2_view_classic popup2_hiding_yes doc-c-i-bem\" doc-data-bem=&#39;{\"popup2\":{}}&#39;><div class=\"popup2__title\">Расскажите, что вам не понравилось в статье:</div><span class=\"textarea textarea_theme_normal textarea_size_s doc-c-i-bem\" doc-data-bem=&#39;{\"textarea\":{}}&#39;><span class=\"textarea__wrap\"><textarea class=\"textarea__control\" cols=\"10\" rows=\"10\"></textarea></span><span class=\"textarea__box\"></span></span><div class=\"popup2__submit\"><button class=\"button button_theme_action button_size_s doc-c-voter__negative-other-reason-submit doc-c-i-bem\" type=\"submit\" autocomplete=\"off\" name=\"my-submit\" doc-data-bem=&#39;{\"button\":{}}&#39;><span class=\"button__text\">Отправить</span></button></div></div></div>","lang":{"current":"ru","available":["ru"]}},"extra_meta":[{"tag":"meta","attrs":{"name":"copyright","content":"(C) Copyright 2022"}},{"tag":"meta","attrs":{"name":"DC.rights.owner","content":"(C) Copyright 2022"}},{"tag":"meta","attrs":{"name":"DC.type","content":"concept"}},{"tag":"meta","attrs":{"name":"keywords","content":"Яндекс капча постоянно., Яндекс постоянная капча., Бесконечная капча Яндекс., Яндекс постоянно выдает капчу., Не вижу капчу Яндекс., Не вижу капчу в Яндексе., Captcha error Yandex., Яндекс капча не работает."}},{"tag":"meta","attrs":{"name":"prodname","content":"Капча"}},{"tag":"meta","attrs":{"name":"DC.format","content":"HTML5"}},{"tag":"meta","attrs":{"name":"DC.identifier","content":"index"}},{"tag":"meta","attrs":{"name":"DC.language","content":"ru"}},{"tag":"meta","attrs":{"name":"generator","content":"Yandex Yoda DITA"}},{"tag":"meta","attrs":{"name":"topic_id","content":"index"}},{"tag":"meta","attrs":{"name":"topic_name","content":"Блокировка сервиса и капча"}},{"tag":"meta","attrs":{"name":"doc_id","content":"smart-captcha-guide"}},{"tag":"meta","attrs":{"name":"doc_name","content":"Обратная связь"}},{"tag":"meta","attrs":{"name":"component_id","content":""}},{"tag":"meta","attrs":{"name":"component_name","content":""}},{"tag":"meta","attrs":{"name":"product_id","content":"smart-captcha"}},{"tag":"meta","attrs":{"name":"product_name","content":"Капча"}},{"tag":"meta","attrs":{"name":"description","content":"Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы cookie. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение."}},{"tag":"meta","attrs":{"name":"product","content":"smart-captcha"}},{"tag":"meta","attrs":{"name":"product_realname","content":"Капча"}},{"tag":"meta","attrs":{"name":"doc_group","content":"smart-captcha-guide"}},{"tag":"meta","attrs":{"name":"doc_group_name","content":"smart-captcha-guide"}},{"tag":"meta","attrs":{"name":"section_name","content":"Блокировка сервиса и капча"}},{"tag":"meta","attrs":{"name":"langs","content":"ru"}}],"title":"Блокировка сервиса и капча - Капча. Обратная связь","productName":"Капча","extra_js":[[{"elem":"js","url":"//yastatic.net/jquery/1.12.4/jquery.min.js","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func137":true,"tag":"script","bem":false,"attrs":{"src":"//yastatic.net/jquery/1.12.4/jquery.min.js","nonce":"SJxNPwppDslvD6GoVP2cFQ=="},"__func68":true}],[{"elem":"js","url":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.ru.no-bem.js","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func137":true,"tag":"script","bem":false,"attrs":{"src":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.ru.no-bem.js","nonce":"SJxNPwppDslvD6GoVP2cFQ=="},"__func68":true},{"elem":"js","url":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/highlight.min.js","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func137":true,"tag":"script","bem":false,"attrs":{"src":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/highlight.min.js","nonce":"SJxNPwppDslvD6GoVP2cFQ=="},"__func68":true}],[{"elem":"js","url":"//yastatic.net/es5-shims/0.0.1/es5-shims.min.js","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func137":true,"tag":"script","bem":false,"attrs":{"src":"//yastatic.net/es5-shims/0.0.1/es5-shims.min.js","nonce":"SJxNPwppDslvD6GoVP2cFQ=="},"__func68":true}]],"extra_css":[[],[{"elem":"css","ie":null,"url":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.css","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func70":true,"__func69":true,"bem":false,"tag":"link","attrs":{"rel":"stylesheet","href":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.css"}},{"elem":"css","ie":null,"url":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/themes/github.min.css","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func70":true,"__func69":true,"bem":false,"tag":"link","attrs":{"rel":"stylesheet","href":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/themes/github.min.css"}}],[{"elem":"css","ie":"lte IE 8","url":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.ie8.css","block":"b-page","elemMods":{},"mods":{"html-only":""},"__func70":true,"__func69":true,"bem":false,"tag":"link","attrs":{"rel":"stylesheet","href":"//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.bidi.ie8.css"}}]],"csp":{"script-src":[]},"lang":"ru"}}}'><div class="document-menu layout__left content__menu i-bem" data-bem='{"document-menu":{}}'><div class="document-menu__inner"><div class="doc-c-menu doc-c doc-c-i-bem" doc-data-bem='{"doc-c-menu":{}}'><div class="doc-c-menu__content doc-c-menu__content_opener_yes doc-c-menu__content_open_yes doc-c-menu__content_has-current_yes"><div class="doc-c-menu__item doc-c-menu__item_open_yes doc-c-menu__item_current_yes"><a class="link link_theme_black doc-c-menu__link doc-c-i-bem" tabindex="0" href="/support/smart-captcha/index.html" doc-data-bem='{"link":{}}'><div class="doc-c-menu__border-left"></div>Блокировка сервиса и капча</a></div><div class="doc-c-menu__item"><a class="link link_theme_black doc-c-menu__link doc-c-i-bem" tabindex="0" href="/support/smart-captcha/about-403.html" doc-data-bem='{"link":{}}'><div class="doc-c-menu__border-left"></div>О странице 403</a></div><div class="doc-c-menu__item"><a class="link link_theme_black doc-c-menu__link doc-c-i-bem" tabindex="0" href="/support/smart-captcha/about-429.html" doc-data-bem='{"link":{}}'><div class="doc-c-menu__border-left"></div>О странице 429</a></div></div></div></div></div><div class="content__article-wrapper layout__main"><div class="content__article layout__main-inner"><div class="language-disclaimer language-disclaimer_hidden_yes i-bem" data-bem='{"language-disclaimer":{}}'></div><div class="alerts alerts_empty content__alerts i-bem" data-bem='{"alerts":{}}'></div><div class="content__article-header"><div class="service-link service-link_empty content__service-link i-bem" data-bem='{"service-link":{}}'></div><div class="breadcrumbs content__breadcrumbs i-bem" data-bem='{"breadcrumbs":{}}'><noindex class="breadcrumbs__content"><a class="breadcrumbs__home-icon" href="/support/smart-captcha"></a><div class="breadcrumbs__separator"></div><div class="breadcrumbs__current">Блокировка сервиса и капча</div></noindex></div></div><div class="available-langs available-langs_empty content__available-langs content__available-langs_laptop i-bem" data-bem='{"available-langs":{"available":["ru"]}}'></div><div class="document content__document i-bem" data-bem='{"document":{}}'><main role="main" class="doc-c doc-c-main doc-c-i-bem" doc-data-bem="{&quot;doc-c-main&quot;:{}}"><article role="article" aria-labelledby="ariaid-title1" class="doc-c-article"> <h1 class="title topictitle1 doc-c-headers doc-c-headers_mod_h1" id="ariaid-title1" data-help-title="1">Блокировка сервиса и капча</h1> <div class="abstract"> <ol class="ol minitoc sl doc-c-list doc-c-list_type_ol doc-c-list_type_minitoc doc-c-list_type_sl"><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#why-blocked-service">Почему сервис заблокировали?</a></li><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#too-fast">Капча появляется слишком часто</a></li><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#code-input">Почему после нажатия «Я не робот» мне предлагается ввести код?</a></li><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#error">Не вижу картинку капчи</a></li><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#unreadable">Символы капчи неразборчивые</a></li><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#no-rus-keyboard">Нет русской раскладки на клавиатуре</a></li><li class="li doc-c-list doc-c-list__li"><a class="xref doc-c-link" href="/support/smart-captcha/index.html#help">Написать в службу поддержки</a></li></ol> </div> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title2" id="why-blocked-service"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title2">Почему сервис заблокировали?</h2> <div class="body conbody" data-help-text="1"> <p class="p">Сервис Яндекса может быть заблокирован, если на него поступает много похожих запросов от пользователей или программ. Например, если несколько человек пользуются каким-нибудь сервисом Яндекса, не сохраняя файлы <a class="xref doc-c-link" href="https://yandex.ru/support/common/browsers-settings/browsers-cookies.html" target="_blank">cookie</a>. В таком случае Яндекс может принять всех этих пользователей за одного и запросить дополнительное подтверждение.</p> <img class="image border doc-c-image doc-c-image_border_yes" src="https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/d8222223061b7c386c5fd2f6ab669afef798c95e.png"> </div> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title3" id="too-fast"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title3">Капча появляется слишком часто</h2> <div class="body conbody" data-help-text="1"> <p class="p">Основные причины частого появления капчи:</p> <ul class="ul doc-c-list doc-c-list_type_ul"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__bullet"></div><div class="doc-c-list__item-content">в браузере <a class="xref doc-c-link" href="https://yandex.ru/support/common/browsers-settings/browsers-cookies.html" target="_blank">запрещено сохранение cookie</a>, в которых фиксируется успешный ввод капчи; </div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__bullet"></div><div class="doc-c-list__item-content">вы используете <a class="xref doc-c-link" href="https://yandex.ru/support/common/browsers-settings/incognito.html" target="_blank">режим Инкогнито</a>, при котором cookie автоматически удаляются при закрытии браузера.</div></li> </ul> <p class="p">Чтобы капча перестала появляться слишком часто:</p> <ol class="ol doc-c-list doc-c-list_type_ol"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Включите сохранение cookie в браузере. <ul class="sl simple doc-c-list doc-c-list_type_ul doc-c-list_type_sl"> <li class="sli doc-c-list doc-c-list__li doc-c-list__sli"> <a class="xref doc-c-link" href="https://yandex.ru/support/browser/personal-data-protection/cookies.html#del-cookie" target="_blank">Яндекс Браузер</a> </li> <li class="sli doc-c-list doc-c-list__li doc-c-list__sli"> <a class="xref doc-c-link doc-c-link_type_external" href="https://support.microsoft.com/ru-ru/help/4027947/windows-delete-cookies" target="_blank">Microsoft Edge</a> </li> <li class="sli doc-c-list doc-c-list__li doc-c-list__sli"> <a class="xref doc-c-link doc-c-link_type_external" href="https://support.google.com/chrome/answer/95647?hl=ru&amp;ref_topic=7438325chrome" target="_blank">Google Chrome</a> </li> <li class="sli doc-c-list doc-c-list__li doc-c-list__sli"> <a class="xref doc-c-link doc-c-link_type_external" href="https://support.mozilla.org/ru/kb/kuki-informaciya-kotoruyu-veb-sajty-hranyat-na-vas#w_yuaaaaiji-jcj" target="_blank">Mozilla Firefox</a> </li> <li class="sli doc-c-list doc-c-list__li doc-c-list__sli"> <a class="xref doc-c-link doc-c-link_type_external" href="https://help.opera.com/ru/latest/web-preferences/#setCookies" target="_blank">Opera</a> </li> <li class="sli doc-c-list doc-c-list__li doc-c-list__sli"> <a class="xref doc-c-link doc-c-link_type_external" href="https://help.apple.com/safari/mac/9.0/?lang=ru#/sfri11471" target="_blank">Safari</a> </li> </ul></div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Правильно введите капчу. Используйте строчные и прописные буквы. Знаки препинания и пробелы можно не вводить. </div></li> </ol> <div class="note note note_note doc-c-note doc-c-note_mod_note"><span class="note__title doc-c-note__title">Примечание.</span> Как убрать капчу в <a class="xref doc-c-link doc-c-link_type_external" href="https://wordstat.yandex.ru/" target="_blank">Wordstat</a>, читайте в справке <a class="xref doc-c-link" href="https://yandex.ru/support/direct/troubleshooting/wordstat.html#captcha" target="_blank">Директа</a>. </div> </div> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title4" id="code-input"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title4">Почему после нажатия <span class="q">«Я не робот»</span> мне предлагается ввести код? </h2> <div class="body conbody" data-help-text="1"> <p class="p">Иногда подтверждения <span class="q">«Я не робот»</span> недостаточно, чтобы отличить реального человека от программы. Мы постоянно работаем над улучшением алгоритмов, но иногда просим пройти дополнительную проверку. </p> <p class="p">В этом случае, чтобы вернуться на страницу сервиса, введите символы, которые вы видите на картинке капчи, и нажмите <span class="ph uicontrol doc-c-uicontrol">Отправить</span>. </p> <img class="image border doc-c-image doc-c-image_border_yes" src="https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/fe80337f4a0ab32d0ff677d0872eae77d0926f34.png"> <p class="p">Используйте строчные и прописные буквы. Знаки препинания и пробелы можно игнорировать.</p> <p class="p">Чтобы сменить картинку капчи, нажмите значок <img class="image doc-c-image" src="https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/1479ddca367e5f909179d2f9f8d6cb277888c988.png">.</p> <p class="p">Вместо символов с картинки можно ввести цифры из звуковой капчи:</p> <ol class="ol doc-c-list doc-c-list_type_ol" id="code-input__audio-captcha"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Нажмите значок <img class="image doc-c-image" src="https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/feed2e2492566d0218cbc508f5f2544fa1366e55.png">.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Прослушайте сообщение.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Введите услышанные цифры в поле ввода под картинкой капчи. </div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Нажмите <span class="ph uicontrol doc-c-uicontrol">Отправить</span>.</div></li> </ol> <div class="note attention note_attention doc-c-note doc-c-note_mod_attention"><span class="note__title doc-c-note__title">Внимание.</span> Яндекс запрашивает только символы с картинки и никогда не просит указать номер телефона, отправить SMS или заново ввести логин и пароль. Если вы столкнулись с подобными требованиями — вы попали на поддельную страницу. Сообщите нам об этом через <a class="xref doc-c-link" href="/support/smart-captcha/index.html#help">форму обратной связи</a>.</div> <p class="p">Если символы введены верно, Яндекс запомнит ваш браузер как проверенный (при условии, что файлы <a class="xref doc-c-link" href="https://yandex.ru/support/common/browsers-settings/browsers-cookies.html" target="_blank">cookie</a> сохраняются в вашем браузере постоянно). </p> <p class="p">Если вам необходимо совершать именно автоматические запросы к Яндексу, воспользуйтесь сервисом <a class="xref doc-c-link doc-c-link_type_external" href="http://xml.yandex.ru/" target="_blank">Яндекс XML</a>.</p> <p class="p">Если вы долгое время не можете вернуться к сервису из-за дополнительных проверок, напишите об этом в <a class="xref doc-c-link" href="/support/smart-captcha/index.html#help">cлужбу поддержки</a>.</p> </div> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title5" id="error"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title5">Не вижу картинку капчи</h2> <div class="body conbody" data-help-text="1"> <p class="p">Если после выбора опции <span class="q">«Я не робот»</span> картинка капчи не появилась, посмотрите, виден ли логотип Яндекса в левом верхнем углу страницы:</p> <dl class="dl cut doc-c-list doc-c-list_type_dl"> <div class="doc-c-cut doc-c-cut_type_pseudo doc-c-cut_theme_normal doc-c-i-bem" doc-data-bem="{&quot;doc-c-cut&quot;:{}}"><span class="doc-c-cut__pseudo-link"><span class="doc-c-cut__inner">Не виден</span></span><div class="doc-c-cut__content"> <p class="p">Возможно, браузер блокирует отображение всех картинок:</p> <ol class="ol doc-c-list doc-c-list_type_ol"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Включите показ картинок:<p class="p"><a class="xref doc-c-link" href="https://yandex.ru/support/browser/troubleshooting/troubleshooting.html#image" target="_blank">Яндекс Браузер</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.google.com/chrome/answer/114662?hl=ru&amp;co=GENIE.Platform%3DDesktop#zippy=%2C%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C" target="_blank">Google Chrome</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.mozilla.org/ru/kb/ustraneni-problem-pri-kotoryh-ne-pokazyvayutsya-iz#w_proverte-razresheniia-na-zagruzku-izobrazhenii-dlia-opredelennogo-veb-saita" target="_blank">Mozilla Firefox</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://help.opera.com/ru/latest/web-preferences/#%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8" target="_blank">Opera</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.apple.com/ru-ru/guide/safari/ibrwe2159f50/14.0/mac/11.0" target="_blank">Safari</a></p></div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Очистите <a class="xref doc-c-link" href="https://yandex.ru/support/common/browsers-settings/cache.html" target="_blank">кеш</a> браузера.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Перезагрузите страницу, чтобы убедиться, что проблема решена.</div></li> </ol> </div></div>  <div class="doc-c-cut doc-c-cut_type_pseudo doc-c-cut_theme_normal doc-c-i-bem" doc-data-bem="{&quot;doc-c-cut&quot;:{}}"><span class="doc-c-cut__pseudo-link"><span class="doc-c-cut__inner">Виден</span></span><div class="doc-c-cut__content"> <div class="p">Некоторые расширения (например, блокировщик рекламы) ограничивают показ содержимого страниц, в том числе картинки капчи. Попробуйте найти блокирующее расширение методом перебора и отключите его:<ol class="ol doc-c-list doc-c-list_type_ol" id="error__extension-block"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Отключите на время все расширения в вашем браузере:<p class="p"><a class="xref doc-c-link" href="https://yandex.ru/support/browser/personalization/extension.html#actions" target="_blank">Яндекс Браузер</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.microsoft.com/ru-ru/microsoft-edge/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026" target="_blank">Microsoft Edge</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.google.com/chrome_webstore/answer/2664769?hl=ru" target="_blank">Google Chrome</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.mozilla.org/ru/kb/udalenie-dopolnenij#w_otkliuchenie-rasshirenii" target="_blank">Mozilla Firefox</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://help.opera.com/ru/latest/customization/#%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F" target="_blank">Opera</a></p><p class="p"><a class="xref doc-c-link doc-c-link_type_external" href="https://support.apple.com/ru-ru/HT203051" target="_blank">Safari</a></p></div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Если картинка капчи появилась, методом перебора найдите расширение, которое ее блокирует.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Отключите расширение. Вы можете также написать его разработчикам о проблеме.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Очистите <a class="xref doc-c-link" href="https://yandex.ru/support/common/browsers-settings/cache.html" target="_blank">кеш</a>, чтобы в браузер не подгружалась ранее сохраненная копия с блокированными картинками.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__counter"></div><div class="doc-c-list__item-content">Перезагрузите страницу, чтобы убедиться, что проблема решена.</div></li> </ol> </div> </div></div>  </dl> </div> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title6" id="unreadable"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title6">Символы капчи неразборчивые</h2> <div class="body conbody" data-help-text="1"> <p class="p">Если вы видите на картинке капчи неразборчивые символы: </p> <ul class="ul doc-c-list doc-c-list_type_ul"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__bullet"></div><div class="doc-c-list__item-content">Нажмите значок <img class="image doc-c-image" src="https://yastatic.net/s3/doc-binary/freeze/ru/smart-captcha/1479ddca367e5f909179d2f9f8d6cb277888c988.png">, чтобы сменить картинку капчи.</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__bullet"></div><div class="doc-c-list__item-content">Воспользуйтесь <a class="xref doc-c-link" href="/support/smart-captcha/index.html#code-input__audio-captcha">звуковой капчей</a> вместо обычной.</div></li> </ul> </div> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title7" id="no-rus-keyboard"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title7">Нет русской раскладки на клавиатуре</h2> <div class="body conbody" data-help-text="1"> <p class="p">Используйте один из способов:</p> <ul class="ul doc-c-list doc-c-list_type_ul"> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__bullet"></div><div class="doc-c-list__item-content">Введите символы с помощью виртуальной клавиатуры (например, <a class="xref doc-c-link doc-c-link_type_external" href="https://translit.ru/keyboard/" target="_blank">translit.ru</a>).</div></li> <li class="li doc-c-list doc-c-list__li"><div class="doc-c-list__bullet"></div><div class="doc-c-list__item-content">Перейдите на страницу сервиса Яндекса в доменной зоне <code class="doc-c-codeblock doc-c-codeblock_inline_yes doc-c-i-bem" doc-data-bem="{&quot;doc-c-codeblock&quot;:{}}">.com</code> (например, <a class="xref doc-c-link doc-c-link_type_external" href="https://yandex.com/" target="_blank">yandex.com</a>), где отображается капча с латинскими символами.</div></li> </ul> </div> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title8" id="help"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title8">Написать в службу поддержки </h2> <div class="body conbody" data-help-text="1"> <div class="doc-c-dl-radio doc-c-i-bem" doc-data-bem="{&#34;doc-c-dl-radio&#34;:{}}"><span class="radiobox radiobox_size_m radiobox_theme_normal radiobox_view_classic doc-c-i-bem" doc-data-bem="{&#34;radiobox&#34;:{&#34;live&#34;:false}}"><label class="radiobox__radio doc-c-dl-radio__radio doc-c-i-bem" for="uniq167517810790110606" doc-data-bem="{&#34;radiobox__radio&#34;:{&#34;value&#34;:&#34;doc-c-dl-radio-0-0&#34;}}"><span class="radiobox__box"><input class="radiobox__control" id="uniq167517810790110606" type="radio" name="doc-c-dl-radio-0" value="doc-c-dl-radio-0-0"></span><span class="radiobox__text">Вопрос о капче</span></label><label class="radiobox__radio doc-c-dl-radio__radio doc-c-i-bem" for="uniq167517810790110607" doc-data-bem="{&#34;radiobox__radio&#34;:{&#34;value&#34;:&#34;doc-c-dl-radio-0-1&#34;}}"><span class="radiobox__box"><input class="radiobox__control" id="uniq167517810790110607" type="radio" name="doc-c-dl-radio-0" value="doc-c-dl-radio-0-1"></span><span class="radiobox__text">Другой вопрос о сервисах Яндекса</span></label></span><div class="doc-c-dl-radio__content doc-c-dl-radio__content_val_doc-c-dl-radio-0-0 doc-c-dl-radio__content_hidden_yes"> <div class="doc-c-form doc-c-i-bem" id="2182" data-title-from="Блокировка сервиса и капча" name="2182" doc-data-bem="{&quot;doc-c-form&quot;:{}}"><iframe class="doc-c-form__iframe" frameborder="0" width="100%" name="2182" src="https://forms.yandex.ru/surveys/2182/?form_title=%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BE%20%D0%BA%D0%B0%D0%BF%D1%87%D0%B5%D0%94%D1%80%D1%83%D0%B3%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%D1%85%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0&lang=ru&title=%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%B8%20%D0%BA%D0%B0%D0%BF%D1%87%D0%B0&iframe=1&path=%2Fsupport%2Fsmart-captcha%2Findex.html&mobile=false&service=smart-captcha&referer=undefined&url=https%3A%2F%2Fyandex.ru%2Fsupport%2Fsmart-captcha%2Findex.html%23help"></iframe></div> </div><div class="doc-c-dl-radio__content doc-c-dl-radio__content_val_doc-c-dl-radio-0-1 doc-c-dl-radio__content_hidden_yes"> <p class="p">Пожалуйста, обратитесь в службу поддержки этого сервиса напрямую. Для этого воспользуйтесь формой обратной связи в <a class="xref doc-c-link doc-c-link_type_external" href="https://yandex.ru/support/" target="_blank">Справке</a> этого сервиса (обычно формы расположены внизу страниц или доступны из оглавления). Так ваше сообщение сразу попадет к нужным специалистам, и вам ответят быстрее.</p> <p class="p">Чтобы сообщить о проблеме с вашим сайтом, перейдите в раздел <a class="xref doc-c-link" href="https://yandex.ru/support/webmaster/troubleshooting.html" target="_blank">Обратная связь</a> справки Яндекс Вебмастера. </p> </div></div> </div> <nav role="navigation" class="related-links doc-c-related-links"><div class="linklist relinfo"><div class="linkset-title">Узнайте больше</div> <div class="linklist-item"><a class="link doc-c-link" href="https://yandex.ru/support/common/index.html" target="_blank">Частые вопросы от пользователей Яндекса</a></div>
-<div class="linklist-item"><a class="link doc-c-link" href="https://yandex.ru/support/passport/support-restore.html#support-restore" target="_blank">Восстановление доступа к Яндекс ID</a></div></div></nav> </article> <article class="topic concept nested1 doc-c-article doc-c-article_mod_topic" aria-labelledby="ariaid-title9" id="facts-concept"> <h2 class="title topictitle2 doc-c-headers doc-c-headers_mod_h2" id="ariaid-title9"></h2> <div class="body conbody" data-help-text="1"> </div> </article>
-</article></main></div><div class="prev-next content__article-prev-next i-bem" data-bem='{"prev-next":{"bemJsonGetterName":"prevNextArticleJson"}}'><a class="link link_hasNext prev-next__item prev-next__next i-bem" tabindex="0" href="/support/smart-captcha/about-403.html" data-bem='{"link":{}}'><div class="prev-next__direction">Следующая</div><div class="prev-next__title">О странице 403</div></a></div><div class="service-section service-section_empty i-bem" data-bem='{"service-section":{}}'></div><div class="useful-links useful-links_empty i-bem" data-bem='{"useful-links":{}}'></div></div></div><div class="content__contents layout__right"><div class="available-langs available-langs_empty content__available-langs content__available-langs_desktop i-bem" data-bem='{"available-langs":{"available":["ru"],"shouldUpdate":true}}'></div><div class="s-minitoc i-bem" data-bem='{"s-minitoc":{}}'><div class="s-minitoc__title">В этой статье</div><div class="s-minitoc__wrapper"><div class="s-minitoc__content"><div class="s-minitoc__links"><a class="s-minitoc__link" href="#why-blocked-service">Почему сервис заблокировали?</a><a class="s-minitoc__link" href="#too-fast">Капча появляется слишком часто</a><a class="s-minitoc__link" href="#code-input">Почему после нажатия «Я не робот» мне предлагается ввести код?</a><a class="s-minitoc__link" href="#error">Не вижу картинку капчи</a><a class="s-minitoc__link" href="#unreadable">Символы капчи неразборчивые</a><a class="s-minitoc__link" href="#no-rus-keyboard">Нет русской раскладки на клавиатуре</a><a class="s-minitoc__link" href="#help">Написать в службу поддержки</a></div></div></div></div><div class="prev-next content__col-prev-next i-bem" data-bem='{"prev-next":{"bemJsonGetterName":"prevNextColJson"}}'><a class="link link_hasNext prev-next__item prev-next__next i-bem" tabindex="0" href="/support/smart-captcha/about-403.html" data-bem='{"link":{}}'><div class="prev-next__direction">Следующая</div><div class="prev-next__title">О странице 403</div></a></div></div><div class="metrika-counters i-bem" data-bem='{"metrika-counters":{"counters":["52183960"]}}'><i class="b-statcounter"><i class="b-statcounter__metrika b-statcounter__metrika_type_js i-bem i-bem" data-bem='{"b-statcounter__metrika":{"webvisor":true,"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"id":52183960}}'><noscript><img alt="" src="//mc.yandex.ru/watch/52183960"/></noscript></i></i></div></div><div class="footer layout__footer clearfix" role="contentinfo"><div class="footer__wrapper layout__footer-inner"><div class="available-langs available-langs_empty footer__available-langs footer__available-langs_mobile i-bem" data-bem='{"available-langs":{"available":["ru"]}}'></div><div class="footer-links footer__column i-bem" data-bem='{"footer-links":{}}'><div class="footer-links__additional"></div><div class="footer-links__mobile"><a class="link link_theme_normal mobile-only i-bem" tabindex="0" href="/support" data-bem='{"link":{}}'>На главную Яндекс.Справки</a></div></div><div class="footer__column footer__column_side_right"><div class="footer__copyright"><div class="copyright">© <span class="copyright__dates">2015–2023</span>  ООО «<a class="copyright__link" href="https://ya.ru">ЯНДЕКС</a>»</div></div></div></div></div><script src="//yastatic.net/jquery/1.12.4/jquery.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script src="//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/bundles/index/_index.ru.no-bem.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script src="//yastatic.net/s3/locdoc/static/doccenter/v2.317.2/external/highlight/highlight.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script src="//yastatic.net/es5-shims/0.0.1/es5-shims.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script nonce="SJxNPwppDslvD6GoVP2cFQ==">$.noConflict();</script><script src="//yastatic.net/jquery/1.12.4/jquery.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script src="https://yastatic.net/s3/locdoc/static/libraries/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.concat.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script src="https://yastatic.net/s3/locdoc/static/libraries/nprogress/0.2.0/nprogress.min.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script><script src="//yastatic.net/s3/locdoc/static/support/master-1667216625/desktop.bundles/doc/_doc.ru.js" nonce="SJxNPwppDslvD6GoVP2cFQ=="></script></body></html>
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta name="csrf-token" content="SSnCoI17kmHZ4Bfncvo0F10NQny7fr1I1qHcrx6l">
+    <title>Доставка | Интернет-магазин кофе и чая Tasty Coffee</title>
+    <meta name="description" content="Варианты и стоимость доставки нашей продукции. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский">
+    <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
+    <meta charset="utf-8"/>
+
+    <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
+    <meta name="yandex-verification" content="883d96ebc7bc9c6e"/>
+    <meta name="google-site-verification" content="ayOMDCjQje3Xdqzlg-4jCbIi2vTAN_vEuayT1a2eB0Y"/>
+    <meta name="google-site-verification" content="aPfTGAs_K8t79N8d1wV8uNkluThRiNJSiJF-7G84dH8"/>
+    <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/shipment-and-payment"/>
+    <meta property="og:title" content="Доставка | Интернет-магазин кофе и чая Tasty Coffee"/>
+    <meta property="og:description" content="Варианты и стоимость доставки нашей продукции. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский"/>
+    <meta property="og:image" content="https://shop.tastycoffee.ru/assets/site/img/site_logo.jpg"/>
+    <meta property="og:type" content="website"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
+    <link rel="canonical" href="https://shop.tastycoffee.ru/shipment-and-payment"/>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
+    <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
+
+    <style>
+        body{
+            font-size: 12px;
+            color: #000;
+            line-height: 1.4;
+        }
+        a{
+            color: #000;
+        }
+
+        /* при обновлении страницы фиксируем высоту селекта, чтобы не было скачка */
+        .bootstrap-select > select{
+            height: 38px;
+            overflow:hidden;
+        }
+    </style>
+    <link rel="stylesheet" href="/assets/site/css/style.css?id=65815173f151d34456ef">
+    <link rel="icon" type="image/svg+xml" sizes="any" href="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg">
+    <link rel="apple-touch-icon" type="image/svg+xml" sizes="any" href="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://shop.tastycoffee.ru/assets/site/img/logo/pwa-192x192.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="192x192" href="https://shop.tastycoffee.ru/assets/site/img/logo/pwa-192x192.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="https://shop.tastycoffee.ru/assets/site/img/logo/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://shop.tastycoffee.ru/assets/site/img/logo/apple-touch-icon-180x180.png">
+    <link rel="stylesheet" href="https://shop.tastycoffee.ru/assets/site/css/fix.css">
+    <link rel="stylesheet" href="https://shop.tastycoffee.ru/assets/site/css/fix-blog.css">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Tasty Coffee">
+    <meta name="apple-mobile-web-app-title" content="Tasty Coffee">
+    <meta name="theme-color" content="#000000">
+    <meta name="msapplication-navbutton-color" content="#000000">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-starturl" content="/">
+
+    <!--floktory-->
+    <script type="text/javascript" src="https://api.flocktory.com/v2/loader.js?site_id=3556" async="async"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    
+    
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?162",t.onload=function(){VK.Retargeting.Init("VK-RTRG-432834-hqEHz"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+<noscript>
+    <img src="https://vk.com/rtrg?p=VK-RTRG-432834-hqEHz" style="position:fixed; left:-999px;" alt=""/>
+</noscript>
+
+<!-- NT -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+    })(window,document,'script','dataLayer','GTM-WK26S92');
+</script>
+<!-- End NT -->
+<!-- NT (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK26S92"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End NT (noscript) -->
+
+<!-- pixelVK -->
+<script type="text/javascript">
+    !function(){
+        var t = document.createElement("script");
+        t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?162", t.onload = function(){
+            VK.Retargeting.Init("VK-RTRG-406988-biK0O"),VK.Retargeting.Hit()
+        }, document.head.appendChild(t)
+    }();
+</script>
+<noscript>
+    <img src="https://vk.com/rtrg?p=VK-RTRG-406988-biK0O" style="position:fixed; left:-999px;" alt=""/>
+</noscript>
+<!-- End pixelVK -->
+
+<!-- Facebook Pixel Code -->
+<!--<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '398589467470921');
+    fbq('track', 'PageView');
+</script>-->
+<!--<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=398589467470921&ev=PageView&noscript=1" />
+</noscript>-->
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" async defer>(function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        m[i].l = 1 * new Date();
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(52141249, "init", {
+        id: 52141249,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+        ecommerce: "dataLayer"
+    });
+    window.dataLayer = window.dataLayer || [];
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/52141249" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--Трэкер-контейнер "Основной"-->
+<script type="text/javascript">
+    window.__mixm__ = window.__mixm__ || [];
+    window.__mixm__.push(['mAdvId',1294983657]);
+</script>
+<!--Трэкер-контейнер "Основной"-->
+
+<!--TikTok-->
+<!--<script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+
+        ttq.load('C17F5HBAF71QPV1BMDL0');
+        ttq.page();
+    }(window, document, 'ttq');
+</script>-->
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NH6FRX2');
+</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="notice scrollbar-dynamic">
+    <div class="noticeBox" data-timeout="0" data-show="0">
+            <div class="row" data-id="18">
+                <p class="notify-text" style="display: none">Специальная цена на <a href="../../../coffee/espresso-nutty" target="_blank" rel="noopener">Натти</a>&nbsp;до 24 марта: 1199 р/кг</p>
+                <button id="noticeBox-close" class="closeBtn" data-id="18"></button>
+            </div>
+    </div>
+
+
+    <header>
+
+        <div class="row">
+            <div class="headerFlex">
+                <div class="top-let-h">
+                    <div class="citySelect">
+                        <div class="logo-h desNone">
+                            <div class="logo__text">Интернет-магазин<br> свежего кофе</div>
+                        </div>
+                        <button id="city_open" class="greyLink"><span
+                                class="city_header_name">Ижевск</span><span
+                                class="arrow"></span></button>
+                    </div>
+                    <div class="cityPoint">
+                        <div class="text9"><span
+                                class="count_pvz_header">476 пунктов</span><br>
+                            выдачи заказов
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                
+                <div class="phone-h">
+                    <a class="greyLink" href="tel:8 (800) 333-49-80">8 (800) 333-49-80
+                        <span class="arrow"></span></a>
+                </div>
+                <div class="selectCoffee-h">
+                    <a href="https://shop.tastycoffee.ru/how-to-choose-coffee" class="greyLink">Как выбрать
+                        кофе?</a>
+                </div>
+                <div class="group-links-h">
+                    <ul>
+                        <li><a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya" class="greyLink">Как
+                                приготовить?</a></li>
+                        <li><a class="greyLink" target="_blank" href="http://tastycoffee.ru/" rel="noopener">Оптовый
+                                сайт</a></li>
+                    </ul>
+                </div>
+                                
+                <div class="enter-h">
+                    <div class="reg-wrap">
+                        
+                            <div class="greyLink-wrap ">
+                                <button class="greyLink enterOpen">Вход</button>
+                            </div>
+                            <div class="greyLink-wrap">
+                                <a class="greyLink" href="https://shop.tastycoffee.ru/create-account">Регистрация</a>
+                            </div>
+                                            </div>
+                </div>
+                                <div class="line-h"></div>
+
+
+                <div class="logo-h">
+                    <a href="/"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg"
+                                     alt="Интернет-магазин свежего кофе"></a>
+                    <div class="logo__text">
+                        Интернет-магазин<br> свежего кофе
+                    </div>
+                </div>
+                <div class="menu-h">
+    <div class="wrapMlh ">
+        <a href="https://shop.tastycoffee.ru/coffee"
+           class="m-no-link menu__link-h menuAc openMob ">Купить</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li><a href="https://shop.tastycoffee.ru/coffee">Кофе</a></li>
+            <li><a href="https://shop.tastycoffee.ru/tea">Чай</a></li>
+            <li><a href="https://shop.tastycoffee.ru/accessories">Аксессуары</a></li>
+            <li><a href="https://shop.tastycoffee.ru/chocolate">Шоколад и снеки</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/subscription">Подписка на кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/accessories/gift-certificate">Подарочный сертификат</a></li>
+                    </ul>
+    </div>
+    <div class="wrapMlh ">
+        <a class="menu__link-h "
+           href=https://shop.tastycoffee.ru/reviews>
+            Отзывы
+                            <span class="reviewsCount">16585</span>
+                    </a>
+    </div>
+
+
+
+
+    <div class="wrapMlh header-community_link ">
+        <a class="menu__link-h "
+           href="https://shop.tastycoffee.ru/community">Сообщество</a>
+        <div class="community_title-tip tipEl">
+    <button class="tip-btn">?</button>
+    <div class="tip-text">
+        В кофейном сообществе пользователи делятся впечатлениями, идеями и рецептами кофе, а также общаются друг с другом
+    </div>
+</div>
+    </div>
+    
+    <div class="wrapMlh ">
+        <a href="https://shop.tastycoffee.ru/blog" class="m-no-link menu__link-h menuAc ">Читать</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li class=""><a href="https://shop.tastycoffee.ru/blog">Журнал о кофе</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/faq">Частые вопросы</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/how-to-choose-coffee">Как выбрать кофе?</a></li>
+        </ul>
+    </div>
+    <div class="wrapMlh active-m">
+        <a
+            class="m-no-link menu__link-h menuAc active    "
+            href="https://shop.tastycoffee.ru/shipment-and-payment">Условия работы</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li class=""><a href="https://shop.tastycoffee.ru/shipment-and-payment">Доставка и оплата</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/discount-system">Система скидок</a></li>
+        </ul>
+    </div>
+
+</div>
+                                    <form class="search-m" action="https://shop.tastycoffee.ru/search"
+                          data-action="https://shop.tastycoffee.ru/ajax/search/product/header">
+                        <input class="searchItems" id="search_h" type="text" name="q" placeholder="Поиск по каталогу…">
+                        <input type="submit">
+                        <div id="openSearch_h"></div>
+                        <div class="headerProduct-search"></div>
+                    </form>
+                                <div class="socialNetworks">
+                    <button class="socBtn">open</button>
+                    <ul>
+                        <li>
+                            <a class="vk" title="Vkontakte" href="https://vk.com/tastycoffeeroasters" target="_blank">
+                                <span class="box">Написать нам в ВК</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="faq des" title="" href="https://shop.tastycoffee.ru/faq"
+                               target="_blank"><span class="box">Ответы на частые вопросы</span></a>
+                            <a class="faq mob" title="" href="https://shop.tastycoffee.ru/faq"
+                               target="_blank"><span class="box">Ответы на частые вопросы</span></a>
+                        </li>
+                        <li>
+                            <a class="vb des" title="Viber" href="viber://chat?number=+79508242000"
+                               target="_blank"><span class="box">Написать нам в Viber</span></a>
+                            <a class="vb mob" title="Viber" href="viber://add?number=79508242000" target="_blank"><span
+                                    class="box">Написать нам в Viber</span></a>
+                        </li>
+                        <li>
+                            <a class="wa des" title="WhatsApp" href="https://api.whatsapp.com/send?phone=7979508242000"
+                               target="_blank"><span class="box">Написать нам в WhatsApp</span> </a>
+                            <a class="wa mob" title="WhatsApp" href="whatsapp://send?phone=79508242000" target="_blank"><span
+                                    class="box">Написать нам в WhatsApp</span></a>
+                        </li>
+                        <li>
+                            <a class="in" title="Instagram" href="https://www.instagram.com/tastycoffeeroasters"
+                               target="_blank"><span class="box">Написать нам в Instagram</span></a>
+                        </li>
+                        <li>
+                            <a class="tel des" title="Telegram" href="https://t.me/sharov_artem" target="_blank"><span
+                                    class="box">Написать нам в Telegram</span></a>
+                            <a class="tel mob" title="Telegram" href="tg://resolve?domain=sharov_artem" target="_blank"><span
+                                    class="box">Написать нам в Telegram</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <a href="https://shop.tastycoffee.ru/my-favorites" class="fav-h"></a>
+                <div id="compareBlock-header">
+                    <div class="comparison-h">
+    <a href="https://shop.tastycoffee.ru/compare"
+       class="comparison-h-link">
+            </a>
+    <div class="comparisonBox">
+                    <p class="comparisonBox__title">Пока нет товаров для сравнения</p>
+            </div>
+</div>
+                </div>
+
+                <div class="basket-h">
+                    <a href="https://shop.tastycoffee.ru/basket" id="openBasket">
+                        <span class="btnBasket"></span>
+                        <span class="greyText-wrap" id="header_cart_text">
+                        <div class="basketPrice">0 <span class="rub">₽</span></div>
+<div class="greyText">0 товаров </div>                    </span>
+                    </a>
+                </div>
+                <div class="hamburger hamburger--spin">
+                    <div class="hamburger-box">
+                        <div class="hamburger-inner"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="city_popup" class="popupSr fadeIn">
+            <form data-action="https://shop.tastycoffee.ru/ajax/select-header-city">
+                <a class="closeBtn" href="#"></a>
+                <h5>Выбор города</h5>
+                
+                <input type="text"
+                       class="inputEl"
+                       id="city_header"
+                       data-after-select="afterSelectCityHeader"
+                       name="city_header"
+                       placeholder="Поиск по названию">
+                <div class="cityResult">
+                    <div class="row-wrap">
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="5">Москва</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="6">Красноярск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="7">Тольятти</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="8">Санкт-Петербург</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="9">Мурманск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="10">Тула</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="11">Архангельск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="12">Набережные Челны</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="13">Тюмень</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="14">Владивосток</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="15">Ульяновск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="16">Волгоград</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="17">Нижний Новгород</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="18">Уфа</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="19">Воронеж</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="20">Новосибирск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="21">Хабаровск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="22">Екатеринбург</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="23">Омск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="24">Челябинск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="25">Ижевск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="26">Пермь</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="27">Ярославль</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="28">Иркутск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="29">Ростов-на-Дону</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="30">Казань</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="31">Саратов</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="32">Кемерово</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="33">Самара</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="34">Краснодар</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="35">Сургут</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="36">Тверь</a>
+                            </div>
+                                            </div>
+                </div>
+            </form>
+        </div>
+        <div id="feedBack__popup" class="feedBack fadeIn animated">
+            <div class="feedBack-wrap">
+                <a class="closeBtn" href="#"></a>
+                <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
+                    <input type="hidden" name="_token" value="SSnCoI17kmHZ4Bfncvo0F10NQny7fr1I1qHcrx6l">                    <input type="hidden" name="type" value="1">
+                    <div class="itemFb">
+                        <h5>Свяжитесь со мной</h5>
+                        <input type="text" placeholder="Имя" name="name" required>
+                        <input class="phone-mask" type="text" name="phone" placeholder="Телефон" required>
+                    </div>
+                    <div class="itemFb">
+                        <div class="checkbox-wrap">
+                            <input id="consent" type="checkbox" name="is_check" value="1" checked>
+                            <label for="consent" class="feedback-agreed">
+                                <span class="label__box"></span>
+                                <span class="label__text">
+                                            <p class="text12 ">Согласен с условиями обработки <a
+                                                    href="https://shop.tastycoffee.ru/privacy" target="_blank">персональных данных</a>,
+                                            <a href="https://shop.tastycoffee.ru/user-agreement"
+                                               target="_blank">Пользовательского соглашения</a> и
+                                            <a href="https://shop.tastycoffee.ru/public-offer" target="_blank">Публичной оферты</a></p>
+                        </span>
+                            </label>
+                        </div>
+                        <div class="showErrors_text"></div>
+                        <input type="submit" class="blackBtn" value="Отправить запрос">
+                        <div class="text11">Мы перезваниваем в рабочее время в течение 2 часов</div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div id="enterPopup" class="popupEn fadeIn">
+            <a class="closeBtn" href="#"></a>
+            <form class="popupEn__form" id="sign-in-form" action="https://shop.tastycoffee.ru/login">
+                <h5>Вход на сайт</h5>
+                <input placeholder="E-mail" id="email" name="email" type="email" required>
+                <input id="password" type="password" name="password" placeholder="Пароль" required>
+                <p class="siteError siteError-email">
+
+                </p>
+                <div class="checkbox-wrap">
+                    <input name="remember" id="remember" type="checkbox">
+                    <label for="remember">
+                        <span class="label__box"></span>
+                        <span class="label__text">Запомнить меня на этом компьютере</span>
+                    </label>
+                </div>
+                <input type="submit" id="sign-in" class="blackBtn" value="Войти"/>
+                <a href="https://shop.tastycoffee.ru/password/reset" class="enterLk__link">Забыли пароль?</a>
+            </form>
+            <div class="popupEn-c">
+                
+                <a href="#" class="socBtn vk vk-login"></a>
+                <a href="#" class="socBtn gmail gmail-login"></a>
+                <a href="#" class="socBtn apple apple-login"></a>
+                <a href="#" class="socBtn sber sb-login"></a>
+                <a href="#" class="socBtn yandex-login"></a>
+                                <div id="g_id_onload"
+                     data-client_id="881119885027-1a5vu5mvlb1s0l8t2qoqrpn0k3idaau0.apps.googleusercontent.com"
+                     data-context="signin"
+                     data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
+                     data-itp_support="true"
+                     data-_token="SSnCoI17kmHZ4Bfncvo0F10NQny7fr1I1qHcrx6l"
+                >
+                </div>
+                            </div>
+            <div class="popupEn-c">
+                <a href="https://shop.tastycoffee.ru/create-account" class="blackLink">Регистрация</a>
+            </div>
+        </div>
+        <div class="basket-popup fadeIn">
+            <a class="closeBtn" href="#"></a>
+            <div class="basket-popup-wrap" id="header_cart_modal">
+                <div class="basket__title basket__title-no-products">Пока корзина пуста</div>
+            </div>
+        </div>
+        <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
+            <input type="hidden" name="_token" value="SSnCoI17kmHZ4Bfncvo0F10NQny7fr1I1qHcrx6l">        </form>
+        <div class="exportPoints fadeIn animated">
+            <a class="closeBtn" href="#"></a>
+            
+            <div class="text13">В ваш город доставляем службами</div>
+            <div id="count_pvz_content">
+                <table class="tabletEp">
+    <tbody>
+                    <tr>
+            <td class="headerDeliveryImageWrap_dpd"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/dpd.svg" alt=""></td>
+            <td><p class="borderEp">DPD</p></td>
+                        <td><p>95 пунктов выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_cdek"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/cdek.svg" alt=""></td>
+            <td><p class="borderEp">СДЭК</p></td>
+                        <td><p>30 пунктов выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_pony"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pony.svg" alt=""></td>
+            <td><p class="borderEp">Pony Express</p></td>
+                        <td><p>1 пункт выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_pickpoint"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pickpoint-new.svg" alt=""></td>
+            <td><p class="borderEp">PickPoint</p></td>
+                        <td><p>187 пунктов выдачи</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_ems"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/ems/images.jpeg" alt=""></td>
+            <td><p class="borderEp">EMS</p></td>
+                        <td><p>до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_free"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/post_new.svg" alt=""></td>
+            <td><p class="borderEp">Почта России</p></td>
+                        <td><p>1 пункт выдачи</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_tastycoffee"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo_gray.svg" alt=""></td>
+            <td><p class="borderEp">Tasty Coffee</p></td>
+                            <td><p>до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_yandex"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/yandex-delivery.svg" alt=""></td>
+            <td><p class="borderEp">Яндекс Доставка</p></td>
+                        <td><p>162 пункта выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_fivepost"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/assets/site/img/fivepost.jpg" alt=""></td>
+            <td><p class="borderEp">5post</p></td>
+                        <td><p>-</p></td>
+                    </tr>
+        </tbody>
+</table>
+            </div>
+            <p>Адреса пунктов выдачи, сроки и стоимость доставки можно увидеть в корзине при оформлении заказа</p>
+            
+            
+            
+            
+        </div>
+    </header>
+
+<button class="topBtn">Наверх</button>
+
+    <div class="socialNetworks fix">
+        <button class="socBtn">open</button>
+        <ul>
+            
+            
+            
+            
+            
+            <li>
+                <a class="quiz des" href="https://shop.tastycoffee.ru/coffee-quiz" target="_blank">
+                    <span class="box">Как выбрать кофе?</span></a>
+                <a class="quiz mob" href="https://shop.tastycoffee.ru/coffee-quiz" target="_blank">
+                    <span class="box">Как выбрать кофе?</span></a>
+            </li>
+            <li>
+                <a class="faq des" href="https://shop.tastycoffee.ru/faq" target="_blank">
+                    <span class="box">Ответы на частые вопросы</span></a>
+                <a class="faq mob" href="https://shop.tastycoffee.ru/faq" target="_blank">
+                    <span class="box">Ответы на частые вопросы</span></a>
+            </li>
+            <li>
+                <a class="vb des" title="Viber" href="viber://chat?number=+79508242000" target="_blank">
+                    <span class="box">Написать нам в Viber</span></a>
+                <a class="vb mob" title="Viber" href="viber://add?number=79508242000" target="_blank">
+                    <span class="box">Написать нам в Viber</span></a>
+            </li>
+            <li>
+                <a class="wa des" title="WhatsApp" href="https://api.whatsapp.com/send?phone=79508242000"
+                   target="_blank"><span class="box">Написать нам в WhatsApp</span> </a>
+                <a class="wa mob" title="WhatsApp" href="whatsapp://send?phone=79508242000" target="_blank"><span
+                        class="box">Написать нам в WhatsApp</span></a>
+            </li>
+            
+            
+            
+            <li>
+                <a class="tel des" title="Telegram" href="https://t.me/tastycoffeeshop" target="_blank"><span
+                        class="box">Написать нам в Telegram</span></a>
+                <a class="tel mob" title="Telegram" href="tg://resolve?domain=tastycoffeeshop" target="_blank"><span
+                        class="box">Написать нам в Telegram</span></a>
+            </li>
+        </ul>
+    </div>
+
+
+                <div class="content">
+<div class="wd-banner">
+<div class="row">
+<p class="wd-banner__title">Доставка и оплата</p>
+</div>
+<picture> <source media="(max-width: 767px)" srcset="/assets/site/img/working-conditions.jpg" type="image/jpg" /> <img alt="Условия работы" class="wd-banner__bg w-op" src="/assets/site/img/working-conditions.jpg" /> </picture></div>
+
+<div class="wd-box">
+<div class="row">
+<div class="grid">
+<p class="h3">Доставка</p>
+
+<div class="col">
+<p>Мы сотрудничаем с крупными транспортными компаниями и доставляем заказы до двери, пунктов выдачи и постаматов. Почти всегда делаем это за наш счёт.</p>
+
+<p>Стоимость доставки в труднодоступные/удаленные города и регионы России и другие страны рассчитывается автоматически в корзине.</p>
+</div>
+
+<div class="col">
+<p class="h6">Службы доставки</p>
+
+<ul class="wd-box__list">
+	<li><img alt="pickpoint" class="w-banner__bg pickpoint" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pickpoint-new.svg" /></li>
+	<li><img alt="cdek" class="w-banner__bg cdek" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/cdek.svg" /></li>
+	<li><img alt="pony" class="w-banner__bg pony" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pony.svg" /></li>
+	<li><img alt="dpd" class="w-banner__bg dpd" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/dpd.svg" /></li>
+	<li><img alt="post" class="w-banner__bg post" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/post.svg" /></li>
+	<li><img alt="ems" class="w-banner__bg ems" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/ems/images.jpeg" /></li>
+	<li><img alt="Yandex" src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/yandex-delivery.svg" style="width: 130px; height: 39px;" /></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="wd-box bg-gray">
+<div class="row">
+<div class="grid">
+<p class="h3">оплата</p>
+
+<div class="col">
+<p>Минимальная сумма заказа — 600 рублей. Оплатить заказ можно онлайн на сайте или при получении.</p>
+
+<p>Юридическим лицам пришлём счёт на оплату сразу после оформления заказа. Работаем с НДС.</p>
+
+<p>Оплата на сайте происходит с использованием банковских карт систем МИР, VISA или Mastercard. Принимаем к оплате ЮMoney, QIWI, SberPay, Альфа-Клик, Apple Pay и Google Pay.</p>
+</div>
+
+<div class="col">
+<p>Описание процесса передачи данных через ПАО Сбербанк</p>
+
+<p>Для оплаты вы будете перенаправлены на платежный шлюз ПАО Сбербанк. Соединение с платежным шлюзом и передача информации осуществляется в защищенном режиме с использованием протокола шифрования SSL. Если ваш банк поддерживает технологию безопасного проведения интернет-платежей Verified By Visa или MasterCard SecureCode, для проведения платежа также может потребоваться ввод специального пароля.</p>
+
+<p>Настоящий сайт поддерживает 256-битное шифрование. Конфиденциальность сообщаемой персональной информации обеспечивается ПАО Сбербанк.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+        <footer>
+    <div class="top-f">
+        <div class="row">
+            <div class="row-wrap">
+                <div class="col-v2 col-m3 col-p10">
+                    <p class="text12">ПОМОЩЬ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://shop.tastycoffee.ru/community">Сообщество</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/faq">Вопрос-ответ</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/how-to-choose-coffee">Как выбрать кофе?</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">Как готовить кофе?</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/blog">Журнал о кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/shipment-and-payment">Доставка и оплата</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/discount-system">Система скидок</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/return-money">Возврат денежных средств</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/contact-us">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class="col-v2 col-p10 tabletNone">
+                    <p class="text12">КОМПАНИЯ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://tastycoffee.ru/about/" rel="noopener" target="_blank">О компании <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/about/progress/" rel="noopener" target="_blank">Достижения <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/" rel="noopener" target="_blank">Перейти на оптовый сайт <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/about/production/" rel="noopener" target="_blank">Наше производство <span class="opt_img"></span></a></li>
+                        <li><a href="https://shop.tastycoffee.ru/partners">Партнёрская программа</a></li>
+                        <li><a href="https://zen.yandex.ru/id/5d26f076a1b4f100aaa3aed9" rel="noopener" target="_blank">Канал в Яндекс.Дзен <span class="opt_img"></span></a></li>
+                    </ul>
+                </div>
+                <div class="col-v2 col-m3 col-p10">
+                    <p class="text12">КАТАЛОГ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://shop.tastycoffee.ru/coffee">Кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/tea">Чай</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/accessories">Аксессуары</a></li>
+                                                <li><a href="https://shop.tastycoffee.ru/disabled">Архив сортов</a></li>
+                    </ul>
+                </div>
+                <div class="col-v4 col-p10 right">
+                    <a href="tel:88003334980" class="footer_phone">8 (800) 333-49-80</a>
+                    <div class="footer_mail-wrap">
+                        Бесплатный звонок по России
+                    </div>
+                                            <a class="yandex-rating"
+                           href="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=73582/path=dynamic.150x101/*https://market.yandex.ru/shop--teisti-kofe/558269/reviews"
+                           target="_blank"
+                        >
+                            <img src="/assets/site/img/rating-yandex.png"
+                                border="0"
+                                alt="Читайте отзывы покупателей и оценивайте качество магазина Тэйсти Кофе на Яндекс.Маркете"/>
+                        </a>
+                                        <div class="social-f">
+
+
+
+                                                    <a href="https://t.me/roastedinizhevsk" rel="noopener" target="_blank" class="socBtn tg">Телеграм</a>
+                                                                            <a href="https://www.youtube.com/channel/UCyskbBJLPU0teU0YCcDbcGg" rel="noopener" target="_blank" class="socBtn yt">Youtube</a>
+                                                                            <a href="https://vk.com/tastycoffeeroasters" rel="noopener" target="_blank" class="socBtn vk">ВКонтакте</a>
+                            
+
+
+                    </div>
+                    <div class="store-block">
+                        <div class="store-wrapper">
+                            <div class="wrapStore w-100 d-flex flex-wrap">
+                                <a href="https://apps.apple.com/us/app/tasty-coffee-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD/id1540743534" target="_blank" class="storeLink iosStore">
+                                    <img src="/assets/site/img/appstore.svg" alt="">
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=com.tastycoffee.shop" target="_blank" class="storeLink googleStore">
+                                    <img src="/assets/site/img/googleplay.svg" alt="">
+                                </a>
+                            </div>
+                            <div class="wrapStore secondRow w-100 d-flex flex-wraps" style="padding: 0;">
+                                <a href="https://coffee-static.storage.yandexcloud.net/files/tastycoffee.apk" target="_blank" class="storeLink apk">
+                                    <img src="/assets/site/img/apk.svg" alt="">
+                                </a>
+                                <a href="https://appgallery.huawei.com/app/C107264619" target="_blank" class="storeLink huaweiStore">
+                                    <img src="/assets/site/img/appgallery.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom-f">
+        <div class="row">
+            <div class="row-wrap middle">
+                <div class="col-v2 col-m5 col-p10">
+                    <div class="text-f">© 2023 «Tasty Coffee»</div>
+                    <a class="link-f indent desNone" href="https://shop.tastycoffee.ru/rss">RSS</a>
+                    <a href="https://shop.tastycoffee.ru/privacy" class="link-f desNone">Политика конфиденциальности</a>
+                    <a href="https://shop.tastycoffee.ru/user-agreement" class="link-f desNone">Пользовательское соглашение</a>
+                    <a href="https://shop.tastycoffee.ru/public-offer" class="link-f desNone">Публичная оферта</a>
+                </div>
+                <div class="col-v4 col-m5 mobNone">
+                    <div class="text-f">
+                        Использование любых материалов с данного ресурса возможно только после письменного согласия владельца авторских прав
+                    </div>
+                </div>
+                <div class="col-v4 right tabletNone">
+                    <a class="link-f indent" href="https://shop.tastycoffee.ru/rss">RSS</a>
+                    <a href="https://shop.tastycoffee.ru/privacy" class="link-f" target="_blank">Политика конфиденциальности</a><br>
+                    <a href="https://shop.tastycoffee.ru/user-agreement" class="link-f" target="_blank">Пользовательское соглашение</a> &nbsp;
+                    <a href="https://shop.tastycoffee.ru/public-offer" class="link-f" target="_blank">Публичная оферта</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="popupRight" id="formBankCard">
+    <div class="wrap">
+        <div class="wrapper w-100">
+            <div class="closeBtn"></div>
+            <button type="button" class="closeBtn close-btn">x</button>
+            <p class="h3 mb-3" style="line-height: 1.1;">Привязка <span class="d-block">банковской карты</span></p>
+            <p class="mb-3 small">Для проверки карты мы спишем и вернем 1 руб.</p>
+            <form class="add-bank-card" action="#">
+                <div class="front-ide">
+                    <input type="text" placeholder="Номер карты" id="cardNumber">
+                    <p class="text-gray">Действует до</p>
+                    <input type="number" placeholder="ММ" oninput="if(value.length>2)value=value.slice(0,2)">
+                    <input type="number" placeholder="ГГ" oninput="if(value.length>2)value=value.slice(0,2)">
+                </div>
+                <div class="back-side">
+                    <div class="input-wrapper">
+                        <input type="number" placeholder="CVC/CVV" oninput="if(value.length>3)value=value.slice(0,3)">
+                    </div>
+                </div>
+                <div class="w-100">
+                    <input type="submit" value="Привязать карту" class="blackBtn">
+                </div>
+            </form>
+            <div class="checkbox-wrap">
+                <input id="is_check1" type="checkbox" name="is_check" value="1">
+                <label for="is_check1">
+                    <span class="label__box"></span>
+                    <span class="label__text">
+                        <span class="greenLink">Согласен с
+                            <a href="https://shop.tastycoffee.ru/privacy" target="_blank" class="greenLink">условиями обработки персональных данных</a>,
+                              <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank" class="greenLink">Пользовательского соглашения</a> и
+                              <a href="https://shop.tastycoffee.ru/public-offer" target="_blank" class="greenLink">Публичной оферты</a>
+                        </span>
+                    </span>
+                </label>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="default">
+    <div class="popupAdded-wrap">
+        <h5 class="modal-text"></h5>
+        <button id="closePa" class="greyText">Продолжить</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn error" data-modal-name="error">
+    <div class="popupAdded-wrap">
+        <div class="error-ic"></div>
+        <h3>Ошибка</h3>
+        <button id="closePa" class="greyText">Продолжить покупки</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="thanks">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3>Товар добавлен<br> в корзину</h3>
+        <a href="https://shop.tastycoffee.ru/basket" class="blackBtn"><i class="ic"></i> Перейти в корзину</a>
+        <button id="closePa" class="greyText">Продолжить покупки</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="cancel-order">
+    <div class="popupAdded-wrap">
+        <h3>Вы уверены, что хотите отменить заказ?</h3>
+        <div style="display: flex; flex-direction: row">
+            <a href="" class="url blackBtn" style="background-color: white!important;color: #202020!important;margin: auto;font-size: 14px;">Да</a>
+            <button id="closePa" class="greyText">Нет</button>
+        </div>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="success-send">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3>Сообщение<br> отправлено</h3>
+        <button class="closePa greyText">Продолжить</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="success-other">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3 class="modal-title"></h3>
+        <button type="button" class="closePa blackBtn w-74 mb-0">Ок</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="error-coupon">
+    <div class="popupAdded-wrap">
+        <div class="cross-ic"></div>
+        <h3 class="modal-title"></h3>
+        <button type="button" class="closePa blackBtn w-74 mb-0">Ок</button>
+    </div>
+</div>
+<div class="modal fade" id="successСopyingPost" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm border-modal" role="document">
+        <div class="modal-content">
+            <div class="modal-body pt-5 pb-5">
+                <div class="success-ic"></div>
+                <h3 class="text-center">Ссылка скопирована</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addPhotoComment" tabindex="-1" role="dialog"  aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered border-modal" role="document">
+        <div class="modal-content ">
+            <div class="modal-header mb-3 mb-md-4 pt-4 pt-md-5 pr-3 pr-md-5 pb-0 pb-md-2 pl-3 pl-md-5">
+                <h3 class="mb-0">Прикрепить фото к сообщению</h3>
+                <button type="button" class="close m-0" data-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body pt-0 pr-3 pr-md-5 pb-5 pl-md-5 pl-3  ">
+                <div class="w-100 mb-4 pb-md-2">
+                    <label for="photo" class="btn-file m-0">
+                        <input id="default-comment-photo" type="file" accept="image/*" onchange="commentDefaultFileInputChange(this)">
+                        Загрузить фото
+                    </label>
+                </div>
+                <div class="mb-4 pb-md-2">
+                    <div class="uploaded-photo ">
+                        <img class="comment-modal-photo-img"
+                            src=""
+                            alt="img">
+                        <a href="#" class="close" onclick="removeSelectedModalCommentFile(this)"></a>
+                    </div>
+                </div>
+                <button type="button" class="blackBtn m-0 pl-4 pr-4 mb-2"
+                    onclick="setSelectedCommentFile(this); return false;"
+                >Отправить</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+    <div class="popupAdded animated fadeIn" data-modal-name="you-must-be-logged-in-to-leave-ratings">
+        <div class="popupAdded-wrap">
+            <span class="greyText">Вы должны быть авторизованы, чтобы оставлять оценки!</span>
+        </div>
+    </div>
+<script src="/assets/site/js/app.js?id=71760b2b17bed952df07"></script>
+<script type="text/javascript">typeof setMask === 'function' ? setMask('') : false;</script>
+<!--[if lt IE 10]>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.1/jquery.xdomainrequest.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/suggestions-jquery@18.10.1/dist/js/jquery.suggestions.min.js"></script>
+<script>
+    var token = "0f4cc30a067721a528e599de9977253e34ba67de";
+    function join(arr /*, separator */) {
+        var separator = arguments.length > 1 ? arguments[1] : ", ";
+        return arr.filter(function(n){return n}).join(separator);
+    }
+
+    function cityToString(address) {
+        return join([
+            join([address.city_type, address.city], " "),
+            join([address.settlement_type, address.settlement], " ")
+        ]);
+    }
+</script><script type="text/javascript">
+    var
+        type = "ADDRESS",
+        form_header   = $('#city_header').closest('form'),
+        city_header   = $('#city_header'),
+        address_header = $('#address_header');
+        initSelect_header = true;
+    var auto_city_header = city_header.attr('data-auto-city');
+    city_header.suggestions({
+        token: token,
+        type: type,
+        scrollOnFocus: false,
+        // hint: true,
+        geoLocation: !!auto_city_header,
+        bounds: "country-city-settlement",
+        constraints: [
+                        {
+                locations: {
+                    country: 'Армения'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Австралия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Австрия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Азербайджан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Бахрейн'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Беларусь'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Хорватия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Кипр'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Чехия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Эстония'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Финляндия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Франция'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Грузия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Германия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Венгрия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Индия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Ирландия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Израиль'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Италия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Япония'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Казахстан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Республика Корея'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Киргизия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Латвия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Литва'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Малайзия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Молдова'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Монголия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Нидерланды'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Норвегия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Португалия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Румыния'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Россия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Саудовская Аравия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Словакия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Словения'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Испания'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Швеция'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Швейцария'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Тайвань'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Таджикистан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Таиланд'
+                }
+            },
+                        {
+                locations: {
+                    country: 'ОАЭ'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Британия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Узбекистан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Вьетнам'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Сербия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Черногория'
+                }
+            },
+                    ],
+        onSelect: function (suggestion, changed) {
+
+            // отчищаем поля
+            if (changed && !initSelect_header) {
+                address_header.val("");
+                $('#postcode_header').val("");
+            }
+
+            if (suggestion.value.includes('')) {
+                initSelect_header = false;
+            }
+
+            address_header.selectpicker("refresh");
+            $('.office input[name="shipping_flat"]').val("");
+
+            form_header.find('#dadata_city_header').val(JSON.stringify(suggestion.data));
+            if (address_header.val() === '') {
+                form_header.find('#postcode_header').val(suggestion.data.postal_code);
+                var event = city_header.attr('data-after-select');
+                if (event) {
+                    window[event](city_header, suggestion);
+                }
+            }
+        },
+        onSelectNothing: function () {
+
+        }
+    });
+    if (auto_city_header){
+
+        $(document).ready(function() {
+            city_header.suggestions().getGeoLocation()
+            .done(function (locationData) {
+                var sgt = {
+                    value: null,
+                    date: locationData
+                };
+                city_header.suggestions().setSuggestion(sgt);
+                city_header.val(cityToString(locationData));
+                $('#dadata_city_header').val(JSON.stringify(locationData));
+                city_header.suggestions().fixData();
+                var event = city_header.attr('data-after-select');
+                if (event) {
+                    console.log(event);
+                    window[event](city_header);
+                }
+            });
+        })
+
+    }
+    if ($('input[name=check_dadata_init]').val() === '0') {
+        city_header.suggestions().fixData();
+    }
+        address_header.suggestions({
+        token: token,
+        type: type,
+        hint: false,
+        scrollOnFocus: false,
+        bounds: "street-house",
+
+        
+                constraints: {
+            locations: {
+                            }
+        },
+                restrict_value: true,
+        onSelect: function (suggestion) {
+            form_header.find('#dadata_address_header').val(JSON.stringify(suggestion.data));
+            if (!form_header.find('#dadata_city_header').val()) {
+                form_header.find('#dadata_city_header').val(JSON.stringify(suggestion.data));
+            }
+            form_header.find('#postcode_header').val(suggestion.data.postal_code);
+            var event = address_header.attr('data-after-select');
+            if (event) {
+                window[event](address_header, suggestion);
+            }
+        },
+        onSelectNothing: function () {
+            if ($(this).attr('data-after-select')=='toggleDisabledPostcode'){
+                $(this).closest('form').find('[name="shipping_postcode"]').closest('.index').attr('hidden',null);
+            }
+        }
+    });
+
+    address_header.attr("autocomplete", "nope");
+        city_header.attr("autocomplete", "nope");
+    city_header.on('input', function () {
+        form_header.find('#dadata_city_header').val('');
+    });
+    address_header.on('input', function () {
+        form_header.find('#dadata_address_header').val('');
+        form_header.find('#postcode_header').val('');
+    });
+</script>
+
+    <script type="text/javascript" async defer>(function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.charset = 'utf-8';
+            s.async = true;
+            s.defer = true;
+            s.src = '//me-talk.ru/support/support.js?h=1645ced87d2f67dd699696c718a5dfdd';
+            var sc = document.getElementsByTagName('script')[0];
+            var callback = function () {/* Здесь вы можете вызывать API. Например, чтобы изменить отступ по высоте: supportAPI.setSupportTop(200); */
+            };
+            s.onreadystatechange = s.onload = function () {
+                var state = s.readyState;
+                if (!callback.done && (!state || /loaded|complete/.test(state))) {
+                    callback.done = true;
+                    callback();
+                }
+            };
+            if (sc) sc.parentNode.insertBefore(s, sc); else document.documentElement.firstChild.appendChild(s);
+        })();</script>
+
+<script async defer src="https://www.googletagmanager.com/gtag/js?id=UA-49925495-2"></script>
+<script async defer> window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-49925495-2');
+    gtag('config', 'AW-353971060');
+</script>
+
+<!-- push world -->
+<!--<script>!function (e, t, d, s, a, n, c) {
+        e[a] = {}, e[a].date = (new Date).getTime(), n = t.createElement(d), c = t.getElementsByTagName(d)[0], n.type = "text/javascript", n.async = !0, n.src = s, c.parentNode.insertBefore(n, c)
+    }(window, document, "script", "https://tastycoffeesaleru.push.world/https.embed.js", "pw"), pw.websiteId = "e0f4f5dd207d407945e8c66c72c33fc6a1f1a6a09c7973e03dfecc25e2a368af";
+</script>-->
+    </body>
+</html>

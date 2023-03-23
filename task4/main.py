@@ -22,8 +22,8 @@ if __name__ == '__main__':
         it += 1
         filename_str = str(filename)[len(pages_dir):]
         print(str(it) + ": " + filename_str)
-        out1 = codecs.open(files_path + "tokens" + str(it) + ".txt", "w", "utf-8")
-        out2 = codecs.open(files_path + "lemmas" + str(it) + ".txt", "w", "utf-8")
+        out1 = codecs.open(files_path + "tokens" + filename_str, "w", "utf-8")
+        out2 = codecs.open(files_path + "lemmas" + filename_str, "w", "utf-8")
         for token in tokens2[filename_str]:
             out1.write(token + " ")
             count = 0

@@ -1,1195 +1,1672 @@
-
-
-
 <!DOCTYPE html>
-<html class="no-js" lang="ru" dir="ltr" data-gtm-container-id="UA-36116321-2">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
-  
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="csrf-token" content="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p">
+    <title>Интернет-магазин кофе и чая, купить от Tasty Coffee</title>
+    <meta name="description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой.">
+    <meta name="keywords" content="Официальный интернет-магазин кофе, купить кофе в интернете, купить натуральный кофе, интернет-магазин кофе, кофе в зернах купить">
+    <meta charset="utf-8"/>
 
-  
-    <title>
-  Куки - информация, которую веб-сайты хранят на вашем компьютере | Справка Firefox
-</title>
-  
+    <meta name="yandex-verification" content="a19a62a4d7e8504b"/>
+    <meta name="yandex-verification" content="883d96ebc7bc9c6e"/>
+    <meta name="google-site-verification" content="ayOMDCjQje3Xdqzlg-4jCbIi2vTAN_vEuayT1a2eB0Y"/>
+    <meta name="google-site-verification" content="aPfTGAs_K8t79N8d1wV8uNkluThRiNJSiJF-7G84dH8"/>
+    <meta name="facebook-domain-verification" content="hfvxso11i4t322bxqfey9jxtqoarz2" />
 
-  
-<link rel="apple-touch-icon" sizes="180x180" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/apple-touch-icon.bdc11b610d791a16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon-32x32.2143cdf0c7e3f377.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon-16x16.352a0a2cef154dda.png">
-<link rel="manifest" href="/manifest.json">
-<link rel="shortcut icon" href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/favicon.03d97697df808c0e.ico">
-<meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <meta property="og:url" content="https://shop.tastycoffee.ru/coffee-quiz"/>
+    <meta property="og:title" content="Интернет-магазин кофе и чая, купить от Tasty Coffee"/>
+    <meta property="og:description" content="Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зернах, молотый, марагоджипы, эспрессо-смеси, вьетнамский кофе, колумбийский, кофе без кофеина можно с бесплатной доставкой."/>
+    <meta property="og:image" content="https://shop.tastycoffee.ru/assets/site/img/site_logo.jpg"/>
+    <meta property="og:type" content="website"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="cmsmagazine" content="15afbfcc9d50c9baf4abb46883dfa9c5">
+    <link rel="canonical" href="https://shop.tastycoffee.ru/coffee-quiz"/>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="shortcut icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
+    <link rel="icon" href="https://shop.tastycoffee.ru/favicon.svg" type="image/svg">
 
+    <style>
+        body{
+            font-size: 12px;
+            color: #000;
+            line-height: 1.4;
+        }
+        a{
+            color: #000;
+        }
 
-  <link rel="search" type="application/opensearchdescription+xml" title="Поддержка Mozilla" href="/ru/search/xml"/>
-  
+        /* при обновлении страницы фиксируем высоту селекта, чтобы не было скачка */
+        .bootstrap-select > select{
+            height: 38px;
+            overflow:hidden;
+        }
+    </style>
+    <link rel="stylesheet" href="/assets/site/css/style.css?id=65815173f151d34456ef">
+    <link rel="icon" type="image/svg+xml" sizes="any" href="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg">
+    <link rel="apple-touch-icon" type="image/svg+xml" sizes="any" href="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://shop.tastycoffee.ru/assets/site/img/logo/pwa-192x192.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="192x192" href="https://shop.tastycoffee.ru/assets/site/img/logo/pwa-192x192.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="https://shop.tastycoffee.ru/assets/site/img/logo/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://shop.tastycoffee.ru/assets/site/img/logo/apple-touch-icon-180x180.png">
+    <link rel="stylesheet" href="https://shop.tastycoffee.ru/assets/site/css/fix.css">
+    <link rel="stylesheet" href="https://shop.tastycoffee.ru/assets/site/css/fix-blog.css">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Tasty Coffee">
+    <meta name="apple-mobile-web-app-title" content="Tasty Coffee">
+    <meta name="theme-color" content="#000000">
+    <meta name="msapplication-navbutton-color" content="#000000">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-starturl" content="/">
 
-  
-  
-  <link href="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/screen.4cfc530405d8ddaa.css" rel="stylesheet">
-
-  
-  
-  <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/474.8dd740de416ee65a.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script><script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/common.c8f1d10d6d8681c1.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script>
-  
-    <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/858.ba495686d924c2d7.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script><script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/697.1cc02e31a1768550.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script><script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/document.51474266bafe8768.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script>
-  
-  <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/common.fx.download.0b6dca7065496b7d.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script>
-
-  
+    <!--floktory-->
+    <script type="text/javascript" src="https://api.flocktory.com/v2/loader.js?site_id=3556" async="async"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
     
-      <meta name="description" content="Узнайте, что такое &#34;куки&#34;, как веб-сайты используют их и как вы можете управлять куками, которые хранит Firefox."/>
     
-  
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?162",t.onload=function(){VK.Retargeting.Init("VK-RTRG-432834-hqEHz"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+<noscript>
+    <img src="https://vk.com/rtrg?p=VK-RTRG-432834-hqEHz" style="position:fixed; left:-999px;" alt=""/>
+</noscript>
 
-  
-  <meta name="google-site-verification" content="2URA-2Y9BeYYUf8B2BSsBSVetJJS3TZwlXBOaMx2VfY" />
-  
-  <meta name="google-site-verification" content="ueNbCgS4e1JIAgLGwufm-jHaIcLXFLtFMmR_65S1Ag0" />
-  
-  <meta name="msvalidate.01" content="1659173DC94819093068B0ED7C51C527" />
+<!-- NT -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 
-  
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
-  
-    <link rel="canonical" href="https://support.mozilla.org/ru/kb/kuki-informaciya-kotoruyu-veb-sajty-hranyat-na-vas" />
-  
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-  <!--
-Read more about our custom configuration and use of Google Analytics here:
-https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
--->
+    })(window,document,'script','dataLayer','GTM-WK26S92');
+</script>
+<!-- End NT -->
+<!-- NT (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK26S92"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End NT (noscript) -->
+
+<!-- pixelVK -->
+<script type="text/javascript">
+    !function(){
+        var t = document.createElement("script");
+        t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?162", t.onload = function(){
+            VK.Retargeting.Init("VK-RTRG-406988-biK0O"),VK.Retargeting.Hit()
+        }, document.head.appendChild(t)
+    }();
+</script>
+<noscript>
+    <img src="https://vk.com/rtrg?p=VK-RTRG-406988-biK0O" style="position:fixed; left:-999px;" alt=""/>
+</noscript>
+<!-- End pixelVK -->
+
+<!-- Facebook Pixel Code -->
+<!--<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '398589467470921');
+    fbq('track', 'PageView');
+</script>-->
+<!--<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=398589467470921&ev=PageView&noscript=1" />
+</noscript>-->
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" async defer>(function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        m[i].l = 1 * new Date();
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(52141249, "init", {
+        id: 52141249,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+        ecommerce: "dataLayer"
+    });
+    window.dataLayer = window.dataLayer || [];
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/52141249" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--Трэкер-контейнер "Основной"-->
+<script type="text/javascript">
+    window.__mixm__ = window.__mixm__ || [];
+    window.__mixm__.push(['mAdvId',1294983657]);
+</script>
+<!--Трэкер-контейнер "Основной"-->
+
+<!--TikTok-->
+<!--<script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+
+        ttq.load('C17F5HBAF71QPV1BMDL0');
+        ttq.page();
+    }(window, document, 'ttq');
+</script>-->
 
 <!-- Google Tag Manager -->
-
-  <script defer="defer" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/gtm-snippet.d1b1396e519eb332.js" nonce="Bo9JzaGU8ExaLoYKTXhPMQ=="></script>
-
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NH6FRX2');
+</script>
 <!-- End Google Tag Manager -->
 </head>
-
-<body class="html-ltr logged-out responsive document ru"
-      data-readonly="false"
-      data-usernames-api="/ru/users/api/usernames"
-      data-media-url="https://assets-prod.sumo.prod.webservices.mozgcp.net/"
-      
-        data-ga-alternate-url="/ru/kb/cookies-information-websites-store-on-your-computer"
-      
-data-document-id="1185" data-default-slug="cookies-information-websites-store-on-your-computer" >
-
-
-
-  
-
-<ul class="sumo-nav-access" id="nav-access">
-  <li><a href="#main-content">Перейти к основному содержимому</a></li>
-  <li><a href="/ru/locales?next=%2Fen-US%2Fkb%2Fcookies-information-websites-store-on-your-computer">Переключить язык</a></li>
-  <li><a id="skip-to-search" href="#search-q">Перейти к поиску</a></li>
-</ul>
-
-
-
-<div class="media-test"></div>
-
-<div id="announcements">
-  <div id="announce-geoip-suggestion" class="mzp-c-notification-bar mzp-t-warning">
-  <button class="mzp-c-notification-bar-button close-button" data-close-id="announce-geoip-suggestion" type="button"
-    data-close-memory="remember" 
-    data-close-type="remove" >
-  </button>
-  <p></p>
-</div>
-
-
-  
-  
-</div>
-
-<header class="mzp-c-navigation sumo-nav">
-  <div class="mzp-c-navigation-l-content">
-    <div class="sumo-nav--container">
-      <div class="sumo-nav--logo">
-        <a href="/ru/"><img src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/mozilla-support.c4f961a8d7b1d501.svg" alt="Mozilla Support Logo"/></a>
-      </div>
-
-      <button data-mobile-nav-search-button class="sumo-nav--search-button" type="button">Search</button>
-      <button data-sumo-toggle-nav="#main-navigation" class="sumo-nav--toggle-button" type="button" aria-controls="main-navigation">Menu</button>
-      <a class="sumo-nav--avatar-button" data-sumo-toggle-nav="#profile-navigation" aria-controls="profile-navigation" aria-role="button">
-        
-        <img class="avatar" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/default-FFA-avatar.2f8c2a0592bda1c5.png" alt="Avatar for Username">
-        
-
-      </a>
-      <div class="mzp-c-navigation-items sumo-nav--list-wrap" id="main-navigation">
-        <div class="mzp-c-navigation-menu">
-          <nav class="mzp-c-menu mzp-is-basic">
-              
-              <ul class="mzp-c-menu-category-list sumo-nav--list">
-                
-<li class="mzp-c-menu-category mzp-has-drop-down mzp-js-expandable">
-  <a class="mzp-c-menu-title sumo-nav--link" href="/ru/questions/" aria-haspopup="true"
-    aria-controls="mzp-c-menu-panel-help">Получить помощь</a>
-  <div class="mzp-c-menu-panel mzp-has-card" id="mzp-c-menu-panel-help">
-    <div class="sumo-nav--dropdown-container">
-      <div class="sumo-nav--dropdown-grid">
-        <button class="mzp-c-menu-button-close" type="button"
-          aria-controls="mzp-c-menu-panel-example">Закрыть меню Firefox</button>
-        <div class="sumo-nav--dropdown-col">
-          <section class="mzp-c-menu-item mzp-has-icon sumo-nav--dropdown-item">
-            <a class="mzp-c-menu-item-link" href="/ru/questions/new">
-              <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24">
-                <g stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round"
-                  stroke-linejoin="round">
-                  <path d="M11 3H4a2 2 0 00-2 2v12a2 2 0 002 2h9l2 4 2-4h2a2 2 0 002-2v-6" />
-                  <path d="M17.5 2.5a2.121 2.121 0 013 3L13 13l-4 1 1-4 7.5-7.5z" />
-                </g>
-              </svg>
-              <h4 class="mzp-c-menu-item-title">Задать вопрос</h4>
-              <p class="mzp-c-menu-item-desc">
-                Получите поддержку от наших помощников или сотрудников.
-              </p>
-            </a>
-            <ul class="mzp-c-menu-item-list sumo-nav--sublist">
-              <li><a href="/ru/questions/new/desktop">Браузер Firefox</a></li>
-              <li><a
-                  href="/ru/questions/new/firefox-private-network-vpn">Mozilla VPN</a>
-              </li>
-              <li><a href="/ru/questions/new/ios">Firefox для iOS</a></li>
-              <li><a href="/ru/questions/new/focus">Firefox Focus</a></li>
-              <li><a href="/ru/questions/new/mobile">Firefox для Android</a></li>
-              <li><a class="color-link" href="/ru/questions/new">Просмотреть все продукты</a></li>
-            </ul>
-          </section>
-        </div>
-        <div class="sumo-nav--dropdown-col">
-          <section class="mzp-c-menu-item mzp-has-icon sumo-nav--dropdown-item">
-            <a class="mzp-c-menu-item-link" href="/ru/products/">
-              <svg class="mzp-c-menu-item-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24">
-                <g transform="translate(3 3)" stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd"
-                  stroke-linecap="round">
-                  <rect stroke-linejoin="round" width="18" height="18" rx="2" />
-                  <path d="M4 5h10M4 9h10M4 13h4" />
-                </g>
-              </svg>
-              <h4 class="mzp-c-menu-item-title">Ознакомьтесь с нашими статьями справки</h4>
-              <p class="mzp-c-menu-item-desc">
-                Покопайтесь в базе знаний, советах и рекомендациях, устранении неполадок и многом другом.
-              </p>
-            </a>
-            <ul class="mzp-c-menu-item-list sumo-nav--sublist">
-              <li><a href="/ru/products/firefox">Браузер Firefox</a></li>
-              <li><a
-                  href="/ru/products/firefox-private-network-vpn">Mozilla VPN</a>
-              </li>
-              <li><a href="/ru/products/ios">Firefox для iOS</a></li>
-              <li><a href="/ru/products/focus-firefox">Firefox Focus</a></li>
-              <li><a href="/ru/products/mobile">Firefox для Android</a></li>
-              <li><a class="color-link" href="/ru/products/">Просмотреть все статьи</a></li>
-            </ul>
-          </section>
-        </div>
-      </div>
-    </div>
-  </div>
-</li>
-
-
-<li class="mzp-c-menu-category">
-  <a class="mzp-c-menu-title sumo-nav--link" href="/ru/contribute">Внести вклад</a>
-</li>
-
-              </ul>
-              
-          </nav>
-        </div>
-      </div>
-
-      <div class="mzp-c-navigation-items sumo-nav--list-wrap-right logged-out" id="profile-navigation">
-        <div class="mzp-c-navigation-menu">
-          <nav class="mzp-c-menu mzp-is-basic">
-              
-              <ul class="mzp-c-menu-category-list sumo-nav--list">
-                
-
-<li class="mzp-c-menu-category sumo-nav--item-right">
-  
-<form data-instant-search="form" id="support-search"  action="/ru/search/" method="get"
-   class="simple-search-form">
-  
-  
-  <input type="hidden" name="product" value="firefox" />
-  
-  
-  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
-    placeholder="Найти помощь..." class="searchbox" id="search-q" />
-  <button type="submit" title="Поиск" class="search-button">Поиск</button>
-</form>
-
-
-  
-</li>
-
-
-<li
-  class="mzp-c-menu-category logged-out-button-row ">
-  
-  <a rel="nofollow" href="/ru/users/auth" class="sumo-button secondary-button button-lg" data-event-category="navigation"
-    data-event-action="main navigation" data-event-label="Sign In">Войти/Зарегистрироваться</a>
-  
-</li>
-
-              </ul>
-              
-          </nav>
-        </div>
-      </div>
-      <div class="mzp-c-navigation-items sumo-nav--mobile-search-form" id="search-navigation">
-        <div class="mzp-c-navigation-menu">
-          <nav class="mzp-c-menu mzp-is-basic">
-            
-<form data-instant-search="form" id="mobile-search-results"  action="/ru/search/" method="get"
-   class="simple-search-form">
-  
-  
-  <input type="hidden" name="product" value="firefox" />
-  
-  
-  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
-    placeholder="Найти помощь..." class="searchbox" id="search-q" />
-  <button type="submit" title="Поиск" class="search-button">Поиск</button>
-</form>
-
-          </nav>
-        </div>
-      </div>
-    </div>
-  </div>
-</header><!--/.mzp-c-navigation -->
-
-
-<!-- This is only displayed when the instant search is active.
-     This block is overriden in home.html and product.html,
-     and can likely be removed when frontend search is replaced. -->
-<div class="home-search-section sumo-page-section--lg shade-bg hidden-search-masthead">
-  <div class="mzp-l-content narrow">
-    <div class="home-search-section--content">
-      <h4 class="sumo-page-heading-xl">Поиск в Поддержке</h4>
-      
-<form data-instant-search="form" id="hidden-search"  action="/ru/search/" method="get"
-   class="simple-search-form">
-  
-  
-  <input type="hidden" name="product" value="firefox" />
-  
-  
-  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
-    placeholder="Найти помощь..." class="searchbox" id="search-q" />
-  <button type="submit" title="Поиск" class="search-button">Поиск</button>
-</form>
-
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-<div class="mzp-l-content " id="main-content">
-  <div class="sumo-page-section--inner">
-    
-  
-<div class="breadcrumbs" id="main-breadcrumbs">
-  <ol id="breadcrumbs" class="breadcrumbs--list">
-  
-    
-      
-        <li><a href="/ru/">Домой</a></li>
-      
-    
-  
-    
-      
-        <li><a href="/ru/products/firefox">Firefox</a></li>
-      
-    
-  
-    
-      <li>Куки</li>
-    
-  
-  </ol>
-  </div>
-
-
-    <div class="sumo-l-two-col ">
-      
-      <aside id="aside" class="sumo-l-two-col--sidebar">
-        
-        
-  <div class="search-form-sidebar large-only">
-    
-<form data-instant-search="form" id="support-search-sidebar"  action="/ru/search/" method="get"
-   class="simple-search-form">
-  
-  
-  <input type="hidden" name="product" value="firefox" />
-  
-  
-  <input spellcheck="true" type="search" autocomplete="off" name="q" aria-required="true"
-    placeholder="Найти помощь..." class="searchbox" id="search-q" />
-  <button type="submit" title="Поиск" class="search-button">Поиск</button>
-</form>
-
-  </div>
-
-  
-  
-  
-
-  
-    
-    
-  
-  
-  <nav id="doc-tools">
-    <ul class="sidebar-nav sidebar-folding">
-      <li id="editing-tools-sidebar">
-        
-        <span class="details-heading"></span>
-        <ul class="sidebar-nav--list">
-        
-        
-          <li>
-            
-
-  <section class="showfor" id="showfor-panel">
-    <script type="application/json" class="showfor-data">
-      {"products": [{"title": "Firefox", "slug": "firefox", "platforms": ["win8", "win7", "winxp", "mac", "linux", "win10", "win11"], "visible": true}], "versions": {"firefox": [{"name": "Version 111", "slug": "fx111", "product": "firefox", "default": false, "min_version": 111.0, "max_version": 112.0, "visible": true}, {"name": "Version 110", "slug": "fx110", "product": "firefox", "default": true, "min_version": 110.0, "max_version": 111.0, "visible": true}, {"name": "Version 109", "slug": "fx109", "product": "firefox", "default": false, "min_version": 109.0, "max_version": 110.0, "visible": true}, {"name": "Version 108", "slug": "fx108", "product": "firefox", "default": false, "min_version": 108.0, "max_version": 109.0, "visible": true}, {"name": "Version 107", "slug": "fx107", "product": "firefox", "default": false, "min_version": 107.0, "max_version": 108.0, "visible": true}, {"name": "Version 106", "slug": "fx106", "product": "firefox", "default": false, "min_version": 106.0, "max_version": 107.0, "visible": true}, {"name": "Version 105", "slug": "fx105", "product": "firefox", "default": false, "min_version": 105.0, "max_version": 106.0, "visible": true}, {"name": "Version 104", "slug": "fx104", "product": "firefox", "default": false, "min_version": 104.0, "max_version": 105.0, "visible": true}, {"name": "Version 103", "slug": "fx103", "product": "firefox", "default": false, "min_version": 103.0, "max_version": 104.0, "visible": true}, {"name": "Version 102", "slug": "fx102", "product": "firefox", "default": false, "min_version": 102.0, "max_version": 103.0, "visible": true}, {"name": "Version 101", "slug": "fx101", "product": "firefox", "default": false, "min_version": 101.0, "max_version": 102.0, "visible": true}, {"name": "Version 100", "slug": "fx100", "product": "firefox", "default": false, "min_version": 100.0, "max_version": 101.0, "visible": false}, {"name": "Version 99", "slug": "fx99", "product": "firefox", "default": false, "min_version": 99.0, "max_version": 100.0, "visible": false}, {"name": "Version 98", "slug": "fx98", "product": "firefox", "default": false, "min_version": 98.0, "max_version": 99.0, "visible": false}, {"name": "Version 97", "slug": "fx97", "product": "firefox", "default": false, "min_version": 97.0, "max_version": 98.0, "visible": false}, {"name": "Version 96", "slug": "fx96", "product": "firefox", "default": false, "min_version": 96.0, "max_version": 97.0, "visible": false}, {"name": "Version 95", "slug": "fx95", "product": "firefox", "default": false, "min_version": 95.0, "max_version": 96.0, "visible": false}, {"name": "Version 94", "slug": "fx94", "product": "firefox", "default": false, "min_version": 94.0, "max_version": 95.0, "visible": false}, {"name": "Version 93", "slug": "fx93", "product": "firefox", "default": false, "min_version": 93.0, "max_version": 94.0, "visible": false}, {"name": "Version 92", "slug": "fx92", "product": "firefox", "default": false, "min_version": 92.0, "max_version": 93.0, "visible": false}, {"name": "Version 91", "slug": "fx91", "product": "firefox", "default": false, "min_version": 91.0, "max_version": 92.0, "visible": false}, {"name": "Version 90", "slug": "fx90", "product": "firefox", "default": false, "min_version": 90.0, "max_version": 91.0, "visible": false}, {"name": "Version 89", "slug": "fx89", "product": "firefox", "default": false, "min_version": 89.0, "max_version": 90.0, "visible": false}, {"name": "Version 88", "slug": "fx88", "product": "firefox", "default": false, "min_version": 88.0, "max_version": 89.0, "visible": false}, {"name": "Version 87", "slug": "fx87", "product": "firefox", "default": false, "min_version": 87.0, "max_version": 88.0, "visible": false}, {"name": "Version 86", "slug": "fx86", "product": "firefox", "default": false, "min_version": 86.0, "max_version": 87.0, "visible": false}, {"name": "Version 85", "slug": "fx85", "product": "firefox", "default": false, "min_version": 85.0, "max_version": 86.0, "visible": false}, {"name": "Version 84", "slug": "fx84", "product": "firefox", "default": false, "min_version": 84.0, "max_version": 85.0, "visible": false}, {"name": "Version 83", "slug": "fx83", "product": "firefox", "default": false, "min_version": 83.0, "max_version": 84.0, "visible": false}, {"name": "Version 82", "slug": "fx82", "product": "firefox", "default": false, "min_version": 82.0, "max_version": 83.0, "visible": false}, {"name": "Version 81", "slug": "fx81", "product": "firefox", "default": false, "min_version": 81.0, "max_version": 82.0, "visible": false}, {"name": "Version 80", "slug": "fx80", "product": "firefox", "default": false, "min_version": 80.0, "max_version": 81.0, "visible": false}, {"name": "Version 79", "slug": "fx79", "product": "firefox", "default": false, "min_version": 79.0, "max_version": 80.0, "visible": false}, {"name": "Version 78", "slug": "fx78", "product": "firefox", "default": false, "min_version": 78.0, "max_version": 79.0, "visible": false}, {"name": "Version 77", "slug": "fx77", "product": "firefox", "default": false, "min_version": 77.0, "max_version": 78.0, "visible": false}, {"name": "Version 76", "slug": "fx76", "product": "firefox", "default": false, "min_version": 76.0, "max_version": 77.0, "visible": false}, {"name": "Version 75", "slug": "fx75", "product": "firefox", "default": false, "min_version": 75.0, "max_version": 76.0, "visible": false}, {"name": "Version 74", "slug": "fx74", "product": "firefox", "default": false, "min_version": 74.0, "max_version": 75.0, "visible": false}, {"name": "Version 73", "slug": "fx73", "product": "firefox", "default": false, "min_version": 73.0, "max_version": 74.0, "visible": false}, {"name": "Version 72", "slug": "fx72", "product": "firefox", "default": false, "min_version": 72.0, "max_version": 73.0, "visible": false}, {"name": "Version 71", "slug": "fx71", "product": "firefox", "default": false, "min_version": 71.0, "max_version": 72.0, "visible": false}, {"name": "Version 70", "slug": "fx70", "product": "firefox", "default": false, "min_version": 70.0, "max_version": 71.0, "visible": false}, {"name": "Version 69", "slug": "fx69", "product": "firefox", "default": false, "min_version": 69.0, "max_version": 70.0, "visible": false}, {"name": "Version 68", "slug": "fx68", "product": "firefox", "default": false, "min_version": 68.0, "max_version": 69.0, "visible": false}, {"name": "Version 67", "slug": "fx67", "product": "firefox", "default": false, "min_version": 67.0, "max_version": 68.0, "visible": false}, {"name": "Version 66", "slug": "fx66", "product": "firefox", "default": false, "min_version": 66.0, "max_version": 67.0, "visible": false}, {"name": "Version 65", "slug": "fx65", "product": "firefox", "default": false, "min_version": 65.0, "max_version": 66.0, "visible": false}, {"name": "Version 64", "slug": "fx64", "product": "firefox", "default": false, "min_version": 64.0, "max_version": 65.0, "visible": false}, {"name": "Version 63", "slug": "fx63", "product": "firefox", "default": false, "min_version": 63.0, "max_version": 64.0, "visible": false}, {"name": "Version 62", "slug": "fx62", "product": "firefox", "default": false, "min_version": 62.0, "max_version": 63.0, "visible": false}, {"name": "Version 61", "slug": "fx61", "product": "firefox", "default": false, "min_version": 61.0, "max_version": 62.0, "visible": false}, {"name": "Version 60", "slug": "fx60", "product": "firefox", "default": false, "min_version": 60.0, "max_version": 61.0, "visible": false}, {"name": "Version 59", "slug": "fx59", "product": "firefox", "default": false, "min_version": 59.0, "max_version": 60.0, "visible": false}, {"name": "Version 58", "slug": "fx58", "product": "firefox", "default": false, "min_version": 58.0, "max_version": 59.0, "visible": false}, {"name": "Version 57", "slug": "fx57", "product": "firefox", "default": false, "min_version": 57.0, "max_version": 58.0, "visible": false}, {"name": "Version 56", "slug": "fx56", "product": "firefox", "default": false, "min_version": 56.0, "max_version": 57.0, "visible": false}, {"name": "Version 55", "slug": "fx55", "product": "firefox", "default": false, "min_version": 55.0, "max_version": 56.0, "visible": false}, {"name": "Version 54", "slug": "fx54", "product": "firefox", "default": false, "min_version": 54.0, "max_version": 55.0, "visible": false}, {"name": "Version 53", "slug": "fx53", "product": "firefox", "default": false, "min_version": 53.0, "max_version": 54.0, "visible": false}, {"name": "Version 52", "slug": "fx52", "product": "firefox", "default": false, "min_version": 52.0, "max_version": 53.0, "visible": false}, {"name": "Version 51", "slug": "fx51", "product": "firefox", "default": false, "min_version": 51.0, "max_version": 52.0, "visible": false}, {"name": "Version 50", "slug": "fx50", "product": "firefox", "default": false, "min_version": 50.0, "max_version": 51.0, "visible": false}, {"name": "Version 49", "slug": "fx49", "product": "firefox", "default": false, "min_version": 49.0, "max_version": 50.0, "visible": false}, {"name": "Version 48", "slug": "fx48", "product": "firefox", "default": false, "min_version": 48.0, "max_version": 49.0, "visible": false}, {"name": "Version 47", "slug": "fx47", "product": "firefox", "default": false, "min_version": 47.0, "max_version": 48.0, "visible": false}, {"name": "Version 46", "slug": "fx46", "product": "firefox", "default": false, "min_version": 46.0, "max_version": 47.0, "visible": false}, {"name": "Version 45", "slug": "fx45", "product": "firefox", "default": false, "min_version": 45.0, "max_version": 46.0, "visible": false}, {"name": "Version 44", "slug": "fx44", "product": "firefox", "default": false, "min_version": 44.0, "max_version": 45.0, "visible": false}, {"name": "Version 43", "slug": "fx43", "product": "firefox", "default": false, "min_version": 43.0, "max_version": 44.0, "visible": false}, {"name": "Version 42", "slug": "fx42", "product": "firefox", "default": false, "min_version": 42.0, "max_version": 43.0, "visible": false}, {"name": "Version 41", "slug": "fx41", "product": "firefox", "default": false, "min_version": 41.0, "max_version": 42.0, "visible": false}, {"name": "Version 40", "slug": "fx40", "product": "firefox", "default": false, "min_version": 40.0, "max_version": 41.0, "visible": false}, {"name": "Version 39", "slug": "fx39", "product": "firefox", "default": false, "min_version": 39.0, "max_version": 40.0, "visible": false}, {"name": "Version 38", "slug": "fx38", "product": "firefox", "default": false, "min_version": 38.0, "max_version": 39.0, "visible": false}, {"name": "Version 37", "slug": "fx37", "product": "firefox", "default": false, "min_version": 37.0, "max_version": 38.0, "visible": false}, {"name": "Version 36", "slug": "fx36", "product": "firefox", "default": false, "min_version": 36.0, "max_version": 37.0, "visible": false}, {"name": "Version 35", "slug": "fx35", "product": "firefox", "default": false, "min_version": 35.0, "max_version": 36.0, "visible": false}, {"name": "Version 34", "slug": "fx34", "product": "firefox", "default": false, "min_version": 34.0, "max_version": 35.0, "visible": false}, {"name": "Version 33", "slug": "fx33", "product": "firefox", "default": false, "min_version": 33.0, "max_version": 34.0, "visible": false}, {"name": "Version 32", "slug": "fx32", "product": "firefox", "default": false, "min_version": 32.0, "max_version": 33.0, "visible": false}, {"name": "Version 31", "slug": "fx31", "product": "firefox", "default": false, "min_version": 31.0, "max_version": 32.0, "visible": false}, {"name": "Version 30", "slug": "fx30", "product": "firefox", "default": false, "min_version": 30.0, "max_version": 31.0, "visible": false}, {"name": "Version 29", "slug": "fx29", "product": "firefox", "default": false, "min_version": 29.0, "max_version": 30.0, "visible": false}, {"name": "Version 28", "slug": "fx28", "product": "firefox", "default": false, "min_version": 28.0, "max_version": 29.0, "visible": false}, {"name": "Version 27", "slug": "fx27", "product": "firefox", "default": false, "min_version": 27.0, "max_version": 28.0, "visible": false}, {"name": "Version 26", "slug": "fx26", "product": "firefox", "default": false, "min_version": 26.0, "max_version": 27.0, "visible": false}, {"name": "Version 25", "slug": "fx25", "product": "firefox", "default": false, "min_version": 25.0, "max_version": 26.0, "visible": false}, {"name": "Version 24", "slug": "fx24", "product": "firefox", "default": false, "min_version": 24.0, "max_version": 25.0, "visible": false}, {"name": "Version 24 ESR", "slug": "fx24", "product": "firefox", "default": false, "min_version": 24.0, "max_version": 25.0, "visible": false}, {"name": "Version 23", "slug": "fx23", "product": "firefox", "default": false, "min_version": 23.0, "max_version": 24.0, "visible": false}, {"name": "Version 22", "slug": "fx22", "product": "firefox", "default": false, "min_version": 22.0, "max_version": 23.0, "visible": false}, {"name": "Version 21", "slug": "fx21", "product": "firefox", "default": false, "min_version": 21.0, "max_version": 22.0, "visible": false}, {"name": "Version 20", "slug": "fx20", "product": "firefox", "default": false, "min_version": 20.0, "max_version": 21.0, "visible": false}, {"name": "Version 19", "slug": "fx19", "product": "firefox", "default": false, "min_version": 19.0, "max_version": 20.0, "visible": false}, {"name": "Version 18", "slug": "fx18", "product": "firefox", "default": false, "min_version": 18.0, "max_version": 19.0, "visible": false}, {"name": "Version 17 (ESR)", "slug": "fx17", "product": "firefox", "default": false, "min_version": 17.0, "max_version": 18.0, "visible": false}, {"name": "Version 16", "slug": "fx16", "product": "firefox", "default": false, "min_version": 16.0, "max_version": 17.0, "visible": false}, {"name": "Version 15", "slug": "fx15", "product": "firefox", "default": false, "min_version": 15.0, "max_version": 16.0, "visible": false}, {"name": "Version 14", "slug": "fx14", "product": "firefox", "default": false, "min_version": 14.0, "max_version": 15.0, "visible": false}, {"name": "Version 13", "slug": "fx13", "product": "firefox", "default": false, "min_version": 13.0, "max_version": 14.0, "visible": false}, {"name": "Version 12", "slug": "fx12", "product": "firefox", "default": false, "min_version": 12.0, "max_version": 13.0, "visible": false}, {"name": "Version 11", "slug": "fx11", "product": "firefox", "default": false, "min_version": 11.0, "max_version": 12.0, "visible": false}, {"name": "Version 10 (ESR)", "slug": "fx10", "product": "firefox", "default": false, "min_version": 10.0, "max_version": 11.0, "visible": false}, {"name": "Version 9", "slug": "fx9", "product": "firefox", "default": false, "min_version": 9.0, "max_version": 10.0, "visible": false}, {"name": "Version 8", "slug": "fx8", "product": "firefox", "default": false, "min_version": 8.0, "max_version": 9.0, "visible": false}, {"name": "Version 7", "slug": "fx7", "product": "firefox", "default": false, "min_version": 7.0, "max_version": 8.0, "visible": false}, {"name": "Version 6", "slug": "fx6", "product": "firefox", "default": false, "min_version": 6.0, "max_version": 7.0, "visible": false}, {"name": "Version 5", "slug": "fx5", "product": "firefox", "default": false, "min_version": 5.0, "max_version": 6.0, "visible": false}, {"name": "Version 4", "slug": "fx4", "product": "firefox", "default": false, "min_version": 4.0, "max_version": 5.0, "visible": false}]}, "platforms": {"firefox": [{"name": "Linux", "slug": "linux", "visible": true}, {"name": "Mac", "slug": "mac", "visible": true}, {"name": "Windows XP", "slug": "winxp", "visible": true}, {"name": "Windows 7/Vista", "slug": "win7", "visible": true}, {"name": "Windows 8", "slug": "win8", "visible": true}, {"name": "Windows 10", "slug": "win10", "visible": true}, {"name": "Windows 11", "slug": "win11", "visible": true}]}}
-    </script>
-
-    <h3 class="sidebar-subheading force-top-margin">Настроить эту статью</h3>
-    
-
-    
-      
-        
-        
-
-        <div class="product" data-product="firefox">
-          <div class="field checkbox is-condensed">
-            <input
-              type="checkbox"
-              id="id_firefox"
-              checked
-              value="product:firefox"
-            />
-            <label for="id_firefox">Firefox</label>
-          </div>
-
-
-
-
-          
-            <div class="selectbox-wrapper">
-              <select class="version">
-                
-                  
-                    <option value="version:fx111"
-                            data-min="111.0"
-                            data-max="112.0"
-                            >
-                      Version 111
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx110"
-                            data-min="110.0"
-                            data-max="111.0"
-                            selected>
-                      Version 110
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx109"
-                            data-min="109.0"
-                            data-max="110.0"
-                            >
-                      Version 109
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx108"
-                            data-min="108.0"
-                            data-max="109.0"
-                            >
-                      Version 108
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx107"
-                            data-min="107.0"
-                            data-max="108.0"
-                            >
-                      Version 107
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx106"
-                            data-min="106.0"
-                            data-max="107.0"
-                            >
-                      Version 106
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx105"
-                            data-min="105.0"
-                            data-max="106.0"
-                            >
-                      Version 105
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx104"
-                            data-min="104.0"
-                            data-max="105.0"
-                            >
-                      Version 104
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx103"
-                            data-min="103.0"
-                            data-max="104.0"
-                            >
-                      Version 103
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx102"
-                            data-min="102.0"
-                            data-max="103.0"
-                            >
-                      Version 102
-                    </option>
-                  
-                
-                  
-                    <option value="version:fx101"
-                            data-min="101.0"
-                            data-max="102.0"
-                            >
-                      Version 101
-                    </option>
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-                  
-                
-              </select>
+<body class="notice scrollbar-dynamic">
+    <div class="noticeBox" data-timeout="0" data-show="0">
+            <div class="row" data-id="18">
+                <p class="notify-text" style="display: none">Специальная цена на <a href="../../../coffee/espresso-nutty" target="_blank" rel="noopener">Натти</a>&nbsp;до 24 марта: 1199 р/кг</p>
+                <button id="noticeBox-close" class="closeBtn" data-id="18"></button>
             </div>
-          
+    </div>
 
-          
-            <div class="selectbox-wrapper">
-              <select class="platform">
+
+    <header>
+
+        <div class="row">
+            <div class="headerFlex">
+                <div class="top-let-h">
+                    <div class="citySelect">
+                        <div class="logo-h desNone">
+                            <div class="logo__text">Интернет-магазин<br> свежего кофе</div>
+                        </div>
+                        <button id="city_open" class="greyLink"><span
+                                class="city_header_name">Ижевск</span><span
+                                class="arrow"></span></button>
+                    </div>
+                    <div class="cityPoint">
+                        <div class="text9"><span
+                                class="count_pvz_header">476 пунктов</span><br>
+                            выдачи заказов
+                        </div>
+                    </div>
+                </div>
                 
-                  
-                    <option value="platform:win8" >
-                      Windows 8
-                    </option>
-                  
                 
-                  
-                    <option value="platform:win7" >
-                      Windows 7/Vista
-                    </option>
-                  
                 
-                  
-                    <option value="platform:winxp" >
-                      Windows XP
-                    </option>
-                  
                 
-                  
-                    <option value="platform:mac" >
-                      Mac
-                    </option>
-                  
-                
-                  
-                    <option value="platform:linux" >
-                      Linux
-                    </option>
-                  
-                
-                  
-                    <option value="platform:win10" >
-                      Windows 10
-                    </option>
-                  
-                
-                  
-                    <option value="platform:win11" >
-                      Windows 11
-                    </option>
-                  
-                
-              </select>
-            </div>
-          
-        </div>
-      
+                <div class="phone-h">
+                    <a class="greyLink" href="tel:8 (800) 333-49-80">8 (800) 333-49-80
+                        <span class="arrow"></span></a>
+                </div>
+                <div class="selectCoffee-h">
+                    <a href="https://shop.tastycoffee.ru/how-to-choose-coffee" class="greyLink">Как выбрать
+                        кофе?</a>
+                </div>
+                <div class="group-links-h">
+                    <ul>
+                        <li><a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya" class="greyLink">Как
+                                приготовить?</a></li>
+                        <li><a class="greyLink" target="_blank" href="http://tastycoffee.ru/" rel="noopener">Оптовый
+                                сайт</a></li>
+                    </ul>
+                </div>
+                                
+                <div class="enter-h">
+                    <div class="reg-wrap">
+                        
+                            <div class="greyLink-wrap ">
+                                <button class="greyLink enterOpen">Вход</button>
+                            </div>
+                            <div class="greyLink-wrap">
+                                <a class="greyLink" href="https://shop.tastycoffee.ru/create-account">Регистрация</a>
+                            </div>
+                                            </div>
+                </div>
+                                <div class="line-h"></div>
+
+
+                <div class="logo-h">
+                    <a href="/"><img src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo.svg"
+                                     alt="Интернет-магазин свежего кофе"></a>
+                    <div class="logo__text">
+                        Интернет-магазин<br> свежего кофе
+                    </div>
+                </div>
+                <div class="menu-h">
+    <div class="wrapMlh ">
+        <a href="https://shop.tastycoffee.ru/coffee"
+           class="m-no-link menu__link-h menuAc openMob ">Купить</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li><a href="https://shop.tastycoffee.ru/coffee">Кофе</a></li>
+            <li><a href="https://shop.tastycoffee.ru/tea">Чай</a></li>
+            <li><a href="https://shop.tastycoffee.ru/accessories">Аксессуары</a></li>
+            <li><a href="https://shop.tastycoffee.ru/chocolate">Шоколад и снеки</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/subscription">Подписка на кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/accessories/gift-certificate">Подарочный сертификат</a></li>
+                    </ul>
+    </div>
+    <div class="wrapMlh ">
+        <a class="menu__link-h "
+           href=https://shop.tastycoffee.ru/reviews>
+            Отзывы
+                            <span class="reviewsCount">16585</span>
+                    </a>
+    </div>
+
+
+
+
+    <div class="wrapMlh header-community_link ">
+        <a class="menu__link-h "
+           href="https://shop.tastycoffee.ru/community">Сообщество</a>
+        <div class="community_title-tip tipEl">
+    <button class="tip-btn">?</button>
+    <div class="tip-text">
+        В кофейном сообществе пользователи делятся впечатлениями, идеями и рецептами кофе, а также общаются друг с другом
+    </div>
+</div>
+    </div>
     
-
-  </section>
-          </li>
-        
+    <div class="wrapMlh ">
+        <a href="https://shop.tastycoffee.ru/blog" class="m-no-link menu__link-h menuAc ">Читать</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li class=""><a href="https://shop.tastycoffee.ru/blog">Журнал о кофе</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/faq">Частые вопросы</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/how-to-choose-coffee">Как выбрать кофе?</a></li>
         </ul>
-      </li>
-    </ul>
-  </nav>
-
-        
-<div class="document-vote--sidebar-wrap">
-  
-  
-    
-  
-  
-    <div class="document-vote elevation-01 text-center">
-      <form class="document-vote--form helpful" action="/ru/kb/kuki-informaciya-kotoruyu-veb-sajty-hranyat-na-vas/vote" method="post">
-          <input type='hidden' name='csrfmiddlewaretoken' value='v3v6apwCAhPVsMzn5qBfED7zQcA7WtxfU7L0Rg42c04xcB4FpTBejmsyOSYgLnLh' />
-          <h4 class="document-vote--heading">Помогла ли эта статья?</h4>
-          <div class="document-vote--buttons">
-            <input type="hidden" name="revision_id" value="240803" />
-            <input type="hidden" name="source" value="footer" />
-            <button type="submit" class="btn helpful-button" name="helpful"><span class="hidden-text">Да</span>👍</button>
-            <button type="submit" class="btn not-helpful-button" name="not-helpful"><span class="hidden-text">Нет</span>👎</button>
-            <img class="wait" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/spinner.18d6c26adc937688.gif" alt="Пожалуйста, подождите..." />
-          </div>
-      </form>
     </div>
-  
+    <div class="wrapMlh ">
+        <a
+            class="m-no-link menu__link-h menuAc "
+            href="https://shop.tastycoffee.ru/shipment-and-payment">Условия работы</a>
+        <span class="arrow"></span>
+        <ul class="menuHm">
+            <li class=""><a href="https://shop.tastycoffee.ru/shipment-and-payment">Доставка и оплата</a></li>
+            <li class=""><a href="https://shop.tastycoffee.ru/discount-system">Система скидок</a></li>
+        </ul>
+    </div>
+
 </div>
-
-      </aside>
-      
-      <main role="main" class="sumo-l-two-col--main">
-      
-      
-  <section id="document-list">
-    <header class="sumo-article-header has-border-bottom">
-      <div class="sumo-article-header--text">
-        <div class="documents-product-title">
-          
-          <a href="/ru/products/firefox" title="Firefox">
-            <img src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/products/2020-04-14-08-36-13-8dda6f.png" height="48" width="48" alt="" />
-          </a>
-          
-            
-
-<div class="firefox-download-button hidden">
-  <div class="download-buttons">
-    <div class="download-firefox">
-      <a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=non-fx-button&amp;utm_content=body-download-button"
-        class="download-button sumo-button primary-button button-lg" data-event-category="Download Button"
-        data-event-action="Panel Opening" data-event-label="">
-        Загрузить Firefox
-      </a>
-      <ul class="download-info text-body-xs">
-        <li><a href="https://www.mozilla.org/firefox/all/">Системы и языки</a></li>
-        <li><a href="https://www.mozilla.org/firefox/notes">Что нового</a></li>
-        <li><a href="https://www.mozilla.org/legal/privacy/firefox">Приватность</a></li>
-      </ul>
-    </div>
-    
-    <div class="refresh-firefox">
-      <p class="help-text">Наладьте Firefox</p>
-      <a data-mozilla-ui-reset="reset" class="download-button sumo-button primary-button button-lg">
-        Очистить Firefox
-      </a>
-      <ul class="download-info text-body-xs">
-        <li><a class="reset-link" href="/ru/kb/refresh-firefox-reset-add-ons-and-settings">
-            Как это работает?
-          </a></li>
-        <li>
-          <a href="https://www.mozilla.org/firefox/new/#download-fx" data-event-category="Download Button"
-            data-event-action="Panel Opening" data-event-label="">
-            Загрузить свежую копию
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
+                                    <form class="search-m" action="https://shop.tastycoffee.ru/search"
+                          data-action="https://shop.tastycoffee.ru/ajax/search/product/header">
+                        <input class="searchItems" id="search_h" type="text" name="q" placeholder="Поиск по каталогу…">
+                        <input type="submit">
+                        <div id="openSearch_h"></div>
+                        <div class="headerProduct-search"></div>
+                    </form>
+                                <div class="socialNetworks">
+                    <button class="socBtn">open</button>
+                    <ul>
+                        <li>
+                            <a class="vk" title="Vkontakte" href="https://vk.com/tastycoffeeroasters" target="_blank">
+                                <span class="box">Написать нам в ВК</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="faq des" title="" href="https://shop.tastycoffee.ru/faq"
+                               target="_blank"><span class="box">Ответы на частые вопросы</span></a>
+                            <a class="faq mob" title="" href="https://shop.tastycoffee.ru/faq"
+                               target="_blank"><span class="box">Ответы на частые вопросы</span></a>
+                        </li>
+                        <li>
+                            <a class="vb des" title="Viber" href="viber://chat?number=+79508242000"
+                               target="_blank"><span class="box">Написать нам в Viber</span></a>
+                            <a class="vb mob" title="Viber" href="viber://add?number=79508242000" target="_blank"><span
+                                    class="box">Написать нам в Viber</span></a>
+                        </li>
+                        <li>
+                            <a class="wa des" title="WhatsApp" href="https://api.whatsapp.com/send?phone=7979508242000"
+                               target="_blank"><span class="box">Написать нам в WhatsApp</span> </a>
+                            <a class="wa mob" title="WhatsApp" href="whatsapp://send?phone=79508242000" target="_blank"><span
+                                    class="box">Написать нам в WhatsApp</span></a>
+                        </li>
+                        <li>
+                            <a class="in" title="Instagram" href="https://www.instagram.com/tastycoffeeroasters"
+                               target="_blank"><span class="box">Написать нам в Instagram</span></a>
+                        </li>
+                        <li>
+                            <a class="tel des" title="Telegram" href="https://t.me/sharov_artem" target="_blank"><span
+                                    class="box">Написать нам в Telegram</span></a>
+                            <a class="tel mob" title="Telegram" href="tg://resolve?domain=sharov_artem" target="_blank"><span
+                                    class="box">Написать нам в Telegram</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <a href="https://shop.tastycoffee.ru/my-favorites" class="fav-h"></a>
+                <div id="compareBlock-header">
+                    <div class="comparison-h">
+    <a href="https://shop.tastycoffee.ru/compare"
+       class="comparison-h-link">
+            </a>
+    <div class="comparisonBox">
+                    <p class="comparisonBox__title">Пока нет товаров для сравнения</p>
+            </div>
 </div>
+                </div>
 
-          
+                <div class="basket-h">
+                    <a href="https://shop.tastycoffee.ru/basket" id="openBasket">
+                        <span class="btnBasket"></span>
+                        <span class="greyText-wrap" id="header_cart_text">
+                        <div class="basketPrice">0 <span class="rub">₽</span></div>
+<div class="greyText">0 товаров </div>                    </span>
+                    </a>
+                </div>
+                <div class="hamburger hamburger--spin">
+                    <div class="hamburger-box">
+                        <div class="hamburger-inner"></div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <h1 class="sumo-page-heading">Куки - информация, которую веб-сайты хранят на вашем компьютере</h1>
-      </div>
+        <div id="city_popup" class="popupSr fadeIn">
+            <form data-action="https://shop.tastycoffee.ru/ajax/select-header-city">
+                <a class="closeBtn" href="#"></a>
+                <h5>Выбор города</h5>
+                
+                <input type="text"
+                       class="inputEl"
+                       id="city_header"
+                       data-after-select="afterSelectCityHeader"
+                       name="city_header"
+                       placeholder="Поиск по названию">
+                <div class="cityResult">
+                    <div class="row-wrap">
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="5">Москва</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="6">Красноярск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="7">Тольятти</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="8">Санкт-Петербург</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="9">Мурманск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="10">Тула</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="11">Архангельск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="12">Набережные Челны</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="13">Тюмень</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="14">Владивосток</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="15">Ульяновск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="16">Волгоград</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="17">Нижний Новгород</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="18">Уфа</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="19">Воронеж</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="20">Новосибирск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="21">Хабаровск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="22">Екатеринбург</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="23">Омск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="24">Челябинск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="25">Ижевск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="26">Пермь</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="27">Ярославль</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="28">Иркутск</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="29">Ростов-на-Дону</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="30">Казань</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="31">Саратов</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="32">Кемерово</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="33">Самара</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="34">Краснодар</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="35">Сургут</a>
+                            </div>
+                                                    <div class="col-v3">
+                                <a class="city-item selectPopularCity"
+                                   data-id="36">Тверь</a>
+                            </div>
+                                            </div>
+                </div>
+            </form>
+        </div>
+        <div id="feedBack__popup" class="feedBack fadeIn animated">
+            <div class="feedBack-wrap">
+                <a class="closeBtn" href="#"></a>
+                <form action="https://shop.tastycoffee.ru/ajax/feedback/send" class="send-feedback">
+                    <input type="hidden" name="_token" value="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p">                    <input type="hidden" name="type" value="1">
+                    <div class="itemFb">
+                        <h5>Свяжитесь со мной</h5>
+                        <input type="text" placeholder="Имя" name="name" required>
+                        <input class="phone-mask" type="text" name="phone" placeholder="Телефон" required>
+                    </div>
+                    <div class="itemFb">
+                        <div class="checkbox-wrap">
+                            <input id="consent" type="checkbox" name="is_check" value="1" checked>
+                            <label for="consent" class="feedback-agreed">
+                                <span class="label__box"></span>
+                                <span class="label__text">
+                                            <p class="text12 ">Согласен с условиями обработки <a
+                                                    href="https://shop.tastycoffee.ru/privacy" target="_blank">персональных данных</a>,
+                                            <a href="https://shop.tastycoffee.ru/user-agreement"
+                                               target="_blank">Пользовательского соглашения</a> и
+                                            <a href="https://shop.tastycoffee.ru/public-offer" target="_blank">Публичной оферты</a></p>
+                        </span>
+                            </label>
+                        </div>
+                        <div class="showErrors_text"></div>
+                        <input type="submit" class="blackBtn" value="Отправить запрос">
+                        <div class="text11">Мы перезваниваем в рабочее время в течение 2 часов</div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div id="enterPopup" class="popupEn fadeIn">
+            <a class="closeBtn" href="#"></a>
+            <form class="popupEn__form" id="sign-in-form" action="https://shop.tastycoffee.ru/login">
+                <h5>Вход на сайт</h5>
+                <input placeholder="E-mail" id="email" name="email" type="email" required>
+                <input id="password" type="password" name="password" placeholder="Пароль" required>
+                <p class="siteError siteError-email">
+
+                </p>
+                <div class="checkbox-wrap">
+                    <input name="remember" id="remember" type="checkbox">
+                    <label for="remember">
+                        <span class="label__box"></span>
+                        <span class="label__text">Запомнить меня на этом компьютере</span>
+                    </label>
+                </div>
+                <input type="submit" id="sign-in" class="blackBtn" value="Войти"/>
+                <a href="https://shop.tastycoffee.ru/password/reset" class="enterLk__link">Забыли пароль?</a>
+            </form>
+            <div class="popupEn-c">
+                
+                <a href="#" class="socBtn vk vk-login"></a>
+                <a href="#" class="socBtn gmail gmail-login"></a>
+                <a href="#" class="socBtn apple apple-login"></a>
+                <a href="#" class="socBtn sber sb-login"></a>
+                <a href="#" class="socBtn yandex-login"></a>
+                                <div id="g_id_onload"
+                     data-client_id="881119885027-1a5vu5mvlb1s0l8t2qoqrpn0k3idaau0.apps.googleusercontent.com"
+                     data-context="signin"
+                     data-login_uri="https://shop.tastycoffee.ru/ajax/auth/google/one-tap/callback"
+                     data-itp_support="true"
+                     data-_token="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p"
+                >
+                </div>
+                            </div>
+            <div class="popupEn-c">
+                <a href="https://shop.tastycoffee.ru/create-account" class="blackLink">Регистрация</a>
+            </div>
+        </div>
+        <div class="basket-popup fadeIn">
+            <a class="closeBtn" href="#"></a>
+            <div class="basket-popup-wrap" id="header_cart_modal">
+                <div class="basket__title basket__title-no-products">Пока корзина пуста</div>
+            </div>
+        </div>
+        <form id="logout-form" action="https://shop.tastycoffee.ru/logout" method="POST" style="display: none;">
+            <input type="hidden" name="_token" value="HfZdKVVv9mp2cXLPM1ejfk39xUqQ9xpLb75lnv1p">        </form>
+        <div class="exportPoints fadeIn animated">
+            <a class="closeBtn" href="#"></a>
+            
+            <div class="text13">В ваш город доставляем службами</div>
+            <div id="count_pvz_content">
+                <table class="tabletEp">
+    <tbody>
+                    <tr>
+            <td class="headerDeliveryImageWrap_dpd"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/dpd.svg" alt=""></td>
+            <td><p class="borderEp">DPD</p></td>
+                        <td><p>95 пунктов выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_cdek"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/cdek.svg" alt=""></td>
+            <td><p class="borderEp">СДЭК</p></td>
+                        <td><p>30 пунктов выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_pony"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pony.svg" alt=""></td>
+            <td><p class="borderEp">Pony Express</p></td>
+                        <td><p>1 пункт выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_pickpoint"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/pickpoint-new.svg" alt=""></td>
+            <td><p class="borderEp">PickPoint</p></td>
+                        <td><p>187 пунктов выдачи</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_ems"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/ems/images.jpeg" alt=""></td>
+            <td><p class="borderEp">EMS</p></td>
+                        <td><p>до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_free"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/post_new.svg" alt=""></td>
+            <td><p class="borderEp">Почта России</p></td>
+                        <td><p>1 пункт выдачи</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_tastycoffee"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/site_logo_gray.svg" alt=""></td>
+            <td><p class="borderEp">Tasty Coffee</p></td>
+                            <td><p>до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_yandex"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/files/shares/logo/deliveries/yandex-delivery.svg" alt=""></td>
+            <td><p class="borderEp">Яндекс Доставка</p></td>
+                        <td><p>162 пункта выдачи или до двери</p></td>
+                    </tr>
+                    <tr>
+            <td class="headerDeliveryImageWrap_fivepost"><img class="imgEp1 "  src="https://coffee-static.storage.yandexcloud.net/assets/site/img/fivepost.jpg" alt=""></td>
+            <td><p class="borderEp">5post</p></td>
+                        <td><p>-</p></td>
+                    </tr>
+        </tbody>
+</table>
+            </div>
+            <p>Адреса пунктов выдачи, сроки и стоимость доставки можно увидеть в корзине при оформлении заказа</p>
+            
+            
+            
+            
+        </div>
     </header>
 
-    
-    <article class="wiki-doc">
-      
-  
-  
-      <section id="doc-content" class="document--content ">
-    
-      <p>В этой статье описывается что такое "куки", как они используются и как вы можете управлять куками, которые хранит Firefox.
-</p>
-<div id="toc"><h2>Оглавление</h2><ul><li class="toclevel-1"><a href="#w_chto-takoe-kuki"><span class="tocnumber">1</span> <span class="toctext">Что такое куки?</span></a></li><li class="toclevel-1"><a href="#w_nastroiki-kuki"><span class="tocnumber">2</span> <span class="toctext">Настройки куки</span></a></li><li class="toclevel-1"><a href="#w_ustranenie-problem-s-kuki"><span class="tocnumber">3</span> <span class="toctext">Устранение проблем с куки</span></a></li></ul></div>
-<h1 id="w_chto-takoe-kuki">Что такое куки?</h1>
-<p><a href="http://ru.wikipedia.org/wiki/HTTP_cookie">Куки</a> являются информацией, сохраняемой на Вашем компьютере веб-сайтом, который Вы посещаете. В некоторых браузерах, каждая кука является небольшим файлом, но в Firefox, все куки хранятся в одном файле, расположенном в папке <a href="/ru/kb/profili-gde-firefox-hranit-polzovatelskie-dannye">профиля</a> Firefox.
-</p><p>Куки часто хранят ваши настройки для веб-сайта, например статус логина и предпочитаемый язык или местоположение. Когда Вы вернётесь на сайт, Firefox отправляет обратно куки, которые принадлежат этому сайту. Это позволяет вам оставаться залогиненным на веб-сайте и позволяет сайту предоставить вам информацию, соответствующую вашим потребностям.
-</p><p>Куки могут хранить широкий диапазон информации, включая персональные данные (например, Ваше имя, домашний адрес, адрес электронной почты или номер телефона). Тем не менее, эта информация может храниться только в том случае, если Вы её предоставите - веб-сайты не могут получить доступ к информации, которую Вы им не предоставили и они не могут получить доступ к другим файлам на Вашем компьютере.
-</p><p>По умолчанию, действия по хранению и отправкам кук для вас невидимы. Тем не менее, Вы можете изменить Ваши настройки Firefox, чтобы позволить вам лично одобрять или отклонять запросы на сохранение кук, автоматически удалять сохранённые куки при закрытии Firefox и многое другое.
-</p>
-<h1 id="w_nastroiki-kuki">Настройки куки</h1>
-<p>Вы можете открыть Настройки
- вашего Firefox, чтобы управлять куки следующим образом:
-</p>
-<ol><li> <p><span class="for" data-for="mac">На Панели меню в верхней части экрана щёлкните <span class="menu">Firefox</span> и выберите <span class="menu">Настройки</span>.</span>
-<span class="for" data-for="win,win11,linux"><span class="for" data-for="not fx89">Нажмите кнопку <img alt="Fx57Menu" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2017-10-22-15-37-15-18c775.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title=""> и выберите <span class="menu">Настройки</span>.</span><span class="for" data-for="fx89">Нажмите кнопку <img alt="Fx89menuButton" class="wiki-image frameless lazy" data-original-src="https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/gallery/images/2021-05-15-11-18-38-e5b736.png" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/placeholder.688345f843bb37ed.gif" title=""> и выберите <span class="menu">Настройки</span>.</span></span>
-</p>
-</li><li> Выберите панель <span class="menu">Приватность и Защита</span>.
-</li></ol>
-<p>Настройки куки под <strong><a href="/ru/kb/uluchshennaya-zashita-ot-otslezhivaniya-firefox-dlya-kompyutera">Улучшенная защита от отслеживания</a></strong> и <strong>Куки и данные сайтов</strong>.
-</p><p>Для получения инструкций о том, как управлять настройками кук для определённых задач, прочитайте:
-</p>
-<ul><li> <a href="/ru/kb/udalenie-kuki-i-dannyh-sajtov-v-firefox">Удаление куки и данных сайтов в Firefox</a>: Как удалить куки, которые уже были сохранены веб-сайтами.
-</li><li> <a href="/ru/kb/kak-ne-davat-veb-sajtam-sohranyat-kuki-i-dannye-sa">Как не давать веб-сайтам сохранять куки и данные сайтов в Firefox</a>: Как не давать определенным веб-сайтам сохранять куки.
-</li><li> <a href="/ru/kb/storonnie-kuki-zashita-ot-otslezhivaniya-firefox">Сторонние куки и защита от отслеживания Firefox</a>: Как не давать веб-сайтам, за исключением того на котором Вы сейчас находитесь, сохранять куки.
-</li></ul>
-<h1 id="w_ustranenie-problem-s-kuki">Устранение проблем с куки</h1>
-<p>Если у Вас возникли проблемы с Firefox, затрагивающие куки, прочитайте:
-</p>
-<ul><li> <a href="/ru/kb/veb-sajty-soobshayut-chto-kuki-zablokirovany">Веб-сайты сообщают что куки заблокированы - Как их разблокировать</a>
-</li><li> <a href="/ru/kb/ispravlenie-problem-pri-vhode-na-veb-sajty-kotorye">Устранение проблем при входе на веб-сайты, которые требуют ввода имени пользователя и пароля</a>
-</li></ul>
-    
-  </section>
+<button class="topBtn">Наверх</button>
 
-      
-      
-        <p class="share-link">
-          <br/>
-          
-          Поделитесь этой статьёй: <a href="http://mzl.la/1BAQyo7">http://mzl.la/1BAQyo7</a>
-        </p>
-      
-    </article>
-
-    <section class="sumo-page-section hide-on-large">
-      
-    
-  
-  
-    <div class="document-vote elevation-01 text-center">
-      <form class="document-vote--form helpful" action="/ru/kb/kuki-informaciya-kotoruyu-veb-sajty-hranyat-na-vas/vote" method="post">
-          <input type='hidden' name='csrfmiddlewaretoken' value='v3v6apwCAhPVsMzn5qBfED7zQcA7WtxfU7L0Rg42c04xcB4FpTBejmsyOSYgLnLh' />
-          <h4 class="document-vote--heading">Помогла ли эта статья?</h4>
-          <div class="document-vote--buttons">
-            <input type="hidden" name="revision_id" value="240803" />
-            <input type="hidden" name="source" value="footer" />
-            <button type="submit" class="btn helpful-button" name="helpful"><span class="hidden-text">Да</span>👍</button>
-            <button type="submit" class="btn not-helpful-button" name="not-helpful"><span class="hidden-text">Нет</span>👎</button>
-            <img class="wait" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/spinner.18d6c26adc937688.gif" alt="Пожалуйста, подождите..." />
-          </div>
-      </form>
+    <div class="socialNetworks fix">
+        <button class="socBtn">open</button>
+        <ul>
+            
+            
+            
+            
+            
+            <li>
+                <a class="quiz des" href="https://shop.tastycoffee.ru/coffee-quiz" target="_blank">
+                    <span class="box">Как выбрать кофе?</span></a>
+                <a class="quiz mob" href="https://shop.tastycoffee.ru/coffee-quiz" target="_blank">
+                    <span class="box">Как выбрать кофе?</span></a>
+            </li>
+            <li>
+                <a class="faq des" href="https://shop.tastycoffee.ru/faq" target="_blank">
+                    <span class="box">Ответы на частые вопросы</span></a>
+                <a class="faq mob" href="https://shop.tastycoffee.ru/faq" target="_blank">
+                    <span class="box">Ответы на частые вопросы</span></a>
+            </li>
+            <li>
+                <a class="vb des" title="Viber" href="viber://chat?number=+79508242000" target="_blank">
+                    <span class="box">Написать нам в Viber</span></a>
+                <a class="vb mob" title="Viber" href="viber://add?number=79508242000" target="_blank">
+                    <span class="box">Написать нам в Viber</span></a>
+            </li>
+            <li>
+                <a class="wa des" title="WhatsApp" href="https://api.whatsapp.com/send?phone=79508242000"
+                   target="_blank"><span class="box">Написать нам в WhatsApp</span> </a>
+                <a class="wa mob" title="WhatsApp" href="whatsapp://send?phone=79508242000" target="_blank"><span
+                        class="box">Написать нам в WhatsApp</span></a>
+            </li>
+            
+            
+            
+            <li>
+                <a class="tel des" title="Telegram" href="https://t.me/tastycoffeeshop" target="_blank"><span
+                        class="box">Написать нам в Telegram</span></a>
+                <a class="tel mob" title="Telegram" href="tg://resolve?domain=tastycoffeeshop" target="_blank"><span
+                        class="box">Написать нам в Telegram</span></a>
+            </li>
+        </ul>
     </div>
-  
-    </section>
-
-    <section id="doc-contributors" class="document--contributors sumo-page-section">
-    <p class="help-title text-body-md">Эти прекрасные люди помогли написать эту статью:</p> <div class="document--contributors-list text-body-xs"><a class="user secondary-color" rel="nofollow" href="/ru/user/Unghost/">Unghost</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/PiVV/">PiVV</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/harrierr/">Harry</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/Anticisco/">Anticisco Freeman</a>, <a class="user secondary-color" rel="nofollow" href="/ru/user/Goudron/">Valery Ledovskoy</a></div>
-  </section>
-
-    <section class="sumo-page-section">
-      <div class="card card--callout is-full-width has-moz-headings">
-  <div class="card--callout-wrap-narrow">
-    <img class="card--feature-img" src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/volunteer.a3be8d331849774b.png" alt="Illustration of hands" />
-    <div class="card--details">
-      <h3 class="card--title">Станьте волонтёром</h3>
-      <p class="card--desc">Растите и делитесь опытом с другими. Отвечайте на вопросы и улучшайте нашу базу знаний.</p>
-      <p class="card--desc"><strong><a href="/ru/contribute">Подробнее</a></strong></p>
-    </div>
-  </div>
-</div>
-    </section>
-
-    
-  </section>
-
-      </main>
-    </div>
-  </div>
-  
-</div>
 
 
-<footer class="mzp-c-footer">
-  <div class="mzp-l-content">
-    <nav class="mzp-c-footer-primary">
-      <div class="mzp-c-footer-cols">
-        <section class="mzp-c-footer-col">
-          <h5 class="mzp-c-footer-heading">Mozilla</h5>
-          <ul class="mzp-c-footer-list">
-            <li><a href="https://www.mozilla.org/en-US/about/legal/fraud-report/">Сообщить о злоупотреблении торговой маркой</a></li>
-            <li><a href="https://github.com/mozilla/kitsune/">Исходный код</a></li>
-            <li><a href="https://twitter.com/firefox">Твиттер</a></li>
-            <li><a href="/ru/contribute">Присоединяйтесь к нашему сообществу</a></li>
-            <li><a href="/ru/">Ознакомьтесь с нашими статьями справки</a></li>
-          </ul>
-        </section>
+        <input type="text" class="firstAnswer" hidden value="">
+    <div class="content mainQuizPage mainQuizPage--1 d-none">
+        <picture class="quizPageBanner">
+            <source
+                srcset="/assets/site/img/quizPageBannerMobile1.jpg"
+                class="bgImg" media="(max-width:640px)">
+            <img
+                src="/assets/site/img/quizPageBanner1.jpg"
+                alt="Flowers" class="bgImg">
+        </picture>
+        <div class="row wrapQuizPage">
+            <h1 class="h1 color-white uppercase fz-64">
+                Поможем выбрать кофе
+            </h1>
+            <h3 class="fz-26 color-white h3 mainText-h3">
+                Ответьте на 3 вопроса
+            </h3>
 
-        <section class="mzp-c-footer-col">
-          <h5 class="mzp-c-footer-heading">Firefox</h5>
-          <ul class="mzp-c-footer-list">
-            <li><a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Загрузить</a></li>
-            <li><a href="https://www.mozilla.org/firefox/new/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Firefox для компьютера</a></li>
-            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Браузер для Android</a></li>
-            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Браузер для iOS</a></li>
-            <li><a href="https://www.mozilla.org/firefox/mobile/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Браузер Focus</a></li>
-          </ul>
-        </section>
+            <div class="quizPage">
+                <h3>
+                    Какой кофе вы обычно пьете?
+                </h3>
+                <div class="grayCount">
+                    <span>1</span>/3
+                </div>
+                <div class="quizPageBtn">
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="black">
+                        <span class="textBtn">
+                            <span class="textBox">
+                            Чёрный
+                                </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="milk">
+                        <span class="textBtn">
+                            <span class="textBox">
+                            С молоком/сливками
+                                </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="both">
+                        <span class="textBtn">
+                            <span class="textBox">
+                            Оба варианта
+                                </span>
+                        </span>
+                        </button>
+                    </div>
+                </div>
+                <div class="quizPageLine">
 
-        <section class="mzp-c-footer-col">
-          <h5 class="mzp-c-footer-heading">Firefox для разработчиков</h5>
-          <ul class="mzp-c-footer-list">
-            <li><a href="https://www.mozilla.org/en-US/firefox/developer/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral">Developer Edition</a></li>
-            <li><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#beta">Бета</a></li>
-            <li><a href="https://www.mozilla.org/en-US/firefox/channel/android/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#beta">Бета для Android</a></li>
-            <li><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#nightly">Nightly</a></li>
-            <li><a href="https://www.mozilla.org/en-US/firefox/channel/android/?utm_source=support.mozilla.org&utm_campaign=footer&utm_medium=referral#nightly">Nightly для Android</a></li>
-          </ul>
-        </section>
-
-        <section class="mzp-c-footer-col">
-          <h5 class="mzp-c-footer-heading">Аккаунты Firefox</h5>
-          <ul class="mzp-c-footer-list">
-            <li><a rel="nofollow" href="/ru/users/auth">Войти/Зарегистрироваться</a></li>
-            <li><a href="https://www.mozilla.org/en-US/firefox/accounts/">Преимущества</a></li>
-            <li class="mzp-c-footer-heading"><br><a href="https://fpn.firefox.com/">Firefox Private Network</a></li>
-          </ul>
-        </section>
-
-        <section class="mzp-c-footer-col lang-col">
-          <form class="mzp-c-language-switcher" method="get" action="#">
-            <a class="mzp-c-language-switcher-link" href="https://www.mozilla.org/locales/">Язык</a>
-            <label for="mzp-c-language-switcher-select">Язык</label>
-            <select id="mzp-c-language-switcher-select" class="mzp-js-language-switcher-select"
-             name="lang">
-              
-                  <option value="af" >Afrikaans</option>
-              
-                  <option value="ar" >عربي</option>
-              
-                  <option value="az" >Azərbaycanca</option>
-              
-                  <option value="bg" >Български</option>
-              
-                  <option value="bm" >Bamanankan</option>
-              
-                  <option value="bn" >বাংলা</option>
-              
-                  <option value="bs" >Bosanski</option>
-              
-                  <option value="ca" >català</option>
-              
-                  <option value="cs" >Čeština</option>
-              
-                  <option value="da" >Dansk</option>
-              
-                  <option value="de" >Deutsch</option>
-              
-                  <option value="ee" >Èʋegbe</option>
-              
-                  <option value="el" >Ελληνικά</option>
-              
-                  <option value="en-US" >English</option>
-              
-                  <option value="es" >Español</option>
-              
-                  <option value="et" >eesti keel</option>
-              
-                  <option value="eu" >Euskara</option>
-              
-                  <option value="fa" >فارسی</option>
-              
-                  <option value="fi" >suomi</option>
-              
-                  <option value="fr" >Français</option>
-              
-                  <option value="fy-NL" >Frysk</option>
-              
-                  <option value="ga-IE" >Gaeilge (Éire)</option>
-              
-                  <option value="gl" >Galego</option>
-              
-                  <option value="gn" >Avañe&#39;ẽ</option>
-              
-                  <option value="gu-IN" >ગુજરાતી</option>
-              
-                  <option value="ha" >هَرْشَن هَوْسَ</option>
-              
-                  <option value="he" >עברית</option>
-              
-                  <option value="hi-IN" >हिन्दी (भारत)</option>
-              
-                  <option value="hr" >Hrvatski</option>
-              
-                  <option value="hu" >Magyar</option>
-              
-                  <option value="dsb" >Dolnoserbšćina</option>
-              
-                  <option value="hsb" >Hornjoserbsce</option>
-              
-                  <option value="id" >Bahasa Indonesia</option>
-              
-                  <option value="ig" >Asụsụ Igbo</option>
-              
-                  <option value="it" >Italiano</option>
-              
-                  <option value="ja" >日本語</option>
-              
-                  <option value="ka" >ქართული</option>
-              
-                  <option value="km" >ខ្មែរ</option>
-              
-                  <option value="kn" >ಕನ್ನಡ</option>
-              
-                  <option value="ko" >한국어</option>
-              
-                  <option value="ln" >Lingála</option>
-              
-                  <option value="lt" >lietuvių kalba</option>
-              
-                  <option value="mg" >Malagasy</option>
-              
-                  <option value="mk" >Македонски</option>
-              
-                  <option value="ml" >മലയാളം</option>
-              
-                  <option value="ms" >Bahasa Melayu</option>
-              
-                  <option value="ne-NP" >नेपाली</option>
-              
-                  <option value="nl" >Nederlands</option>
-              
-                  <option value="no" >Norsk</option>
-              
-                  <option value="pl" >Polski</option>
-              
-                  <option value="pt-BR" >Português (do Brasil)</option>
-              
-                  <option value="pt-PT" >Português (Europeu)</option>
-              
-                  <option value="ro" >română</option>
-              
-                  <option value="ru" selected>Русский</option>
-              
-                  <option value="si" >සිංහල</option>
-              
-                  <option value="sk" >slovenčina</option>
-              
-                  <option value="sl" >slovenščina</option>
-              
-                  <option value="sq" >Shqip</option>
-              
-                  <option value="sr" >Српски</option>
-              
-                  <option value="sw" >Kiswahili</option>
-              
-                  <option value="sv" >Svenska</option>
-              
-                  <option value="ta" >தமிழ்</option>
-              
-                  <option value="ta-LK" >தமிழ் (இலங்கை)</option>
-              
-                  <option value="te" >తెలుగు</option>
-              
-                  <option value="th" >ไทย</option>
-              
-                  <option value="tn" >Setswana</option>
-              
-                  <option value="tr" >Türkçe</option>
-              
-                  <option value="uk" >Українська</option>
-              
-                  <option value="ur" >اُردو</option>
-              
-                  <option value="vi" >Tiếng Việt</option>
-              
-                  <option value="wo" >Wolof</option>
-              
-                  <option value="xh" >isiXhosa</option>
-              
-                  <option value="yo" >èdè Yorùbá</option>
-              
-                  <option value="zh-CN" >中文 (简体)</option>
-              
-                  <option value="zh-TW" >正體中文 (繁體)</option>
-              
-                  <option value="zu" >isiZulu</option>
-              
-            </select>
-            <!-- form submit button is shown when JavaScript is not enabled -->
-            <button type="submit">Перейти</button>
-          </form>
-          <ul class="mzp-c-footer-links-social">
-            <li><a class="twitter" href="https://twitter.com/firefox">Twitter<span>(@firefox)</span></a></li>
-            <li><a class="youtube" href="https://www.youtube.com/firefoxchannel">YouTube<span> (firefoxchannel)</span></a></li>
-            <li><a class="instagram" href="https://www.instagram.com/firefox">Instagram<span> (firefox)</span></a></li>
-          </ul>
-        </section>
-
-      </div>
-    </nav>
-
-    <nav class="mzp-c-footer-secondary">
-      <div class="mzp-c-footer-link-col">
-        <div class="mzp-c-footer-primary-logo"><a href="https://www.mozilla.org/">Mozilla</a></div>
-        <div class="mzp-c-footer-legal">
-          <ul>
-            <li><a href="https://www.mozilla.org/">mozilla.org</a></li>
-            <li><a href="https://www.mozilla.org/about/legal/terms/mozilla/">Условия службы</a></li>
-            <li><a href="https://www.mozilla.org/privacy/websites/">Приватность</a></li>
-            <li><a href="https://www.mozilla.org/privacy/websites/#cookies">Куки</a></li>
-            <li><a href="https://www.mozilla.org/en-US/contact/">Контакты</a></li>
-          </ul>
+                    <div class="lineCb-item">
+                        <span class="lineCb__text">Готовность 0%</span>
+                        <div class="lineCb"><span style="width: 0%"></span>
+                        </div>
+                    </div>
+                    <button class="btnBrdGray disabled">
+                        Назад
+                    </button>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="mzp-c-footer-legal-col">
-        <p>
-          Посетите сайт некоммерческой <a href="https://foundation.mozilla.org" rel="external noopener" data-link-type="footer" data-link-name="Mozilla Foundation">Mozilla Foundation</a> — родительской компании для <a href="https://www.mozilla.org" rel="external noopener" data-link-type="footer" data-link-name="Mozilla Corporation">Mozilla Corporation</a>.
-        </p>
-        <p>
-          Части этого содержимого созданы участниками проекта mozilla.org ©1998–2023. Содержимое доступно на условиях <a rel="external noopener" href="https://www.mozilla.org/foundation/licensing/website-content/">лицензии Creative Commons</a>.
-        </p>
-      </div>
-    </nav>
-  </div>
+    </div>
+    <div class="content mainQuizPage secondStage mainQuizPage--2 d-none">
+        <picture class="quizPageBanner">
+            <source
+                srcset="/assets/site/img/quizPageBannerMobile2.jpg"
+                class="bgImg" media="(max-width:640px)">
+            <img
+                src="/assets/site/img/quizPageBanner2.jpg"
+                alt="Flowers" class="bgImg">
+        </picture>
+        <div class="row wrapQuizPage">
+
+            <h1 class="h1 color-white uppercase fz-64">
+                Поможем выбрать кофе
+            </h1>
+            <h3 class="fz-26 color-white h3 mainText-h3">
+                Ответьте на 3 вопроса
+            </h3>
+
+            <div class="quizPage">
+
+                <h3>
+                    Как вы готовите кофе?
+                </h3>
+                <div class="grayCount">
+                    <span>2</span>/3
+                </div>
+                <div class="quizPageBtn">
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="tur">
+                            <img src="/assets/site/img/grayTapImg1.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Турка
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="espresso">
+                            <img src="/assets/site/img/grayTapImg2.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Автоматическая кофемашина
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="espresso">
+                            <img src="/assets/site/img/grayTapImg3.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Рожковая кофеварка
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="alternative">
+                            <img src="/assets/site/img/grayTapImg4.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                           Пуровер/воронка
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="alternative">
+                            <img src="/assets/site/img/grayTapImg5.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Капельная
+                            кофеварка
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="espresso">
+                            <img src="/assets/site/img/grayTapImg6.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Гейзерная кофеварка
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="alternative">
+                            <img src="/assets/site/img/grayTapImg7.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                В чашке
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="alternative">
+                            <img src="/assets/site/img/grayTapImg8.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Френч пресс
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="alternative">
+                            <img src="/assets/site/img/grayTapImg9.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Аэропресс
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="capsule">
+                            <img src="/assets/site/img/grayTapImg13.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Капсульная кофемашина
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="drip">
+                            <img src="/assets/site/img/grayTapImg14.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Дрип-пакеты
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                </div>
+                <div class="quizPageLine">
+
+                    <div class="lineCb-item">
+                        <span class="lineCb__text">Готовность 33%</span>
+                        <div class="lineCb"><span style="width: 33%"></span>
+                        </div>
+                    </div>
+                    <button class="btnBrdGray jsBtnBack">
+                        Назад
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content mainQuizPage thirdStage mainQuizPage--3 d-none">
+        <picture class="quizPageBanner">
+            <source
+                srcset="/assets/site/img/quizPageBannerMobile3.jpg"
+                class="bgImg" media="(max-width:640px)">
+            <img
+                src="/assets/site/img/quizPageBanner3.jpg"
+                alt="Flowers" class="bgImg">
+        </picture>
+        <div class="row wrapQuizPage">
+
+            <h1 class="h1 color-white uppercase fz-64">
+                Поможем выбрать кофе
+            </h1>
+            <h3 class="fz-26 color-white h3 mainText-h3">
+                Ответьте на 3 вопроса
+            </h3>
+
+            <div class="quizPage">
+
+                <h3>
+                    Какой вкус предпочитаете?
+                </h3>
+                <div class="grayCount">
+                    <span>3</span>/3
+                </div>
+                <div class="quizPageBtn">
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="classic">
+                            <img src="/assets/site/img/grayTapImg10.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                                Классический, сбалансированный и плотный
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="juicy">
+                            <img src="/assets/site/img/grayTapImg11.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                              Яркий, фруктовый и сочный
+                            </span>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="wrapGrayTap">
+                        <button class="grayTap" data-value="special">
+                            <img src="/assets/site/img/grayTapImg12.svg" alt="" class="grayTapImg">
+                            <span class="textBtn">
+                            <span class="textBox">
+                             Необычный и яркий (ферментированный)
+                            </span>
+                             <div class="wrapQuestion">
+                            <div class="btnQuestion">
+                            </div>
+                            <div class="menuHm">
+                                Кофе для тех, кто любит эксперименты. Яркие и кислотные лоты, во вкусе которых можно
+                                найти тропические фрукты, алкоголь и цветы.
+                            </div>
+                        </div>
+                        </span>
+
+                        </button>
+
+                    </div>
+                </div>
+                <div class="quizPageLine">
+
+                    <div class="lineCb-item">
+                        <span class="lineCb__text">Готовность 66%</span>
+                        <div class="lineCb"><span style="width: 66%"></span>
+                        </div>
+                    </div>
+                    <button class="btnBrdGray jsBtnBack">
+                        Назад
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+    <div class="top-f">
+        <div class="row">
+            <div class="row-wrap">
+                <div class="col-v2 col-m3 col-p10">
+                    <p class="text12">ПОМОЩЬ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://shop.tastycoffee.ru/community">Сообщество</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/faq">Вопрос-ответ</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/how-to-choose-coffee">Как выбрать кофе?</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/blog/sposoby-prigotovleniya">Как готовить кофе?</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/blog">Журнал о кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/shipment-and-payment">Доставка и оплата</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/discount-system">Система скидок</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/return-money">Возврат денежных средств</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/contact-us">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class="col-v2 col-p10 tabletNone">
+                    <p class="text12">КОМПАНИЯ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://tastycoffee.ru/about/" rel="noopener" target="_blank">О компании <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/about/progress/" rel="noopener" target="_blank">Достижения <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/" rel="noopener" target="_blank">Перейти на оптовый сайт <span class="opt_img"></span></a></li>
+                        <li><a href="https://tastycoffee.ru/about/production/" rel="noopener" target="_blank">Наше производство <span class="opt_img"></span></a></li>
+                        <li><a href="https://shop.tastycoffee.ru/partners">Партнёрская программа</a></li>
+                        <li><a href="https://zen.yandex.ru/id/5d26f076a1b4f100aaa3aed9" rel="noopener" target="_blank">Канал в Яндекс.Дзен <span class="opt_img"></span></a></li>
+                    </ul>
+                </div>
+                <div class="col-v2 col-m3 col-p10">
+                    <p class="text12">КАТАЛОГ</p>
+                    <ul class="ul_f">
+                        <li><a href="https://shop.tastycoffee.ru/coffee">Кофе</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/tea">Чай</a></li>
+                        <li><a href="https://shop.tastycoffee.ru/accessories">Аксессуары</a></li>
+                                                <li><a href="https://shop.tastycoffee.ru/disabled">Архив сортов</a></li>
+                    </ul>
+                </div>
+                <div class="col-v4 col-p10 right">
+                    <a href="tel:88003334980" class="footer_phone">8 (800) 333-49-80</a>
+                    <div class="footer_mail-wrap">
+                        Бесплатный звонок по России
+                    </div>
+                                            <a class="yandex-rating"
+                           href="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=73582/path=dynamic.150x101/*https://market.yandex.ru/shop--teisti-kofe/558269/reviews"
+                           target="_blank"
+                        >
+                            <img src="/assets/site/img/rating-yandex.png"
+                                border="0"
+                                alt="Читайте отзывы покупателей и оценивайте качество магазина Тэйсти Кофе на Яндекс.Маркете"/>
+                        </a>
+                                        <div class="social-f">
+
+
+
+                                                    <a href="https://t.me/roastedinizhevsk" rel="noopener" target="_blank" class="socBtn tg">Телеграм</a>
+                                                                            <a href="https://www.youtube.com/channel/UCyskbBJLPU0teU0YCcDbcGg" rel="noopener" target="_blank" class="socBtn yt">Youtube</a>
+                                                                            <a href="https://vk.com/tastycoffeeroasters" rel="noopener" target="_blank" class="socBtn vk">ВКонтакте</a>
+                            
+
+
+                    </div>
+                    <div class="store-block">
+                        <div class="store-wrapper">
+                            <div class="wrapStore w-100 d-flex flex-wrap">
+                                <a href="https://apps.apple.com/us/app/tasty-coffee-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD/id1540743534" target="_blank" class="storeLink iosStore">
+                                    <img src="/assets/site/img/appstore.svg" alt="">
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=com.tastycoffee.shop" target="_blank" class="storeLink googleStore">
+                                    <img src="/assets/site/img/googleplay.svg" alt="">
+                                </a>
+                            </div>
+                            <div class="wrapStore secondRow w-100 d-flex flex-wraps" style="padding: 0;">
+                                <a href="https://coffee-static.storage.yandexcloud.net/files/tastycoffee.apk" target="_blank" class="storeLink apk">
+                                    <img src="/assets/site/img/apk.svg" alt="">
+                                </a>
+                                <a href="https://appgallery.huawei.com/app/C107264619" target="_blank" class="storeLink huaweiStore">
+                                    <img src="/assets/site/img/appgallery.svg" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom-f">
+        <div class="row">
+            <div class="row-wrap middle">
+                <div class="col-v2 col-m5 col-p10">
+                    <div class="text-f">© 2023 «Tasty Coffee»</div>
+                    <a class="link-f indent desNone" href="https://shop.tastycoffee.ru/rss">RSS</a>
+                    <a href="https://shop.tastycoffee.ru/privacy" class="link-f desNone">Политика конфиденциальности</a>
+                    <a href="https://shop.tastycoffee.ru/user-agreement" class="link-f desNone">Пользовательское соглашение</a>
+                    <a href="https://shop.tastycoffee.ru/public-offer" class="link-f desNone">Публичная оферта</a>
+                </div>
+                <div class="col-v4 col-m5 mobNone">
+                    <div class="text-f">
+                        Использование любых материалов с данного ресурса возможно только после письменного согласия владельца авторских прав
+                    </div>
+                </div>
+                <div class="col-v4 right tabletNone">
+                    <a class="link-f indent" href="https://shop.tastycoffee.ru/rss">RSS</a>
+                    <a href="https://shop.tastycoffee.ru/privacy" class="link-f" target="_blank">Политика конфиденциальности</a><br>
+                    <a href="https://shop.tastycoffee.ru/user-agreement" class="link-f" target="_blank">Пользовательское соглашение</a> &nbsp;
+                    <a href="https://shop.tastycoffee.ru/public-offer" class="link-f" target="_blank">Публичная оферта</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
+<div class="popupRight" id="formBankCard">
+    <div class="wrap">
+        <div class="wrapper w-100">
+            <div class="closeBtn"></div>
+            <button type="button" class="closeBtn close-btn">x</button>
+            <p class="h3 mb-3" style="line-height: 1.1;">Привязка <span class="d-block">банковской карты</span></p>
+            <p class="mb-3 small">Для проверки карты мы спишем и вернем 1 руб.</p>
+            <form class="add-bank-card" action="#">
+                <div class="front-ide">
+                    <input type="text" placeholder="Номер карты" id="cardNumber">
+                    <p class="text-gray">Действует до</p>
+                    <input type="number" placeholder="ММ" oninput="if(value.length>2)value=value.slice(0,2)">
+                    <input type="number" placeholder="ГГ" oninput="if(value.length>2)value=value.slice(0,2)">
+                </div>
+                <div class="back-side">
+                    <div class="input-wrapper">
+                        <input type="number" placeholder="CVC/CVV" oninput="if(value.length>3)value=value.slice(0,3)">
+                    </div>
+                </div>
+                <div class="w-100">
+                    <input type="submit" value="Привязать карту" class="blackBtn">
+                </div>
+            </form>
+            <div class="checkbox-wrap">
+                <input id="is_check1" type="checkbox" name="is_check" value="1">
+                <label for="is_check1">
+                    <span class="label__box"></span>
+                    <span class="label__text">
+                        <span class="greenLink">Согласен с
+                            <a href="https://shop.tastycoffee.ru/privacy" target="_blank" class="greenLink">условиями обработки персональных данных</a>,
+                              <a href="https://shop.tastycoffee.ru/user-agreement" target="_blank" class="greenLink">Пользовательского соглашения</a> и
+                              <a href="https://shop.tastycoffee.ru/public-offer" target="_blank" class="greenLink">Публичной оферты</a>
+                        </span>
+                    </span>
+                </label>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="default">
+    <div class="popupAdded-wrap">
+        <h5 class="modal-text"></h5>
+        <button id="closePa" class="greyText">Продолжить</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn error" data-modal-name="error">
+    <div class="popupAdded-wrap">
+        <div class="error-ic"></div>
+        <h3>Ошибка</h3>
+        <button id="closePa" class="greyText">Продолжить покупки</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="thanks">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3>Товар добавлен<br> в корзину</h3>
+        <a href="https://shop.tastycoffee.ru/basket" class="blackBtn"><i class="ic"></i> Перейти в корзину</a>
+        <button id="closePa" class="greyText">Продолжить покупки</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="cancel-order">
+    <div class="popupAdded-wrap">
+        <h3>Вы уверены, что хотите отменить заказ?</h3>
+        <div style="display: flex; flex-direction: row">
+            <a href="" class="url blackBtn" style="background-color: white!important;color: #202020!important;margin: auto;font-size: 14px;">Да</a>
+            <button id="closePa" class="greyText">Нет</button>
+        </div>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="success-send">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3>Сообщение<br> отправлено</h3>
+        <button class="closePa greyText">Продолжить</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="success-other">
+    <div class="popupAdded-wrap">
+        <div class="check-ic"></div>
+        <h3 class="modal-title"></h3>
+        <button type="button" class="closePa blackBtn w-74 mb-0">Ок</button>
+    </div>
+</div>
+<div class="popupAdded animated fadeIn" data-modal-name="error-coupon">
+    <div class="popupAdded-wrap">
+        <div class="cross-ic"></div>
+        <h3 class="modal-title"></h3>
+        <button type="button" class="closePa blackBtn w-74 mb-0">Ок</button>
+    </div>
+</div>
+<div class="modal fade" id="successСopyingPost" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm border-modal" role="document">
+        <div class="modal-content">
+            <div class="modal-body pt-5 pb-5">
+                <div class="success-ic"></div>
+                <h3 class="text-center">Ссылка скопирована</h3>
+            </div>
+        </div>
+    </div>
+</div>
 
-  
-    <script src="https://assets-prod.sumo.prod.webservices.mozgcp.net/static/jsi18n/ru/djangojs-min.js"></script>
-  
+<div class="modal fade" id="addPhotoComment" tabindex="-1" role="dialog"  aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered border-modal" role="document">
+        <div class="modal-content ">
+            <div class="modal-header mb-3 mb-md-4 pt-4 pt-md-5 pr-3 pr-md-5 pb-0 pb-md-2 pl-3 pl-md-5">
+                <h3 class="mb-0">Прикрепить фото к сообщению</h3>
+                <button type="button" class="close m-0" data-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body pt-0 pr-3 pr-md-5 pb-5 pl-md-5 pl-3  ">
+                <div class="w-100 mb-4 pb-md-2">
+                    <label for="photo" class="btn-file m-0">
+                        <input id="default-comment-photo" type="file" accept="image/*" onchange="commentDefaultFileInputChange(this)">
+                        Загрузить фото
+                    </label>
+                </div>
+                <div class="mb-4 pb-md-2">
+                    <div class="uploaded-photo ">
+                        <img class="comment-modal-photo-img"
+                            src=""
+                            alt="img">
+                        <a href="#" class="close" onclick="removeSelectedModalCommentFile(this)"></a>
+                    </div>
+                </div>
+                <button type="button" class="blackBtn m-0 pl-4 pr-4 mb-2"
+                    onclick="setSelectedCommentFile(this); return false;"
+                >Отправить</button>
+            </div>
 
+        </div>
+    </div>
+</div>
+    <div class="popupAdded animated fadeIn" data-modal-name="you-must-be-logged-in-to-leave-ratings">
+        <div class="popupAdded-wrap">
+            <span class="greyText">Вы должны быть авторизованы, чтобы оставлять оценки!</span>
+        </div>
+    </div>
+<script src="/assets/site/js/app.js?id=71760b2b17bed952df07"></script>
+<script type="text/javascript">typeof setMask === 'function' ? setMask('') : false;</script>
+<!--[if lt IE 10]>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.1/jquery.xdomainrequest.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/suggestions-jquery@18.10.1/dist/js/jquery.suggestions.min.js"></script>
+<script>
+    var token = "0f4cc30a067721a528e599de9977253e34ba67de";
+    function join(arr /*, separator */) {
+        var separator = arguments.length > 1 ? arguments[1] : ", ";
+        return arr.filter(function(n){return n}).join(separator);
+    }
 
+    function cityToString(address) {
+        return join([
+            join([address.city_type, address.city], " "),
+            join([address.settlement_type, address.settlement], " ")
+        ]);
+    }
+</script><script type="text/javascript">
+    var
+        type = "ADDRESS",
+        form_header   = $('#city_header').closest('form'),
+        city_header   = $('#city_header'),
+        address_header = $('#address_header');
+        initSelect_header = true;
+    var auto_city_header = city_header.attr('data-auto-city');
+    city_header.suggestions({
+        token: token,
+        type: type,
+        scrollOnFocus: false,
+        // hint: true,
+        geoLocation: !!auto_city_header,
+        bounds: "country-city-settlement",
+        constraints: [
+                        {
+                locations: {
+                    country: 'Армения'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Австралия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Австрия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Азербайджан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Бахрейн'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Беларусь'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Хорватия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Кипр'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Чехия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Эстония'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Финляндия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Франция'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Грузия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Германия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Венгрия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Индия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Ирландия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Израиль'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Италия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Япония'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Казахстан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Республика Корея'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Киргизия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Латвия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Литва'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Малайзия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Молдова'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Монголия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Нидерланды'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Норвегия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Португалия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Румыния'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Россия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Саудовская Аравия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Словакия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Словения'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Испания'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Швеция'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Швейцария'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Тайвань'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Таджикистан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Таиланд'
+                }
+            },
+                        {
+                locations: {
+                    country: 'ОАЭ'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Британия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Узбекистан'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Вьетнам'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Сербия'
+                }
+            },
+                        {
+                locations: {
+                    country: 'Черногория'
+                }
+            },
+                    ],
+        onSelect: function (suggestion, changed) {
 
+            // отчищаем поля
+            if (changed && !initSelect_header) {
+                address_header.val("");
+                $('#postcode_header').val("");
+            }
 
-</body>
+            if (suggestion.value.includes('')) {
+                initSelect_header = false;
+            }
+
+            address_header.selectpicker("refresh");
+            $('.office input[name="shipping_flat"]').val("");
+
+            form_header.find('#dadata_city_header').val(JSON.stringify(suggestion.data));
+            if (address_header.val() === '') {
+                form_header.find('#postcode_header').val(suggestion.data.postal_code);
+                var event = city_header.attr('data-after-select');
+                if (event) {
+                    window[event](city_header, suggestion);
+                }
+            }
+        },
+        onSelectNothing: function () {
+
+        }
+    });
+    if (auto_city_header){
+
+        $(document).ready(function() {
+            city_header.suggestions().getGeoLocation()
+            .done(function (locationData) {
+                var sgt = {
+                    value: null,
+                    date: locationData
+                };
+                city_header.suggestions().setSuggestion(sgt);
+                city_header.val(cityToString(locationData));
+                $('#dadata_city_header').val(JSON.stringify(locationData));
+                city_header.suggestions().fixData();
+                var event = city_header.attr('data-after-select');
+                if (event) {
+                    console.log(event);
+                    window[event](city_header);
+                }
+            });
+        })
+
+    }
+    if ($('input[name=check_dadata_init]').val() === '0') {
+        city_header.suggestions().fixData();
+    }
+        address_header.suggestions({
+        token: token,
+        type: type,
+        hint: false,
+        scrollOnFocus: false,
+        bounds: "street-house",
+
+        
+                constraints: {
+            locations: {
+                            }
+        },
+                restrict_value: true,
+        onSelect: function (suggestion) {
+            form_header.find('#dadata_address_header').val(JSON.stringify(suggestion.data));
+            if (!form_header.find('#dadata_city_header').val()) {
+                form_header.find('#dadata_city_header').val(JSON.stringify(suggestion.data));
+            }
+            form_header.find('#postcode_header').val(suggestion.data.postal_code);
+            var event = address_header.attr('data-after-select');
+            if (event) {
+                window[event](address_header, suggestion);
+            }
+        },
+        onSelectNothing: function () {
+            if ($(this).attr('data-after-select')=='toggleDisabledPostcode'){
+                $(this).closest('form').find('[name="shipping_postcode"]').closest('.index').attr('hidden',null);
+            }
+        }
+    });
+
+    address_header.attr("autocomplete", "nope");
+        city_header.attr("autocomplete", "nope");
+    city_header.on('input', function () {
+        form_header.find('#dadata_city_header').val('');
+    });
+    address_header.on('input', function () {
+        form_header.find('#dadata_address_header').val('');
+        form_header.find('#postcode_header').val('');
+    });
+</script>
+
+    <script type="text/javascript" async defer>(function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.id = 'supportScript';
+            s.charset = 'utf-8';
+            s.async = true;
+            s.defer = true;
+            s.src = '//me-talk.ru/support/support.js?h=1645ced87d2f67dd699696c718a5dfdd';
+            var sc = document.getElementsByTagName('script')[0];
+            var callback = function () {/* Здесь вы можете вызывать API. Например, чтобы изменить отступ по высоте: supportAPI.setSupportTop(200); */
+            };
+            s.onreadystatechange = s.onload = function () {
+                var state = s.readyState;
+                if (!callback.done && (!state || /loaded|complete/.test(state))) {
+                    callback.done = true;
+                    callback();
+                }
+            };
+            if (sc) sc.parentNode.insertBefore(s, sc); else document.documentElement.firstChild.appendChild(s);
+        })();</script>
+
+<script async defer src="https://www.googletagmanager.com/gtag/js?id=UA-49925495-2"></script>
+<script async defer> window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-49925495-2');
+    gtag('config', 'AW-353971060');
+</script>
+
+<!-- push world -->
+<!--<script>!function (e, t, d, s, a, n, c) {
+        e[a] = {}, e[a].date = (new Date).getTime(), n = t.createElement(d), c = t.getElementsByTagName(d)[0], n.type = "text/javascript", n.async = !0, n.src = s, c.parentNode.insertBefore(n, c)
+    }(window, document, "script", "https://tastycoffeesaleru.push.world/https.embed.js", "pw"), pw.websiteId = "e0f4f5dd207d407945e8c66c72c33fc6a1f1a6a09c7973e03dfecc25e2a368af";
+</script>-->
+    </body>
 </html>
